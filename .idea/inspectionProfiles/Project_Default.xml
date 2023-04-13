@@ -1,0 +1,94 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyArgumentListInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyMethodMayBeStaticInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="id" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnboundLocalVariableInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="ERROR" enabled_by_default="false">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="src.live_tv.models.Live_tv.objects" />
+          <option value="src.live_tv.models.Live_tv.DoesNotExist" />
+          <option value="src.live_tv.models.LiveTv.objects" />
+          <option value="src.live_tv.models.LiveTv.DoesNotExist" />
+          <option value="src.banner.models.Banner.objects" />
+          <option value="src.banner.models.Banner.DoesNotExist" />
+          <option value="src.live_streaming.models.LiveStreaming.objects" />
+          <option value="src.live_streaming.models.LiveStreaming.DoesNotExist" />
+          <option value="src.live_video.models.LiveVideo.objects" />
+          <option value="src.live_video.models.LiveVideo.DoesNotExist" />
+          <option value="src.live_film.models.LiveFilm.objects" />
+          <option value="src.live_film.models.LiveFilm.DoesNotExist" />
+          <option value="src.list_film.serializers.TopicFilmSerializers.objects" />
+          <option value="src.list_film.serializers.ListFilmSerializers.objects" />
+          <option value="src.list_film.models.TopicFilm.objects" />
+          <option value="src.search_film.models.SearchListFilm.objects" />
+          <option value="src.list_film.models.ListFilm.objects" />
+          <option value="src.show_case_home.models.ShowCaseHome.objects" />
+          <option value="src.topic_event_home.models.TopicEvents.objects" />
+          <option value="src.topic_event_home.models.BaseModel.id" />
+          <option value="src.topic_event_home.models.ListPlaylists.objects" />
+          <option value="src.topic_event_home.models.Artists.objects" />
+          <option value="src.topic_event_home.models.ListPlaylists.value_from_object" />
+          <option value="src.new_releases.models.Songs.objects" />
+          <option value="src.new_releases.models.Artists.objects" />
+          <option value="src.new_releases.models.BaseModel.id" />
+          <option value="django.db.models.fields.related.ForeignKey.title" />
+          <option value="src.new_releases.models.SongRanking.objects" />
+          <option value="dict.position" />
+          <option value="src.topic.models.ListTopic.objects" />
+          <option value="src.topic.models.BaseModel.id" />
+          <option value="src.show_case_home.models.BaseModel.id" />
+          <option value="src.top_100.models.BaseModel.id" />
+          <option value="src.top_100.models.ListTop100.objects" />
+          <option value="src.top_100.models.Artists.objects" />
+          <option value="src.playlist_detail.models.BaseModel.id" />
+          <option value="src.playlist_detail.models.PlayList.objects" />
+          <option value="src.playlist_detail.models.Songs.objetcs" />
+          <option value="src.playlist_detail.models.Artists.objects" />
+          <option value="src.playlist_detail.models.ListTags.objects" />
+          <option value="topic_event_home.models.ListPlaylists.objects" />
+          <option value="playlist_detail.models.PlaylistSongs.objects" />
+          <option value="topic_event_home.models.TopicEvents.objects" />
+          <option value="topic_event_home.models.Artists.objects" />
+          <option value="playlist_detail.models.Artists.objects" />
+          <option value="video.models.Artists.objects" />
+          <option value="video.models.TopicVideos.objects" />
+          <option value="video.models.Videos.objects" />
+          <option value="video.models.BaseModel.id" />
+          <option value="config.currentOS" />
+          <option value="show_case_home.views.ShowCaseNoel.objects" />
+          <option value="src.models.BaseModel.id" />
+          <option value="show_case_home.models.ShowCaseHome.objects" />
+          <option value="show_case_home.models.TopicShowCase.objects" />
+          <option value="promotions.models.TopicShowCase.objects" />
+          <option value="promotions.models.ShowCaseHome.objects" />
+          <option value="playlist_detail.models.Songs.objects" />
+          <option value="song_detail.models.StreamUrl.objects" />
+          <option value="src.playlist_detail.views.playlist_event" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnusedLocalInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="SpellCheckingInspection" enabled="true" level="INFORMATION" enabled_by_default="true">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+  </profile>
+</component>
