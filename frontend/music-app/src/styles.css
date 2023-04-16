@@ -1,0 +1,10 @@
+@media screen and (max-width: 1133px) {
+	.imageHeaderBig{
+		display: none;
+	}
+}
+@media screen and (min-width: 1133px) {
+	.imageHeaderSmall{
+		display: none;
+	}
+}

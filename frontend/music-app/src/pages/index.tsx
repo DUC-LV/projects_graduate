@@ -3,7 +3,9 @@ import React from "react";
 
 const HomePage = () => {
 	return(
-		<Box></Box>
+		<Box>
+
+		</Box>
 	);
 }
 
