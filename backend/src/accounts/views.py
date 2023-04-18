@@ -23,3 +23,23 @@ class RegisterAPIView(generics.GenericAPIView):
                 "user": serializer.data
             }, status=status.HTTP_200_OK)
         return Response({"errors": serializer.errors}, status=status.HTTP_400_BAD_REQUEST)
+
+
+class UserInfoAPIView(APIView):
+    permission_classes = [IsAuthenticated]
+
+    def get(self, request):
+        user = request.user
+        field = AuthUser.objects.filter(user_name=user)
+
+        res = {
+            "err": 0,
+            "msg": "Success",
+            "data": {
+                "id": field[0].id,
+                "userName": field[0].user_name,
+                "email": field[0].email,
+            }
+        }
+
+        return Response(res)
