@@ -13,7 +13,7 @@ const Layout = ({ children }: React.PropsWithChildren<{}>) => {
 				<Grid item sx={{ maxHeight: '70px' }}>
 					<SearchBar />
 				</Grid>
-				<Grid item xs sx={{ overflow: 'auto'}}>
+				<Grid item xs sx={{ overflow: 'hidden'}}>
 					<Box sx={{ width: '100%', padding: '24px', height: 1000}}>
 						{children}
 					</Box>
