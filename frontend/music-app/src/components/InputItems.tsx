@@ -18,6 +18,12 @@ const InputItems = ({ title, value, type, placeholder }: Props) => {
 					disableUnderline: true,
 					style: { color: 'black', fontWeight: '500', width: '450px', backgroundColor: 'white', borderRadius: '8px' },
 				}}
+				InputLabelProps={{
+					style: {
+						fontWeight: '500',
+						color: 'gray'
+					}
+				}}
 				variant='filled'
 				label={`${placeholder}`}
 				{...value}

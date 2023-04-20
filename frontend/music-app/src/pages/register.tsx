@@ -12,7 +12,7 @@ const RegisterPage = () => {
 			<Grid container item direction={'column'} sx={{ justifyContent: 'center', alignItems: 'center', marginY: '10px'}}>
 				<AccountCircleIcon sx={{ height: '50px', width: '50px', color: 'white'}}/>
 				<Typography
-					sx={{ fontSize: '20px', fontWeight: '700', color: 'white', marginY: '20px'}}>
+					sx={{ fontSize: '20px', fontWeight: '700', color: 'white', marginY: '10px'}}>
 					Đăng ký miễn phí để bắt đầu nghe.
 				</Typography>
 			</Grid>
