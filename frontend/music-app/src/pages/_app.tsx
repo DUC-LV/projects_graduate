@@ -8,10 +8,12 @@ import Layout from '@/containers/Layout';
 import "../styles.css";
 import NextNProgress from 'nextjs-progressbar';
 import 'react-toastify/dist/ReactToastify.css';
+import { ToastContainer } from 'react-toastify';
 
 export default function App({ Component, pageProps }: AppProps) {
 	return(
 		<Layout>
+			<ToastContainer />
 			<NextNProgress
 				color='#1976d2'
 				startPosition={0.3}

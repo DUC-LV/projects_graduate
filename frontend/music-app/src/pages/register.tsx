@@ -3,10 +3,34 @@ import React from 'react';
 import AccountCircleIcon from '@mui/icons-material/AccountCircle';
 import InputItems from '@/components/InputItems';
 import { useRouter } from 'next/router';
+import useFormLogin from '@/hooks/useFormLogin';
+import axiosInstances from '@/services/axiosInstances';
+import { toast } from 'react-toastify';
 
 
 const RegisterPage = () => {
 	const router = useRouter();
+	const email = useFormLogin('');
+	const username = useFormLogin('');
+	const password = useFormLogin('');
+
+	const handleRegister = (e: any) => {
+		e.preventDefault();
+
+		try {
+			axiosInstances.post('api/register',
+			{ email: email.value, user_name: username.value, password: password.value }).then(res => {
+				if(res.status === 200){
+					setTimeout(() => {
+						router.push('/login')
+					}, 1000);
+				}
+				toast.success("Đăng kí thành công!");
+			})
+		} catch(error) {
+			console.log(error);
+		}
+	}
 	return(
 		<Grid container direction={'column'} sx={{ justifyContent: 'center', alignItems: 'center'}}>
 			<Grid container item direction={'column'} sx={{ justifyContent: 'center', alignItems: 'center', marginY: '10px'}}>
@@ -22,6 +46,7 @@ const RegisterPage = () => {
 						title="Email của bạn là gì?"
 						type="text"
 						placeholder="Nhập email của bạn"
+						value={email}
 					/>
 				</Grid>
 				<Grid sx={{ marginY: '5px' }}>
@@ -29,6 +54,7 @@ const RegisterPage = () => {
 						title="Bạn tên là gì?"
 						type="text"
 						placeholder="Nhập tên hồ sơ"
+						value={username}
 					/>
 				</Grid>
 				<Grid sx={{ marginY: '5px' }}>
@@ -36,10 +62,12 @@ const RegisterPage = () => {
 						title="Mật khẩu"
 						type="password"
 						placeholder="Mật khẩu"
+						value={password}
 					/>
 				</Grid>
 			</Grid>
 			<Button variant="contained" size="medium"
+				onClick={handleRegister}
 				sx={{
 					width: '450px',border: 'none',
 					color: 'white',
