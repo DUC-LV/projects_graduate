@@ -7,6 +7,8 @@ import '@fontsource/roboto/700.css';
 import Layout from '@/containers/Layout';
 import "../styles.css";
 import NextNProgress from 'nextjs-progressbar';
+import 'react-toastify/dist/ReactToastify.css';
+
 export default function App({ Component, pageProps }: AppProps) {
 	return(
 		<Layout>
