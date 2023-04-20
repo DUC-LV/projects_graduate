@@ -1,8 +1,10 @@
-import { Box, Button, Grid, Input } from "@mui/material";
+import { Box, Button, Grid, Input, Typography } from "@mui/material";
 import React, { useState } from "react";
 import SearchIcon from '@mui/icons-material/Search';
 import { useRouter } from "next/router";
 import PersonIcon from '@mui/icons-material/Person';
+import AccountCircleIcon from '@mui/icons-material/AccountCircle';
+import { CurrentUserData } from "@/schemas";
 
 const InputSearch = () => {
 	const router = useRouter();
@@ -65,9 +67,10 @@ const InputSearch = () => {
 		</Grid>
 	);
 }
-const SearchBar = () => {
+const SearchBar = ({ currentUser } : { currentUser: CurrentUserData | null }) => {
 	const router = useRouter();
 	const [isShow, setIsShow] = useState(false);
+	const checkLogin = typeof window !== 'undefined' ? localStorage.getItem('access_token') : undefined;
 	return(
 		<Grid container sx={{ backgroundColor: '#101010', height: '70px', width: '100%', padding: '0 24px'}}>
 			<Grid item container sx={{ height: '100%', alignItems: 'center'}} xs={6} md={7}>
@@ -86,19 +89,64 @@ const SearchBar = () => {
 							border: 'none',
 						}
 					}}>
-					Mua gói</Button>
+				Mua gói</Button>
 				<Button>
-					<PersonIcon
+					<AccountCircleIcon
 						onClick={() => setIsShow(!isShow)}
 						sx={{
-							height: '50px',
-							width: '50px',
+							height: '40px',
+							width: '40px',
 							color: 'white',
 							cursor: 'pointer',
-							position: 'relative',
 						}}
 					/>
-					{ isShow && (
+				</Button>
+
+				{isShow && (
+					checkLogin ? (
+						<Grid container direction="column"
+							sx={{
+								top: '70px',
+								position: 'absolute',
+								height: '110px',
+								width: '200px',
+								backgroundColor: '#2F4F4F',
+								transition: 'opacity 2000ms ease-in-out',
+								borderRadius: '8px'
+							}}
+						>
+							<Typography textTransform="capitalize"
+								sx={{
+									fontSize: '16px',
+									fontWeight: '600',
+									color: 'white',
+									padding: '15px',
+								}}
+							>Xin chào: {currentUser?.userName}</Typography>
+							<Box sx={{ height: '1px', width: '100%', background: 'grey' }}></Box>
+							<Grid container item
+								onClick={() => {
+									localStorage.removeItem("access_token");
+									localStorage.removeItem("refresh_token");
+									setTimeout(() => {
+										router.push('/')
+									}, 500)
+									setIsShow(false);
+								}}
+								sx={{
+									padding: '15px',
+									":hover": {
+										background: 'hsla(0,0%,100%,0.1)',
+										borderRadius: '0 0 8px 8px'
+									},
+									cursor: 'pointer',
+								}}
+							>
+								<Typography textTransform="initial" sx={{ color: 'white', fontWeight: '600', fontSize: '16px'}}
+								>Đăng xuất</Typography>
+							</Grid>
+						</Grid>
+					):(
 						<Box
 							onClick={() => {
 								router.push('/login');
@@ -106,20 +154,22 @@ const SearchBar = () => {
 							}}
 							sx={{
 								position: 'absolute',
-								top: '110%',
+								top: '70px',
 								height: '50px',
-								width: '180px',
-								backgroundColor: '#34224f',
-								right: '20%',
+								width: '200px',
+								backgroundColor: '#2F4F4F',
 								transition: 'opacity 2000ms ease-in-out',
 								padding: '15px',
 								alignItems: 'center',
 								cursor: 'pointer',
 								borderRadius: '8px'
 							}}
-						>Đăng nhập</Box>
-					)}
-				</Button>
+						>
+							<Typography textTransform="initial" sx={{ color: 'white', fontWeight: '600', fontSize: '16px'}}
+							>Đăng nhập</Typography>
+						</Box>
+					)
+				)}
 			</Grid>
 		</Grid>
 	);

@@ -1,9 +1,22 @@
 import Header from "@/components/Header";
 import {Box, Grid} from "@mui/material";
-import React from "react";
+import React, { useEffect, useState } from "react";
 import SearchBar from "./SearchBar";
+import getCurrentUser from "@/services/getCurrentUser";
+import { CurrentUserData } from "@/schemas";
 
 const Layout = ({ children }: React.PropsWithChildren<{}>) => {
+	const [currentUser, setCurrentUser] = useState<CurrentUserData>();
+	useEffect(() => {
+		if(!localStorage.getItem('access_token')){
+			return;
+		}
+		getCurrentUser.getAll().then(res => {
+			if(res.status === 200){
+				setCurrentUser(res.data.data);
+			}
+		})
+	}, [])
 	return(
 		<Grid container spacing={0} sx={{ backgroundColor: '#1d1d1d', width: '100vw', height: '100vh'}}>
 			<Grid item sx={{ maxWidth: '240px' }}>
@@ -11,7 +24,7 @@ const Layout = ({ children }: React.PropsWithChildren<{}>) => {
 			</Grid>
 			<Grid item container direction="column" xs sx={{ overflow: 'hidden' }}>
 				<Grid item sx={{ maxHeight: '70px' }}>
-					<SearchBar />
+					<SearchBar currentUser={currentUser ? currentUser : null}/>
 				</Grid>
 				<Grid item xs sx={{ overflow: 'hidden'}}>
 					<Box sx={{ width: '100%', padding: '24px', height: 1000}}>
