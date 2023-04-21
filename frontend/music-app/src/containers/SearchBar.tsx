@@ -1,10 +1,11 @@
 import { Box, Button, Grid, Input, Typography } from "@mui/material";
-import React, { useState } from "react";
+import React, { useRef, useState } from "react";
 import SearchIcon from '@mui/icons-material/Search';
 import { useRouter } from "next/router";
 import PersonIcon from '@mui/icons-material/Person';
 import AccountCircleIcon from '@mui/icons-material/AccountCircle';
 import { CurrentUserData } from "@/schemas";
+import useClickOutside from "use-click-outside";
 
 const InputSearch = () => {
 	const router = useRouter();
@@ -68,11 +69,18 @@ const InputSearch = () => {
 	);
 }
 const SearchBar = ({ currentUser } : { currentUser: CurrentUserData | null }) => {
+
 	const router = useRouter();
 	const [isShow, setIsShow] = useState(false);
 	const checkLogin = typeof window !== 'undefined' ? localStorage.getItem('access_token') : undefined;
+
+	const ref = useRef<HTMLDivElement>(null);
+	useClickOutside(ref, () => {
+		setIsShow(false);
+	})
+
 	return(
-		<Grid container sx={{ backgroundColor: '#101010', height: '70px', width: '100%', padding: '0 24px'}}>
+		<Grid container sx={{ backgroundColor: '#101010', height: '70px', width: '100%', padding: '0 24px'}} ref={ref}>
 			<Grid item container sx={{ height: '100%', alignItems: 'center'}} xs={6} md={7}>
 				<InputSearch />
 			</Grid>
