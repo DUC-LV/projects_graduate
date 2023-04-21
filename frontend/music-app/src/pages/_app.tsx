@@ -9,17 +9,34 @@ import "../styles.css";
 import NextNProgress from 'nextjs-progressbar';
 import 'react-toastify/dist/ReactToastify.css';
 import { ToastContainer } from 'react-toastify';
+import { useEffect, useState } from 'react';
+import getCurrentUser from '@/services/getCurrentUser';
+import { CurrentUserData } from '@/schemas';
 
 export default function App({ Component, pageProps }: AppProps) {
+	const [currentUser, setCurrentUser] = useState<CurrentUserData>();
+	useEffect(() => {
+		if(!localStorage.getItem('access_token')){
+			return;
+		}
+		getCurrentUser.getAll().then(res => {
+			if(res.status === 200){
+				setCurrentUser(res.data.data);
+			}
+		})
+	}, [])
 	return(
-		<Layout>
-			<ToastContainer />
+		<Layout currentUser={currentUser ? currentUser : null}>
 			<NextNProgress
 				color='#1976d2'
 				startPosition={0.3}
 				stopDelayMs={200}
 				height={3}
 				showOnShallow={true}
+			/>
+			<ToastContainer
+				autoClose={1000}
+				position='top-right'
 			/>
 			<Component {...pageProps} />
 		</Layout>
