@@ -18,7 +18,7 @@ const LoginPage = () => {
 
 		try {
 			axiosInstances.post('api/login', { email: email.value, password: password.value }).then(res => {
-				if(res.status === 200){
+				if(res?.status === 200){
 					localStorage.setItem("access_token", res.data.access);
 					localStorage.setItem('refresh_token', res.data.refresh);
 					setTimeout(() => {
