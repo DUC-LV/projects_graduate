@@ -65,3 +65,22 @@ class PlaylistAPIView(APIView):
         serializer = PlaylistSerializers(playlist).data
 
         return Response(serializer)
+
+
+class PlaylistDataSortAPIView(APIView):
+    permission_classes = [AllowAny]
+
+    def post(self, request):
+        data = request.data
+        playlist = Playlists.objects.create(
+            thumbnail=data["thumbnail"],
+            thumbnail_m=data["thumbnailM"],
+            title=data["title"],
+            sort_description=data["sortDescription"],
+            artist_names=data["artistsNames"],
+        )
+
+        playlist.save()
+        serializers = PlaylistSortDataSerializers(playlist).data
+
+        return JsonResponse(serializers, safe=False)
