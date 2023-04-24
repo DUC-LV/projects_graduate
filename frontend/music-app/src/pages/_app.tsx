@@ -20,7 +20,7 @@ export default function App({ Component, pageProps }: AppProps) {
 			return;
 		}
 		getCurrentUser.getAll().then(res => {
-			setCurrentUser(res.data.data);
+			setCurrentUser(res?.data.data);
 		})
 	}, [])
 	return(

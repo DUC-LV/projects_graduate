@@ -46,7 +46,7 @@ axiosInstances.interceptors.response.use(
 			}
 		}
 		else {
-			window.location.href = '/login/';
+			// window.location.href = '/login/';
 		}
 	}
 )

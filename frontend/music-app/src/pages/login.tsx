@@ -1,20 +1,20 @@
 import { Box, Button, Grid, Typography } from "@mui/material";
-import React from "react";
+import React, { useState } from "react";
 import AccountCircleIcon from '@mui/icons-material/AccountCircle';
 import InputItems from "@/components/InputItems";
 import { useRouter } from "next/router";
 import useFormLogin from "@/hooks/useFormLogin";
 import axiosInstances from "@/services/axiosInstances";
-import { ToastContainer, toast } from "react-toastify";
+import { toast } from "react-toastify";
 
 
 const LoginPage = () => {
 	const router = useRouter();
 	const email = useFormLogin('');
 	const password = useFormLogin('');
+	const [show, setShow] = useState(false);
 
-	const handleLogin = (e: any) => {
-		e.preventDefault();
+	const handleLogin = () => {
 
 		try {
 			axiosInstances.post('api/login', { email: email.value, password: password.value }).then(res => {
@@ -22,9 +22,12 @@ const LoginPage = () => {
 					localStorage.setItem("access_token", res.data.access);
 					localStorage.setItem('refresh_token', res.data.refresh);
 					setTimeout(() => {
-						router.push('/')
+						router.push('/');
 					}, 1000);
-					toast.success("Đăng nhập thành công!")
+					toast.success("Đăng nhập thành công!");
+					setShow(false);
+				} else if(res?.status === undefined){
+					setShow(true);
 				}
 			})
 		} catch(error) {
@@ -50,7 +53,13 @@ const LoginPage = () => {
 						value={email}
 					/>
 				</Grid>
-				<Grid sx={{ marginY: '5px' }}>
+				<Grid
+				onKeyDown={(event) => {
+					if (event.key === 'Enter') {
+						handleLogin();
+					}
+				}}
+				sx={{ marginY: '5px' }}>
 					<InputItems
 						title="Mật khẩu"
 						type="password"
@@ -59,6 +68,11 @@ const LoginPage = () => {
 					/>
 				</Grid>
 			</Grid>
+			{ show && <Grid>
+				<Typography sx={{ fontSize: '12px', fontWeight: '600', color: 'red'}}>
+					Thông tin email hoặc mật khẩu không chính xác, vui lòng nhập lại!
+				</Typography>
+			</Grid> }
 			<Button variant="outlined" size="medium"
 				onClick={handleLogin}
 				sx={{
