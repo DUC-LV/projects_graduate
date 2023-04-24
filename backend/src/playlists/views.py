@@ -3,7 +3,7 @@ from rest_framework.views import APIView
 from rest_framework.response import Response
 from django.http import HttpResponse
 from .models import TopicPlaylist, Playlists, PlaylistOfTopic
-from .serializers import TopicPlaylistSerializers, PlaylistSerializers
+from .serializers import TopicPlaylistSerializers, PlaylistSerializers, PlaylistSortDataSerializers
 from rest_framework.permissions import AllowAny
 
 
@@ -83,4 +83,4 @@ class PlaylistDataSortAPIView(APIView):
         playlist.save()
         serializers = PlaylistSortDataSerializers(playlist).data
 
-        return JsonResponse(serializers, safe=False)
+        return Response(serializers)
