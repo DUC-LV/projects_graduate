@@ -5,7 +5,7 @@ from .models import TopicPlaylist, Playlists
 class TopicPlaylistSerializers(serializers.ModelSerializer):
     class Meta:
         model = TopicPlaylist
-        fields = ["title"]
+        fields = ["id", "title"]
 
 
 class PlaylistSerializers(serializers.ModelSerializer):
