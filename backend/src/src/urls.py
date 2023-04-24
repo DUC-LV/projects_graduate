@@ -28,4 +28,5 @@ urlpatterns = [
     path('', include('playlists.urls')),
     path('', include('artists.urls')),
     path('', include('albums.urls')),
+    path('', include('homepage.urls')),
 ]
