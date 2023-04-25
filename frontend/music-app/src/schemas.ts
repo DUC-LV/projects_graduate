@@ -3,3 +3,9 @@ export interface CurrentUserData {
 	userName?: string;
 	email?: string;
 }
+export interface DataPlaylists {
+	title?: string;
+	thumbnail?: string;
+	thumbnail_m?: string;
+	sort_description?: string;
+}

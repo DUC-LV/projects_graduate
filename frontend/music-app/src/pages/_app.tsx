@@ -12,6 +12,7 @@ import { ToastContainer } from 'react-toastify';
 import { useEffect, useState } from 'react';
 import getCurrentUser from '@/services/getCurrentUser';
 import { CurrentUserData } from '@/schemas';
+import "swiper/swiper-bundle.min.css";
 
 export default function App({ Component, pageProps }: AppProps) {
 	const [currentUser, setCurrentUser] = useState<CurrentUserData>();

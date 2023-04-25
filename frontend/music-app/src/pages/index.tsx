@@ -1,9 +1,11 @@
+import { PlaylistSlider } from "@/components/Slide";
+import { DataPlaylists } from "@/schemas";
 import getHomePage from "@/services/getHomePage";
 import { Box } from "@mui/material";
-import React from "react";
+import React, { useCallback } from "react";
 
 type Props = {
-	data: Array<object>
+	data: Array<DataPlaylists>
 }
 export async function getServerSideProps() {
 	try {
@@ -19,10 +21,45 @@ export async function getServerSideProps() {
 }
 
 const HomePage = ({ data }: Props) => {
-	console.log(data);
+
+	const SectionType = {
+		playlist: "playlist",
+		album: "album",
+	}
+
+	const generateContent = useCallback(() => {
+		return data?.map((section: any, index: number) => {
+
+			if(!section?.items || section?.items.length === 0){
+				return null;
+			}
+
+			switch(section?.sectionType){
+
+				case SectionType?.playlist:
+					return(
+						<PlaylistSlider
+							key={index}
+							data={section?.items}
+							title={section?.title}
+						/>
+					);
+
+				case SectionType?.album:
+					return(
+						<Box></Box>
+					);
+
+				default:
+					return null;
+			}
+
+		})
+	}, [SectionType?.album, SectionType?.playlist, data])
+
 	return(
 		<Box>
-
+			{generateContent()}
 		</Box>
 	);
 }
