@@ -9,6 +9,7 @@ from artists.serializers import ArtistSerializers
 from albums.models import TopicAlbum, Albums, AlbumOfTopic
 from albums.serializers import TopicAlbumSerializers, AlbumSerializers
 from rest_framework.permissions import AllowAny
+from numpy import random
 
 
 # Create your views here.
@@ -43,12 +44,13 @@ class HomePageAPIView(APIView):
 
         res_playlist = []
         for topic in all_topic:
+            arrTopicPlaylist = random.choice(playlist_of_topic_map[topic.id], replace=False, size=5, p=None)
             res_playlist.append({
                 "sectionType": "playlist",
                 "viewType": "slider",
                 "title": topic.title,
                 "link": "",
-                "items": playlist_of_topic_map[topic.id]
+                "items": arrTopicPlaylist
             })
         for i in range(len(res_playlist)):
             items.append(res_playlist[i])
@@ -78,12 +80,13 @@ class HomePageAPIView(APIView):
 
         res_album = []
         for topic in topic_album:
+            arrAlbum = random.choice(album_of_topic_map[topic.id], size=5, replace=False, p=None)
             res_album.append({
                 "sectionType": "album",
                 "viewType": "slider",
                 "title": topic.title,
                 "link": "",
-                "items": album_of_topic_map[topic.id]
+                "items": arrAlbum
             })
         for i in range(len(res_album)):
             items.append(res_album[i])

@@ -14,7 +14,7 @@ const Layout = ({ children, currentUser }: React.PropsWithChildren<{ currentUser
 				<Grid item sx={{ maxHeight: '70px' }}>
 					<SearchBar currentUser={currentUser ? currentUser : null}/>
 				</Grid>
-				<Grid item xs sx={{ overflow: 'hidden'}}>
+				<Grid item container xs sx={{ overflow: 'auto'}}>
 					<Box sx={{ width: '100%', padding: '24px', height: 1000}}>
 						{children}
 					</Box>

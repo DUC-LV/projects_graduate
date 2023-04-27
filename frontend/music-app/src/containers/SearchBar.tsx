@@ -120,7 +120,8 @@ const SearchBar = ({ currentUser } : { currentUser: CurrentUserData | null }) =>
 								width: '200px',
 								backgroundColor: '#2F4F4F',
 								transition: 'opacity 2000ms ease-in-out',
-								borderRadius: '8px'
+								borderRadius: '8px',
+								zIndex: 2
 							}}
 						>
 							<Typography textTransform="capitalize"
@@ -170,7 +171,8 @@ const SearchBar = ({ currentUser } : { currentUser: CurrentUserData | null }) =>
 								padding: '15px',
 								alignItems: 'center',
 								cursor: 'pointer',
-								borderRadius: '8px'
+								borderRadius: '8px',
+								zIndex: 2,
 							}}
 						>
 							<Typography textTransform="initial" sx={{ color: 'white', fontWeight: '600', fontSize: '16px'}}
