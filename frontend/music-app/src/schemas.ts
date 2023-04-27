@@ -8,4 +8,5 @@ export interface DataPlaylists {
 	thumbnail?: string;
 	thumbnail_m?: string;
 	sort_description?: string;
+	artist_names?: string;
 }

@@ -1,4 +1,4 @@
-import { PlaylistSlider } from "@/components/Slide";
+import {AlbumSlider, PlaylistSlider} from "@/components/Slide";
 import { DataPlaylists } from "@/schemas";
 import getHomePage from "@/services/getHomePage";
 import { Box } from "@mui/material";
@@ -47,7 +47,11 @@ const HomePage = ({ data }: Props) => {
 
 				case SectionType?.album:
 					return(
-						<Box></Box>
+						<AlbumSlider
+							key={index}
+							data={section?.items}
+							title={section?.title}
+						/>
 					);
 
 				default:

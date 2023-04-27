@@ -8,3 +8,20 @@
 		display: none;
 	}
 }
+::-webkit-scrollbar {
+	width: 5px;
+}
+/* Track */
+::-webkit-scrollbar-track {
+	background:black;
+}
+/* Handle */
+::-webkit-scrollbar-thumb {
+	background: rgba(244,246,248,0.9);
+	border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+	background: grey;
+}

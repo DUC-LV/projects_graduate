@@ -3,9 +3,7 @@ import React, {PropsWithChildren} from "react";
 import {useRouter} from "next/router";
 import LibraryMusicIcon from '@mui/icons-material/LibraryMusic';
 import RadioButtonCheckedIcon from '@mui/icons-material/RadioButtonChecked';
-import TimelineIcon from '@mui/icons-material/Timeline';
 import HomeSharpIcon from '@mui/icons-material/HomeSharp';
-import MusicNoteSharpIcon from '@mui/icons-material/MusicNoteSharp';
 import TopicIcon from '@mui/icons-material/Topic';
 import StarIcon from '@mui/icons-material/Star';
 import MusicVideoIcon from '@mui/icons-material/MusicVideo';
@@ -67,14 +65,6 @@ const Header = () => {
 		{
 			id: 3,
 			type: '',
-			name: '#zingchart',
-			link: '',
-			isActive: (pathName: string) => /^\/tv/.test(pathName),
-			icon: <TimelineIcon />
-		},
-		{
-			id: 4,
-			type: '',
 			name: 'Radio',
 			link: '/radio',
 			isActive: (pathName: string) => /^\/radio/.test(pathName),
@@ -86,21 +76,13 @@ const Header = () => {
 		{
 			id: 1,
 			type: '',
-			name: 'Nhạc Mới',
-			link: '',
-			isActive: (pathName: string) => /^\/tv/.test(pathName),
-			icon: <MusicNoteSharpIcon />
-		},
-		{
-			id: 2,
-			type: '',
 			name: 'Chủ Đề & Thể Loại',
 			link: '/hub',
 			isActive: (pathName: string) => /^\/hub/.test(pathName),
 			icon: <TopicIcon />
 		},
 		{
-			id: 3,
+			id: 2,
 			type: '',
 			name: 'Top 100',
 			link: '',
@@ -108,7 +90,7 @@ const Header = () => {
 			icon: <StarIcon />
 		},
 		{
-			id: 4,
+			id: 3,
 			type: '',
 			name: 'MV',
 			link: '/videos',
@@ -136,7 +118,8 @@ const Header = () => {
 						},
 						"@media screen and (min-width: 1133px)": {
 							margin: '0 25px',
-						}
+						},
+						width: 'fit-content'
 					}}>
 					{/* eslint-disable-next-line @next/next/no-img-element */}
 					<img
