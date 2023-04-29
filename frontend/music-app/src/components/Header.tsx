@@ -23,7 +23,7 @@ const Items = ({ link, isActive, icon, name }: PropsWithChildren<ItemProps>) => 
 			sx={{
 				padding: '8px 25px',
 				alignItems: 'center',
-				color: isActive ? 'white' : '#B3B3B3',
+				color: isActive ? 'red' : 'white',
 			}}
 		>
 			<Grid item>{icon}</Grid>
