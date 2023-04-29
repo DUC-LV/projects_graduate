@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'playlists',
     'artists',
     'albums',
+    'streamings',
 ]
 
 MIDDLEWARE = [
