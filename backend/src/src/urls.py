@@ -30,4 +30,5 @@ urlpatterns = [
     path('', include('albums.urls')),
     path('', include('homepage.urls')),
     path('', include('streamings.urls')),
+    path('', include('podcasts.urls')),
 ]
