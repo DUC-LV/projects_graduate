@@ -31,7 +31,6 @@ export const PlaylistSlider = (props: { data: Array<DataPlaylists>, title: strin
 							>
 								<Grid container item sx={{ marginBottom: '16px' }}>
 									<img
-										key={index}
 										alt=""
 										src={item?.thumbnail_m} height="100%" width="100%"
 										style={{ borderRadius: '6px', maxWidth: 'min-content' }}

@@ -1,4 +1,4 @@
-import {AlbumSlider, PlaylistSlider} from "@/components/Slide";
+import {AlbumSlider, PlaylistSlider} from "@/components/home/Slide";
 import { DataPlaylists } from "@/schemas";
 import getHomePage from "@/services/getHomePage";
 import { Box } from "@mui/material";
