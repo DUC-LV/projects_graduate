@@ -33,7 +33,8 @@ export const PlaylistSlider = (props: { data: Array<DataPlaylists>, title: strin
 									<img
 										key={index}
 										alt=""
-										src={item?.thumbnail_m} height="100%" width="100%" style={{ borderRadius: '6px' }}
+										src={item?.thumbnail_m} height="100%" width="100%"
+										style={{ borderRadius: '6px', maxWidth: 'min-content' }}
 									/>
 								</Grid>
 								<Grid container item flexDirection="column">
@@ -81,7 +82,8 @@ export const AlbumSlider = (props: { data: Array<DataPlaylists>; title: string }
 									<img
 										key={index}
 										alt=""
-										src={item?.thumbnail} height="100%" width="100%" style={{ borderRadius: '6px' }}
+										src={item?.thumbnail} height="100%" width="100%"
+										style={{ borderRadius: '6px', maxWidth: 'min-content' }}
 									/>
 								</Grid>
 								<Grid container item flexDirection="column">
