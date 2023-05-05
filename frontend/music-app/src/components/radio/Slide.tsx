@@ -112,11 +112,11 @@ export const PodCastSlider = (props: { data: Array<DataPodCast>, title: string }
 									<img
 										alt=""
 										src={item?.thumbnail_m} height="100%" width="100%"
-										style={{ borderRadius: '6px', maxWidth: 'min-content' }}
+										style={{ borderRadius: '6px', minWidth: 'min-content' }}
 									/>
 								</Grid>
 								<Grid container item flexDirection="column">
-									<TextLineClamp line={1} sx={{ fontSize: '16px', fontWeight: '700', color: 'white'}}>
+									<TextLineClamp line={1} sx={{ fontSize: '16px', fontWeight: '700', color: 'white', mb: '8px'}}>
 										{item?.title}
 									</TextLineClamp>
 								</Grid>
