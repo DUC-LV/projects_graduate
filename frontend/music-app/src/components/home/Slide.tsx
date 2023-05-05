@@ -82,7 +82,7 @@ export const AlbumSlider = (props: { data: Array<DataPlaylists>; title: string }
 										key={index}
 										alt=""
 										src={item?.thumbnail} height="100%" width="100%"
-										style={{ borderRadius: '6px', maxWidth: 'min-content' }}
+										style={{ borderRadius: '6px', minWidth: 'min-content' }}
 									/>
 								</Grid>
 								<Grid container item flexDirection="column">
