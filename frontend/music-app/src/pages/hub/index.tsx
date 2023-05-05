@@ -71,6 +71,9 @@ const HubPage = ({ data }: Props) => {
 							data={section?.items}
 						/>
 					);
+
+				default:
+					return null;
 			}
 		})
 	}, [SectionType.banner, SectionType.highlight, SectionType.nation, SectionType.popular, data]);
