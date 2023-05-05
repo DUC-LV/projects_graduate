@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     'albums',
     'streamings',
     'podcasts',
+    'topic_category',
 ]
 
 MIDDLEWARE = [
