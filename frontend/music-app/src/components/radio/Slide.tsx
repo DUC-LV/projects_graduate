@@ -112,7 +112,7 @@ export const PodCastSlider = (props: { data: Array<DataPodCast>, title: string }
 									<img
 										alt=""
 										src={item?.thumbnail_m} height="100%" width="100%"
-										style={{ borderRadius: '6px', minWidth: 'min-content' }}
+										style={{ borderRadius: '6px' }}
 									/>
 								</Grid>
 								<Grid container item flexDirection="column">

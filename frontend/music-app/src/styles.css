@@ -25,3 +25,14 @@
 ::-webkit-scrollbar-thumb:hover {
 	background: grey;
 }
+.imgTopic {
+	width: 100%;
+	transition: transform 0.4s ease;
+    transform-origin: 50% 50%;
+	border-radius: 8px;
+}
+.imgTopic:hover{
+	transform: scale(1.05);
+    width: 100%;
+	border: 3px solid red;
+}

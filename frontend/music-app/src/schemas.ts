@@ -32,3 +32,19 @@ export interface DataPodCast {
 	thumbnail?: string;
 	thumbnail_m?: string;
 }
+
+export interface DataBannerHub {
+	id?: string | number;
+	cover?: string;
+	title?: string;
+	thumbnail?: string;
+}
+
+export interface DataTopicHub {
+	id?: string | number;
+	cover?: string;
+	title?: string;
+	thumbnail?: string;
+	thumbnail_r?: string;
+	thumbnail_has_text?: string;
+}
