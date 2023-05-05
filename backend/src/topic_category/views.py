@@ -104,7 +104,7 @@ class HubPageAPIView(APIView):
         res_highlight = {
             "sectionType": "highlight",
             "viewType": "",
-            "title": "",
+            "title": f"{topic_highlight[0]}",
             "link": "",
             "items": data_hub_highlight
         }
@@ -121,7 +121,7 @@ class HubPageAPIView(APIView):
         res_nations = {
             "sectionType": "nation",
             "viewType": "",
-            "title": "",
+            "title": f"{topic_nation[0]}",
             "link": "",
             "items": data_hub_nations
         }
@@ -139,7 +139,7 @@ class HubPageAPIView(APIView):
         res_popular = {
             "sectionType": "popular",
             "viewType": "",
-            "title": "",
+            "title": f"{topic_popular[0]}",
             "link": "",
             "items": data_hub_popular
         }
