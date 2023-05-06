@@ -37,10 +37,10 @@ export const PlaylistSlider = (props: { data: Array<DataPlaylists>, title: strin
 									/>
 								</Grid>
 								<Grid container item flexDirection="column">
-									<TextOnline sx={{ fontSize: '16px', fontWeight: '700', color: 'white', mb: '8px'}}>
+									<TextOnline sx={{ fontSize: '16px', fontWeight: '700', color: 'white', mb: '8px', width: '100%'}}>
 										{item?.title}
 									</TextOnline>
-									<TextLineClamp line={2} sx={{ fontSize: '14px', fontWeight: 500, color: '#a7a7a7'}}>
+									<TextLineClamp line={2} sx={{ fontSize: '14px', fontWeight: 500, color: '#a7a7a7', width: '100%'}}>
 										{item?.sort_description}
 									</TextLineClamp>
 								</Grid>
