@@ -48,7 +48,7 @@ class Top100APIView(APIView):
                 "viewType": "slider",
                 "title": topic.title,
                 "link": "",
-                "items": arrTopicPlaylist
+                "items": playlist_of_topic_map[topic.id]
             })
         for i in range(len(res_playlist)):
             items.append(res_playlist[i])
