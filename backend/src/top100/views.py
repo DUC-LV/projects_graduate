@@ -17,7 +17,8 @@ class Top100APIView(APIView):
     def get(self, request):
         items = []
 
-        all_topic = TopicPlaylist.objects.filter(title__in=('Top 100 Nổi Bật', 'Top 100 Nhạc Việt Nam'))
+        all_topic = TopicPlaylist.objects.filter(title__in=('Top 100 Nổi Bật', 'Top 100 Nhạc Việt Nam', 'Top 100 Nhạc '
+                                                                                                        'Châu Á'))
         topic_id = [tp.id for tp in all_topic]
         playlist_of_topic = PlaylistOfTopic.objects.filter(topic_id__in=topic_id)
         playlist_of_topic_map = {}
@@ -61,4 +62,3 @@ class Top100APIView(APIView):
         }
 
         return Response(res_top100)
-
