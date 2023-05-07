@@ -33,4 +33,5 @@ urlpatterns = [
     path('', include('podcasts.urls')),
     path('', include('radiopage.urls')),
     path('', include('topic_category.urls')),
+    path('', include('top100.urls')),
 ]
