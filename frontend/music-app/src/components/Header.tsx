@@ -85,8 +85,8 @@ const Header = () => {
 			id: 2,
 			type: '',
 			name: 'Top 100',
-			link: '',
-			isActive: (pathName: string) => /^\/tv/.test(pathName),
+			link: '/top100',
+			isActive: (pathName: string) => /^\/top100/.test(pathName),
 			icon: <StarIcon />
 		},
 		{
