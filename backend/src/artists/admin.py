@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Artists, ArtistOfPlaylist, ArtistOfAlbum
+from .models import Artists, ArtistOfPlaylist, ArtistOfAlbum, ArtistOfSong
 
 
 # Register your models here.
@@ -26,4 +26,12 @@ class ArtistOfAlbum(admin.ModelAdmin):
 
 
 admin.register(ArtistOfAlbum)
+
+
+@admin.register(ArtistOfSong)
+class ArtistOfSong(admin.ModelAdmin):
+    list_display = ["song", "artist", "created_at"]
+
+
+admin.register(ArtistOfSong)
 
