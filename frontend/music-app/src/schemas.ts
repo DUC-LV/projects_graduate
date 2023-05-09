@@ -5,6 +5,7 @@ export interface CurrentUserData {
 }
 
 export interface DataPlaylists {
+	id?: string | number;
 	title?: string;
 	thumbnail?: string;
 	thumbnail_m?: string;
