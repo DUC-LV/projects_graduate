@@ -2,6 +2,7 @@ from django.db import models
 from commons.models import BaseModel
 from playlists.models import Playlists
 from albums.models import Albums
+from songs.models import Songs
 
 
 # Create your models here.
@@ -42,3 +43,14 @@ class ArtistOfAlbum(BaseModel):
 
     def __str__(self):
         return f"{self.album.title}_{self.artist.name}"
+
+
+class ArtistOfSong(BaseModel):
+    class Meta:
+        ordering = ['created_at']
+
+    song = models.ForeignKey(Songs, on_delete=models.CASCADE)
+    artist = models.ForeignKey(Artists, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return f"{self.song.title}_{self.artist.name}"
