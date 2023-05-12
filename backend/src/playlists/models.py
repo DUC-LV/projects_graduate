@@ -1,5 +1,6 @@
 from django.db import models
 from commons.models import BaseModel
+from topic_category.models import Hub
 
 
 # Create your models here.
@@ -50,3 +51,14 @@ class PlaylistOfTopic(BaseModel):
 
     def __str__(self):
         return f"{self.topic.title}_{self.playlist.title}"
+
+
+class TopicPlaylistOfHub(BaseModel):
+    class Meta:
+        ordering = ['created_at']
+
+    hub = models.ForeignKey(Hub, on_delete=models.CASCADE)
+    topic_playlist = models.ForeignKey(TopicPlaylist, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return f"{self.hub.title}_{self.topic_playlist.title}"

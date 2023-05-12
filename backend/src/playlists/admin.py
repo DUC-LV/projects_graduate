@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import TopicPlaylist, Playlists, PlaylistOfTopic
+from .models import TopicPlaylist, Playlists, PlaylistOfTopic, TopicPlaylistOfHub
 
 
 # Register your models here.
@@ -27,3 +27,11 @@ class PlaylistOfTopic(admin.ModelAdmin):
 
 
 admin.register(PlaylistOfTopic)
+
+
+@admin.register(TopicPlaylistOfHub)
+class TopicPlaylistOfHub(admin.ModelAdmin):
+    list_display = ["topic_playlist", "hub", "created_at"]
+
+
+admin.register(TopicPlaylistOfHub)
