@@ -4,9 +4,12 @@ import { Grid, Typography, Box } from '@mui/material'
 import React from 'react'
 import { Swiper, SwiperSlide } from 'swiper/react'
 import {TextLineClamp, TextOnline} from "@/components/Text";
+import { useRouter } from 'next/router';
+import { convertSlug } from '@/untils';
 
 export const PlaylistSlider = (props: { data: Array<DataPlaylists>, title: string }) => {
-	const { data, title } = props
+	const { data, title } = props;
+	const router = useRouter();
 	return (
 		<Box sx={{ marginBottom: '30px' }}>
 			<Grid container>
@@ -20,6 +23,15 @@ export const PlaylistSlider = (props: { data: Array<DataPlaylists>, title: strin
 					return(
 						<SwiperSlide key={index} style={{  cursor: "pointer", padding: '8px' }}>
 							<Grid container item direction="column"
+								onClick={() => {
+									router.push({
+										pathname: '/playlist/[slugPlaylist]',
+										query: {
+											slugPlaylist: convertSlug(item?.title ? item.title : ''),
+											id: item?.id
+										}
+									})
+								}}
 								sx={{
 									backgroundColor: '#181818',
 									padding: '16px',

@@ -5,6 +5,7 @@ export interface CurrentUserData {
 }
 
 export interface DataPlaylists {
+	id?: string | number;
 	title?: string;
 	thumbnail?: string;
 	thumbnail_m?: string;
@@ -47,4 +48,11 @@ export interface DataTopicHub {
 	thumbnail?: string;
 	thumbnail_r?: string;
 	thumbnail_has_text?: string;
+}
+
+export interface DataHeaderPlaylist {
+	thumbnail_m?: string,
+	title?: string,
+	artist_names?: string,
+	sort_description?: string,
 }
