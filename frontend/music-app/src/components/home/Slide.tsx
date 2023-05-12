@@ -1,15 +1,19 @@
 /* eslint-disable @next/next/no-img-element */
 import { DataPlaylists } from '@/schemas'
 import { Grid, Typography, Box } from '@mui/material'
-import React from 'react'
+import React, { useState } from 'react'
 import { Swiper, SwiperSlide } from 'swiper/react'
 import {TextLineClamp, TextOnline} from "@/components/Text";
 import { useRouter } from 'next/router';
 import { convertSlug } from '@/untils';
+import Popup from '../Popup';
 
 export const PlaylistSlider = (props: { data: Array<DataPlaylists>, title: string }) => {
+
 	const { data, title } = props;
 	const router = useRouter();
+	const checkout = typeof window !== 'undefined' ? localStorage.getItem('access_token') : undefined;
+	const [isShow, setIsShow] = useState(false);
 	return (
 		<Box sx={{ marginBottom: '30px' }}>
 			<Grid container>
@@ -24,13 +28,18 @@ export const PlaylistSlider = (props: { data: Array<DataPlaylists>, title: strin
 						<SwiperSlide key={index} style={{  cursor: "pointer", padding: '8px' }}>
 							<Grid container item direction="column"
 								onClick={() => {
-									router.push({
-										pathname: '/playlist/[slugPlaylist]',
-										query: {
-											slugPlaylist: convertSlug(item?.title ? item.title : ''),
-											id: item?.id
-										}
-									})
+									if(checkout === null){
+										setIsShow(true);
+									}
+									else {
+										router.push({
+											pathname:'/playlist/[slugPlaylist]',
+											query: {
+												slugPlaylist: convertSlug(String(item.title)),
+												id: item?.id,
+											}
+										})
+									}
 								}}
 								sx={{
 									backgroundColor: '#181818',
@@ -61,6 +70,23 @@ export const PlaylistSlider = (props: { data: Array<DataPlaylists>, title: strin
 					);
 				})}
 			</Swiper>
+			<Popup
+				isShow={isShow}
+				onClose={() => setIsShow(false)}
+				title="Thông Báo"
+				message="Vui lòng đăng nhập lại để tiếp tục sử dụng dịch vụ."
+				actions={[
+					{ key: 'cancel', title: 'Đóng' },
+					{ key: 'ok', title: 'Đăng nhập' },
+				]}
+				onAction={ key => {
+					if(key === 'ok'){
+						router.push('/login');
+					} else if (key === 'cancel'){
+						setIsShow(false);
+					}
+				}}
+			/>
 		</Box>
 	)
 }
