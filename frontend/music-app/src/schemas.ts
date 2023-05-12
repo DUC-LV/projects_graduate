@@ -49,3 +49,10 @@ export interface DataTopicHub {
 	thumbnail_r?: string;
 	thumbnail_has_text?: string;
 }
+
+export interface DataHeaderPlaylist {
+	thumbnail_m?: string,
+	title?: string,
+	artist_names?: string,
+	sort_description?: string,
+}
