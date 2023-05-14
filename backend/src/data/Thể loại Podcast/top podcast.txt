@@ -1,0 +1,410 @@
+{
+  "err": 0,
+  "msg": "Success",
+  "data": {
+    "items": [
+      {
+        "encodeId": "6BA6UO98",
+        "title": " Podcast Nhân Sự",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/2/0/5/3/20539df1276fa782af9becdd938ed1cc.jpg",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/2/0/5/3/20539df1276fa782af9becdd938ed1cc.jpg",
+        "isoffical": true,
+        "link": "/pgr/Podcast-Nhan-Su/6BA6UO98.html",
+        "artists": [
+          {
+            "id": "IW8U9OC0",
+            "name": " Podcast Nhân Sự",
+            "link": "/podcastnhansu",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/5/5/d/3/55d3216e068e20ef0ad041b21195bb63.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/0/4/f/104fc317e94d930f0f4d1f5464ad123f.jpg"
+          }
+        ],
+        "description": "Kênh tri thức về quản trị nhân sự và phát triển tổ chức với các chủ đề: Thuật ngữ tiếng Anh, nghiệp vụ HR, chiến lược nhân sự, văn hóa công ty, HRBP, tuyển dụng, đào tạo, trải nghiệm nhân viên Support this podcast: https://podcasters.spotify.com/pod/show/podcastnhansu/support",
+        "contentType": "podcast",
+        "type": "podcast"
+      },
+      {
+        "encodeId": "6BAODDCA",
+        "title": "Oan Gia Ngõ Cụt",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/0/6/0/d/060dad6cd0b37304944ff652a0866c97.jpg",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/0/6/0/d/060dad6cd0b37304944ff652a0866c97.jpg",
+        "isoffical": true,
+        "link": "/pgr/Oan-Gia-Ngo-Cut/6BAODDCA.html",
+        "artists": [
+          {
+            "id": "IW7B9DEE",
+            "name": "Pladio",
+            "link": "/fptplay",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/8/1/1/e/811ec5a5b68c40cd17bc656301e7595a.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/c/c/f/2ccf96f6da468b466c5f8d1188f62eee.jpg"
+          }
+        ],
+        "description": "Tiểu phẩm ngắn Oan Gia Ngõ Cụt kể về đời sống bình dân của người lao động với những câu chuyện, những hoàn cảnh, những cảm xúc của các nhân vật khác nhau mang đến một bức tranh về tình bạn, tình yêu, tình làng nghĩa xóm.",
+        "contentType": "podcast",
+        "type": "podcast"
+      },
+      {
+        "encodeId": "6BAODDEO",
+        "title": "Nửa kia ngoại quốc",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/e/5/6/6/e566e7fde3aa11a72575d30d977fa2c3.jpg",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/e/5/6/6/e566e7fde3aa11a72575d30d977fa2c3.jpg",
+        "isoffical": true,
+        "link": "/pgr/Nua-kia-ngoai-quoc/6BAODDEO.html",
+        "artists": [
+          {
+            "id": "IW7B9DEE",
+            "name": "Pladio",
+            "link": "/fptplay",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/8/1/1/e/811ec5a5b68c40cd17bc656301e7595a.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/c/c/f/2ccf96f6da468b466c5f8d1188f62eee.jpg"
+          }
+        ],
+        "description": "Nửa kia ngoại quốc là talkshow gặp gỡ và chia sẻ những câu chuyện về những người Việt Nam yêu người nước ngoài.",
+        "contentType": "podcast",
+        "type": "podcast"
+      },
+      {
+        "encodeId": "6B9EWW6O",
+        "title": "Điều Gì Sẽ Xảy Ra",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/e/0/8/3/e083c9a434ce2de23b4930334ad33965.jpg",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/e/0/8/3/e083c9a434ce2de23b4930334ad33965.jpg",
+        "isoffical": true,
+        "link": "/pgr/Dieu-Gi-Se-Xay-Ra/6B9EWW6O.html",
+        "artists": [
+          {
+            "id": "IW7B9DEE",
+            "name": "Pladio",
+            "link": "/fptplay",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/8/1/1/e/811ec5a5b68c40cd17bc656301e7595a.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/c/c/f/2ccf96f6da468b466c5f8d1188f62eee.jpg"
+          }
+        ],
+        "description": "Một chương trình đặc biệt dành riêng cho trẻ em (và phụ huynh cũng có thể nghe). Có quá nhiều điều các em muốn làm nhưng người lớn lại ngăn cấm, vậy giả sử như các em được mặc sức thoải mái theo ý mình thì... điều gì sẽ xảy ra nhỉ?",
+        "contentType": "podcast",
+        "type": "podcast"
+      },
+      {
+        "encodeId": "6AFEIFOA",
+        "title": "Đắp Chăn Nằm Nghe Tun Kể",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+        "isoffical": true,
+        "link": "/pgr/Dap-Chan-Nam-Nghe-Tun-Ke/6AFEIFOA.html",
+        "artists": [
+          {
+            "id": "IW77UI7I",
+            "name": "Tun Cảm Ơn",
+            "link": "/tuncamon",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+          }
+        ],
+        "description": "Là series podcast đầu tiên của Tun, nơi Tun và các bạn có thể trải lòng với nhau về những điều mệt mỏi trong cuộc sống, cùng cho nhau những lời khuyên hay ho, cùng chữa lành những tổn thương, đổ vỡ để trái tim tụi mình một lần nữa được ngập tràn yêu thương. Tun hy vọng những chia sẻ của mình có thể mang lại những giây phút thư thái, dễ chịu cho bạn trước khi đi ngủ.",
+        "contentType": "podcast",
+        "type": "podcast"
+      },
+      {
+        "encodeId": "6BWAABIO",
+        "title": "HIEU.TV",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/0/d/b/1/0db18352212495c489e270b229a79216.jpg",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/0/d/b/1/0db18352212495c489e270b229a79216.jpg",
+        "isoffical": true,
+        "link": "/pgr/HIEU-TV/6BWAABIO.html",
+        "artists": [
+          {
+            "id": "IW78UF60",
+            "name": "Hieu Nguyen",
+            "link": "/hieunguyen",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/4/9/5/3/4953818bbc4b83cc73385b42a2ffafaa.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/c/6/3/0c6335e368d3b32a80bfb036f930f330.jpg"
+          }
+        ],
+        "description": "Tôi sinh ra và lớn lên ở Việt Nam nhưng hiện đang sinh sống và làm việc tại Úc. Hiện tại tôi là cố vấn cho chính phủ Úc về Digital Strategy. Hơn 20 năm làm việc ở nhiều nơi trên thế giới, tôi tích lũy được một số bài học và câu chuyện thú vị. Kênh HIEU.TV là nơi tôi lưu giữ và chia sẻ lại những câu chuyện đó.\nCÁC TRANG WEB CỦA HIEU TV:\nWebsite: https://hieu.tv\nKhoá học đầu tư tôi đang dạy: https://hieu.tv/khoahocdautu\nBlog: https://ngochieu.com\nFacebook: https://fb.com/ngochieu\nInstagram: https://instagr.am/ngochieu",
+        "contentType": "podcast",
+        "type": "podcast"
+      },
+      {
+        "encodeId": "6B68CF7O",
+        "title": "2027",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/a/3/5/a/a35a409f387b557e6d41d9ff497e33c5.jpg",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/a/3/5/a/a35a409f387b557e6d41d9ff497e33c5.jpg",
+        "isoffical": true,
+        "link": "/pgr/2027/6B68CF7O.html",
+        "artists": [
+          {
+            "id": "IW7B7AEI",
+            "name": "Zing News",
+            "link": "/zingnews",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+          }
+        ],
+        "description": "2027 Podcast là series chia sẻ về văn hoá, hành vi tiêu dùng, sử dụng các thiết bị công nghệ. Nơi gặp gỡ các khách mời, lắng nghe họ chia sẻ những câu chuyện khi họ sử dụng các thiết bị, vì sao họ sở hữu và cái cách mà công nghệ tác động đến văn hoá tiêu dùng.\n",
+        "contentType": "podcast",
+        "type": "podcast"
+      },
+      {
+        "encodeId": "6B68CFU8",
+        "title": "Healy Chilly",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/f/c/0/f/fc0f66c7856d13c84decd2eefc8ea207.jpg",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/f/c/0/f/fc0f66c7856d13c84decd2eefc8ea207.jpg",
+        "isoffical": true,
+        "link": "/pgr/Healy-Chilly/6B68CFU8.html",
+        "artists": [
+          {
+            "id": "IW7B7AEI",
+            "name": "Zing News",
+            "link": "/zingnews",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+          }
+        ],
+        "description": "Đây là chương trình Podcast mang phong cách vui tươi và năng lượng tích cực, nhắm tới nhóm độc giả Gen Z và Millennials, đặc biệt những người có vấn đề tâm lý nhưng khó chia sẻ, bày tỏ.\n\nNgười dẫn chuyện trong loạt Podcast này là Khánh Linh. Cô sẽ cùng với khách mời tâm sự về các vấn đề tâm lý, kinh nghiệm vượt qua và có cuộc sống tích cực hơn.\n",
+        "contentType": "podcast",
+        "type": "podcast"
+      },
+      {
+        "encodeId": "SB68CF0E",
+        "title": "The Conductor",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/8/8/6/0/8860d67f54bd9ddc9130e18bf72780e4.jpg",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/8/8/6/0/8860d67f54bd9ddc9130e18bf72780e4.jpg",
+        "isoffical": true,
+        "link": "/pgr/The-Conductor/SB68CF0E.html",
+        "artists": [
+          {
+            "id": "IW7B7AEI",
+            "name": "Zing News",
+            "link": "/zingnews",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+          }
+        ],
+        "description": "The Conductor là series podcast nơi các doanh nhân, giám đốc điều hành chia sẻ về kinh doanh, thị trường và các giá trị văn hóa doanh nghiệp.\nKhông chỉ kiến thức về kinh doanh, khán giả còn có thể lắng nghe những câu chuyện thú vị về cuộc sống và các những nhà lãnh đạo doanh nghiệp cân bằng giữa guồng quay công việc và đời sống cá nhân. \nDẫn dắt podcast The Conductor là Hoa hậu Hoàn vũ Việt Nam 2022 Ngọc Châu và Á hậu Hoàn vũ Việt Nam 2022 Thủy Tiên. Hai host sẽ thay phiên xuất hiện, trò chuyện và đồng hành cùng khách mời, khán giả trong mỗi câu chuyện của các khách mời.",
+        "contentType": "podcast",
+        "type": "podcast"
+      },
+      {
+        "encodeId": "6B68CBEW",
+        "title": "À la Show",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/4/1/4/f/414f69b5fcd66f8b12d1bda8575c4f29.jpg",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/4/1/4/f/414f69b5fcd66f8b12d1bda8575c4f29.jpg",
+        "isoffical": true,
+        "link": "/pgr/A-la-Show/6B68CBEW.html",
+        "artists": [
+          {
+            "id": "IW7B7AEI",
+            "name": "Zing News",
+            "link": "/zingnews",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+          }
+        ],
+        "description": "Đây là chương trình Podcast đầu tiên về ẩm thực của Zing Lifestyle. Series nhắm tới nhóm độc giả hiện đại, thích trải nghiệm mới mẻ. Họ quan tâm và mong tìm hiểu thêm về các phong cách ẩm thực, phương pháp nấu ăn mới, từ đó xây dựng cho mình kiến thức, kỹ năng hội nhập văn hóa. Ở mỗi số, các đầu bếp sẽ kể lại những câu chuyện thông qua món ăn của chính mình, từ việc chọn các nguyên liệu, dây chuyền nấu nướng đến cách trình bày đều mang những thông điệp riêng của nó.",
+        "contentType": "podcast",
+        "type": "podcast"
+      },
+      {
+        "encodeId": "6B7D6UBF",
+        "title": "Senka Podcast",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/4/e/c/6/4ec60f627f92f9f6f4d53898aaaf5c4a.jpg",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/4/e/c/6/4ec60f627f92f9f6f4d53898aaaf5c4a.jpg",
+        "isoffical": true,
+        "link": "/pgr/Senka-Podcast/6B7D6UBF.html",
+        "artists": [
+          {
+            "id": "IW7FB9D8",
+            "name": "Senka",
+            "link": "/senka",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/5/b/d/8/5bd8e76fcb6410bcc9f5b196794ee381.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/e/e/9/6/ee96518b39e6ac9ef14471e54ead338e.jpg"
+          }
+        ],
+        "description": "Lắng đọng lại sau một ngày dài hoạt động, chính là khoảng thời gian để mọi thứ được nghỉ ngơi, trở về với sự mộc mạc, nguyên bản nhất. Các Senka girls thường relax sau một ngày dài bận rộn như thế nào? Bạn thường làm gì để kết thúc một ngày trong hạnh phúc?\nHãy cùng theo chân Hoàng Hà, lắng nghe câu chuyện nạp lại năng lượng cùng #Senka nhé ❤\n",
+        "contentType": "podcast",
+        "type": "podcast"
+      },
+      {
+        "encodeId": "6B6OCZD9",
+        "title": "Tâm Sự Tài Chính",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/0/c/9/3/0c930f1468b26b363cb85771c6da3b49.jpg",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/0/c/9/3/0c930f1468b26b363cb85771c6da3b49.jpg",
+        "isoffical": true,
+        "link": "/pgr/Tam-Su-Tai-Chinh/6B6OCZD9.html",
+        "artists": [
+          {
+            "id": "IW7E7CEO",
+            "name": "Trịnh Công Hoà",
+            "link": "/trinhconghoa",
+            "cover": "https://zmp3-static.zmdcdn.me/skins/zmp3-v5.2/images/default_cover.png",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/3/9/b/f39b251f80a7e5ec861df9e0aac56551.jpg"
+          }
+        ],
+        "description": "Kênh Podcast chia sẻ kiến thức tài chính cá nhân, phát triển bản thân, độc lập tài chính, đầu tư, chi tiêu, kiếm thu nhập thụ động và tâm sự các trải nghiệm về tài chính cá nhân. Những tâm sự này của Hòa xuất phát từ những trải nghiệm chân thật của mình. Hòa hy vọng rằng giúp ích cho các bạn một điều nhỏ nhoi nào đó để các bạn hiểu rõ về tiền bạc, cách sử dụng tiền bạc và làm cho cuộc sống của bạn luôn tốt hơn\nChúc các bạn luôn vui vẻ và hành phúc trong cuộc sống.\nĐược thực hiện bởi Admin Blog tài chính cá nhân: https://tiencuatoi.vn/\nLiên hệ:\nEmail:tiencuatoi.vn@gmail.com\nZalo: 0944 325 488",
+        "contentType": "podcast",
+        "type": "podcast"
+      },
+      {
+        "encodeId": "6BZ70OFF",
+        "title": "Film & Book",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/cover/f/8/4/a/f84aa61e9e3e3daedea7343422cf8fc0.jpg",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/f/8/4/a/f84aa61e9e3e3daedea7343422cf8fc0.jpg",
+        "isoffical": true,
+        "link": "/pgr/Film-Book/6BZ70OFF.html",
+        "artists": [
+          {
+            "id": "IW67CZO0",
+            "name": "XONE Radio",
+            "link": "/xonefm",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover/4/a/4/6/4a46a203d954128a83ddb74f5dfb5900.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/8/2/5/0825d8cd559dee502625a25d540c636a.jpg"
+          }
+        ],
+        "description": "Film & Book - Nơi review tất tần tật bộ phim hay ho đang hot rần rần và những cuốn sách cực thú vị.",
+        "contentType": "podcast",
+        "type": "podcast"
+      },
+      {
+        "encodeId": "6B79UOAE",
+        "title": "Funny English x FE Credit",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/cover/d/9/f/7/d9f7c3ae022beab90737ed7410d0d9ae.jpg",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/d/9/f/7/d9f7c3ae022beab90737ed7410d0d9ae.jpg",
+        "isoffical": true,
+        "link": "/pgr/Funny-English-x-FE-Credit/6B79UOAE.html",
+        "artists": [
+          {
+            "id": "IW67CZO0",
+            "name": "XONE Radio",
+            "link": "/xonefm",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover/4/a/4/6/4a46a203d954128a83ddb74f5dfb5900.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/8/2/5/0825d8cd559dee502625a25d540c636a.jpg"
+          }
+        ],
+        "description": "Khi các chuyên gia từ FE Credit đổ bộ Funny English, chúng ta sẽ được tìm hiểu về những từ vựng hay ho nào trong tiếng Anh? Hãy cùng XONE vừa nghe nhạc vừa khám phá ngay tại đây nhé!",
+        "contentType": "podcast",
+        "type": "podcast"
+      },
+      {
+        "encodeId": "6BZ70OFU",
+        "title": "Today Story",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/cover/b/a/f/d/bafd3468ee5667aa25edb17b101db103.jpg",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/b/a/f/d/bafd3468ee5667aa25edb17b101db103.jpg",
+        "isoffical": true,
+        "link": "/pgr/Today-Story/6BZ70OFU.html",
+        "artists": [
+          {
+            "id": "IW67CZO0",
+            "name": "XONE Radio",
+            "link": "/xonefm",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover/4/a/4/6/4a46a203d954128a83ddb74f5dfb5900.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/8/2/5/0825d8cd559dee502625a25d540c636a.jpg"
+          }
+        ],
+        "description": "Today Story - cùng điểm qua những góc nhìn về các sự kiện, tin tức đang hot hòn họt trong đời sống của chúng ta.\nFollow để cập nhật sớm nhất nha!!!",
+        "contentType": "podcast",
+        "type": "podcast"
+      },
+      {
+        "encodeId": "6909WI60",
+        "title": "XONE with Stars",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/cover/9/0/c/1/90c1a3da3e6612bd51cc6d0a145f91d2.jpg",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/9/0/c/1/90c1a3da3e6612bd51cc6d0a145f91d2.jpg",
+        "isoffical": true,
+        "link": "/pgr/XONE-with-Stars/6909WI60.html",
+        "artists": [
+          {
+            "id": "IW67CZO0",
+            "name": "XONE Radio",
+            "link": "/xonefm",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover/4/a/4/6/4a46a203d954128a83ddb74f5dfb5900.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/8/2/5/0825d8cd559dee502625a25d540c636a.jpg"
+          }
+        ],
+        "description": "Talkshow 1 tiếng với các ca sĩ, nhạc sĩ, rapper, music producer,... Hẹn hò cùng các nghệ sĩ trong nước: Tóc Tiên, Đức Phúc... hay gặp gỡ độc quyền các nghệ sĩ Quốc tế: Alan Walker, Rita Ora…cùng XONE Radio.\n\nKhám phá và thưởng thức âm nhạc đa sắc màu. Phát trực tiếp lúc 18h00 thứ 6, phát lại lúc 19h00 Chủ nhật hàng tuần tại tab XONE Radio trên Zing MP3 và tần số FM 89MHz.\n\nXONE WITH STARS - Dating with Stars\n\nĐừng quên đón nghe bạn nhé!\n\n#XONEwStars #Music",
+        "contentType": "podcast",
+        "type": "podcast"
+      },
+      {
+        "encodeId": "6BOFD6E7",
+        "title": "Up & Coming Stars",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/cover/c/0/0/0/c000a20b02694f9e564de190f2c91f92.jpg",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/c/0/0/0/c000a20b02694f9e564de190f2c91f92.jpg",
+        "isoffical": true,
+        "link": "/pgr/Up-Coming-Stars/6BOFD6E7.html",
+        "artists": [
+          {
+            "id": "IW67CZO0",
+            "name": "XONE Radio",
+            "link": "/xonefm",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover/4/a/4/6/4a46a203d954128a83ddb74f5dfb5900.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/8/2/5/0825d8cd559dee502625a25d540c636a.jpg"
+          }
+        ],
+        "description": "Up & Coming Star show âm nhạc dành cho các nghệ sĩ mới tiềm năng của làng nhạc Việt. Đặc biệt là phần biểu diễn các bài hát mới nhất tại XONE. \n\nChương trình được phát trực tiếp lúc 18h thứ 5, phát lại lúc 19h thứ 7 hàng tuần tại tab XONE Radio trên Zing MP3 và tần số FM 89MHz.",
+        "contentType": "podcast",
+        "type": "podcast"
+      },
+      {
+        "encodeId": "6BUUFAEO",
+        "title": "How2Money x Doctor Housing",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+        "isoffical": true,
+        "link": "/pgr/How2Money-x-Doctor-Housing/6BUUFAEO.html",
+        "artists": [
+          {
+            "id": "IW7B7AEI",
+            "name": "Zing News",
+            "link": "/zingnews",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+          }
+        ],
+        "description": "Những vấn đề tài chính được bạn trẻ quan tâm như làm thế nào để mua nhà chung cư khi bạn không có tiền, cách vay ngân hàng để không nắm đằng lưỡi, những hiểm họa khi dính nợ xấu… được Doctor Housing - Nguyễn Duy Chuyền giải thích dễ hiểu và hài hước.",
+        "contentType": "podcast",
+        "type": "podcast"
+      },
+      {
+        "encodeId": "6BWDIZOF",
+        "title": "Tri kỷ cảm xúc",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/3/e/5/b/3e5b595beba966297bdfe72debc7969d.jpg",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/3/e/5/b/3e5b595beba966297bdfe72debc7969d.jpg",
+        "isoffical": true,
+        "link": "/pgr/Tri-ky-cam-xuc/6BWDIZOF.html",
+        "artists": [
+          {
+            "id": "IW788AU6",
+            "name": "Web5ngay",
+            "link": "/web5ngay",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/b/a/0/1ba0a9baf0839aea8175917de472102b.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/7/d/a/27da2a1f3f15e99c309edb13d7dbfda7.jpg"
+          }
+        ],
+        "description": "Từ tập 182, chương trình Tâm Sự Kinh Doanh chính thức đổi tên thành Tri Kỷ Cảm Xúc.",
+        "contentType": "podcast",
+        "type": "podcast"
+      },
+      {
+        "encodeId": "69U9W7ZI",
+        "title": "Nắng Thủy Tinh",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/1/d/0/d/1d0d3f88a0ab911690cc0a3e9c23fff0.jpg",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/1/d/0/d/1d0d3f88a0ab911690cc0a3e9c23fff0.jpg",
+        "isoffical": true,
+        "link": "/pgr/Nang-Thuy-Tinh/69U9W7ZI.html",
+        "artists": [
+          {
+            "id": "IW76ZOIZ",
+            "name": "Galaxy Play",
+            "link": "/galaxyplay",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/3/f/c/1/3fc1cdc2b208172d5347ad7ced55e19b.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/5/4/8/e/548e7d94745da1128769012494b2ccfb.jpg"
+          }
+        ],
+        "description": "Podcast Nắng Thuỷ Tinh sẽ là nơi chúng mình cùng nhau tâm tình, chia sẻ về những cảm xúc có được trong tình yêu, và trong cuộc sống. Với chất liệu dẫn lối là 301 bức thư tình của cố Nhạc sĩ Trịnh Công Sơn, thương nhớ gửi cho mối tình sâu đậm nhất của đời mình - Ngô Vũ Dao Ánh, hy vọng podcast sẽ mang đến cho các bạn những cảm xúc gần gũi, và êm ái của một ngày bình yên. \r\nXin chân thành cảm ơn Trang sức cao cấp PNJ, Ngân hàng thương mại cổ phần Á Châu ACB và Ví điện tử ShopeePay đã đồng hành cùng phim điện ảnh Em Và Trịnh, Podcast Nắng Thủy Tinh. \r\nPodcast Nắng Thuỷ Tinh được sản xuất bởi Galaxy Play, nhà sản xuất phim điện ảnh Em và Trịnh. \r\n\r\n▶ Zing MP3: https://zingmp3.vn/pgr/Nang-Thuy-Tinh/69U9W7ZI.html\r\n▶ Fanpage Phim Em Và Trịnh: https://www.facebook.com/EmVaTrinhMovie/",
+        "contentType": "podcast",
+        "type": "podcast"
+      }
+    ],
+    "hasMore": true
+  },
+  "timestamp": 1684081562430
+}

@@ -1,0 +1,941 @@
+********** getTitle ********
+{
+  "err": 0,
+  "msg": "Success",
+  "data": {
+    "encodeId": "6AFEIFOA",
+    "title": "Đắp Chăn Nằm Nghe Tun Kể",
+    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+    "isoffical": true,
+    "link": "/pgr/Dap-Chan-Nam-Nghe-Tun-Ke/6AFEIFOA.html",
+    "artists": [
+      {
+        "id": "IW77UI7I",
+        "name": "Tun Cảm Ơn",
+        "link": "/tuncamon",
+        "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+      }
+    ],
+    "description": "Là series podcast đầu tiên của Tun, nơi Tun và các bạn có thể trải lòng với nhau về những điều mệt mỏi trong cuộc sống, cùng cho nhau những lời khuyên hay ho, cùng chữa lành những tổn thương, đổ vỡ để trái tim tụi mình một lần nữa được ngập tràn yêu thương. Tun hy vọng những chia sẻ của mình có thể mang lại những giây phút thư thái, dễ chịu cho bạn trước khi đi ngủ.",
+    "contentType": "podcast",
+    "type": "podcast",
+    "genres": [
+      {
+        "id": "IWZ980AI",
+        "name": "Top Podcast",
+        "title": "Top Podcast",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w320_r16x9_jpeg/banner/2/8/7/0/28700b2057fd36c92742b3015b263b7d.jpg",
+        "link": "/cgr/Top-Podcast/IWZ980AI.html"
+      },
+      {
+        "id": "IWZ98I0A",
+        "name": "Phong cách sống",
+        "title": "Phong cách sống",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w320_r16x9_jpeg/banner/a/f/6/5/af6588f6d58fbfbb68f4231441801c15.jpg",
+        "link": "/cgr/Phong-cach-song/IWZ98I0A.html"
+      },
+      {
+        "id": "IWZ98I0B",
+        "name": "Những câu chuyện",
+        "title": "Những câu chuyện",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w320_r16x9_jpeg/banner/8/6/7/1/8671a1447b5088d30c8dce06a3b2e24c.jpg",
+        "link": "/cgr/Nhung-cau-chuyen/IWZ98I0B.html"
+      }
+    ],
+    "channel": {
+      "id": "IW77UI7I",
+      "name": "Tun Cảm Ơn",
+      "link": "/tuncamon",
+      "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+      "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg",
+      "biography": "Tun Cảm Ơn - Một khía cạnh cảm xúc khác của Tun Hay Cười, khác hẳn với hình ảnh các bạn thường thấy ở Tun trên mạng xã hội. Từng người đến và đi, từng sự việc xảy ra và vạn vật thay đổi, Tun vẫn sẽ ở đây và cùng bạn lưu giữ những dấu son trong hành trình trưởng thành bằng những lời cảm ơn chân thành cùng thật nhiều những xúc cảm đặc biệt.",
+      "sortBiography": ""
+    },
+    "like": 42693,
+    "liked": false
+  },
+  "timestamp": 1684081828086
+}
+
+******** getList *******
+{
+  "err": 0,
+  "msg": "Success",
+  "data": {
+    "items": [
+      {
+        "encodeId": "Z6A87I0W",
+        "rawId": 1146036354,
+        "title": "#43 Mình đang bỏ lỡ điều gì? | Đắp Chăn Nằm Nghe Tun Kể  ",
+        "description": "Nhiều người kiệt sức trong cuộc chiến đi tìm chính mình, quên mất bản thân muốn gì và điều gì thực sự ý nghĩa. Thực tế, không ai có thể chiến thắng trong trò chơi “cuộc đời tuyệt vời nhất”, vì cuộc sống hàng nghìn biến số và trải nghiệm khác nhau. Vậy nên, hãy sống trọn vẹn nhất ở hiện tại và đừng sợ bỏ lỡ.\n",
+        "duration": 1278,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/6/d/2/0/6d201d391a0e7d0500ed8f4099074858.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/6/d/2/0/6d201d391a0e7d0500ed8f4099074858.jpg",
+        "artists": [
+          {
+            "id": "IW77UI7I",
+            "name": "Tun Cảm Ơn",
+            "link": "/tuncamon",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+          }
+        ],
+        "link": "/eps/43-Minh-dang-bo-lo-dieu-gi-Dap-Chan-Nam-Nghe-Tun-Ke/Z6A87I0W.html",
+        "releaseDate": 1683464413,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6AFEIFOA",
+        "album": {
+          "encodeId": "6AFEIFOA",
+          "title": "Đắp Chăn Nằm Nghe Tun Kể",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "isoffical": true,
+          "link": "/pgr/Dap-Chan-Nam-Nghe-Tun-Ke/6AFEIFOA.html",
+          "artists": [
+            {
+              "id": "IW77UI7I",
+              "name": "Tun Cảm Ơn",
+              "link": "/tuncamon",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+            }
+          ],
+          "description": "Là series podcast đầu tiên của Tun, nơi Tun và các bạn có thể trải lòng với nhau về những điều mệt mỏi trong cuộc sống, cùng cho nhau những lời khuyên hay ho, cùng chữa lành những tổn thương, đổ vỡ để trái tim tụi mình một lần nữa được ngập tràn yêu thương. Tun hy vọng những chia sẻ của mình có thể mang lại những giây phút thư thái, dễ chịu cho bạn trước khi đi ngủ.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z6AUIDIC",
+        "rawId": 1145752732,
+        "title": " #42 Đừng cố nghĩ nhiều làm gì | Đắp Chăn Nằm Nghe Tun Kể",
+        "description": "\nCác bạn dạo này thế nào rồi, liệu có đang suy nghĩ về những bộn bề, lo toan của cuộc sống, về những bài vở, những kỳ thi phải vượt qua, những mục tiêu phải hoàn thành thật tốt. Tun hy vọng là dù trong tận cùng của sự bận rộn, sự cô đơn hay tuyệt vọng thì bạn vẫn có thể tìm thấy sự bình an, tìm được động lực bước tiếp trên hành trình này.11:23\n\n\n\n",
+        "duration": 1190,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/b/c/5/5/bc55870b5ed017eae8c55f5c7cfc49e6.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/b/c/5/5/bc55870b5ed017eae8c55f5c7cfc49e6.jpg",
+        "artists": [
+          {
+            "id": "IW77UI7I",
+            "name": "Tun Cảm Ơn",
+            "link": "/tuncamon",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+          }
+        ],
+        "link": "/eps/42-Dung-co-nghi-nhieu-lam-gi-Dap-Chan-Nam-Nghe-Tun-Ke/Z6AUIDIC.html",
+        "releaseDate": 1682859602,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6AFEIFOA",
+        "album": {
+          "encodeId": "6AFEIFOA",
+          "title": "Đắp Chăn Nằm Nghe Tun Kể",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "isoffical": true,
+          "link": "/pgr/Dap-Chan-Nam-Nghe-Tun-Ke/6AFEIFOA.html",
+          "artists": [
+            {
+              "id": "IW77UI7I",
+              "name": "Tun Cảm Ơn",
+              "link": "/tuncamon",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+            }
+          ],
+          "description": "Là series podcast đầu tiên của Tun, nơi Tun và các bạn có thể trải lòng với nhau về những điều mệt mỏi trong cuộc sống, cùng cho nhau những lời khuyên hay ho, cùng chữa lành những tổn thương, đổ vỡ để trái tim tụi mình một lần nữa được ngập tràn yêu thương. Tun hy vọng những chia sẻ của mình có thể mang lại những giây phút thư thái, dễ chịu cho bạn trước khi đi ngủ.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z69FZU9E",
+        "rawId": 1145439262,
+        "title": "#41 Làm thế nào để tình yêu bền vững | Đắp Chăn Nằm Nghe Tun Kể ",
+        "description": "Ai mà chẳng muốn một kết thúc có hậu cho cuộc tình của mình, nhưng không phải ai cũng biết cách để có một tình yêu bền vững. Vậy phải làm sao để tình yêu luôn dài lâu và bền chặt? Hy vọng các bạn sẽ tìm được câu trả lời qua những chia sẻ của Tun và anh Long Chun. Chúc cho các bạn luôn hạnh phúc và vun đắp được một tình yêu trọn vẹn đời mình.\n",
+        "duration": 1629,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/0/2/1/a/021afbe1bfe812799b496b44d9eb72a5.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/0/2/1/a/021afbe1bfe812799b496b44d9eb72a5.jpg",
+        "artists": [
+          {
+            "id": "IW77UI7I",
+            "name": "Tun Cảm Ơn",
+            "link": "/tuncamon",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+          }
+        ],
+        "link": "/eps/41-Lam-the-nao-de-tinh-yeu-ben-vung-Dap-Chan-Nam-Nghe-Tun-Ke/Z69FZU9E.html",
+        "releaseDate": 1682254841,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6AFEIFOA",
+        "album": {
+          "encodeId": "6AFEIFOA",
+          "title": "Đắp Chăn Nằm Nghe Tun Kể",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "isoffical": true,
+          "link": "/pgr/Dap-Chan-Nam-Nghe-Tun-Ke/6AFEIFOA.html",
+          "artists": [
+            {
+              "id": "IW77UI7I",
+              "name": "Tun Cảm Ơn",
+              "link": "/tuncamon",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+            }
+          ],
+          "description": "Là series podcast đầu tiên của Tun, nơi Tun và các bạn có thể trải lòng với nhau về những điều mệt mỏi trong cuộc sống, cùng cho nhau những lời khuyên hay ho, cùng chữa lành những tổn thương, đổ vỡ để trái tim tụi mình một lần nữa được ngập tràn yêu thương. Tun hy vọng những chia sẻ của mình có thể mang lại những giây phút thư thái, dễ chịu cho bạn trước khi đi ngủ.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z68ZCF7Z",
+        "rawId": 1143766773,
+        "title": " #40 Vào đời vững vàng từ những bài học của bố mẹ | Đắp Chăn nằm Nghe Tun Kể",
+        "description": "Trường thành chưa bao giờ là một hành trình êm đềm. Hơn hết, sau này chúng ta cũng sẽ là những người cha, người mẹ và việc trở thành người cha, người mẹ tốt cũng không dễ dàng gì. Do đó những bài học thực tế, những kinh nghiệm quý giá từ ba, mẹ sẽ giúp chúng ta vững bước trước thay đổi của cuộc đời. Ba mẹ đã mất cả đời để đúc kết những bài học ấy thì lý do gì mà chúng ta lại không lắng nghe, đúng không nào?\n",
+        "duration": 1069,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/5/6/c/c/56cce669fa6f86e764fb2d600142f107.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/5/6/c/c/56cce669fa6f86e764fb2d600142f107.jpg",
+        "artists": [
+          {
+            "id": "IW77UI7I",
+            "name": "Tun Cảm Ơn",
+            "link": "/tuncamon",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+          }
+        ],
+        "link": "/eps/40-Vao-doi-vung-vang-tu-nhung-bai-hoc-cua-bo-me-Dap-Chan-nam-Nghe-Tun-Ke/Z68ZCF7Z.html",
+        "releaseDate": 1679230857,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6AFEIFOA",
+        "album": {
+          "encodeId": "6AFEIFOA",
+          "title": "Đắp Chăn Nằm Nghe Tun Kể",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "isoffical": true,
+          "link": "/pgr/Dap-Chan-Nam-Nghe-Tun-Ke/6AFEIFOA.html",
+          "artists": [
+            {
+              "id": "IW77UI7I",
+              "name": "Tun Cảm Ơn",
+              "link": "/tuncamon",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+            }
+          ],
+          "description": "Là series podcast đầu tiên của Tun, nơi Tun và các bạn có thể trải lòng với nhau về những điều mệt mỏi trong cuộc sống, cùng cho nhau những lời khuyên hay ho, cùng chữa lành những tổn thương, đổ vỡ để trái tim tụi mình một lần nữa được ngập tràn yêu thương. Tun hy vọng những chia sẻ của mình có thể mang lại những giây phút thư thái, dễ chịu cho bạn trước khi đi ngủ.",
+          "contentType": "podcast",
+          "type": "podcast"
+        },
+        "resumePoint": {
+          "isFinished": false,
+          "resumePosition": 18
+        }
+      },
+      {
+        "encodeId": "Z6807WD8",
+        "rawId": 1143415384,
+        "title": "#39 Nhóm tính cách hiếm nhất thế giới | Đắp Chăn Nằm Nghe Tun Kể",
+        "description": "Nhóm tính cách INFJ - một nhóm tính cách siêu hiếm chỉ chiếm khoảng 1 đến 3% dân số thế giới. Sự hiếm hoi nằm ở chỗ những người thuộc nhóm tính cách này được gọi là Người Che Chở - Người Bảo Vệ. Vậy bây giờ hãy cùng bạn bè, người thân cùng thưởng thức tập podcast này. Chúng ta sẽ cùng khám phá xem liệu bạn có phải là một INFJ quý hiếm nhất thế giới không nhé!\n",
+        "duration": 1015,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/2/a/9/a/2a9a0c10ed80b600c72a07a2674d61f0.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/2/a/9/a/2a9a0c10ed80b600c72a07a2674d61f0.jpg",
+        "artists": [
+          {
+            "id": "IW77UI7I",
+            "name": "Tun Cảm Ơn",
+            "link": "/tuncamon",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+          }
+        ],
+        "link": "/eps/39-Nhom-tinh-cach-hiem-nhat-the-gioi-Dap-Chan-Nam-Nghe-Tun-Ke/Z6807WD8.html",
+        "releaseDate": 1678626052,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6AFEIFOA",
+        "album": {
+          "encodeId": "6AFEIFOA",
+          "title": "Đắp Chăn Nằm Nghe Tun Kể",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "isoffical": true,
+          "link": "/pgr/Dap-Chan-Nam-Nghe-Tun-Ke/6AFEIFOA.html",
+          "artists": [
+            {
+              "id": "IW77UI7I",
+              "name": "Tun Cảm Ơn",
+              "link": "/tuncamon",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+            }
+          ],
+          "description": "Là series podcast đầu tiên của Tun, nơi Tun và các bạn có thể trải lòng với nhau về những điều mệt mỏi trong cuộc sống, cùng cho nhau những lời khuyên hay ho, cùng chữa lành những tổn thương, đổ vỡ để trái tim tụi mình một lần nữa được ngập tràn yêu thương. Tun hy vọng những chia sẻ của mình có thể mang lại những giây phút thư thái, dễ chịu cho bạn trước khi đi ngủ.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z67CWWZ0",
+        "rawId": 1143132624,
+        "title": " #38 Mẫu người yêu lý tưởng |  Đắp Chăn Nằm Nghe Tun Kể  ",
+        "description": "Ai rồi cũng sẽ yêu, Tun cũng thế. Nhưng đừng vì cô đơn mà yêu sai một người, cũng đừng vì yêu sai một người mà chịu cả đời cô đơn. Để hạn chế được điều đó, bạn sẽ phải xác định những điều mình mong muốn ở người yêu tương lai. Nếu bạn chưa có hình mẫu lý tưởng, hãy lắng nghe số podcast này, biết đâu điều Tun tìm kiếm cũng chính là điều bạn đang mong chờ.\n",
+        "duration": 858,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/0/1/f/d/01fd10910e72d95e28f50ca520154e41.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/0/1/f/d/01fd10910e72d95e28f50ca520154e41.jpg",
+        "artists": [
+          {
+            "id": "IW77UI7I",
+            "name": "Tun Cảm Ơn",
+            "link": "/tuncamon",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+          }
+        ],
+        "link": "/eps/38-Mau-nguoi-yeu-ly-tuong-Dap-Chan-Nam-Nghe-Tun-Ke/Z67CWWZ0.html",
+        "releaseDate": 1678021219,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6AFEIFOA",
+        "album": {
+          "encodeId": "6AFEIFOA",
+          "title": "Đắp Chăn Nằm Nghe Tun Kể",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "isoffical": true,
+          "link": "/pgr/Dap-Chan-Nam-Nghe-Tun-Ke/6AFEIFOA.html",
+          "artists": [
+            {
+              "id": "IW77UI7I",
+              "name": "Tun Cảm Ơn",
+              "link": "/tuncamon",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+            }
+          ],
+          "description": "Là series podcast đầu tiên của Tun, nơi Tun và các bạn có thể trải lòng với nhau về những điều mệt mỏi trong cuộc sống, cùng cho nhau những lời khuyên hay ho, cùng chữa lành những tổn thương, đổ vỡ để trái tim tụi mình một lần nữa được ngập tràn yêu thương. Tun hy vọng những chia sẻ của mình có thể mang lại những giây phút thư thái, dễ chịu cho bạn trước khi đi ngủ.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z6780ZWI",
+        "rawId": 1142863009,
+        "title": "#37 Yêu ai để không sai | Đắp Chăn Nằm Nghe Tun Kể ",
+        "description": "Bạn quá thất vọng về việc yêu phải “bad boy”? Bạn đau đầu vì câu hỏi “Trai tốt đâu hết rồi? Sao tao toàn yêu phải trai tệ thế?” của con bạn thân? Vậy thì bạn và cả bạn thân hãy ngồi xuống, thưởng thức tập podcast hôm nay nhé. Giữa biển người mênh mông rộng lớn, Tun sẽ mách cho các bạn 4 dấu hiệu để nhận biết good boy. Nếu như bắt gặp một chàng trai có những dấu hiệu như Tun đã chia sẻ, hãy nhanh chóng tấn công và chinh phục ngay nhé!\n",
+        "duration": 867,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/8/7/e/5/87e5e349bca6f76c7bd0bb6406ec6bf3.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/8/7/e/5/87e5e349bca6f76c7bd0bb6406ec6bf3.jpg",
+        "artists": [
+          {
+            "id": "IW77UI7I",
+            "name": "Tun Cảm Ơn",
+            "link": "/tuncamon",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+          }
+        ],
+        "link": "/eps/37-Yeu-ai-de-khong-sai-Dap-Chan-Nam-Nghe-Tun-Ke/Z6780ZWI.html",
+        "releaseDate": 1677416402,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6AFEIFOA",
+        "album": {
+          "encodeId": "6AFEIFOA",
+          "title": "Đắp Chăn Nằm Nghe Tun Kể",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "isoffical": true,
+          "link": "/pgr/Dap-Chan-Nam-Nghe-Tun-Ke/6AFEIFOA.html",
+          "artists": [
+            {
+              "id": "IW77UI7I",
+              "name": "Tun Cảm Ơn",
+              "link": "/tuncamon",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+            }
+          ],
+          "description": "Là series podcast đầu tiên của Tun, nơi Tun và các bạn có thể trải lòng với nhau về những điều mệt mỏi trong cuộc sống, cùng cho nhau những lời khuyên hay ho, cùng chữa lành những tổn thương, đổ vỡ để trái tim tụi mình một lần nữa được ngập tràn yêu thương. Tun hy vọng những chia sẻ của mình có thể mang lại những giây phút thư thái, dễ chịu cho bạn trước khi đi ngủ.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z67ODI80",
+        "rawId": 1142587648,
+        "title": "#36 Hôm nay tôi hết cô đơn | Đắp Chăn Nằm Nghe Tun Kể ",
+        "description": "Thế giới muôn hình vạn trạng, mỗi người có cuộc sống khác nhau nhưng đều có một điểm chung duy nhất là mang trong mình cảm giác cô đơn.  Có những ngày, đến nỗi buồn cũng bỏ con người ta mà đi. Đến lúc ấy, mới hiểu trọn vẹn thế nào là cô độc.  Mời bạn xem, cảm nhận và comment cho Tun biết suy nghĩ của bạn nhé!\n",
+        "duration": 883,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/5/9/7/e/597e53b7433a722c4204ab4f280559ca.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/5/9/7/e/597e53b7433a722c4204ab4f280559ca.jpg",
+        "artists": [
+          {
+            "id": "IW77UI7I",
+            "name": "Tun Cảm Ơn",
+            "link": "/tuncamon",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+          }
+        ],
+        "link": "/eps/36-Hom-nay-toi-het-co-don-Dap-Chan-Nam-Nghe-Tun-Ke/Z67ODI80.html",
+        "releaseDate": 1676811621,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6AFEIFOA",
+        "album": {
+          "encodeId": "6AFEIFOA",
+          "title": "Đắp Chăn Nằm Nghe Tun Kể",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "isoffical": true,
+          "link": "/pgr/Dap-Chan-Nam-Nghe-Tun-Ke/6AFEIFOA.html",
+          "artists": [
+            {
+              "id": "IW77UI7I",
+              "name": "Tun Cảm Ơn",
+              "link": "/tuncamon",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+            }
+          ],
+          "description": "Là series podcast đầu tiên của Tun, nơi Tun và các bạn có thể trải lòng với nhau về những điều mệt mỏi trong cuộc sống, cùng cho nhau những lời khuyên hay ho, cùng chữa lành những tổn thương, đổ vỡ để trái tim tụi mình một lần nữa được ngập tràn yêu thương. Tun hy vọng những chia sẻ của mình có thể mang lại những giây phút thư thái, dễ chịu cho bạn trước khi đi ngủ.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z66FBO8O",
+        "rawId": 1142317827,
+        "title": "#35 Khéo ăn khéo nói muốn gì cũng được | Đắp Chăn Nằm Nghe Tun Kể ",
+        "description": "Nếu bạn là người có trình độ và trang bị kỹ năng giao tiếp khéo léo thì thành công sẽ đến với bạn ngay. Sau đây là 5 cách đơn giản giúp bạn trở thành người lịch sự hơn trong giao tiếp.\n",
+        "duration": 820,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/0/d/a/0/0da06dc10838e7ceab05ce499d490151.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/0/d/a/0/0da06dc10838e7ceab05ce499d490151.jpg",
+        "artists": [
+          {
+            "id": "IW77UI7I",
+            "name": "Tun Cảm Ơn",
+            "link": "/tuncamon",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+          }
+        ],
+        "link": "/eps/35-Kheo-an-kheo-noi-muon-gi-cung-duoc-Dap-Chan-Nam-Nghe-Tun-Ke/Z66FBO8O.html",
+        "releaseDate": 1676206810,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6AFEIFOA",
+        "album": {
+          "encodeId": "6AFEIFOA",
+          "title": "Đắp Chăn Nằm Nghe Tun Kể",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "isoffical": true,
+          "link": "/pgr/Dap-Chan-Nam-Nghe-Tun-Ke/6AFEIFOA.html",
+          "artists": [
+            {
+              "id": "IW77UI7I",
+              "name": "Tun Cảm Ơn",
+              "link": "/tuncamon",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+            }
+          ],
+          "description": "Là series podcast đầu tiên của Tun, nơi Tun và các bạn có thể trải lòng với nhau về những điều mệt mỏi trong cuộc sống, cùng cho nhau những lời khuyên hay ho, cùng chữa lành những tổn thương, đổ vỡ để trái tim tụi mình một lần nữa được ngập tràn yêu thương. Tun hy vọng những chia sẻ của mình có thể mang lại những giây phút thư thái, dễ chịu cho bạn trước khi đi ngủ.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z6ZB90BE",
+        "rawId": 1140998206,
+        "title": "#34 Tình bạn là một sự đầu tư khôn ngoan | Đắp Chăn Nằm Nghe Tun Kể ",
+        "description": "Có được một người đặc biệt trong cuộc đời là điều mà ai cũng đều mong muốn. Người đặc biệt ấy sẽ luôn bên cạnh bạn, lắng nghe những chuyện hỷ, nộ, ái, ố và hơn hết họ sẽ luôn ủng hộ, tiếp sức cho những điều bạn làm. Những người đặc biệt ấy có thể được gọi với cái tên thân thương là “tri kỷ”. Vậy làm thế nào để tìm được “tri kỷ”? Làm thế nào để mối quan hệ giữa chúng ta và “tri kỉ” gắn kết hơn? Cùng Tun tìm hiểu trong số podcast này nhé.\n",
+        "duration": 616,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/a/2/7/b/a27b6ff97e774a4c83b54506a76596a1.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/a/2/7/b/a27b6ff97e774a4c83b54506a76596a1.jpg",
+        "artists": [
+          {
+            "id": "IW77UI7I",
+            "name": "Tun Cảm Ơn",
+            "link": "/tuncamon",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+          }
+        ],
+        "link": "/eps/34-Tinh-ban-la-mot-su-dau-tu-khon-ngoan-Dap-Chan-Nam-Nghe-Tun-Ke/Z6ZB90BE.html",
+        "releaseDate": 1673182815,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6AFEIFOA",
+        "album": {
+          "encodeId": "6AFEIFOA",
+          "title": "Đắp Chăn Nằm Nghe Tun Kể",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "isoffical": true,
+          "link": "/pgr/Dap-Chan-Nam-Nghe-Tun-Ke/6AFEIFOA.html",
+          "artists": [
+            {
+              "id": "IW77UI7I",
+              "name": "Tun Cảm Ơn",
+              "link": "/tuncamon",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+            }
+          ],
+          "description": "Là series podcast đầu tiên của Tun, nơi Tun và các bạn có thể trải lòng với nhau về những điều mệt mỏi trong cuộc sống, cùng cho nhau những lời khuyên hay ho, cùng chữa lành những tổn thương, đổ vỡ để trái tim tụi mình một lần nữa được ngập tràn yêu thương. Tun hy vọng những chia sẻ của mình có thể mang lại những giây phút thư thái, dễ chịu cho bạn trước khi đi ngủ.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z6Z76O8W",
+        "rawId": 1140724482,
+        "title": "#33 Bốn mẹo phong thuỷ giữ tiền, cải vận nhất định bạn phải biết | Đắp Chăn Nằm Nghe Tun Kể ",
+        "description": "Ngày nay, yếu tố tài lộc là yếu tố được rất nhiều người quan tâm, trong đó có bản thân Tun. Bởi lẽ trong cuộc sống, ai cũng muốn được thịnh vượng, phát tài, may mắn, mạnh khỏe và hạnh phúc. Vậy hãy cùng Tun tìm hiểu những mẹo phong thủy trong tập podcast này và áp dụng ngay để có được cuộc sống tốt đẹp hơn nữa nhé.\n",
+        "duration": 551,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/8/1/b/a/81ba777845660b1e5595a54648f5616c.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/8/1/b/a/81ba777845660b1e5595a54648f5616c.jpg",
+        "artists": [
+          {
+            "id": "IW77UI7I",
+            "name": "Tun Cảm Ơn",
+            "link": "/tuncamon",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+          }
+        ],
+        "link": "/eps/33-Bon-meo-phong-thuy-giu-tien-cai-van-nhat-dinh-ban-phai-biet-Dap-Chan-Nam-Nghe-Tun-Ke/Z6Z76O8W.html",
+        "releaseDate": 1672578044,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6AFEIFOA",
+        "album": {
+          "encodeId": "6AFEIFOA",
+          "title": "Đắp Chăn Nằm Nghe Tun Kể",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "isoffical": true,
+          "link": "/pgr/Dap-Chan-Nam-Nghe-Tun-Ke/6AFEIFOA.html",
+          "artists": [
+            {
+              "id": "IW77UI7I",
+              "name": "Tun Cảm Ơn",
+              "link": "/tuncamon",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+            }
+          ],
+          "description": "Là series podcast đầu tiên của Tun, nơi Tun và các bạn có thể trải lòng với nhau về những điều mệt mỏi trong cuộc sống, cùng cho nhau những lời khuyên hay ho, cùng chữa lành những tổn thương, đổ vỡ để trái tim tụi mình một lần nữa được ngập tràn yêu thương. Tun hy vọng những chia sẻ của mình có thể mang lại những giây phút thư thái, dễ chịu cho bạn trước khi đi ngủ.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z6ZOOC9I",
+        "rawId": 1140452369,
+        "title": "#32 Năm lời khuyên từ những người phụ nữ thành công và hạnh phúc | Đắp Chăn Nằm Nghe Tun Kể ",
+        "description": "Theo bạn phụ nữ thành công liệu có được hạnh phúc? Hay để có được hạnh phúc thì họ phải âm thầm hy sinh sự nghiệp và cả cuộc đời mình? Liệu có thể đồng thời có cả thành công và hạnh phúc. Cùng Tun khám phá trong podcast này nhé.11:30\n",
+        "duration": 506,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/e/c/4/1/ec41eab92e1e96876db060698d138031.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/e/c/4/1/ec41eab92e1e96876db060698d138031.jpg",
+        "artists": [
+          {
+            "id": "IW77UI7I",
+            "name": "Tun Cảm Ơn",
+            "link": "/tuncamon",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+          }
+        ],
+        "link": "/eps/32-Nam-loi-khuyen-tu-nhung-nguoi-phu-nu-thanh-cong-va-hanh-phuc-Dap-Chan-Nam-Nghe-Tun-Ke/Z6ZOOC9I.html",
+        "releaseDate": 1671973213,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6AFEIFOA",
+        "album": {
+          "encodeId": "6AFEIFOA",
+          "title": "Đắp Chăn Nằm Nghe Tun Kể",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "isoffical": true,
+          "link": "/pgr/Dap-Chan-Nam-Nghe-Tun-Ke/6AFEIFOA.html",
+          "artists": [
+            {
+              "id": "IW77UI7I",
+              "name": "Tun Cảm Ơn",
+              "link": "/tuncamon",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+            }
+          ],
+          "description": "Là series podcast đầu tiên của Tun, nơi Tun và các bạn có thể trải lòng với nhau về những điều mệt mỏi trong cuộc sống, cùng cho nhau những lời khuyên hay ho, cùng chữa lành những tổn thương, đổ vỡ để trái tim tụi mình một lần nữa được ngập tràn yêu thương. Tun hy vọng những chia sẻ của mình có thể mang lại những giây phút thư thái, dễ chịu cho bạn trước khi đi ngủ.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z6UFOBUF",
+        "rawId": 1140189903,
+        "title": "#31 Xin lỗi vì tôi yêu ai cũng luỵ | Đắp Chăn Nằm Nghe Tun Kể  ",
+        "description": "Xin lỗi vì tính tôi yêu ai cũng luỵ\n\nTình yêu giống như hai người cùng kéo một sợi dây thun. Nếu một người buông, người còn níu giữ sẽ đau đớn. Có đúng như vậy không ? Tun cũng chẳng biết rõ nữa.\n",
+        "duration": 1895,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/5/c/a/d/5cad3e6908d46e904d158e3b2e5fdb15.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/5/c/a/d/5cad3e6908d46e904d158e3b2e5fdb15.jpg",
+        "artists": [
+          {
+            "id": "IW77UI7I",
+            "name": "Tun Cảm Ơn",
+            "link": "/tuncamon",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+          }
+        ],
+        "link": "/eps/31-Xin-loi-vi-toi-yeu-ai-cung-luy-Dap-Chan-Nam-Nghe-Tun-Ke/Z6UFOBUF.html",
+        "releaseDate": 1671368445,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6AFEIFOA",
+        "album": {
+          "encodeId": "6AFEIFOA",
+          "title": "Đắp Chăn Nằm Nghe Tun Kể",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "isoffical": true,
+          "link": "/pgr/Dap-Chan-Nam-Nghe-Tun-Ke/6AFEIFOA.html",
+          "artists": [
+            {
+              "id": "IW77UI7I",
+              "name": "Tun Cảm Ơn",
+              "link": "/tuncamon",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+            }
+          ],
+          "description": "Là series podcast đầu tiên của Tun, nơi Tun và các bạn có thể trải lòng với nhau về những điều mệt mỏi trong cuộc sống, cùng cho nhau những lời khuyên hay ho, cùng chữa lành những tổn thương, đổ vỡ để trái tim tụi mình một lần nữa được ngập tràn yêu thương. Tun hy vọng những chia sẻ của mình có thể mang lại những giây phút thư thái, dễ chịu cho bạn trước khi đi ngủ.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z6UADCCC",
+        "rawId": 1139903564,
+        "title": "#30 Sáu công việc giúp học sinh sinh viên kiếm thêm thu nhập | Đắp Chăn Nằm Nghe Tun Kể",
+        "description": "Một trong những câu hỏi Tun nhận được nhiều nhất đó là :” Đang ở độ tuổi đến trường nên làm công việc gì để kiếm thêm thu nhập và tăng trưởng vốn sống để phục vụ cho tương lai sau này?”. Và dưới đây là 6 công việc nhất định các bạn phải biết khi còn là học sinh, sinh viên.\n",
+        "duration": 1080,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/5/b/7/0/5b701186950d280172660297d3a4d9b4.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/5/b/7/0/5b701186950d280172660297d3a4d9b4.jpg",
+        "artists": [
+          {
+            "id": "IW77UI7I",
+            "name": "Tun Cảm Ơn",
+            "link": "/tuncamon",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+          }
+        ],
+        "link": "/eps/30-Sau-cong-viec-giup-hoc-sinh-sinh-vien-kiem-them-thu-nhap-Dap-Chan-Nam-Nghe-Tun-Ke/Z6UADCCC.html",
+        "releaseDate": 1670763608,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6AFEIFOA",
+        "album": {
+          "encodeId": "6AFEIFOA",
+          "title": "Đắp Chăn Nằm Nghe Tun Kể",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "isoffical": true,
+          "link": "/pgr/Dap-Chan-Nam-Nghe-Tun-Ke/6AFEIFOA.html",
+          "artists": [
+            {
+              "id": "IW77UI7I",
+              "name": "Tun Cảm Ơn",
+              "link": "/tuncamon",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+            }
+          ],
+          "description": "Là series podcast đầu tiên của Tun, nơi Tun và các bạn có thể trải lòng với nhau về những điều mệt mỏi trong cuộc sống, cùng cho nhau những lời khuyên hay ho, cùng chữa lành những tổn thương, đổ vỡ để trái tim tụi mình một lần nữa được ngập tràn yêu thương. Tun hy vọng những chia sẻ của mình có thể mang lại những giây phút thư thái, dễ chịu cho bạn trước khi đi ngủ.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z6U6AW9F",
+        "rawId": 1139626527,
+        "title": "#29 Công thức 66/3/6/5 giúp bạn thành công sau 1 năm | Đắp Chăn Nằm Nghe Tun Kể",
+        "description": "66/3/6/5! Mới nghe tới đây các bạn sẽ nghĩ ngay đến công thức toán học đúng không? Nhưng không, đây là những thói quen đơn giản giúp Tun có nhiều thành công hơn chỉ sau 1 năm. Cùng Tun tìm hiểu ngay nhaa\n",
+        "duration": 666,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/8/4/1/4/8414abca314fe776dea159e7ab8ae90f.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/8/4/1/4/8414abca314fe776dea159e7ab8ae90f.jpg",
+        "artists": [
+          {
+            "id": "IW77UI7I",
+            "name": "Tun Cảm Ơn",
+            "link": "/tuncamon",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+          }
+        ],
+        "link": "/eps/29-Cong-thuc-66-3-6-5-giup-ban-thanh-cong-sau-1-nam-Dap-Chan-Nam-Nghe-Tun-Ke/Z6U6AW9F.html",
+        "releaseDate": 1670158849,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6AFEIFOA",
+        "album": {
+          "encodeId": "6AFEIFOA",
+          "title": "Đắp Chăn Nằm Nghe Tun Kể",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "isoffical": true,
+          "link": "/pgr/Dap-Chan-Nam-Nghe-Tun-Ke/6AFEIFOA.html",
+          "artists": [
+            {
+              "id": "IW77UI7I",
+              "name": "Tun Cảm Ơn",
+              "link": "/tuncamon",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+            }
+          ],
+          "description": "Là series podcast đầu tiên của Tun, nơi Tun và các bạn có thể trải lòng với nhau về những điều mệt mỏi trong cuộc sống, cùng cho nhau những lời khuyên hay ho, cùng chữa lành những tổn thương, đổ vỡ để trái tim tụi mình một lần nữa được ngập tràn yêu thương. Tun hy vọng những chia sẻ của mình có thể mang lại những giây phút thư thái, dễ chịu cho bạn trước khi đi ngủ.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z6WFAFB6",
+        "rawId": 1138122550,
+        "title": "#28 Bảy điều con gái muốn con trai làm nhưng không bao giờ nói ra | Đắp Chăn Nằm Nghe Tun Kể ",
+        "description": "Cuối cùng cũng đã có dịp ngồi xuống cùng cô bạn của Tun nói về chủ đề mà đối với bọn con trai tụi mình là khoai vô cùng. Tuy nhiên, chỉ cần bạn kiên nhẫn cùng với trái tim luôn nhiều yêu thương thì mọi thứ cũng sẽ được gỡ rối mà thôi. Chủ đề đó là gì? Tại sao lại khiến Tun xoắn hết cả não, bấm nghe là biết liền nha!\n",
+        "duration": 1493,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/c/6/9/f/c69f5738d16462f34af778737d9cc63e.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/c/6/9/f/c69f5738d16462f34af778737d9cc63e.jpg",
+        "artists": [
+          {
+            "id": "IW77UI7I",
+            "name": "Tun Cảm Ơn",
+            "link": "/tuncamon",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+          }
+        ],
+        "link": "/eps/28-Bay-dieu-con-gai-muon-con-trai-lam-nhung-khong-bao-gio-noi-ra-Dap-Chan-Nam-Nghe-Tun-Ke/Z6WFAFB6.html",
+        "releaseDate": 1667134803,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6AFEIFOA",
+        "album": {
+          "encodeId": "6AFEIFOA",
+          "title": "Đắp Chăn Nằm Nghe Tun Kể",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "isoffical": true,
+          "link": "/pgr/Dap-Chan-Nam-Nghe-Tun-Ke/6AFEIFOA.html",
+          "artists": [
+            {
+              "id": "IW77UI7I",
+              "name": "Tun Cảm Ơn",
+              "link": "/tuncamon",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+            }
+          ],
+          "description": "Là series podcast đầu tiên của Tun, nơi Tun và các bạn có thể trải lòng với nhau về những điều mệt mỏi trong cuộc sống, cùng cho nhau những lời khuyên hay ho, cùng chữa lành những tổn thương, đổ vỡ để trái tim tụi mình một lần nữa được ngập tràn yêu thương. Tun hy vọng những chia sẻ của mình có thể mang lại những giây phút thư thái, dễ chịu cho bạn trước khi đi ngủ.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z6WC087E",
+        "rawId": 1137883134,
+        "title": "#27 Những điều giá như Tun biết sớm hơn khi còn đi học | Đắp Chăn Nằm Nghe Tun Kể ",
+        "description": "Có bao giờ bạn tiếc nuối những điều mình đã từng làm hoặc chưa từng làm trong quãng đời học sinh, sinh viên của bạn? Nếu có một chiếc vé để được quay lại quá khứ bạn có muốn thay đổi những điều đó? Với những ai vẫn còn đang đi học, Tun thiết tha muốn chia sẻ với bạn những điều mà giá như Tun biết sớm hơn khi còn đến trường, mong có thể giúp ích được cho bạn nhiều hơn.  \n\nMời bạn xem, cảm nhận và comment cho Tun biết suy nghĩ của bạn nhé!\n",
+        "duration": 1234,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/9/4/f/4/94f4c6672363ac433e1b3acaf2e55e82.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/9/4/f/4/94f4c6672363ac433e1b3acaf2e55e82.jpg",
+        "artists": [
+          {
+            "id": "IW77UI7I",
+            "name": "Tun Cảm Ơn",
+            "link": "/tuncamon",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+          }
+        ],
+        "link": "/eps/27-Nhung-dieu-gia-nhu-Tun-biet-som-hon-khi-con-di-hoc-Dap-Chan-Nam-Nghe-Tun-Ke/Z6WC087E.html",
+        "releaseDate": 1666530021,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6AFEIFOA",
+        "album": {
+          "encodeId": "6AFEIFOA",
+          "title": "Đắp Chăn Nằm Nghe Tun Kể",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "isoffical": true,
+          "link": "/pgr/Dap-Chan-Nam-Nghe-Tun-Ke/6AFEIFOA.html",
+          "artists": [
+            {
+              "id": "IW77UI7I",
+              "name": "Tun Cảm Ơn",
+              "link": "/tuncamon",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+            }
+          ],
+          "description": "Là series podcast đầu tiên của Tun, nơi Tun và các bạn có thể trải lòng với nhau về những điều mệt mỏi trong cuộc sống, cùng cho nhau những lời khuyên hay ho, cùng chữa lành những tổn thương, đổ vỡ để trái tim tụi mình một lần nữa được ngập tràn yêu thương. Tun hy vọng những chia sẻ của mình có thể mang lại những giây phút thư thái, dễ chịu cho bạn trước khi đi ngủ.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z6W7AC8A",
+        "rawId": 1137597450,
+        "title": " #26 Bí quyết thành công của người Do Thái | Đắp Chăn Nằm Nghe Tun Kể",
+        "description": "Chỉ chiếm rất ít về phần trăm dân số trên thế giới nhưng lại là dân tộc thành công nhất, thông minh nhất. Người Do Thái có bí quyết gì mà hay đến thế? Cùng Tun khám phá nha.\n",
+        "duration": 969,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/4/b/7/2/4b72201158a83951be8be9f39bc29abf.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/4/b/7/2/4b72201158a83951be8be9f39bc29abf.jpg",
+        "artists": [
+          {
+            "id": "IW77UI7I",
+            "name": "Tun Cảm Ơn",
+            "link": "/tuncamon",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+          }
+        ],
+        "link": "/eps/26-Bi-quyet-thanh-cong-cua-nguoi-Do-Thai-Dap-Chan-Nam-Nghe-Tun-Ke/Z6W7AC8A.html",
+        "releaseDate": 1665925200,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6AFEIFOA",
+        "album": {
+          "encodeId": "6AFEIFOA",
+          "title": "Đắp Chăn Nằm Nghe Tun Kể",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "isoffical": true,
+          "link": "/pgr/Dap-Chan-Nam-Nghe-Tun-Ke/6AFEIFOA.html",
+          "artists": [
+            {
+              "id": "IW77UI7I",
+              "name": "Tun Cảm Ơn",
+              "link": "/tuncamon",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+            }
+          ],
+          "description": "Là series podcast đầu tiên của Tun, nơi Tun và các bạn có thể trải lòng với nhau về những điều mệt mỏi trong cuộc sống, cùng cho nhau những lời khuyên hay ho, cùng chữa lành những tổn thương, đổ vỡ để trái tim tụi mình một lần nữa được ngập tràn yêu thương. Tun hy vọng những chia sẻ của mình có thể mang lại những giây phút thư thái, dễ chịu cho bạn trước khi đi ngủ.",
+          "contentType": "podcast",
+          "type": "podcast"
+        },
+        "resumePoint": {
+          "isFinished": false,
+          "resumePosition": 3
+        }
+      },
+      {
+        "encodeId": "Z6WO8BF8",
+        "rawId": 1137326968,
+        "title": "#25 Cùng Đích Lép đi tìm 5 dấu hiệu lý tưởng mà một người bạn đời cần có | Đắp Chăn Nằm Nghe Tun Kể ",
+        "description": "Cùng Tun và anh Đích Lép đi tìm những dấu hiệu lý tưởng mà một người bạn đời cần phải có. Hy vọng nghe xong số này bạn sẽ mau chóng tìm được một người thương \"perfect\" cho mình nhé.\n",
+        "duration": 1464,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/b/0/e/e/b0ee74f23dfbb2de53bfbb4e11a0e9c2.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/b/0/e/e/b0ee74f23dfbb2de53bfbb4e11a0e9c2.jpg",
+        "artists": [
+          {
+            "id": "IW77UI7I",
+            "name": "Tun Cảm Ơn",
+            "link": "/tuncamon",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+          }
+        ],
+        "link": "/eps/25-Cung-Dich-Lep-di-tim-5-dau-hieu-ly-tuong-ma-mot-nguoi-ban-doi-can-co-Dap-Chan-Nam-Nghe-Tun-Ke/Z6WO8BF8.html",
+        "releaseDate": 1665320426,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6AFEIFOA",
+        "album": {
+          "encodeId": "6AFEIFOA",
+          "title": "Đắp Chăn Nằm Nghe Tun Kể",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "isoffical": true,
+          "link": "/pgr/Dap-Chan-Nam-Nghe-Tun-Ke/6AFEIFOA.html",
+          "artists": [
+            {
+              "id": "IW77UI7I",
+              "name": "Tun Cảm Ơn",
+              "link": "/tuncamon",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+            }
+          ],
+          "description": "Là series podcast đầu tiên của Tun, nơi Tun và các bạn có thể trải lòng với nhau về những điều mệt mỏi trong cuộc sống, cùng cho nhau những lời khuyên hay ho, cùng chữa lành những tổn thương, đổ vỡ để trái tim tụi mình một lần nữa được ngập tràn yêu thương. Tun hy vọng những chia sẻ của mình có thể mang lại những giây phút thư thái, dễ chịu cho bạn trước khi đi ngủ.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z6IEFU7F",
+        "rawId": 1137026047,
+        "title": "#24 Tun đã áp dụng điều này để có thêm những mối quan hệ chất | Đắp Chăn Nằm Nghe Tun Kể  lượng trong cuộc sống ",
+        "description": "Nghệ thuật trà trộn nơi đông người là một trong những cách phổ biến được rất nhiều người sử dụng để mở rộng mối quan hệ, giúp ích hơn cho cuộc sống cũng như công việc. Ở số podcast này, Tun sẽ chỉ cho bạn từ A đến Á cách để làm sao vận dụng triệt để nhá. Hy vọng mọi người có thể áp dụng thành công.\n",
+        "duration": 865,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/a/6/f/3/a6f3f8b2bd35659717374f427e29db2e.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/a/6/f/3/a6f3f8b2bd35659717374f427e29db2e.jpg",
+        "artists": [
+          {
+            "id": "IW77UI7I",
+            "name": "Tun Cảm Ơn",
+            "link": "/tuncamon",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+          }
+        ],
+        "link": "/eps/24-Tun-da-ap-dung-dieu-nay-de-co-them-nhung-moi-quan-he-chat-Dap-Chan-Nam-Nghe-Tun-Ke-luong-trong-cuoc-song/Z6IEFU7F.html",
+        "releaseDate": 1664715650,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6AFEIFOA",
+        "album": {
+          "encodeId": "6AFEIFOA",
+          "title": "Đắp Chăn Nằm Nghe Tun Kể",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/f/6/d/7/f6d788fdf5d8ef5913ea2bc2e514a083.jpg",
+          "isoffical": true,
+          "link": "/pgr/Dap-Chan-Nam-Nghe-Tun-Ke/6AFEIFOA.html",
+          "artists": [
+            {
+              "id": "IW77UI7I",
+              "name": "Tun Cảm Ơn",
+              "link": "/tuncamon",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/0/9/0/10903853abb5a135aaf4202a827d25a9.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/6/6/9466371d8c2d00a643a529fca1adb613.jpg"
+            }
+          ],
+          "description": "Là series podcast đầu tiên của Tun, nơi Tun và các bạn có thể trải lòng với nhau về những điều mệt mỏi trong cuộc sống, cùng cho nhau những lời khuyên hay ho, cùng chữa lành những tổn thương, đổ vỡ để trái tim tụi mình một lần nữa được ngập tràn yêu thương. Tun hy vọng những chia sẻ của mình có thể mang lại những giây phút thư thái, dễ chịu cho bạn trước khi đi ngủ.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      }
+    ],
+    "total": 43,
+    "hasMore": true
+  },
+  "timestamp": 1684081828289
+}
