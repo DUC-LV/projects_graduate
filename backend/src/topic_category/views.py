@@ -8,6 +8,10 @@ from .models import TopicHub, Hub, HubOfTopic
 from .serializers import TopicHubSerializers, HubSerializers
 from random import choice
 from rest_framework.permissions import AllowAny
+from playlists.models import TopicPlaylistOfHub, PlaylistOfTopic, TopicPlaylist
+from playlists.serializers import PlaylistSerializers
+from artists.models import ArtistOfPlaylist
+from artists.serializers import ArtistSerializers
 
 
 # Create your views here.
@@ -153,4 +157,61 @@ class HubPageAPIView(APIView):
             "data": items
         }
 
+        return Response(res)
+
+
+class GetTopicCategoryDetailAPIView(APIView):
+    permission_classes = [AllowAny]
+
+    def get(self, request, id):
+        hub = Hub.objects.filter(id=id).all()
+
+        if not hub.exists():
+            return HttpResponse(status=404)
+
+        topicofhub = TopicPlaylistOfHub.objects.filter(hub=hub[0])
+
+        items = []
+        for topic in topicofhub:
+            all_topic = topic.topic_playlist
+            playlist_of_topic = PlaylistOfTopic.objects.filter(topic=all_topic)
+
+            playlist_of_topic_map = {}
+            for tp_pl in playlist_of_topic:
+                playlist = tp_pl.playlist
+                playlist_map = playlist_of_topic_map.get(tp_pl.topic_id, None)
+
+                artist_of_playlist = ArtistOfPlaylist.objects.filter(playlist_id=playlist)
+                artist_data = []
+                for artist in artist_of_playlist:
+                    artist_data.append(ArtistSerializers(artist.artist).data)
+
+                playlist_data = PlaylistSerializers(playlist).data
+                playlist_dict = dict(playlist_data, **{"artists": artist_data})
+
+                if playlist_map is None:
+                    playlist_of_topic_map[tp_pl.topic_id] = [playlist_dict]
+                else:
+                    playlist_of_topic_map[tp_pl.topic_id].append(playlist_dict)
+
+            res_playlist = []
+            for topics in [all_topic]:
+                res_playlist.append({
+                    "sectionType": "playlist",
+                    "viewType": "slider",
+                    "title": topics.title,
+                    "link": "",
+                    "items": playlist_of_topic_map[topics.id]
+                })
+
+            for i in range(len(res_playlist)):
+                items.append(res_playlist[i])
+
+        hub_dict = dict(HubSerializers(hub[0]).data, **{"sections": items})
+
+        res = {
+            "err": 0,
+            "msg": "Success",
+            "data": hub_dict
+        }
         return Response(res)
