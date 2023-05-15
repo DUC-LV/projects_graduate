@@ -92,7 +92,7 @@ class PodCastAPIView(APIView):
         return Response(serializer.data)
 
 
-class PodCastCategoryDetailAPIView(APIView):
+class GetPodCastCategoryDetailAPIView(APIView):
     permission_classes = [AllowAny]
 
     def get(self, request, id):
@@ -116,4 +116,22 @@ class PodCastCategoryDetailAPIView(APIView):
                 "items": items
             }
         }
+        return Response(res)
+
+
+class GetPodCastDetailAPIView(APIView):
+    permission_classes = [AllowAny]
+
+    def get(self, request, id):
+
+        podcast = PodCast.objects.filter(id=id)
+
+        podcast_dict = PodCastSerializers(podcast[0]).data
+
+        res = {
+            "err": 0,
+            "msg": "Success",
+            "data": podcast_dict
+        }
+
         return Response(res)
