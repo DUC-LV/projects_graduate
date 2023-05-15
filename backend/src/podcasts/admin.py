@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import PodCastCategory, TopicPodCast, PodCast, PodCastOfTopic
+from .models import PodCastCategory, TopicPodCast, PodCast, PodCastOfTopic, PodCastOfPodCastCategory
 
 
 # Register your models here.
@@ -34,3 +34,8 @@ class PodCastOfTopic(admin.ModelAdmin):
 
 
 admin.register(PodCastOfTopic)
+
+
+@admin.register(PodCastOfPodCastCategory)
+class PodCastOfPodCastCategory(admin.ModelAdmin):
+    list_display = ["podcast_category", "podcast", "created_at"]
