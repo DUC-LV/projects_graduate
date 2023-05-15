@@ -50,3 +50,14 @@ class PodCastOfTopic(BaseModel):
 
     def __str__(self):
         return f"{self.topic.title}_{self.podcast.title}"
+
+
+class PodCastOfPodCastCategory(BaseModel):
+    class Meta:
+        ordering = ['created_at']
+
+    podcast_category = models.ForeignKey(PodCastCategory, on_delete=models.CASCADE)
+    podcast = models.ForeignKey(PodCast, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return f"{self.podcast_category.title}_{self.podcast.title}"
