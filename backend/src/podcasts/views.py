@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from rest_framework.response import Response
 from django.http import HttpResponse
-from .models import PodCastCategory, TopicPodCast, PodCast
+from .models import PodCastCategory, TopicPodCast, PodCast, PodCastOfPodCastCategory
 from .serializers import PodCastCategorySerializers, TopicPodCastSerializers, PodCastSerializers
 from rest_framework.views import APIView
 from rest_framework.permissions import AllowAny
@@ -90,3 +90,30 @@ class PodCastAPIView(APIView):
 
         serializer = PodCastSerializers(podcast, many=True)
         return Response(serializer.data)
+
+
+class PodCastCategoryDetailAPIView(APIView):
+    permission_classes = [AllowAny]
+
+    def get(self, request, id):
+
+        podcast_category = PodCastCategory.objects.filter(id=id).all()
+        if not podcast_category:
+            return HttpResponse(status=404)
+
+        podcast_of_podcast_category = PodCastOfPodCastCategory.objects.filter(podcast_category=podcast_category[0])
+
+        items = []
+
+        for podcast in podcast_of_podcast_category:
+            podcast = podcast.podcast
+            items.append(PodCastSerializers(podcast).data)
+
+        res = {
+            "err": 0,
+            "msg": "Success",
+            "data": {
+                "items": items
+            }
+        }
+        return Response(res)
