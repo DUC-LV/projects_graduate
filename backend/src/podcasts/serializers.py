@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .models import PodCastCategory, TopicPodCast, PodCast
+from .models import PodCastCategory, TopicPodCast, PodCast, PodcastEpisode
 
 
 class PodCastCategorySerializers(serializers.ModelSerializer):
@@ -18,3 +18,9 @@ class PodCastSerializers(serializers.ModelSerializer):
     class Meta:
         model = PodCast
         fields = ["id", "title", "thumbnail_m", "thumbnail", "isoffical", "description", "content_type", "type"]
+
+
+class PodcastEpisodeSerializers(serializers.ModelSerializer):
+    class Meta:
+        model = PodcastEpisode
+        fields = ["id", "description", "duration", "thumbnail", "thumbnail_m", "release_date", "content_type", "episode"]
