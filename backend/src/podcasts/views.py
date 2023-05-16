@@ -1,8 +1,10 @@
 from django.shortcuts import render
 from rest_framework.response import Response
 from django.http import HttpResponse
-from .models import PodCastCategory, TopicPodCast, PodCast
-from .serializers import PodCastCategorySerializers, TopicPodCastSerializers, PodCastSerializers
+from .models import PodCastCategory, TopicPodCast, PodCast, PodCastOfPodCastCategory, PodcastEpisode,\
+    PodcastEpisodeOfPodCast
+from .serializers import PodCastCategorySerializers, TopicPodCastSerializers, PodCastSerializers, \
+    PodcastEpisodeSerializers
 from rest_framework.views import APIView
 from rest_framework.permissions import AllowAny
 
@@ -90,3 +92,97 @@ class PodCastAPIView(APIView):
 
         serializer = PodCastSerializers(podcast, many=True)
         return Response(serializer.data)
+
+
+class GetPodCastCategoryDetailAPIView(APIView):
+    permission_classes = [AllowAny]
+
+    def get(self, request, id):
+
+        podcast_category = PodCastCategory.objects.filter(id=id).all()
+        if not podcast_category:
+            return HttpResponse(status=404)
+
+        podcast_of_podcast_category = PodCastOfPodCastCategory.objects.filter(podcast_category=podcast_category[0])
+
+        items = []
+
+        for podcast in podcast_of_podcast_category:
+            podcast = podcast.podcast
+            items.append(PodCastSerializers(podcast).data)
+
+        res = {
+            "err": 0,
+            "msg": "Success",
+            "data": {
+                "items": items
+            }
+        }
+        return Response(res)
+
+
+class GetPodCastDetailAPIView(APIView):
+    permission_classes = [AllowAny]
+
+    def get(self, request, id):
+        podcast = PodCast.objects.filter(id=id)
+
+        podcast_dict = PodCastSerializers(podcast[0]).data
+
+        res = {
+            "err": 0,
+            "msg": "Success",
+            "data": podcast_dict
+        }
+
+        return Response(res)
+
+
+class PodcastEpisodeAPIView(APIView):
+    permission_classes = [AllowAny]
+
+    def post(self, request):
+        data = request.data
+
+        if not data:
+            return HttpResponse(status=404)
+
+        podcast_episode = PodcastEpisode.objects.create(
+            title=data["title"],
+            description=data["description"],
+            duration=data["duration"],
+            thumbnail=data["thumbnail"],
+            thumbnail_m=data["thumbnailM"],
+            release_date=data["releaseDate"],
+            content_type=data["contentType"],
+            episode=data["episode"],
+        )
+
+        podcast_episode.save()
+        serializer = PodcastEpisodeSerializers(podcast_episode).data
+
+        return Response(serializer)
+
+
+class GetListPodcastEpisodeAPIView(APIView):
+    permission_classes = [AllowAny]
+
+    def get(self, request, id):
+        podcast = PodCast.objects.filter(id=id).all()
+        podcast_episode_of_podcast = PodcastEpisodeOfPodCast.objects.filter(podcast=podcast[0])
+
+        items = []
+        for podcast_episode in podcast_episode_of_podcast:
+            podcast_episode = podcast_episode.podcast_episode
+            items.append(PodcastEpisodeSerializers(podcast_episode).data)
+
+        res = {
+            "err": 0,
+            "msg": "Success",
+            "data": {
+                "items": items
+            }
+        }
+
+        return Response(res)
+

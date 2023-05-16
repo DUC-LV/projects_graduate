@@ -50,3 +50,42 @@ class PodCastOfTopic(BaseModel):
 
     def __str__(self):
         return f"{self.topic.title}_{self.podcast.title}"
+
+
+class PodCastOfPodCastCategory(BaseModel):
+    class Meta:
+        ordering = ['created_at']
+
+    podcast_category = models.ForeignKey(PodCastCategory, on_delete=models.CASCADE)
+    podcast = models.ForeignKey(PodCast, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return f"{self.podcast_category.title}_{self.podcast.title}"
+
+
+class PodcastEpisode(BaseModel):
+    class Meta:
+        ordering = ['created_at']
+
+    title = models.CharField(max_length=200, default=None, blank=True)
+    description = models.TextField(default=None, blank=True)
+    duration = models.IntegerField(default=None, blank=True)
+    thumbnail = models.CharField(max_length=400, default=None, blank=True)
+    thumbnail_m = models.CharField(max_length=400, default=None, blank=True)
+    release_date = models.IntegerField(default=None, blank=True)
+    content_type = models.CharField(max_length=100, default="episode", blank=True)
+    episode = models.BooleanField(default=True, blank=True)
+
+    def __str__(self):
+        return self.title
+
+
+class PodcastEpisodeOfPodCast(BaseModel):
+    class Meta:
+        ordering = ['created_at']
+
+    podcast = models.ForeignKey(PodCast, on_delete=models.CASCADE)
+    podcast_episode = models.ForeignKey(PodcastEpisode, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return f"{self.podcast.title}_{self.podcast_episode.title}"
