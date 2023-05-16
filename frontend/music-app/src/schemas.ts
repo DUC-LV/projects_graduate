@@ -23,6 +23,7 @@ export interface DataStreaming {
 }
 
 export interface DataPodCastCategory {
+	id?: string | number;
 	title?: string;
 	thumbnail?: string;
 	name?: string;
