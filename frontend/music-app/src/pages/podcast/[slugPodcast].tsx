@@ -1,19 +1,23 @@
-import { DataPodCast } from "@/schemas";
+import { DataPodCast, DataPodcastEpisode } from "@/schemas";
+import getListPodcast from "@/services/getListPodcast";
 import getPodcastDetail from "@/services/getPodcastDetail";
 import { Grid } from "@mui/material";
 import React from "react";
 
 type Props = {
-	data: Array<DataPodCast>,
+	dataPodcast: Array<DataPodCast>,
+	dataPocastEpiside: Array<DataPodcastEpisode>,
 }
 
 export async function getServerSideProps({ query }: any) {
 	try {
 		if(query?.id){
-			const res = await getPodcastDetail.getAll(query.id);
+			const resPodcast = await getPodcastDetail.getAll(query.id);
+			const resPocastEpiside = await getListPodcast.getAll(query.id);
 			return {
 				props: {
-					data: res.data.data,
+					dataPodcast: resPodcast.data.data,
+					dataPocastEpiside: resPocastEpiside.data.data.items,
 				}
 			};
 		}
@@ -23,8 +27,8 @@ export async function getServerSideProps({ query }: any) {
 	}
 }
 
-const PodcastDetail = ({ data }: Props) => {
-	console.log(data);
+const PodcastDetail = ({ dataPodcast, dataPocastEpiside }: Props) => {
+	console.log(dataPocastEpiside);
 	return(
 		<Grid></Grid>
 	);

@@ -58,3 +58,12 @@ export interface DataHeaderPlaylist {
 	artist_names?: string,
 	sort_description?: string,
 }
+
+export interface DataPodcastEpisode {
+	id?: string | number;
+	title?: string;
+	description?: string;
+	thumbnail?: string;
+	thumbnail_m?: string;
+	duration?: number;
+}
