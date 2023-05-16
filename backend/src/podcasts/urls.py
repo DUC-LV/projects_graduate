@@ -8,4 +8,5 @@ urlpatterns = [
     path('podcast-category/<str:id>', views.GetPodCastCategoryDetailAPIView.as_view()),
     path('podcast/<str:id>', views.GetPodCastDetailAPIView.as_view()),
     path('update/podcast-episode', views.PodcastEpisodeAPIView.as_view()),
+    path('list-podcast-episode/<str:id>', views.GetListPodcastEpisodeAPIView.as_view()),
 ]
