@@ -1,8 +1,9 @@
 from django.shortcuts import render
 from rest_framework.response import Response
 from django.http import HttpResponse
-from .models import PodCastCategory, TopicPodCast, PodCast, PodCastOfPodCastCategory
-from .serializers import PodCastCategorySerializers, TopicPodCastSerializers, PodCastSerializers
+from .models import PodCastCategory, TopicPodCast, PodCast, PodCastOfPodCastCategory, PodcastEpisode
+from .serializers import PodCastCategorySerializers, TopicPodCastSerializers, PodCastSerializers,\
+    PodcastEpisodeSerializers
 from rest_framework.views import APIView
 from rest_framework.permissions import AllowAny
 
@@ -135,3 +136,29 @@ class GetPodCastDetailAPIView(APIView):
         }
 
         return Response(res)
+
+
+class PodcastEpisodeAPIView(APIView):
+    permission_classes = [AllowAny]
+
+    def post(self, request):
+        data = request.data
+
+        if not data:
+            return HttpResponse(status=404)
+
+        podcast_episode = PodcastEpisode.objects.create(
+            title=data["title"],
+            description=data["description"],
+            duration=data["duration"],
+            thumbnail=data["thumbnail"],
+            thumbnail_m=data["thumbnailM"],
+            release_date=data["releaseDate"],
+            content_type=data["contentType"],
+            episode=data["episode"],
+        )
+
+        podcast_episode.save()
+        serializer = PodcastEpisodeSerializers(podcast_episode).data
+
+        return Response(serializer)
