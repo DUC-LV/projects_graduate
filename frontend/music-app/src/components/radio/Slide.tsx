@@ -98,6 +98,7 @@ export const PodCastCategorySlider = (props: { data: Array<DataPodCastCategory>,
 
 export const PodCastSlider = (props: { data: Array<DataPodCast>, title: string }) => {
 	const { data, title } = props;
+	const router = useRouter();
 	return(
 		<Box sx={{ marginBottom: '30px' }}>
 			<Grid container>
@@ -111,6 +112,15 @@ export const PodCastSlider = (props: { data: Array<DataPodCast>, title: string }
 					return(
 						<SwiperSlide key={index} style={{  cursor: "pointer" }}>
 							<Grid container item direction="column"
+								onClick={() => {
+									router.push({
+										pathname: '/podcast/[slugPodcast]',
+										query: {
+											slugPodcast: convertSlug(item?.title ? item?.title : ''),
+											id: item?.id
+										}
+									})
+								}}
 								sx={{
 									backgroundColor: '#181818',
 									padding: '16px',

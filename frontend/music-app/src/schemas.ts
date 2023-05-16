@@ -30,6 +30,7 @@ export interface DataPodCastCategory {
 }
 
 export interface DataPodCast {
+	id?: string | number;
 	title?: string;
 	thumbnail?: string;
 	thumbnail_m?: string;
