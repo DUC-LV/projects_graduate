@@ -26,6 +26,7 @@ class Songs(BaseModel):
     streaming_status = models.IntegerField(default=1, blank=True)
     allow_audio_ads = models.BooleanField(default=True, blank=True)
     has_lyric = models.BooleanField(default=False, blank=True)
+    type = models.CharField(max_length=100, default='song', blank=True)
 
     def __str__(self):
         return self.title
