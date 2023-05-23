@@ -4,6 +4,7 @@ import { Box, Grid, Typography } from "@mui/material";
 import React from "react";
 import { TextLineClamp } from "../Text";
 import PlayCircleIcon from '@mui/icons-material/PlayCircle';
+import FavoriteIcon from '@mui/icons-material/Favorite';
 
 import { convertDuration, getFullTimeFromDatetime } from "@/untils";
 
@@ -46,6 +47,9 @@ const ListEpisodePodcast = ({ dataPocastEpiside }: Props) => {
 										sx={{ fontSize: '13px', fontWeight: 500, color: 'hsla(0,0%,100%,0.5)'}}>
 										{convertDuration(Number(item?.duration))}
 									</Typography>
+									<Box sx={{ display: 'flex', alignItems: 'center', cursor: 'pointer' }}>
+										<FavoriteIcon sx={{ color: 'white' }}/>
+									</Box>
 								</Box>
 							</Grid>
 						</Grid>

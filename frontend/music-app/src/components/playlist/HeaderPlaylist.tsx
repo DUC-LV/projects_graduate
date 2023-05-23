@@ -1,8 +1,9 @@
 /* eslint-disable @next/next/no-img-element */
 import { DataHeaderPlaylist } from "@/schemas";
-import { Grid } from "@mui/material";
+import { Box, Grid } from "@mui/material";
 import React from "react";
 import { TextLineClamp, TextOnline } from "../Text";
+import FavoriteIcon from '@mui/icons-material/Favorite';
 
 const HeaderPlaylist = ({ thumbnail_m, title, artist_names, sort_description }: DataHeaderPlaylist) => {
 	return(
@@ -73,6 +74,20 @@ const HeaderPlaylist = ({ thumbnail_m, title, artist_names, sort_description }: 
 							}
 						}}
 					>{sort_description}</TextLineClamp>
+					<Box
+						sx={{
+							display: 'flex',
+							height: '35px',
+							width: '35px',
+							borderRadius: '99%',
+							background: 'hsla(0,0%,100%,0.1)',
+							justifyContent: 'center',
+							alignItems: 'center',
+							margin: '10px auto',
+							cursor: 'pointer'
+						}}>
+						<FavoriteIcon sx={{ color: 'white' }}/>
+					</Box>
 				</Grid>
 			</Grid>
 		</Grid>

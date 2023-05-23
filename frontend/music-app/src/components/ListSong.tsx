@@ -4,6 +4,7 @@ import { Box, Grid } from "@mui/material";
 import { useRouter } from "next/router";
 import { TextLineClamp, TextOnline } from "./Text";
 import { convertDuration } from "@/untils";
+import FavoriteIcon from '@mui/icons-material/Favorite';
 
 type Props = {
 	data: Array<object>
@@ -113,7 +114,10 @@ const ListSong = ({ data, description }: Props) => {
 									{item.album.title}
 								</TextOnline>
 							</Grid>
-							<Grid item xs={2} sx={{ alignItems: 'center', justifyContent: 'center', textAlign: 'center' }}>
+							<Grid item container xs={2} sx={{ alignItems: 'center', justifyContent: 'space-evenly', textAlign: 'center' }}>
+								<Box sx={{ display: 'flex', alignItems: 'center', cursor: 'pointer' }}>
+									<FavoriteIcon sx={{ color: 'white' }}/>
+								</Box>
 								<TextOnline sx={{fontSize: '12px', color: 'white'}}>
 									{convertDuration(item.duration)}
 								</TextOnline>
