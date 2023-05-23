@@ -1,3 +1,5 @@
+import HeaderPodcastDetail from "@/components/podcast/HeaderPodcastDetail";
+import ListEpisodePodcast from "@/components/podcast/ListEpisodePodcast";
 import { DataPodCast, DataPodcastEpisode } from "@/schemas";
 import getListPodcast from "@/services/getListPodcast";
 import getPodcastDetail from "@/services/getPodcastDetail";
@@ -30,7 +32,14 @@ export async function getServerSideProps({ query }: any) {
 const PodcastDetail = ({ dataPodcast, dataPocastEpiside }: Props) => {
 	console.log(dataPocastEpiside);
 	return(
-		<Grid></Grid>
+		<Grid container flexDirection="column">
+			<Grid item>
+				<HeaderPodcastDetail dataPodcast={dataPodcast}/>
+			</Grid>
+			<Grid item sx={{ marginY: '40px' }}>
+				<ListEpisodePodcast dataPocastEpiside={dataPocastEpiside}/>
+			</Grid>
+		</Grid>
 	);
 }
 

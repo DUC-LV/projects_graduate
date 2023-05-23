@@ -67,3 +67,13 @@ export interface DataPodcastEpisode {
 	thumbnail_m?: string;
 	duration?: number;
 }
+
+export interface DataPocastEpiside {
+	id?: string | number;
+	title?: string;
+	description?: string;
+	thumbnail?: string;
+	thumbnail_m?: string;
+	duration?: number;
+	release_date?: number;
+}

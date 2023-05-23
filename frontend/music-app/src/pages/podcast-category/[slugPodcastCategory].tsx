@@ -1,10 +1,10 @@
-import { DataPodCastCategory } from "@/schemas";
+import ListPodcast from "@/components/podcast/ListPodcast";
 import getPodcastCategoryDetail from "@/services/getPodcastCategoryDetail";
-import { Grid } from "@mui/material";
+import { Box, Typography } from "@mui/material";
 import React from "react";
 
 type Props = {
-	data: Array<DataPodCastCategory>
+	data: any
 }
 
 export async function getServerSideProps({ query }: any) {
@@ -13,7 +13,7 @@ export async function getServerSideProps({ query }: any) {
 			const res = await getPodcastCategoryDetail.getAll(query?.id);
 			return {
 				props: {
-					data: res.data.data.items,
+					data: res.data.data,
 				}
 			};
 		}
@@ -23,7 +23,16 @@ export async function getServerSideProps({ query }: any) {
 }
 const PodcastCategory = ({ data }: Props) => {
 	return(
-		<Grid></Grid>
+		<Box>
+			<Box sx={{ margin: '20px auto' }}>
+				<Typography sx={{ fontSize: '48px', fontWeight: 700, color: 'white', textAlign: 'center' }}>
+					{data?.title}
+				</Typography>
+			</Box>
+			<Box>
+				<ListPodcast data={data?.items}/>
+			</Box>
+		</Box>
 	);
 }
 
