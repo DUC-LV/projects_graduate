@@ -12,3 +12,8 @@ export const convertDuration = (seconds: number) =>{
 		second: '2-digit'
 	});
 }
+
+export const getFullTimeFromDatetime = (dt: number) => {
+    const datetime = new Date(dt * 1000);
+    return `${datetime.getDate()}/${datetime.getMonth() + 1}/${datetime.getFullYear()}`
+}

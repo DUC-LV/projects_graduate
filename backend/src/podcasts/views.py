@@ -111,12 +111,11 @@ class GetPodCastCategoryDetailAPIView(APIView):
             podcast = podcast.podcast
             items.append(PodCastSerializers(podcast).data)
 
+        podcast_category_dict = dict(PodCastCategorySerializers(podcast_category[0]).data, **{"items": items})
         res = {
             "err": 0,
             "msg": "Success",
-            "data": {
-                "items": items
-            }
+            "data": podcast_category_dict
         }
         return Response(res)
 

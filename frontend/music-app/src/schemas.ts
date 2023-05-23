@@ -23,12 +23,14 @@ export interface DataStreaming {
 }
 
 export interface DataPodCastCategory {
+	id?: string | number;
 	title?: string;
 	thumbnail?: string;
 	name?: string;
 }
 
 export interface DataPodCast {
+	id?: string | number;
 	title?: string;
 	thumbnail?: string;
 	thumbnail_m?: string;
@@ -55,4 +57,23 @@ export interface DataHeaderPlaylist {
 	title?: string,
 	artist_names?: string,
 	sort_description?: string,
+}
+
+export interface DataPodcastEpisode {
+	id?: string | number;
+	title?: string;
+	description?: string;
+	thumbnail?: string;
+	thumbnail_m?: string;
+	duration?: number;
+}
+
+export interface DataPocastEpiside {
+	id?: string | number;
+	title?: string;
+	description?: string;
+	thumbnail?: string;
+	thumbnail_m?: string;
+	duration?: number;
+	release_date?: number;
 }

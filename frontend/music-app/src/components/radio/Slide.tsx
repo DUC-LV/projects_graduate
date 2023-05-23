@@ -4,6 +4,8 @@ import { Box, Grid, Typography } from '@mui/material';
 import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { TextLineClamp, TextOnline } from '../Text';
+import { useRouter } from 'next/router';
+import { convertSlug } from '@/untils';
 
 
 export const StreamingSlider = (props: { data: Array<DataStreaming> }) => {
@@ -46,6 +48,7 @@ export const StreamingSlider = (props: { data: Array<DataStreaming> }) => {
 
 export const PodCastCategorySlider = (props: { data: Array<DataPodCastCategory>, title: string }) => {
 	const { data, title } = props;
+	const router = useRouter();
 	return(
 		<Box sx={{ marginY: '30px' }}>
 			<Grid container>
@@ -59,6 +62,15 @@ export const PodCastCategorySlider = (props: { data: Array<DataPodCastCategory>,
 					return(
 						<SwiperSlide key={index} style={{  cursor: "pointer" }}>
 							<Grid container item direction="column"
+								onClick={() => {
+									router.push({
+										pathname: '/podcast-category/[slugPodcastCategory]',
+										query: {
+											slugPodcastCategory: convertSlug(item?.title ? item?.title : ''),
+											id: item?.id
+										}
+									})
+								}}
 								sx={{
 									backgroundColor: '#181818',
 									padding: '16px',
@@ -86,6 +98,7 @@ export const PodCastCategorySlider = (props: { data: Array<DataPodCastCategory>,
 
 export const PodCastSlider = (props: { data: Array<DataPodCast>, title: string }) => {
 	const { data, title } = props;
+	const router = useRouter();
 	return(
 		<Box sx={{ marginBottom: '30px' }}>
 			<Grid container>
@@ -99,6 +112,15 @@ export const PodCastSlider = (props: { data: Array<DataPodCast>, title: string }
 					return(
 						<SwiperSlide key={index} style={{  cursor: "pointer" }}>
 							<Grid container item direction="column"
+								onClick={() => {
+									router.push({
+										pathname: '/podcast/[slugPodcast]',
+										query: {
+											slugPodcast: convertSlug(item?.title ? item?.title : ''),
+											id: item?.id
+										}
+									})
+								}}
 								sx={{
 									backgroundColor: '#181818',
 									padding: '16px',
