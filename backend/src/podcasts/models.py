@@ -1,5 +1,6 @@
 from django.db import models
 from commons.models import BaseModel
+from django.conf import settings
 
 
 # Create your models here.
@@ -75,6 +76,8 @@ class PodcastEpisode(BaseModel):
     release_date = models.IntegerField(default=None, blank=True)
     content_type = models.CharField(max_length=100, default="episode", blank=True)
     episode = models.BooleanField(default=True, blank=True)
+    type = models.CharField(max_length=100, default='podcast_episode', blank=True)
+    follow = models.ManyToManyField(settings.AUTH_USER_MODEL, related_name='follow_episode_podcast')
 
     def __str__(self):
         return self.title
