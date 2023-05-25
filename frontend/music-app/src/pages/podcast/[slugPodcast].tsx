@@ -8,7 +8,7 @@ import React from "react";
 
 type Props = {
 	dataPodcast: Array<DataPodCast>,
-	dataPocastEpiside: Array<DataPodcastEpisode>,
+	dataPocastEpisode: Array<DataPodcastEpisode>,
 }
 
 export async function getServerSideProps({ query }: any) {
@@ -19,7 +19,7 @@ export async function getServerSideProps({ query }: any) {
 			return {
 				props: {
 					dataPodcast: resPodcast.data.data,
-					dataPocastEpiside: resPocastEpiside.data.data.items,
+					dataPocastEpisode: resPocastEpiside.data.data.items,
 				}
 			};
 		}
@@ -29,15 +29,14 @@ export async function getServerSideProps({ query }: any) {
 	}
 }
 
-const PodcastDetail = ({ dataPodcast, dataPocastEpiside }: Props) => {
-	console.log(dataPocastEpiside);
+const PodcastDetail = ({ dataPodcast, dataPocastEpisode }: Props) => {
 	return(
 		<Grid container flexDirection="column">
 			<Grid item>
 				<HeaderPodcastDetail dataPodcast={dataPodcast}/>
 			</Grid>
 			<Grid item sx={{ marginY: '40px' }}>
-				<ListEpisodePodcast dataPocastEpiside={dataPocastEpiside}/>
+				<ListEpisodePodcast dataPocastEpisode={dataPocastEpisode}/>
 			</Grid>
 		</Grid>
 	);

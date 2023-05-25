@@ -1,13 +1,107 @@
 /* eslint-disable @next/next/no-img-element */
-import React from "react";
+import React, { useCallback, useEffect, useState } from "react";
 import { Box, Grid } from "@mui/material";
 import { useRouter } from "next/router";
 import { TextLineClamp, TextOnline } from "./Text";
 import { convertDuration } from "@/untils";
+import FavoriteIcon from '@mui/icons-material/Favorite';
+import axiosInstances from "@/services/axiosInstances";
+import { toast } from "react-toastify";
 
 type Props = {
 	data: Array<object>
 	description: string,
+}
+
+type props = {
+	item: any;
+}
+export const SongItem = ({ item }: props) => {
+	const [like, setLike] = useState(false);
+
+	useEffect(() => {
+		if (item?.follow?.length === 0) {
+			setLike(false);
+		} else if (item?.follow?.length === 1) {
+			setLike(true);
+		}
+	}, [item?.follow?.length])
+
+	const toggleLike = useCallback(() => {
+		setLike(!like);
+		axiosInstances.post('update-follow', { song_id: item.id ?? '' }).then(res => {
+			toast.success(res?.data?.msg)
+		})
+	}, [item.id, like])
+
+	return(
+		<Grid item container alignItems={'center'}
+			sx={{
+				height: '60px', paddingY: '10px',
+				borderBottom: '1px solid hsla(0,0%,100%,0.05)',
+				":hover": {
+					background: '#ffffff1a',
+					borderRadius: '4px'
+				}
+			}}>
+			<Grid xs={6} item container alignItems={'center'}>
+				<img alt="" src={item?.thumbnail}
+					style={{ height: '40px', width: '40px', borderRadius: '6px', cursor: 'pointer', marginLeft: '15px' }}
+				/>
+				<Grid item sx={{ marginLeft: '10px', flexDirection: 'column' }}>
+					<TextOnline
+						sx={{
+							fontSize: '14px',
+							fontWeight: '600',
+							color: item.streaming_status === 2 ? '#ffffff80' : '#FFF',
+						}}>{item.title}
+					</TextOnline>
+					<Grid item container sx={{ marginY: '3px' }}>
+						{item?.artists.map((items: any, index: number) => {
+							return(
+								<Grid item key={index}>
+									<TextOnline
+										sx={{
+											fontSize: '12px',
+											color: '#ffffff80',
+											fontWeight: '500',
+											cursor: 'pointer',
+											":hover": {
+												color: '#c273ed',
+												textDecoration: 'underline',
+											}
+										}}
+									>{items.name}&ensp;</TextOnline>
+								</Grid>
+							);
+						})}
+					</Grid>
+				</Grid>
+			</Grid>
+			<Grid item xs={4} sx={{ cursor: 'pointer' }}>
+				<TextOnline
+					sx={{
+						fontSize: '12px',
+						color: 'white',
+						fontWeight: '500',
+						":hover": {
+							color: '#c273ed',
+							textDecoration: 'underline',
+						}
+					}}>
+					{item.album.title}
+				</TextOnline>
+			</Grid>
+			<Grid item container xs={2} sx={{ alignItems: 'center', justifyContent: 'space-evenly', textAlign: 'center' }}>
+				<Box sx={{ display: 'flex', alignItems: 'center', cursor: 'pointer' }}>
+					<FavoriteIcon sx={{ color: like ? '#9b4de0' : 'white' }} onClick={toggleLike}/>
+				</Box>
+				<TextOnline sx={{fontSize: '12px', color: 'white'}}>
+					{convertDuration(item.duration)}
+				</TextOnline>
+			</Grid>
+		</Grid>
+	);
 }
 
 
@@ -56,69 +150,7 @@ const ListSong = ({ data, description }: Props) => {
 			<Grid item container sx={{ flexDirection: 'column', marginLeft: '25px'}}>
 				{data?.map((item: any, index) => {
 					return(
-						<Grid item container key={index} alignItems={'center'}
-							sx={{
-								height: '60px', paddingY: '10px',
-								borderBottom: '1px solid hsla(0,0%,100%,0.05)',
-								":hover": {
-									background: '#ffffff1a',
-									borderRadius: '4px'
-								}
-							}}>
-							<Grid xs={6} item container alignItems={'center'}>
-								<img alt="" src={item?.thumbnail}
-									style={{ height: '40px', width: '40px', borderRadius: '6px', cursor: 'pointer' }}
-								/>
-								<Grid item sx={{ marginLeft: '10px', flexDirection: 'column' }}>
-									<TextOnline
-										sx={{
-											fontSize: '14px',
-											fontWeight: '600',
-											color: item.streaming_status === 2 ? '#ffffff80' : '#FFF',
-										}}>{item.title}
-									</TextOnline>
-									<Grid item container sx={{ marginY: '3px' }}>
-										{item?.artists.map((items: any, index: number) => {
-											return(
-												<Grid item key={index}>
-													<TextOnline
-														sx={{
-															fontSize: '12px',
-															color: '#ffffff80',
-															fontWeight: '500',
-															cursor: 'pointer',
-															":hover": {
-																color: '#c273ed',
-																textDecoration: 'underline',
-															}
-														}}
-													>{items.name}&ensp;</TextOnline>
-												</Grid>
-											);
-										})}
-									</Grid>
-								</Grid>
-							</Grid>
-							<Grid item xs={4} sx={{ cursor: 'pointer' }}>
-								<TextOnline
-									sx={{
-										fontSize: '12px',
-										color: 'white',
-										fontWeight: '500',
-										":hover": {
-											color: '#c273ed',
-											textDecoration: 'underline',
-										}
-									}}>
-									{item.album.title}
-								</TextOnline>
-							</Grid>
-							<Grid item xs={2} sx={{ alignItems: 'center', justifyContent: 'center', textAlign: 'center' }}>
-								<TextOnline sx={{fontSize: '12px', color: 'white'}}>
-									{convertDuration(item.duration)}
-								</TextOnline>
-							</Grid>
-						</Grid>
+						<SongItem  key={index} item={item} />
 					);
 				})}
 			</Grid>

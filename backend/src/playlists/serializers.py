@@ -13,7 +13,7 @@ class PlaylistSerializers(serializers.ModelSerializer):
         model = Playlists
         fields = ["id", "title", "thumbnail", "isoffical", "is_indie", "release_date", "sort_description", "released_at"
             , "pr", "artist_names", "play_item_mode", "sub_type", "thumbnail_m", "is_shuffle", "is_private",
-                  "user_name", "is_album", "text_type", "is_single"]
+                  "user_name", "is_album", "text_type", "is_single", "follow"]
 
 
 class PlaylistSortDataSerializers(serializers.ModelSerializer):
