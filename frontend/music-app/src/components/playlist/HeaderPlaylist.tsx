@@ -1,11 +1,30 @@
 /* eslint-disable @next/next/no-img-element */
 import { DataHeaderPlaylist } from "@/schemas";
 import { Box, Grid } from "@mui/material";
-import React from "react";
+import React, { useCallback, useEffect, useState } from "react";
 import { TextLineClamp, TextOnline } from "../Text";
 import FavoriteIcon from '@mui/icons-material/Favorite';
+import axiosInstances from "@/services/axiosInstances";
+import { toast } from "react-toastify";
 
-const HeaderPlaylist = ({ thumbnail_m, title, artist_names, sort_description }: DataHeaderPlaylist) => {
+const HeaderPlaylist = ({ id, thumbnail_m, title, artist_names, sort_description, follow }: DataHeaderPlaylist) => {
+	const [like, setLike] = useState(false);
+
+	useEffect(() => {
+		if (follow?.length === 0) {
+			setLike(false);
+		} else if (follow?.length === 1) {
+			setLike(true);
+		}
+	}, [follow?.length])
+
+	const toggleLike = useCallback(() => {
+		setLike(!like);
+		axiosInstances.post('update-follow', { playlist_id: id ?? '' }).then(res => {
+			toast.success(res?.data?.msg)
+		})
+	}, [id, like])
+
 	return(
 		<Grid container
 			sx={{
@@ -86,7 +105,7 @@ const HeaderPlaylist = ({ thumbnail_m, title, artist_names, sort_description }: 
 							margin: '10px auto',
 							cursor: 'pointer'
 						}}>
-						<FavoriteIcon sx={{ color: 'white' }}/>
+						<FavoriteIcon sx={{ color: like ? '#9b4de0' : 'white' }} onClick={toggleLike}/>
 					</Box>
 				</Grid>
 			</Grid>

@@ -53,10 +53,12 @@ export interface DataTopicHub {
 }
 
 export interface DataHeaderPlaylist {
+	id?: string | number,
 	thumbnail_m?: string,
 	title?: string,
 	artist_names?: string,
 	sort_description?: string,
+	follow?: Array<any>,
 }
 
 export interface DataPodcastEpisode {

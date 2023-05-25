@@ -35,10 +35,12 @@ const PlaylistDetail = ({ data }: Props) => {
 		>
 			<Grid item>
 				<HeaderPlaylist
+					id={data?.id}
 					thumbnail_m={data?.thumbnail_m}
 					title={data?.title}
 					artist_names={data?.artist_names}
 					sort_description={data?.sort_description}
+					follow={data?.follow}
 				/>
 			</Grid>
 			<Grid item xs sx={{ overflow: 'hidden' }}>
