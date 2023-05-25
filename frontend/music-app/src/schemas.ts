@@ -68,14 +68,7 @@ export interface DataPodcastEpisode {
 	thumbnail?: string;
 	thumbnail_m?: string;
 	duration?: number;
+	release_date?: number;
+	follow?: Array<any>;
 }
 
-export interface DataPocastEpiside {
-	id?: string | number;
-	title?: string;
-	description?: string;
-	thumbnail?: string;
-	thumbnail_m?: string;
-	duration?: number;
-	release_date?: number;
-}
