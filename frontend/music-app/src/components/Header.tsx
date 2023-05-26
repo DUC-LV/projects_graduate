@@ -50,8 +50,8 @@ const Header = () => {
 			id: 1,
 			type: '',
 			name: 'Thư Viện',
-			link: '/mymusic',
-			isActive: (pathName: string) => /^\/mymusic/.test(pathName),
+			link: '/my-music',
+			isActive: (pathName: string) => /^\/my-music/.test(pathName),
 			icon: <LibraryMusicIcon />
 		},
 		{

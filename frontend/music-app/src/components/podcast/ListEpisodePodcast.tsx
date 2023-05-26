@@ -34,6 +34,7 @@ export const PocastEpisideItem = ({ item }: props) => {
 			toast.success(res?.data?.msg)
 		})
 	}, [item.id, like])
+
 	return (
 		<Grid item container sx={{ marginBottom: '24px', alignItems: 'center' }}>
 			<Grid item sx={{ marginRight: '24px'}}>
