@@ -22,7 +22,7 @@ const LoginPage = () => {
 				if(res?.status === 200){
 					localStorage.setItem("access_token", res.data.access);
 					localStorage.setItem('refresh_token', res.data.refresh);
-					Cookies.set('access_token', res.data.access);
+					Cookies.set('access_token', res.data.access, { expires: 1 });
 					setTimeout(() => {
 						router.push('/');
 					}, 1000);

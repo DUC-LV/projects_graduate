@@ -2,10 +2,10 @@ import { Box, Button, Grid, Input, Typography } from "@mui/material";
 import React, { useRef, useState } from "react";
 import SearchIcon from '@mui/icons-material/Search';
 import { useRouter } from "next/router";
-import PersonIcon from '@mui/icons-material/Person';
 import AccountCircleIcon from '@mui/icons-material/AccountCircle';
 import { CurrentUserData } from "@/schemas";
 import useClickOutside from "use-click-outside";
+import Cookies from "js-cookie";
 
 const InputSearch = () => {
 	const router = useRouter();
@@ -137,6 +137,7 @@ const SearchBar = ({ currentUser } : { currentUser: CurrentUserData | null }) =>
 								onClick={() => {
 									localStorage.removeItem("access_token");
 									localStorage.removeItem("refresh_token");
+									Cookies.remove("access_token");
 									setTimeout(() => {
 										router.push('/')
 									}, 500)
