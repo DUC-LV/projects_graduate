@@ -1,0 +1,641 @@
+{
+  "err": 0,
+  "msg": "Success",
+  "data": {
+    "items": [
+      {
+        "encodeId": "ZU6BCIAI",
+        "title": "Chiếc Đèn Ông Sao",
+        "alias": "Chiec-Den-Ong-Sao-Be-Thanh-Ngan",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "Bé Thanh Ngân",
+        "artists": [
+          {
+            "id": "IWZFEB9B",
+            "name": "Bé Thanh Ngân",
+            "link": "/nghe-si/Be-Thanh-Ngan",
+            "spotlight": false,
+            "alias": "Be-Thanh-Ngan",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/2/0220f492c95a2995c9e28980f66fa9f2_1516088772.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/2/0220f492c95a2995c9e28980f66fa9f2_1516088772.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "6UW9B6FU"
+          }
+        ],
+        "isWorldWide": true,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/c/3/5/8/c35826756d0020fde4272cd6d2b20420.jpg",
+        "link": "/video-clip/Chiec-Den-Ong-Sao-Be-Thanh-Ngan/ZU6BCIAI.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/c/3/5/8/c35826756d0020fde4272cd6d2b20420.jpg",
+        "duration": 129,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZFEB9B",
+          "name": "Bé Thanh Ngân",
+          "link": "/nghe-si/Be-Thanh-Ngan",
+          "spotlight": false,
+          "alias": "Be-Thanh-Ngan",
+          "playlistId": "6UW9B6FU",
+          "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/3/f/3fb2db6cccf4a23383383394b28b2b31_1516088289.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/2/0220f492c95a2995c9e28980f66fa9f2_1516088772.jpg"
+        }
+      },
+      {
+        "encodeId": "ZUZBBOFF",
+        "title": "Túp Lều Vàng",
+        "alias": "Tup-Leu-Vang-Nguyen-Dinh-Vu-ACV",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "Nguyễn Đình Vũ, ACV",
+        "artists": [
+          {
+            "id": "IWZ96EC7",
+            "name": "Nguyễn Đình Vũ",
+            "link": "/nguyendinhvu",
+            "spotlight": false,
+            "alias": "nguyendinhvu",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/5/a/b/45ab1296d73b215629fcbab092687d4c.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/5/a/b/45ab1296d73b215629fcbab092687d4c.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZWZBO006"
+          },
+          {
+            "id": "IW6ZAAB8",
+            "name": "ACV",
+            "link": "/nghe-si/ACV-Music",
+            "spotlight": false,
+            "alias": "ACV-Music",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/5/e/0/6/5e06d48fb79175a096e059ecf3d8b1e8.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/5/e/0/6/5e06d48fb79175a096e059ecf3d8b1e8.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "6UW9CWC9"
+          }
+        ],
+        "isWorldWide": true,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/d/6/e/6/d6e6201323fed8fb16886a3f428fc4f7.jpg",
+        "link": "/video-clip/Tup-Leu-Vang-Nguyen-Dinh-Vu-ACV/ZUZBBOFF.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/d/6/e/6/d6e6201323fed8fb16886a3f428fc4f7.jpg",
+        "duration": 213,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZ96EC7",
+          "name": "Nguyễn Đình Vũ",
+          "link": "/nghe-si/nguyendinhvu",
+          "spotlight": false,
+          "alias": "nguyendinhvu",
+          "playlistId": "ZWZBO006",
+          "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/b/d/0/8/bd086da0946891f58a7f00166aad239d.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/5/a/b/45ab1296d73b215629fcbab092687d4c.jpg"
+        }
+      },
+      {
+        "encodeId": "ZUZ89OB9",
+        "title": "Khi Cô Đơn Em Nhớ Ai",
+        "alias": "Khi-Co-Don-Em-Nho-Ai-Vicky-Nhung",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "Vicky Nhung",
+        "artists": [
+          {
+            "id": "IWZAZOO6",
+            "name": "Vicky Nhung",
+            "link": "/Vicky-Nhung",
+            "spotlight": false,
+            "alias": "Vicky-Nhung",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/2/2/f/b22f46c0b5ec658bfe3abd62eb71c56e.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/2/2/f/b22f46c0b5ec658bfe3abd62eb71c56e.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZODFZI8B"
+          }
+        ],
+        "isWorldWide": true,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/0/c/e/5/0ce507ca0dac1fbed87fd1bd1f88273a.jpg",
+        "link": "/video-clip/Khi-Co-Don-Em-Nho-Ai-Vicky-Nhung/ZUZ89OB9.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/0/c/e/5/0ce507ca0dac1fbed87fd1bd1f88273a.jpg",
+        "duration": 257,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZAZOO6",
+          "name": "Vicky Nhung",
+          "link": "/nghe-si/Vicky-Nhung",
+          "spotlight": false,
+          "alias": "Vicky-Nhung",
+          "playlistId": "ZODFZI8B",
+          "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/9/6/9/6/969662a70ad82b0d3fcb45cb6380998b.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/2/2/f/b22f46c0b5ec658bfe3abd62eb71c56e.jpg"
+        }
+      },
+      {
+        "encodeId": "ZU0WFOIF",
+        "title": "Lựa Chọn Của Anh",
+        "alias": "Lua-Chon-Cua-Anh-Thuong-Vo-ACV",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "Thương Võ, ACV",
+        "artists": [
+          {
+            "id": "IWZFEZIC",
+            "name": "Thương Võ",
+            "link": "/Thuong-Vo",
+            "spotlight": false,
+            "alias": "Thuong-Vo",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/c/f/94cfe58ae7bb927131dbc1e265302fae.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/4/c/f/94cfe58ae7bb927131dbc1e265302fae.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "6UW9B6OD"
+          },
+          {
+            "id": "IW6ZAAB8",
+            "name": "ACV",
+            "link": "/nghe-si/ACV-Music",
+            "spotlight": false,
+            "alias": "ACV-Music",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/5/e/0/6/5e06d48fb79175a096e059ecf3d8b1e8.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/5/e/0/6/5e06d48fb79175a096e059ecf3d8b1e8.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "6UW9CWC9"
+          }
+        ],
+        "isWorldWide": true,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/6/8/9/b/689b9f49c7ceb4ca4dc326571bba4e2a.jpg",
+        "link": "/video-clip/Lua-Chon-Cua-Anh-Thuong-Vo-ACV/ZU0WFOIF.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/6/8/9/b/689b9f49c7ceb4ca4dc326571bba4e2a.jpg",
+        "duration": 294,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZFEZIC",
+          "name": "Thương Võ",
+          "link": "/nghe-si/Thuong-Vo",
+          "spotlight": false,
+          "alias": "Thuong-Vo",
+          "playlistId": "6UW9B6OD",
+          "cover": "https://zmp3-static.zmdcdn.me/skins/zmp3-v5.2/images/default_cover.png",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/4/c/f/94cfe58ae7bb927131dbc1e265302fae.jpg"
+        }
+      },
+      {
+        "encodeId": "ZU6IDD7W",
+        "title": "Những Lời Dối Gian",
+        "alias": "Nhung-Loi-Doi-Gian-Vicky-Nhung",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "Vicky Nhung",
+        "artists": [
+          {
+            "id": "IWZAZOO6",
+            "name": "Vicky Nhung",
+            "link": "/Vicky-Nhung",
+            "spotlight": false,
+            "alias": "Vicky-Nhung",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/2/2/f/b22f46c0b5ec658bfe3abd62eb71c56e.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/2/2/f/b22f46c0b5ec658bfe3abd62eb71c56e.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZODFZI8B"
+          }
+        ],
+        "isWorldWide": true,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/4/7/7/5/47755662b9802742229217de267b24fe.jpg",
+        "link": "/video-clip/Nhung-Loi-Doi-Gian-Vicky-Nhung/ZU6IDD7W.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/4/7/7/5/47755662b9802742229217de267b24fe.jpg",
+        "duration": 230,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZAZOO6",
+          "name": "Vicky Nhung",
+          "link": "/nghe-si/Vicky-Nhung",
+          "spotlight": false,
+          "alias": "Vicky-Nhung",
+          "playlistId": "ZODFZI8B",
+          "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/9/6/9/6/969662a70ad82b0d3fcb45cb6380998b.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/2/2/f/b22f46c0b5ec658bfe3abd62eb71c56e.jpg"
+        }
+      },
+      {
+        "encodeId": "ZW6D6F6F",
+        "title": "Nối Vòng Tay Lớn",
+        "alias": "Noi-Vong-Tay-Lon-Thuy-Khanh-Ho-Quang-Hieu",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "Thúy Khanh, Hồ Quang Hiếu",
+        "artists": [
+          {
+            "id": "IWZ9660W",
+            "name": "Thúy Khanh",
+            "link": "/nghe-si/Thuy-Khanh",
+            "spotlight": false,
+            "alias": "Thuy-Khanh",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/e/2/e2959da20c60563bf4e462f2dd976084_1384657844.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/e/2/e2959da20c60563bf4e462f2dd976084_1384657844.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "ZODEF9C9"
+          },
+          {
+            "id": "IWZ968UO",
+            "name": "Hồ Quang Hiếu",
+            "link": "/Ho-Quang-Hieu",
+            "spotlight": false,
+            "alias": "Ho-Quang-Hieu",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/2/3/0/a2309e99e71954d95969bc53224318dc.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/a/2/3/0/a2309e99e71954d95969bc53224318dc.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZWZ9DAA6"
+          }
+        ],
+        "isWorldWide": true,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/a/d/ad9fc8876e0f75b0ef4b66d170adf0a5_1409197258.jpg",
+        "link": "/video-clip/Noi-Vong-Tay-Lon-Thuy-Khanh-Ho-Quang-Hieu/ZW6D6F6F.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/a/d/ad9fc8876e0f75b0ef4b66d170adf0a5_1409197258.jpg",
+        "duration": 211,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZ9660W",
+          "name": "Thúy Khanh",
+          "link": "/nghe-si/Thuy-Khanh",
+          "spotlight": false,
+          "alias": "Thuy-Khanh",
+          "playlistId": "ZODEF9C9",
+          "cover": "https://photo-zmp3.zmdcdn.me/cover3_artist/9/d/9d41015a953595efbc423e637f204b20_1412042404.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/e/2/e2959da20c60563bf4e462f2dd976084_1384657844.jpg"
+        }
+      },
+      {
+        "encodeId": "ZUOZE7EZ",
+        "title": "Sai Cách Yêu",
+        "alias": "Sai-Cach-Yeu-Le-Bao-Binh",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "Lê Bảo Bình",
+        "artists": [
+          {
+            "id": "IWZ9B08F",
+            "name": "Lê Bảo Bình",
+            "link": "/Le-Bao-Binh",
+            "spotlight": false,
+            "alias": "Le-Bao-Binh",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/6/9/3/4693cff82edb7018039b8f9acc8fa40e.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/6/9/3/4693cff82edb7018039b8f9acc8fa40e.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZO6989OW"
+          }
+        ],
+        "isWorldWide": true,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/4/d/b/f/4dbf769079e956c3d104130af83ae2c5.jpg",
+        "link": "/video-clip/Sai-Cach-Yeu-Le-Bao-Binh/ZUOZE7EZ.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/4/d/b/f/4dbf769079e956c3d104130af83ae2c5.jpg",
+        "duration": 345,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZ9B08F",
+          "name": "Lê Bảo Bình",
+          "link": "/nghe-si/Le-Bao-Binh",
+          "spotlight": false,
+          "alias": "Le-Bao-Binh",
+          "playlistId": "ZO6989OW",
+          "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/2/1/d/e/21de6c1178481924698f92e4e7b4a26e.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/6/9/3/4693cff82edb7018039b8f9acc8fa40e.jpg"
+        }
+      },
+      {
+        "encodeId": "ZWAEFWIF",
+        "title": "Em Gì Ơi",
+        "alias": "Em-Gi-Oi-Jack-J97-K-ICM",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "Jack - J97, K-ICM",
+        "artists": [
+          {
+            "id": "IW6WCI7U",
+            "name": "Jack - J97",
+            "link": "/Jack-J97",
+            "spotlight": false,
+            "alias": "Jack-J97",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/c/2/1/0c2163f3f85269440046f4d2bb7c4530.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/c/2/1/0c2163f3f85269440046f4d2bb7c4530.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZUDICAF0"
+          },
+          {
+            "id": "IWZFFOWB",
+            "name": "K-ICM",
+            "link": "/kicm",
+            "spotlight": false,
+            "alias": "kicm",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/0/1/0/00101dd90a688a6e22ea0a3cf13b072e.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/0/1/0/00101dd90a688a6e22ea0a3cf13b072e.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZODE97IC"
+          }
+        ],
+        "isWorldWide": true,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/e/c/d/0/ecd073a7ccc5fdb4b73fafb245502151.jpg",
+        "link": "/video-clip/Em-Gi-Oi-Jack-J97-K-ICM/ZWAEFWIF.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/e/c/d/0/ecd073a7ccc5fdb4b73fafb245502151.jpg",
+        "duration": 286,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IW6WCI7U",
+          "name": "Jack - J97",
+          "link": "/nghe-si/Jack-J97",
+          "spotlight": false,
+          "alias": "Jack-J97",
+          "playlistId": "ZUDICAF0",
+          "cover": "https://zmp3-static.zmdcdn.me/skins/zmp3-v5.2/images/default_cover.png",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/c/2/1/0c2163f3f85269440046f4d2bb7c4530.jpg"
+        }
+      },
+      {
+        "encodeId": "ZOZ0WD80",
+        "title": "Đom Đóm",
+        "alias": "Dom-Dom-Jack-J97",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "Jack - J97",
+        "artists": [
+          {
+            "id": "IW6WCI7U",
+            "name": "Jack - J97",
+            "link": "/Jack-J97",
+            "spotlight": false,
+            "alias": "Jack-J97",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/c/2/1/0c2163f3f85269440046f4d2bb7c4530.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/c/2/1/0c2163f3f85269440046f4d2bb7c4530.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZUDICAF0"
+          }
+        ],
+        "isWorldWide": true,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/8/0/1/c/801c0a9f296fd140a40f94ba3eae5e35.jpg",
+        "link": "/video-clip/Dom-Dom-Jack-J97/ZOZ0WD80.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/8/0/1/c/801c0a9f296fd140a40f94ba3eae5e35.jpg",
+        "duration": 381,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IW6WCI7U",
+          "name": "Jack - J97",
+          "link": "/nghe-si/Jack-J97",
+          "spotlight": false,
+          "alias": "Jack-J97",
+          "playlistId": "ZUDICAF0",
+          "cover": "https://zmp3-static.zmdcdn.me/skins/zmp3-v5.2/images/default_cover.png",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/c/2/1/0c2163f3f85269440046f4d2bb7c4530.jpg"
+        }
+      },
+      {
+        "encodeId": "ZWEW9WI8",
+        "title": "Kẹo Bông Gòn",
+        "alias": "Keo-Bong-Gon-H2K-TRUNKY",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "H2K, TRUNKY",
+        "artists": [
+          {
+            "id": "IW6ZZ0OU",
+            "name": "H2K",
+            "link": "/nghe-si/H2K",
+            "spotlight": false,
+            "alias": "H2K",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/5/f/0/9/5f0920f4417c4625cb4dd1d0440ac286.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/5/f/0/9/5f0920f4417c4625cb4dd1d0440ac286.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "6UW9BEA9"
+          },
+          {
+            "id": "IW6ZZ0OZ",
+            "name": "TRUNKY",
+            "link": "/TRUNKY",
+            "spotlight": false,
+            "alias": "TRUNKY",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/1/b/1/61b137790c7c594fbd17b2c64ee11d04.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/6/1/b/1/61b137790c7c594fbd17b2c64ee11d04.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "6UW9BEAA"
+          }
+        ],
+        "isWorldWide": true,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/6/7/f/c/67fc99471e4c9b29cb00238a101624d1.jpg",
+        "link": "/video-clip/Keo-Bong-Gon-H2K-TRUNKY/ZWEW9WI8.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/6/7/f/c/67fc99471e4c9b29cb00238a101624d1.jpg",
+        "duration": 220,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IW6ZZ0OU",
+          "name": "H2K",
+          "link": "/nghe-si/H2K",
+          "spotlight": false,
+          "alias": "H2K",
+          "playlistId": "6UW9BEA9",
+          "cover": "https://zmp3-static.zmdcdn.me/skins/zmp3-v5.2/images/default_cover.png",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/5/f/0/9/5f0920f4417c4625cb4dd1d0440ac286.jpg"
+        }
+      },
+      {
+        "encodeId": "ZWAFOEAF",
+        "title": "Em Ơi Lên Phố",
+        "alias": "Em-Oi-Len-Pho-Minh-Vuong-M4U",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "Minh Vương M4U",
+        "artists": [
+          {
+            "id": "IWZ9ZFA7",
+            "name": "Minh Vương M4U",
+            "link": "/Minh-Vuong-M4U",
+            "spotlight": false,
+            "alias": "Minh-Vuong-M4U",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/f/7/4/9/f7491ffdb112675f1322fd1c1c8b57bf.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/f/7/4/9/f7491ffdb112675f1322fd1c1c8b57bf.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZWZ9DAC6"
+          }
+        ],
+        "isWorldWide": true,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/8/7/0/f/870fb2f0bd0192591dc3e251307e9d6e.jpg",
+        "link": "/video-clip/Em-Oi-Len-Pho-Minh-Vuong-M4U/ZWAFOEAF.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/8/7/0/f/870fb2f0bd0192591dc3e251307e9d6e.jpg",
+        "duration": 286,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZ9ZFA7",
+          "name": "Minh Vương M4U",
+          "link": "/nghe-si/Minh-Vuong-M4U",
+          "spotlight": false,
+          "alias": "Minh-Vuong-M4U",
+          "playlistId": "ZWZ9DAC6",
+          "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/e/7eed58849cf99b365e17b3f9aec5e64b_1511496236.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/f/7/4/9/f7491ffdb112675f1322fd1c1c8b57bf.jpg"
+        }
+      },
+      {
+        "encodeId": "ZWBWAIDA",
+        "title": "Thích Thì Đến",
+        "alias": "Thich-Thi-Den-Le-Bao-Binh",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "Lê Bảo Bình",
+        "artists": [
+          {
+            "id": "IWZ9B08F",
+            "name": "Lê Bảo Bình",
+            "link": "/Le-Bao-Binh",
+            "spotlight": false,
+            "alias": "Le-Bao-Binh",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/6/9/3/4693cff82edb7018039b8f9acc8fa40e.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/6/9/3/4693cff82edb7018039b8f9acc8fa40e.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZO6989OW"
+          }
+        ],
+        "isWorldWide": true,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/a/6/e/3/a6e3c389d57ac69bd4812d1f7002b25b.jpg",
+        "link": "/video-clip/Thich-Thi-Den-Le-Bao-Binh/ZWBWAIDA.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/a/6/e/3/a6e3c389d57ac69bd4812d1f7002b25b.jpg",
+        "duration": 364,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZ9B08F",
+          "name": "Lê Bảo Bình",
+          "link": "/nghe-si/Le-Bao-Binh",
+          "spotlight": false,
+          "alias": "Le-Bao-Binh",
+          "playlistId": "ZO6989OW",
+          "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/2/1/d/e/21de6c1178481924698f92e4e7b4a26e.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/6/9/3/4693cff82edb7018039b8f9acc8fa40e.jpg"
+        }
+      },
+      {
+        "encodeId": "ZW7U8UU6",
+        "title": "Bống Bống Bang Bang (Tấm Cám Chuyện Chưa Kể OST)",
+        "alias": "Bong-Bong-Bang-Bang-Tam-Cam-Chuyen-Chua-Ke-OST-365DaBand",
+        "isOffical": true,
+        "username": "mp3",
+        "artistsNames": "365DaBand",
+        "artists": [
+          {
+            "id": "IWZ96E0B",
+            "name": "365DaBand",
+            "link": "/nghe-si/365DaBand",
+            "spotlight": false,
+            "alias": "365DaBand",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/3/130437a679f345c17df5471c6cc2574f_1510288522.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/3/130437a679f345c17df5471c6cc2574f_1510288522.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "ZWZ9DF9O"
+          }
+        ],
+        "isWorldWide": true,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/e/5/e53924e1f5e2bdfe84b19953583a5010_1467099279.jpg",
+        "link": "/video-clip/Bong-Bong-Bang-Bang-Tam-Cam-Chuyen-Chua-Ke-OST-365DaBand/ZW7U8UU6.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/e/5/e53924e1f5e2bdfe84b19953583a5010_1467099279.jpg",
+        "duration": 272,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZ96E0B",
+          "name": "365DaBand",
+          "link": "/nghe-si/365DaBand",
+          "spotlight": false,
+          "alias": "365DaBand",
+          "playlistId": "ZWZ9DF9O",
+          "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/3/735b69259492a8ccf8a52f0b26f932e9_1511500659.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/3/130437a679f345c17df5471c6cc2574f_1510288522.jpg"
+        }
+      },
+      {
+        "encodeId": "ZWB0DFWZ",
+        "title": "Hơn Cả Yêu",
+        "alias": "Hon-Ca-Yeu-Duc-Phuc",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "Đức Phúc",
+        "artists": [
+          {
+            "id": "IWZA66AO",
+            "name": "Đức Phúc",
+            "link": "/Duc-Phuc",
+            "spotlight": true,
+            "alias": "Duc-Phuc",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/b/7/b/4b7ba1fea4308c8822f00148bc4275c4.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/b/7/b/4b7ba1fea4308c8822f00148bc4275c4.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZOZAWCCO"
+          }
+        ],
+        "isWorldWide": true,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/1/b/8/0/1b80746f52fe83f810e49a8704620f81.jpg",
+        "link": "/video-clip/Hon-Ca-Yeu-Duc-Phuc/ZWB0DFWZ.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/1/b/8/0/1b80746f52fe83f810e49a8704620f81.jpg",
+        "duration": 343,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZA66AO",
+          "name": "Đức Phúc",
+          "link": "/nghe-si/Duc-Phuc",
+          "spotlight": true,
+          "alias": "Duc-Phuc",
+          "playlistId": "ZOZAWCCO",
+          "cover": "https://zmp3-static.zmdcdn.me/skins/zmp3-v5.2/images/default_cover.png",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/b/7/b/4b7ba1fea4308c8822f00148bc4275c4.jpg"
+        }
+      },
+      {
+        "encodeId": "ZW7009D9",
+        "title": "Vết Thương Trong Em",
+        "alias": "Vet-Thuong-Trong-Em-Mi-Jun",
+        "isOffical": true,
+        "username": "mp3",
+        "artistsNames": "Mi Jun",
+        "artists": [
+          {
+            "id": "IWZAU7O0",
+            "name": "Mi Jun",
+            "link": "/nghe-si/Mi-Jun",
+            "spotlight": false,
+            "alias": "Mi-Jun",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/5/156005c5baf40ff51a327f1c34f2975b_1422433463.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/5/156005c5baf40ff51a327f1c34f2975b_1422433463.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "6UW9AD7W"
+          }
+        ],
+        "isWorldWide": true,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/9/7/974bbc90fa2b3a14f34de09203addd1b_1425271037.jpg",
+        "link": "/video-clip/Vet-Thuong-Trong-Em-Mi-Jun/ZW7009D9.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/9/7/974bbc90fa2b3a14f34de09203addd1b_1425271037.jpg",
+        "duration": 285,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZAU7O0",
+          "name": "Mi Jun",
+          "link": "/nghe-si/Mi-Jun",
+          "spotlight": false,
+          "alias": "Mi-Jun",
+          "playlistId": "6UW9AD7W",
+          "cover": "https://photo-zmp3.zmdcdn.me/cover3_artist/1/5/156005c5baf40ff51a327f1c34f2975b_1422433703.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/5/156005c5baf40ff51a327f1c34f2975b_1422433463.jpg"
+        }
+      }
+    ],
+    "total": 500,
+    "hasMore": true
+  },
+  "timestamp": 1679494300295
+}
