@@ -20,7 +20,7 @@ class HomePageAPIView(APIView):
         items = []
 
         # playlists
-        all_topic = TopicPlaylist.objects.filter(title__in=('Có Thể Bạn Muốn Nghe', 'Chill'))
+        all_topic = TopicPlaylist.objects.filter(title__in=('Có Thể Bạn Muốn Nghe', 'Chill', 'Hè chill nhạc phiêu'))
         topic_id = [tp.id for tp in all_topic]
         playlist_of_topic = PlaylistOfTopic.objects.filter(topic_id__in=topic_id)
         playlist_of_topic_map = {}

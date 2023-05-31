@@ -72,3 +72,23 @@ export interface DataPodcastEpisode {
 	follow?: Array<any>;
 }
 
+export interface MenuVideo {
+	id?: number,
+	name?: string,
+	title?: string,
+	alias?: string,
+}
+
+export interface DataVideo {
+	id?: number,
+	title?: string,
+	alias?: string,
+	duration?: number,
+	streaming_status?: number,
+	thumbnail_m?: string,
+	artist?: {
+		thumbnail?: string,
+		name?: string,
+	}
+}
+

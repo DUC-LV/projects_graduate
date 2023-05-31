@@ -1,0 +1,579 @@
+{
+  "err": 0,
+  "msg": "Success",
+  "data": {
+    "items": [
+      {
+        "encodeId": "ZW9C9AZ0",
+        "title": "DDU-DU DDU-DU",
+        "alias": "DDU-DU-DDU-DU-BLACKPINK",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "BLACKPINK",
+        "artists": [
+          {
+            "id": "IWZA7DE0",
+            "name": "BLACKPINK",
+            "link": "/nghe-si/BLACKPINK",
+            "spotlight": false,
+            "alias": "BLACKPINK",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/1/0/3/71031e4984f431fe18cf18cc19af2e9d.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/1/0/3/71031e4984f431fe18cf18cc19af2e9d.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "ZOZ9UA7E"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/6/9/b/6/69b6ba9f7a0fcc8132c425bc769427c4.jpg",
+        "link": "/video-clip/DDU-DU-DDU-DU-BLACKPINK/ZW9C9AZ0.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/6/9/b/6/69b6ba9f7a0fcc8132c425bc769427c4.jpg",
+        "duration": 215,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZA7DE0",
+          "name": "BLACKPINK",
+          "link": "/nghe-si/BLACKPINK",
+          "spotlight": false,
+          "alias": "BLACKPINK",
+          "playlistId": "ZOZ9UA7E",
+          "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/c/1/c/1/c1c1dea4907317ccd8780f484651e1fd.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/1/0/3/71031e4984f431fe18cf18cc19af2e9d.jpg"
+        }
+      },
+      {
+        "encodeId": "ZWACDBZ6",
+        "title": "Kill This Love",
+        "alias": "Kill-This-Love-BLACKPINK",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "BLACKPINK",
+        "artists": [
+          {
+            "id": "IWZA7DE0",
+            "name": "BLACKPINK",
+            "link": "/nghe-si/BLACKPINK",
+            "spotlight": false,
+            "alias": "BLACKPINK",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/1/0/3/71031e4984f431fe18cf18cc19af2e9d.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/1/0/3/71031e4984f431fe18cf18cc19af2e9d.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "ZOZ9UA7E"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/5/1/f/6/51f635c9bc795c84b0ed9614577f70e5.jpg",
+        "link": "/video-clip/Kill-This-Love-BLACKPINK/ZWACDBZ6.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/5/1/f/6/51f635c9bc795c84b0ed9614577f70e5.jpg",
+        "duration": 193,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZA7DE0",
+          "name": "BLACKPINK",
+          "link": "/nghe-si/BLACKPINK",
+          "spotlight": false,
+          "alias": "BLACKPINK",
+          "playlistId": "ZOZ9UA7E",
+          "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/c/1/c/1/c1c1dea4907317ccd8780f484651e1fd.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/1/0/3/71031e4984f431fe18cf18cc19af2e9d.jpg"
+        }
+      },
+      {
+        "encodeId": "ZWBU778A",
+        "title": "How You Like That",
+        "alias": "How-You-Like-That-BLACKPINK",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "BLACKPINK",
+        "artists": [
+          {
+            "id": "IWZA7DE0",
+            "name": "BLACKPINK",
+            "link": "/nghe-si/BLACKPINK",
+            "spotlight": false,
+            "alias": "BLACKPINK",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/1/0/3/71031e4984f431fe18cf18cc19af2e9d.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/1/0/3/71031e4984f431fe18cf18cc19af2e9d.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "ZOZ9UA7E"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/0/6/e/e/06ee2cc0a478eb76646e2f0a2180c9fe.jpg",
+        "link": "/video-clip/How-You-Like-That-BLACKPINK/ZWBU778A.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/0/6/e/e/06ee2cc0a478eb76646e2f0a2180c9fe.jpg",
+        "duration": 183,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZA7DE0",
+          "name": "BLACKPINK",
+          "link": "/nghe-si/BLACKPINK",
+          "spotlight": false,
+          "alias": "BLACKPINK",
+          "playlistId": "ZOZ9UA7E",
+          "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/c/1/c/1/c1c1dea4907317ccd8780f484651e1fd.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/1/0/3/71031e4984f431fe18cf18cc19af2e9d.jpg"
+        }
+      },
+      {
+        "encodeId": "ZO9F7BEZ",
+        "title": "On The Ground",
+        "alias": "On-The-Ground-ROSE",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "ROSÉ",
+        "artists": [
+          {
+            "id": "IW68EZZ6",
+            "name": "ROSÉ",
+            "link": "/Rose-BLACKPINK",
+            "spotlight": false,
+            "alias": "Rose-BLACKPINK",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/1/7/b/617b4a6ba0c9a4da6ae4e8217f538f3b.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/6/1/7/b/617b4a6ba0c9a4da6ae4e8217f538f3b.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "67OI98BZ"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/1/c/6/7/1c67cdd044b7dbb2556530da2484a022.jpg",
+        "link": "/video-clip/On-The-Ground-ROSE/ZO9F7BEZ.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/1/c/6/7/1c67cdd044b7dbb2556530da2484a022.jpg",
+        "duration": 188,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IW68EZZ6",
+          "name": "ROSÉ",
+          "link": "/nghe-si/Rose-BLACKPINK",
+          "spotlight": false,
+          "alias": "Rose-BLACKPINK",
+          "cover": "https://zmp3-static.zmdcdn.me/skins/zmp3-v5.2/images/default_cover.png",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/3/2/3/c/323cf894054942b8909f54ebcb7d8b51.jpg"
+        }
+      },
+      {
+        "encodeId": "ZZDFEI89",
+        "title": "Superhero Finger Family",
+        "alias": "Superhero-Finger-Family-Pororo-the-Little-Penguin",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "Pororo the Little Penguin",
+        "artists": [
+          {
+            "id": "IW760F88",
+            "name": "Pororo the Little Penguin",
+            "link": "/nghe-si/Pororo-the-Little-Penguin.IW760F88",
+            "spotlight": false,
+            "alias": "Pororo-the-Little-Penguin.IW760F88",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "6B7WABW6"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/cover/4/5/0/c/450c10a011c474fc14012bd713243200.jpg",
+        "link": "/video-clip/Superhero-Finger-Family-Pororo-the-Little-Penguin/ZZDFEI89.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/cover/4/5/0/c/450c10a011c474fc14012bd713243200.jpg",
+        "duration": 122,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IW760F88",
+          "name": "Pororo the Little Penguin",
+          "link": "/nghe-si/Pororo-the-Little-Penguin.IW760F88",
+          "spotlight": false,
+          "alias": "Pororo-the-Little-Penguin.IW760F88",
+          "playlistId": "6B7WABW6",
+          "cover": "https://zmp3-static.zmdcdn.me/skins/zmp3-v5.2/images/default_cover.png",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg"
+        }
+      },
+      {
+        "encodeId": "ZWDFDW0B",
+        "title": "Lovesick Girls",
+        "alias": "Lovesick-Girls-BLACKPINK",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "BLACKPINK",
+        "artists": [
+          {
+            "id": "IWZA7DE0",
+            "name": "BLACKPINK",
+            "link": "/nghe-si/BLACKPINK",
+            "spotlight": false,
+            "alias": "BLACKPINK",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/1/0/3/71031e4984f431fe18cf18cc19af2e9d.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/1/0/3/71031e4984f431fe18cf18cc19af2e9d.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "ZOZ9UA7E"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/6/d/d/9/6dd9ef11a8b5351388e2f853e5c15939.jpg",
+        "link": "/video-clip/Lovesick-Girls-BLACKPINK/ZWDFDW0B.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/6/d/d/9/6dd9ef11a8b5351388e2f853e5c15939.jpg",
+        "duration": 201,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZA7DE0",
+          "name": "BLACKPINK",
+          "link": "/nghe-si/BLACKPINK",
+          "spotlight": false,
+          "alias": "BLACKPINK",
+          "playlistId": "ZOZ9UA7E",
+          "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/c/1/c/1/c1c1dea4907317ccd8780f484651e1fd.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/1/0/3/71031e4984f431fe18cf18cc19af2e9d.jpg"
+        }
+      },
+      {
+        "encodeId": "ZW80OA6B",
+        "title": "AS IF IT'S YOUR LAST",
+        "alias": "AS-IF-IT-S-YOUR-LAST-BLACKPINK",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "BLACKPINK",
+        "artists": [
+          {
+            "id": "IWZA7DE0",
+            "name": "BLACKPINK",
+            "link": "/nghe-si/BLACKPINK",
+            "spotlight": false,
+            "alias": "BLACKPINK",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/1/0/3/71031e4984f431fe18cf18cc19af2e9d.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/1/0/3/71031e4984f431fe18cf18cc19af2e9d.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "ZOZ9UA7E"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/2/0/20bca69bddf7ce2f9cf2afd216747c0b_1498122628.jpg",
+        "link": "/video-clip/AS-IF-IT-S-YOUR-LAST-BLACKPINK/ZW80OA6B.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/2/0/20bca69bddf7ce2f9cf2afd216747c0b_1498122628.jpg",
+        "duration": 216,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZA7DE0",
+          "name": "BLACKPINK",
+          "link": "/nghe-si/BLACKPINK",
+          "spotlight": false,
+          "alias": "BLACKPINK",
+          "playlistId": "ZOZ9UA7E",
+          "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/c/1/c/1/c1c1dea4907317ccd8780f484651e1fd.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/1/0/3/71031e4984f431fe18cf18cc19af2e9d.jpg"
+        }
+      },
+      {
+        "encodeId": "ZWB0W006",
+        "title": "Psycho",
+        "alias": "Psycho-Red-Velvet",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "Red Velvet",
+        "artists": [
+          {
+            "id": "IWZAWB0B",
+            "name": "Red Velvet",
+            "link": "/Red-Velvet",
+            "spotlight": false,
+            "alias": "Red-Velvet",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/e/7/b/3/e7b32b46a1cf9fb45e639f9fed1eed70.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/e/7/b/3/e7b32b46a1cf9fb45e639f9fed1eed70.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "ZOUEUOFW"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/cover/2/2/5/f/225fcb47fb9b44b332d484627cd7f815.jpg",
+        "link": "/video-clip/Psycho-Red-Velvet/ZWB0W006.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/cover/2/2/5/f/225fcb47fb9b44b332d484627cd7f815.jpg",
+        "duration": 215,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZAWB0B",
+          "name": "Red Velvet",
+          "link": "/nghe-si/Red-Velvet",
+          "spotlight": false,
+          "alias": "Red-Velvet",
+          "playlistId": "ZOUEUOFW",
+          "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/5/5/c/155c66af19e2b307f200a6793590273b.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/e/7/b/3/e7b32b46a1cf9fb45e639f9fed1eed70.jpg"
+        }
+      },
+      {
+        "encodeId": "ZWBWEU00",
+        "title": "Nonstop",
+        "alias": "Nonstop-OH-MY-GIRL",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "OH MY GIRL",
+        "artists": [
+          {
+            "id": "IWZAZIUD",
+            "name": "OH MY GIRL",
+            "link": "/nghe-si/OH-MY-GIRL",
+            "spotlight": false,
+            "alias": "OH-MY-GIRL",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/d/4/a/8d4a7ecf79ca57720de1e3a7a70c6d07.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/8/d/4/a/8d4a7ecf79ca57720de1e3a7a70c6d07.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "6UW9AEUU"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/d/e/f/5/def52df71ebb828f5b712ab530c530ce.jpg",
+        "link": "/video-clip/Nonstop-OH-MY-GIRL/ZWBWEU00.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/d/e/f/5/def52df71ebb828f5b712ab530c530ce.jpg",
+        "duration": 203,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IWZAZIUD",
+          "name": "OH MY GIRL",
+          "link": "/nghe-si/OH-MY-GIRL",
+          "spotlight": false,
+          "alias": "OH-MY-GIRL",
+          "playlistId": "6UW9AEUU",
+          "cover": "https://zmp3-static.zmdcdn.me/skins/zmp3-v5.2/images/default_cover.png",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/d/4/a/8d4a7ecf79ca57720de1e3a7a70c6d07.jpg"
+        }
+      },
+      {
+        "encodeId": "Z6WEU8WI",
+        "title": "Halloween Zombie Song (Korean Ver.)",
+        "alias": "Halloween-Zombie-Song-Korean-Ver-Pororo-the-Little-Penguin",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "Pororo the Little Penguin",
+        "artists": [
+          {
+            "id": "IW760F88",
+            "name": "Pororo the Little Penguin",
+            "link": "/nghe-si/Pororo-the-Little-Penguin.IW760F88",
+            "spotlight": false,
+            "alias": "Pororo-the-Little-Penguin.IW760F88",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "6B7WABW6"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/cover/6/d/7/9/6d7925243d7737247517a276bcdb02d4.jpg",
+        "link": "/video-clip/Halloween-Zombie-Song-Korean-Ver-Pororo-the-Little-Penguin/Z6WEU8WI.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/cover/6/d/7/9/6d7925243d7737247517a276bcdb02d4.jpg",
+        "duration": 105,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IW760F88",
+          "name": "Pororo the Little Penguin",
+          "link": "/nghe-si/Pororo-the-Little-Penguin.IW760F88",
+          "spotlight": false,
+          "alias": "Pororo-the-Little-Penguin.IW760F88",
+          "playlistId": "6B7WABW6",
+          "cover": "https://zmp3-static.zmdcdn.me/skins/zmp3-v5.2/images/default_cover.png",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg"
+        }
+      },
+      {
+        "encodeId": "ZUBU8AWW",
+        "title": "Dinosaur Finger Family",
+        "alias": "Dinosaur-Finger-Family-Pororo-the-Little-Penguin",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "Pororo the Little Penguin",
+        "artists": [
+          {
+            "id": "IW760F88",
+            "name": "Pororo the Little Penguin",
+            "link": "/nghe-si/Pororo-the-Little-Penguin.IW760F88",
+            "spotlight": false,
+            "alias": "Pororo-the-Little-Penguin.IW760F88",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "6B7WABW6"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/cover/3/f/3/5/3f35e986f5389dd12e4738c3abf045ae.jpg",
+        "link": "/video-clip/Dinosaur-Finger-Family-Pororo-the-Little-Penguin/ZUBU8AWW.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/cover/3/f/3/5/3f35e986f5389dd12e4738c3abf045ae.jpg",
+        "duration": 113,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IW760F88",
+          "name": "Pororo the Little Penguin",
+          "link": "/nghe-si/Pororo-the-Little-Penguin.IW760F88",
+          "spotlight": false,
+          "alias": "Pororo-the-Little-Penguin.IW760F88",
+          "playlistId": "6B7WABW6",
+          "cover": "https://zmp3-static.zmdcdn.me/skins/zmp3-v5.2/images/default_cover.png",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg"
+        }
+      },
+      {
+        "encodeId": "Z6I779A6",
+        "title": "Poby’s Rainbow Juice Truck (Korean Ver.)",
+        "alias": "Poby-s-Rainbow-Juice-Truck-Korean-Ver-Pororo-the-Little-Penguin",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "Pororo the Little Penguin",
+        "artists": [
+          {
+            "id": "IW760F88",
+            "name": "Pororo the Little Penguin",
+            "link": "/nghe-si/Pororo-the-Little-Penguin.IW760F88",
+            "spotlight": false,
+            "alias": "Pororo-the-Little-Penguin.IW760F88",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "6B7WABW6"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/cover/c/8/3/7/c837e51ae32252698c61f560291f2535.jpg",
+        "link": "/video-clip/Poby-s-Rainbow-Juice-Truck-Korean-Ver-Pororo-the-Little-Penguin/Z6I779A6.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/cover/c/8/3/7/c837e51ae32252698c61f560291f2535.jpg",
+        "duration": 119,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IW760F88",
+          "name": "Pororo the Little Penguin",
+          "link": "/nghe-si/Pororo-the-Little-Penguin.IW760F88",
+          "spotlight": false,
+          "alias": "Pororo-the-Little-Penguin.IW760F88",
+          "playlistId": "6B7WABW6",
+          "cover": "https://zmp3-static.zmdcdn.me/skins/zmp3-v5.2/images/default_cover.png",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg"
+        }
+      },
+      {
+        "encodeId": "ZU9AUD68",
+        "title": "BOGGLE BOGGLE Halloween",
+        "alias": "BOGGLE-BOGGLE-Halloween-Pororo-the-Little-Penguin",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "Pororo the Little Penguin",
+        "artists": [
+          {
+            "id": "IW760F88",
+            "name": "Pororo the Little Penguin",
+            "link": "/nghe-si/Pororo-the-Little-Penguin.IW760F88",
+            "spotlight": false,
+            "alias": "Pororo-the-Little-Penguin.IW760F88",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "6B7WABW6"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/cover/e/5/f/9/e5f945fff9ddb412b33352679a96ea4c.jpg",
+        "link": "/video-clip/BOGGLE-BOGGLE-Halloween-Pororo-the-Little-Penguin/ZU9AUD68.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/cover/e/5/f/9/e5f945fff9ddb412b33352679a96ea4c.jpg",
+        "duration": 91,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IW760F88",
+          "name": "Pororo the Little Penguin",
+          "link": "/nghe-si/Pororo-the-Little-Penguin.IW760F88",
+          "spotlight": false,
+          "alias": "Pororo-the-Little-Penguin.IW760F88",
+          "playlistId": "6B7WABW6",
+          "cover": "https://zmp3-static.zmdcdn.me/skins/zmp3-v5.2/images/default_cover.png",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg"
+        }
+      },
+      {
+        "encodeId": "ZU6ZE7FW",
+        "title": "LALISA",
+        "alias": "LALISA-LISA",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "LISA",
+        "artists": [
+          {
+            "id": "IW7ZFD09",
+            "name": "LISA",
+            "link": "/nghe-si/LISA-BLACKPINK",
+            "spotlight": false,
+            "alias": "LISA-BLACKPINK",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/0/9/5/f0956622025bb84cffdb69acf3ad2b57.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/0/9/5/f0956622025bb84cffdb69acf3ad2b57.jpg",
+            "isOA": false,
+            "isOABrand": false,
+            "playlistId": "690ZB6IO"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/6/5/4/b/654bbfc6cfc9e236335a2c9f2818d4fa.jpg",
+        "link": "/video-clip/LALISA-LISA/ZU6ZE7FW.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/6/5/4/b/654bbfc6cfc9e236335a2c9f2818d4fa.jpg",
+        "duration": 206,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IW7ZFD09",
+          "name": "LISA",
+          "link": "/nghe-si/LISA-BLACKPINK",
+          "spotlight": false,
+          "alias": "LISA-BLACKPINK",
+          "playlistId": "690ZB6IO",
+          "cover": "https://zmp3-static.zmdcdn.me/skins/zmp3-v5.2/images/default_cover.png",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/0/9/5/f0956622025bb84cffdb69acf3ad2b57.jpg"
+        }
+      },
+      {
+        "encodeId": "ZO9F7BE6",
+        "title": "Gone",
+        "alias": "Gone-ROSE",
+        "isOffical": true,
+        "username": "",
+        "artistsNames": "ROSÉ",
+        "artists": [
+          {
+            "id": "IW68EZZ6",
+            "name": "ROSÉ",
+            "link": "/Rose-BLACKPINK",
+            "spotlight": false,
+            "alias": "Rose-BLACKPINK",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/1/7/b/617b4a6ba0c9a4da6ae4e8217f538f3b.jpg",
+            "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/6/1/7/b/617b4a6ba0c9a4da6ae4e8217f538f3b.jpg",
+            "isOA": true,
+            "isOABrand": false,
+            "playlistId": "67OI98BZ"
+          }
+        ],
+        "isWorldWide": false,
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r300x169_jpeg/thumb_video/2/8/a/1/28a168b550ff282ca2138534d78e1965.jpg",
+        "link": "/video-clip/Gone-ROSE/ZO9F7BE6.html",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r16x9_jpeg/thumb_video/2/8/a/1/28a168b550ff282ca2138534d78e1965.jpg",
+        "duration": 220,
+        "streamingStatus": 1,
+        "artist": {
+          "id": "IW68EZZ6",
+          "name": "ROSÉ",
+          "link": "/nghe-si/Rose-BLACKPINK",
+          "spotlight": false,
+          "alias": "Rose-BLACKPINK",
+          "cover": "https://zmp3-static.zmdcdn.me/skins/zmp3-v5.2/images/default_cover.png",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/3/2/3/c/323cf894054942b8909f54ebcb7d8b51.jpg"
+        }
+      }
+    ],
+    "total": 500,
+    "hasMore": true
+  },
+  "timestamp": 1679494373268
+}
