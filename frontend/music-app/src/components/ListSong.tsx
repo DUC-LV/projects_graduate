@@ -7,6 +7,8 @@ import { convertDuration } from "@/untils";
 import FavoriteIcon from '@mui/icons-material/Favorite';
 import axiosInstances from "@/services/axiosInstances";
 import { toast } from "react-toastify";
+import QueueMusicIcon from '@mui/icons-material/QueueMusic';
+import Popup from "./Popup";
 
 type Props = {
 	data: Array<object>
@@ -17,6 +19,8 @@ type props = {
 	item: any;
 }
 export const SongItem = ({ item }: props) => {
+	const router = useRouter();
+
 	const [like, setLike] = useState(false);
 
 	useEffect(() => {
@@ -34,6 +38,14 @@ export const SongItem = ({ item }: props) => {
 		})
 	}, [item.id, like])
 
+	const [isShow, setIsShow] = useState(false);
+
+	const handleShowPopup = useCallback(() => {
+		if(item?.streaming_status === 2){
+			setIsShow(true)
+		}
+	}, [item?.streaming_status])
+
 	return(
 		<Grid item container alignItems={'center'}
 			sx={{
@@ -45,9 +57,13 @@ export const SongItem = ({ item }: props) => {
 				}
 			}}>
 			<Grid xs={6} item container alignItems={'center'}>
-				<img alt="" src={item?.thumbnail}
-					style={{ height: '40px', width: '40px', borderRadius: '6px', cursor: 'pointer', marginLeft: '15px' }}
-				/>
+				<Grid item>
+					<QueueMusicIcon style={{ marginBottom: '8px', color: 'grey' }}/>
+					<img alt="" src={item?.thumbnail}
+						style={{ height: '40px', width: '40px', borderRadius: '6px', cursor: 'pointer', marginLeft: '15px' }}
+						onClick={handleShowPopup}
+					/>
+				</Grid>
 				<Grid item sx={{ marginLeft: '10px', flexDirection: 'column' }}>
 					<TextOnline
 						sx={{
@@ -82,7 +98,7 @@ export const SongItem = ({ item }: props) => {
 				<TextOnline
 					sx={{
 						fontSize: '12px',
-						color: 'white',
+						color: item.streaming_status === 2 ? '#ffffff80' : '#FFF',
 						fontWeight: '500',
 						":hover": {
 							color: '#c273ed',
@@ -100,6 +116,23 @@ export const SongItem = ({ item }: props) => {
 					{convertDuration(item.duration)}
 				</TextOnline>
 			</Grid>
+			<Popup
+				isShow={isShow}
+				onClose={() => setIsShow(false)}
+				title="Dành Cho Tài Khoản VIP"
+				message="Theo yêu cầu của đơn vị sở hữu bản quyền, bạn cần tài khoản VIP để nghe bài hát này."
+				actions={[
+					{ key: 'cancel', title: 'Đóng' },
+					{ key: 'ok', title: 'Nâng Cấp VIP' },
+				]}
+				onAction={ key => {
+					if(key === 'ok'){
+						router.push('/packages');
+					} else if (key === 'cancel'){
+						setIsShow(false);
+					}
+				}}
+			/>
 		</Grid>
 	);
 }

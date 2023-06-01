@@ -1,0 +1,871 @@
+{
+  "err": 0,
+  "msg": "Success",
+  "data": {
+    "items": [
+      {
+        "encodeId": "Z6609WUZ",
+        "rawId": 1141326277,
+        "title": "Cách gia tăng thu nhập và tiết kiệm tiền trong năm 2023 | How2Money x Doctor Housing. Ep25",
+        "description": "Doctor Housing hướng dẫn bạn trẻ cách để không nợ thẻ tín dụng do mua sắm quá tay, cũng như bổ sung thêm nguồn thu nhập mới trước một năm 2023 kinh tế tiếp tục khó khăn.\n\nTrong số How2Money cuối cùng của năm Nhâm Dần, chuyên gia Nguyễn Duy Chuyền mang đến cho độc giả những lời khuyên bổ ích để học cách kiểm soát tài chính cá nhân, nhất là những bạn trẻ vốn có thói quen chỉ chờ lương về để trả nợ. \n\nTheo anh Chuyền, 2023 tiếp tục là một năm kinh tế ảm đạm cho cả thế giới cũng như Việt Nam. Bởi vậy, người trẻ cần học cách tích lũy để chuẩn bị cho những tình huống xấu về tài chính cá nhân. Song song đó, bạn có thể trau dồi bản thân để tìm kiếm công việc tốt hơn, với mức đãi ngộ cao hơn để nâng cao chất lượng cuộc sống của mình cũng như người thân.\n\nTuy đánh giá nền kinh tế năm nay tiếp tục khó khăn, anh Chuyền vẫn khuyến khích độc giả trẻ đầu tư vào BDS, cổ phiếu... Bởi đây là thời điểm đất đai đang trở về với giá trị thực, còn cổ phiếu đang ở đáy. Bạn có thể lựa chọn một BDS đầy đủ giấy tờ pháp lý, giá bán rẻ hơn 30-40% so với năm ngoái, hoặc các mã cổ phiếu uy tín để giao dịch. Tuy nhiên, bạn nên đầu tư bằng tiền của chính mình chứ đừng huy động vốn từ ngân hàng. \n\nAnh Chuyền nhấn mạnh, bạn trẻ chỉ tham gia đầu tư khi thực sự có kiến thức về lĩnh vực. Nếu không, bạn nên gửi tiết kiệm tiền của mình là phương án an toàn nhất. \n\n_\n\nShow: How2Money\n\nHost: Doctor Housing - Kim Tuyến\n\n_\n\n\n\n",
+        "duration": 1523,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/a/6/2/4/a6240908841d888424c40d4428b5bfcb.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/a/6/2/4/a6240908841d888424c40d4428b5bfcb.jpg",
+        "artists": [
+          {
+            "id": "IW7B7AEI",
+            "name": "Zing News",
+            "link": "/zingnews",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+          }
+        ],
+        "link": "/eps/Cach-gia-tang-thu-nhap-va-tiet-kiem-tien-trong-nam-2023-How2Money-x-Doctor-Housing-Ep25/Z6609WUZ.html",
+        "releaseDate": 1673921427,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6BUUFAEO",
+        "album": {
+          "encodeId": "6BUUFAEO",
+          "title": "How2Money x Doctor Housing",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "isoffical": true,
+          "link": "/pgr/How2Money-x-Doctor-Housing/6BUUFAEO.html",
+          "artists": [
+            {
+              "id": "IW7B7AEI",
+              "name": "Zing News",
+              "link": "/zingnews",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+            }
+          ],
+          "description": "Những vấn đề tài chính được bạn trẻ quan tâm như làm thế nào để mua nhà chung cư khi bạn không có tiền, cách vay ngân hàng để không nắm đằng lưỡi, những hiểm họa khi dính nợ xấu… được Doctor Housing - Nguyễn Duy Chuyền giải thích dễ hiểu và hài hước.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z6ZCZ0Z8",
+        "rawId": 1141047256,
+        "title": "Tích lũy 450 triệu đồng nên sắm xe hay mua nhà? | How2Money x Doctor Housing. Ep24",
+        "description": "Ở số How2Money tuần này, Doctor Housing tư vấn cho bạn trẻ nên mua nhà hay mua xe trong năm 2023, trong bối cảnh kinh tế được dự báo tiếp tục khó khăn. \n\nChủ đề mua nhà, mua xe luôn nóng hổi với series Podcast How2Money. Nhiều bạn trẻ tích góp được một số vốn thường đứng trước lựa chọn mua xe ô tô để phục vụ mục đích cá nhân, tận hưởng cuộc sống, hay dùng đầu tư vào BĐS, chứng khoán.\n\nTheo chuyên gia Nguyễn Duy Chuyền, không có đáp án nào là đúng hay sai. Tuỳ thuộc vào nhu cầu và hoàn cảnh mà bạn trẻ có thể cân nhắc sử dụng đồng tiền của mình cho hợp lý. \n\nCũng trong số này, Doctor Housing giải thích cho độc giả nhà sổ chung là gì, cũng như điểm danh các tuyến đường đẹp có thể đi từ vùng ven vào trung tâm TP.HCM thuận tiện. \n\n_\n\nShow: How2Money\n\nHost: Doctor Housing - Kim Tuyến\n\n_\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "duration": 1490,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/a/2/0/6/a2062b35ced287a39564a4f91d43ee30.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/a/2/0/6/a2062b35ced287a39564a4f91d43ee30.jpg",
+        "artists": [
+          {
+            "id": "IW7B7AEI",
+            "name": "Zing News",
+            "link": "/zingnews",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+          }
+        ],
+        "link": "/eps/Tich-luy-450-trieu-dong-nen-sam-xe-hay-mua-nha-How2Money-x-Doctor-Housing-Ep24/Z6ZCZ0Z8.html",
+        "releaseDate": 1673313605,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6BUUFAEO",
+        "album": {
+          "encodeId": "6BUUFAEO",
+          "title": "How2Money x Doctor Housing",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "isoffical": true,
+          "link": "/pgr/How2Money-x-Doctor-Housing/6BUUFAEO.html",
+          "artists": [
+            {
+              "id": "IW7B7AEI",
+              "name": "Zing News",
+              "link": "/zingnews",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+            }
+          ],
+          "description": "Những vấn đề tài chính được bạn trẻ quan tâm như làm thế nào để mua nhà chung cư khi bạn không có tiền, cách vay ngân hàng để không nắm đằng lưỡi, những hiểm họa khi dính nợ xấu… được Doctor Housing - Nguyễn Duy Chuyền giải thích dễ hiểu và hài hước.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z6Z8U97B",
+        "rawId": 1140783355,
+        "title": "Nghỉ việc giữa chừng có được nhận thưởng Tết? | How2Money x Doctor Housing. Ep23",
+        "description": "Trong số How2Money tuần này, Doctor Housing giải đáp các thắc mắc của bạn trẻ về thưởng Tết, cũng như định hướng tài chính cho năm 2023. \n\nThưởng Tết cuối năm là chủ đề nóng hổi được nhiều độc giả quan tâm, khi chưa đầy một tháng nữa là bước sang năm mới Kỷ Mão. Trong đó, một câu hỏi được nhiều bạn trẻ gửi về cho Doctor Housing là: \"Không làm đủ một năm liệu có được công ty thưởng Tết âm lịch và lương tháng thứ 13?\".\n\nNgoài chuyện quyền lợi của người lao động, anh Nguyễn Duy Chuyền cũng cung cấp cho bạn đọc một số kiến thức bổ ích về ngành ngân hàng, cùng hướng đi để trở thành một chuyên gia tài chính cho bản thân và mọi người xung quanh. \n\nAnh Chuyền cho rằng dù vừa trải qua một năm kinh tế khó khăn, bạn trẻ vẫn có thể kỳ vọng vào một năm 2023 bứt phá, nếu chịu khó tìm tòi kiến thức tài chính và học cách sống tiết kiệm. \n\n_\n\nShow: How2Money\n\nHost: Doctor Housing - Kim Tuyến\n\n_\n",
+        "duration": 1752,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/8/5/8/e/858e2363e15e9ca606bfece29cdfe01c.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/8/5/8/e/858e2363e15e9ca606bfece29cdfe01c.jpg",
+        "artists": [
+          {
+            "id": "IW7B7AEI",
+            "name": "Zing News",
+            "link": "/zingnews",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+          }
+        ],
+        "link": "/eps/Nghi-viec-giua-chung-co-duoc-nhan-thuong-Tet-How2Money-x-Doctor-Housing-Ep23/Z6Z8U97B.html",
+        "releaseDate": 1672711388,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6BUUFAEO",
+        "album": {
+          "encodeId": "6BUUFAEO",
+          "title": "How2Money x Doctor Housing",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "isoffical": true,
+          "link": "/pgr/How2Money-x-Doctor-Housing/6BUUFAEO.html",
+          "artists": [
+            {
+              "id": "IW7B7AEI",
+              "name": "Zing News",
+              "link": "/zingnews",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+            }
+          ],
+          "description": "Những vấn đề tài chính được bạn trẻ quan tâm như làm thế nào để mua nhà chung cư khi bạn không có tiền, cách vay ngân hàng để không nắm đằng lưỡi, những hiểm họa khi dính nợ xấu… được Doctor Housing - Nguyễn Duy Chuyền giải thích dễ hiểu và hài hước.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z6ZOFOFU",
+        "rawId": 1140499316,
+        "title": "Đề phòng lừa đảo qua ứng dụng vay tiền | How2Money x Doctor Housing. Ep22",
+        "description": "Doctor Housing khẳng định gần như toàn bộ app cho vay tiền trên mạng đều là lừa đảo. Cho dù bạn có vay được tiền cũng sẽ bị tính lãi 50-100%  và gần như không có khả năng chi trả.\n\nTrong số How2Money tuần này, Doctor Housing phân tích về các app cho vay tiền vốn rất phổ biến trên mạng gần đây. Theo anh Chuyền, có 2 loại app cho vay. \n\nLoại thứ nhất hoàn toàn là lừa đảo, yêu cầu người dùng phải nộp một khoản tiền cho chúng mới được vay. Tuy nhiên sau đó bằng các thủ đoạn như giả vờ đổ lỗi cho bạn gửi sai số tài khoản, chúng sẽ bắt bạn phải tiếp tục nộp tiền cho tới khi cạn kiệt. \n\nLoại thứ hai cho bạn vay tiền nhưng sẽ tính hàng loạt phí vô lý, đồng thời tính lãi rất cao. Khi bạn không có khả năng chi trả, chúng sẽ giới thiệu bạn sang một app khác để vay tiền trả chúng. Cứ như vậy bạn sẽ trở thành con nợ của rất nhiều bên tín dụng đen. \n\nNgoài ra, Doctor Housing cũng cảnh báo độc giả về hình thức góp vốn mua bất động sản online, cũng như cách chuẩn bị để sẵn sàng mua một căn nhà ở xã hội khi mở bán. \n\n_\n\nShow: How2Money\n\nHost: Doctor Housing - Kim Tuyến\n\n_\n",
+        "duration": 1669,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/f/b/3/3/fb332f6d824b0c9fc072de335a9c8e6b.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/f/b/3/3/fb332f6d824b0c9fc072de335a9c8e6b.jpg",
+        "artists": [
+          {
+            "id": "IW7B7AEI",
+            "name": "Zing News",
+            "link": "/zingnews",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+          }
+        ],
+        "link": "/eps/De-phong-lua-dao-qua-ung-dung-vay-tien-How2Money-x-Doctor-Housing-Ep22/Z6ZOFOFU.html",
+        "releaseDate": 1672106571,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6BUUFAEO",
+        "album": {
+          "encodeId": "6BUUFAEO",
+          "title": "How2Money x Doctor Housing",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "isoffical": true,
+          "link": "/pgr/How2Money-x-Doctor-Housing/6BUUFAEO.html",
+          "artists": [
+            {
+              "id": "IW7B7AEI",
+              "name": "Zing News",
+              "link": "/zingnews",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+            }
+          ],
+          "description": "Những vấn đề tài chính được bạn trẻ quan tâm như làm thế nào để mua nhà chung cư khi bạn không có tiền, cách vay ngân hàng để không nắm đằng lưỡi, những hiểm họa khi dính nợ xấu… được Doctor Housing - Nguyễn Duy Chuyền giải thích dễ hiểu và hài hước.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z6UFFBI9",
+        "rawId": 1140239001,
+        "title": "Gánh nợ cả đời vì không đóng thẻ tín dụng | How2Money x Doctor Housing. Ep21",
+        "description": "Theo Doctor Housing, bạn nên đóng thẻ tín dụng khi không sử dụng đến. Bởi các ngân hàng vẫn tính lãi kép suốt đời, khiến bạn dính nợ xấu và không thể vay vốn sau này. \n\nSau số Podcast \"Nợ thẻ tín dụng 1.000 đồng bị tính lãi tiền triệu\", nhiều độc giả của How2Money tiếp tục gửi câu hỏi liên quan đến chủ đề thẻ tín dụng, cho thấy nhu cầu cấp thiết của người trẻ về loại hình tài chính này.\n\nChuyên gia Nguyễn Duy Chuyền tiếp tục tư vấn cho bạn đọc những lưu ý khi sử dụng thẻ tín dụng trong số tuần này. Theo anh Chuyền, người dùng phải gánh tới 9 loại phí để sở hữu một chiếc thẻ quẹt trước trả sau. Bởi vậy bạn nên cân nhắc thật kỹ trước khi đặt bút ký mở thẻ với bất kỳ đơn vị tài chính nào. \n\nNgoài ra, những thắc mắc xoay quanh đáo hạn thẻ tín dụng, cách xử lý khi ngân hàng tự ý mở thẻ mà không được sự cho phép của người dùng cũng được Doctor Housing chia sẻ trong số lần này. \n\nTựu trung, vị chuyên gia vẫn giữ vững quan điểm chỉ sử dụng thẻ tín dụng trong một số trường hợp hãn hữu. Bởi đây là con dao 2 lưỡi, có thể khiến bạn vướng vào cảnh nợ nần suốt đời, không bao giờ trả hết lãi. \n\n_\n\nShow: How2Money\n\nHost: Doctor Housing - Kim Tuyến\n\n_\n",
+        "duration": 1614,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/3/4/9/e/349e9b153c737e885a770fc9cc0f641e.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/3/4/9/e/349e9b153c737e885a770fc9cc0f641e.jpg",
+        "artists": [
+          {
+            "id": "IW7B7AEI",
+            "name": "Zing News",
+            "link": "/zingnews",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+          }
+        ],
+        "link": "/eps/Ganh-no-ca-doi-vi-khong-dong-the-tin-dung-How2Money-x-Doctor-Housing-Ep21/Z6UFFBI9.html",
+        "releaseDate": 1671501954,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6BUUFAEO",
+        "album": {
+          "encodeId": "6BUUFAEO",
+          "title": "How2Money x Doctor Housing",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "isoffical": true,
+          "link": "/pgr/How2Money-x-Doctor-Housing/6BUUFAEO.html",
+          "artists": [
+            {
+              "id": "IW7B7AEI",
+              "name": "Zing News",
+              "link": "/zingnews",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+            }
+          ],
+          "description": "Những vấn đề tài chính được bạn trẻ quan tâm như làm thế nào để mua nhà chung cư khi bạn không có tiền, cách vay ngân hàng để không nắm đằng lưỡi, những hiểm họa khi dính nợ xấu… được Doctor Housing - Nguyễn Duy Chuyền giải thích dễ hiểu và hài hước.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z6UB9786",
+        "rawId": 1139951366,
+        "title": "Chiêu trò của ngân hàng khiến người trẻ cháy túi | How2Money x Doctor Housing. Ep20",
+        "description": "Theo Doctor Housing, nhiều nhân viên ngân hàng liên tục chào mời bạn mua chứng chỉ quỹ, bất động sản, mở tài khoản ngân hàng... mà không quan tâm khách hàng có muốn hay không. \n\nTrong số How2Money tuần này, Doctor Housing giải thích cho độc giả vì sao ngân hàng lại chào mời mua đủ loại hình đầu tư khác nhau. Theo vị chuyên gia, ngân hàng là tổ chức hiểu đến chân tơ kẽ tóc về tình hình tài chính của bạn. Họ biết rất rõ bạn đang chi tiêu thế nào, nợ nần ra sao, mong muốn điều gì.\n\nTuy nhiên, do sức ép doanh thu, nhiều nhân viên ngân hàng sẵn sàng đề xuất cho bạn những hình thức đầu tư mà đôi khi chính họ còn không hiểu, hoặc khách hàng không cần. \n\nTheo anh Chuyền, người trẻ cần hết sức tỉnh táo trước những đề xuất mua nhà, trái phiếu từ ngân hàng. Hãy nghiên cứu thật kỹ về điều khoản trước khi đặt bút ký. Ngay cả lời chào mời mở thẻ ATM miễn phí cũng có thể khiến bạn mất tiền vô lý về sau. \n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "duration": 1865,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/d/2/5/0/d2508fa28146a0bd6e68ac945c5f4035.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/d/2/5/0/d2508fa28146a0bd6e68ac945c5f4035.jpg",
+        "artists": [
+          {
+            "id": "IW7B7AEI",
+            "name": "Zing News",
+            "link": "/zingnews",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+          }
+        ],
+        "link": "/eps/Chieu-tro-cua-ngan-hang-khien-nguoi-tre-chay-tui-How2Money-x-Doctor-Housing-Ep20/Z6UB9786.html",
+        "releaseDate": 1670895313,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6BUUFAEO",
+        "album": {
+          "encodeId": "6BUUFAEO",
+          "title": "How2Money x Doctor Housing",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "isoffical": true,
+          "link": "/pgr/How2Money-x-Doctor-Housing/6BUUFAEO.html",
+          "artists": [
+            {
+              "id": "IW7B7AEI",
+              "name": "Zing News",
+              "link": "/zingnews",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+            }
+          ],
+          "description": "Những vấn đề tài chính được bạn trẻ quan tâm như làm thế nào để mua nhà chung cư khi bạn không có tiền, cách vay ngân hàng để không nắm đằng lưỡi, những hiểm họa khi dính nợ xấu… được Doctor Housing - Nguyễn Duy Chuyền giải thích dễ hiểu và hài hước.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z6U7WA7Z",
+        "rawId": 1139661301,
+        "title": "Đầu tư 150 triệu đồng để mua trả góp xe cũ | How2Money x Doctor Housing. Ep19",
+        "description": "Trong số How2Money tuần này, Doctor Housing tiếp tục giải đáp các thắc mắc của độc giả về bất động sản, thanh toán thẻ tín dụng, cùng lựa chọn mua xe trả góp cũ hay mới. \n\nMột độc giả than phiền với Doctor Housing về trường hợp ngân hàng đã giải ngân xong nhưng chủ đầu tư không chịu giao nhà. Theo vị chuyên gia, đây là hành động bất hợp lý nhưng rất phổ biến thời gian gần đây. \n\nAnh Chuyền tư vấn các độc giả để không rơi vào tình trạng tương tự hãy thống nhất với chủ đầu tư thanh toán tiền theo tiến độ thi công thay vì các mốc thời gian. Ví dụ như sau khi xong móng thanh toán 25%, xây lên 5 tầng, 10 tầng tiếp tục trả 20%. Việc này nhằm đảm bảo chủ đầu tư có thực hiện việc xây dựng.\n\nNgoài ra, việc mua bán nhà cần có sự bảo lãnh của ngân hàng. Trong trường hợp chủ đầu tư không giao nhà đúng như cam kết, ngân hàng sẽ đứng ra trả lãi cho người mua.\n\nVấn đề mua ô tô trả góp cũng được hâm nóng bằng 2 câu hỏi của độc giả về việc nên mua xe trả góp cũ hay mới. Doctor Housing nêu ra những mặt lợi và hại của từng trường hợp.\n\nMua xe cũ giúp bạn đỡ được rất nhiều loại phí trước bạ, đăng kiểm lần đầu, ra biển số, đăng ký xe… Nhưng nếu là doanh nghiệp, bạn nên mua xe mới để có hoá đơn.\n\nBù lại, xe cũ khó mua trả góp hơn xe mới. Bởi ngân hàng sẽ định giá lại xe cũ và cho vay số tiền thấp hơn bạn cần để mua chiếc xe đó. Ngược lại, ngân hàng sẽ không định giá xe mới bở tuân theo giá của thị trường.\n\nNgoài ra, Doctor Housing tiếp tục giải đáp thắc mắc liên quan đến phí sinh hoạt tại chung cư, cũng như vấn đề trả nợ thẻ tín dụng. \n\n_\n\nShow: How2Money\n\nHost: Doctor Housing - Kim Tuyến\n\n_\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "duration": 1722,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/2/e/a/1/2ea181c2c459af067a1adda3058ac08e.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/2/e/a/1/2ea181c2c459af067a1adda3058ac08e.jpg",
+        "artists": [
+          {
+            "id": "IW7B7AEI",
+            "name": "Zing News",
+            "link": "/zingnews",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+          }
+        ],
+        "link": "/eps/Dau-tu-150-trieu-dong-de-mua-tra-gop-xe-cu-How2Money-x-Doctor-Housing-Ep19/Z6U7WA7Z.html",
+        "releaseDate": 1670290479,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6BUUFAEO",
+        "album": {
+          "encodeId": "6BUUFAEO",
+          "title": "How2Money x Doctor Housing",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "isoffical": true,
+          "link": "/pgr/How2Money-x-Doctor-Housing/6BUUFAEO.html",
+          "artists": [
+            {
+              "id": "IW7B7AEI",
+              "name": "Zing News",
+              "link": "/zingnews",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+            }
+          ],
+          "description": "Những vấn đề tài chính được bạn trẻ quan tâm như làm thế nào để mua nhà chung cư khi bạn không có tiền, cách vay ngân hàng để không nắm đằng lưỡi, những hiểm họa khi dính nợ xấu… được Doctor Housing - Nguyễn Duy Chuyền giải thích dễ hiểu và hài hước.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z6UOW8FW",
+        "rawId": 1139398770,
+        "title": "Vợ chồng thu nhập 27 triệu có nên mua nhà trả góp | How2Money x Doctor Housing. Ep18",
+        "description": "Trong số How2Money tuần này, Doctor Housing tiếp tục tư vấn lộ trình mua nhà trả góp dựa theo thu nhập thực tế của độc giả, đồng thời vạch trần chiêu trò của các hội nhóm đọc lệnh.\n\nAnh Nguyễn Duy Chuyền cảnh báo một độc giả khi được chào mời tham gia nhóm chat với các chuyên gia cổ phiếu. Họ cam kết với độc giả này sẽ được tư vấn các mã cổ phiếu chắc chắn có lãi, đồng thời mời gọi chị nạp 100 triệu đồng để được nhận ngay 120 triệu đồng.\n\nTheo Doctor Housing, đây là hành vi lừa đảo khiến nhiều người tán gia bại sản. \"Đến cả chuyên gia cổ phiếu hàng chục năm trong ngành còn có lúc thua lỗ, vậy mà nhóm người này luôn cam kết 100% thành công. Những điều vô lý như vậy mà nhiều người vẫn sập bẫy, thậm chí cúng hàng chục tỷ đồng cho bọn lừa đảo vì tâm lý tiếc rẻ 100 triệu lỡ nạp vào ban đầu\", anh Chuyền phân tích.\n\nCũng trong chương trình, Doctor Housing tư vấn lộ trình mua nhà cho một cặp vợ chồng công nhân với ước mơ xây dựng tổ ấm nhỏ ở vùng ven TP.HCM, cùng 2 chị em quê ở Biên Hoà muốn mua nhà để tiện về thăm bố mẹ nhưng cũng không quá xa trung tâm. \n\nNgoài ra, anh Chuyền giải đáp một câu hỏi về thẻ tín dụng khi sử dụng ở nước ngoài, đồng thời tư vấn một độc giả đang có ý định mua đất nông nghiệp ở Cần Thơ. \n\n_\n\nShow: How2Money\n\nHost: Doctor Housing - Kim Tuyến\n\n_\n",
+        "duration": 1633,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/a/1/4/a/a14a6a9efa8026c4152c215051bd5941.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/a/1/4/a/a14a6a9efa8026c4152c215051bd5941.jpg",
+        "artists": [
+          {
+            "id": "IW7B7AEI",
+            "name": "Zing News",
+            "link": "/zingnews",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+          }
+        ],
+        "link": "/eps/Vo-chong-thu-nhap-27-trieu-co-nen-mua-nha-tra-gop-How2Money-x-Doctor-Housing-Ep18/Z6UOW8FW.html",
+        "releaseDate": 1669688179,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6BUUFAEO",
+        "album": {
+          "encodeId": "6BUUFAEO",
+          "title": "How2Money x Doctor Housing",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "isoffical": true,
+          "link": "/pgr/How2Money-x-Doctor-Housing/6BUUFAEO.html",
+          "artists": [
+            {
+              "id": "IW7B7AEI",
+              "name": "Zing News",
+              "link": "/zingnews",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+            }
+          ],
+          "description": "Những vấn đề tài chính được bạn trẻ quan tâm như làm thế nào để mua nhà chung cư khi bạn không có tiền, cách vay ngân hàng để không nắm đằng lưỡi, những hiểm họa khi dính nợ xấu… được Doctor Housing - Nguyễn Duy Chuyền giải thích dễ hiểu và hài hước.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z6OE8WBO",
+        "rawId": 1139094067,
+        "title": "Đừng để phụ nữ sở hữu thẻ tín dụng | How2Money x Doctor Housing. Ep17",
+        "description": "Theo Doctor Housing, thẻ tín dụng là một phương tiện thanh toán tiện lợi nhưng không dành cho tất cả. Đặc biệt, nếu bạn không giỏi kiểm soát thu chi thì không nên sử dụng. \n\nTrong số How2Money tuần này, Doctor Housing chỉ ra những \"chiếc bẫy\" của thẻ tín dụng khiến người trẻ rất dễ vướng vào vòng xoáy nợ nần dù chỉ quẹt vài triệu mỗi tháng.\n\nTheo chuyên gia, nhiều chính sách của nhà cung cấp thẻ tín dụng không rõ ràng, người tư vấn cố tình không phổ biến cho bạn. Ví dụ như lời chào mời miễn lãi suất trong 45 ngày bị nhiều người hiểu rằng \"quẹt ngày nào thì bắt đầu tính từ ngày đó\". Sự thật, 45 ngày đó bắt đầu tính từ ngày đầu tiên của tháng, đồng nghĩ đến ngày cuối cùng của tháng bạn chỉ còn 15 ngày. \n\nNgoài ra, anh Chuyền cũng bóc trần sự thật về chính sách trả góp 0 đồng qua thẻ tín dụng của nhiều nhà bán lẻ. Vị chuyên gia cảnh báo bạn trẻ hãy nghiên cứu thật kỹ những sản phẩm có chính sách này, bởi hầu hết là hàng tồn kho hoặc kém chất lượng. \n\n _  \n\nShow: How2Money \n\nHost: Doctor Housing - Kim Tuyến \n\n_\n\n\n\n\n\n\n",
+        "duration": 2674,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/3/a/a/4/3aa47b515f546593c557fc14f6ab59fe.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/3/a/a/4/3aa47b515f546593c557fc14f6ab59fe.jpg",
+        "artists": [
+          {
+            "id": "IW7B7AEI",
+            "name": "Zing News",
+            "link": "/zingnews",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+          }
+        ],
+        "link": "/eps/Dung-de-phu-nu-so-huu-the-tin-dung-How2Money-x-Doctor-Housing-Ep17/Z6OE8WBO.html",
+        "releaseDate": 1669085901,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6BUUFAEO",
+        "album": {
+          "encodeId": "6BUUFAEO",
+          "title": "How2Money x Doctor Housing",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "isoffical": true,
+          "link": "/pgr/How2Money-x-Doctor-Housing/6BUUFAEO.html",
+          "artists": [
+            {
+              "id": "IW7B7AEI",
+              "name": "Zing News",
+              "link": "/zingnews",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+            }
+          ],
+          "description": "Những vấn đề tài chính được bạn trẻ quan tâm như làm thế nào để mua nhà chung cư khi bạn không có tiền, cách vay ngân hàng để không nắm đằng lưỡi, những hiểm họa khi dính nợ xấu… được Doctor Housing - Nguyễn Duy Chuyền giải thích dễ hiểu và hài hước.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z6OAW7IU",
+        "rawId": 1138808468,
+        "title": "Cách đầu tư bảo hiểm sinh lời | How2Money x Doctor Housing. Ep16",
+        "description": "Theo Doctor Housing, bạn chỉ nên đầu tư 10% thu nhập hàng tháng cho bảo hiểm. Bởi chúng ta rất dễ bỏ ngang trong tương lai khi tài chính cá nhân gặp biến động.\n\nTrong số How2money tuần này, Doctor Housing giải thích cho Kim Tuyến và bạn đọc các loại bảo hiểm trên thị trường, loại bảo hiểm nào có thể đầu tư sinh lời. Những điều cần lưu ý khi tham gia bảo hiểm cho bản thân và gia đình.\n\nAnh Chuyền cho biết, ít nhất 50% khách hàng đóng bảo hiểm sẽ bỏ ngang trong 2-3 năm đầu. Lý do là bởi tài chính cá nhân của họ gặp trục trặc, không đủ khả năng theo bảo hiểm lâu dài. Lúc đó, toàn bộ số tiền bạn đã đóng sẽ thuộc về công ty bảo hiểm. Lợi nhuận chủ yếu của họ cũng đến từ đây.\n\nVị chuyên gia khuyên độc giả nếu có điều kiện hãy mua bảo hiểm nhân thọ và bảo hiểm sức khỏe riêng biệt. Bởi bảo hiểm nhân thọ chỉ chi trả cho bệnh hiểm nghèo, trong khi đó bảo hiểm sức khỏe giúp chúng ta thăm khám miễn phí tại bệnh viện liên kết.\n\nNgoài ra, nhà đầu tư nên xác định việc kiếm lời từ bảo hiểm cần tương lai lâu dài, chứ không thể nghĩ ngắn hạn hay thích rút lúc nào thì rút. \"Thời hạn đóng bảo hiểm càng lâu, giá trị hoàn lại cho bạn càng lớn. Để được hưởng tiền lời, bạn phải đợi sau khi kết thúc hợp đồng vài năm\", anh Chuyền phân tích.\n\n_\n\nShow: How2Money\n\nHost: Doctor Housing - Kim Tuyến\n\n_\n\n\n\n",
+        "duration": 1700,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/3/f/1/b/3f1bbb866c881dfe963ec8c8adb80e12.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/3/f/1/b/3f1bbb866c881dfe963ec8c8adb80e12.jpg",
+        "artists": [
+          {
+            "id": "IW7B7AEI",
+            "name": "Zing News",
+            "link": "/zingnews",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+          }
+        ],
+        "link": "/eps/Cach-dau-tu-bao-hiem-sinh-loi-How2Money-x-Doctor-Housing-Ep16/Z6OAW7IU.html",
+        "releaseDate": 1668478490,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6BUUFAEO",
+        "album": {
+          "encodeId": "6BUUFAEO",
+          "title": "How2Money x Doctor Housing",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "isoffical": true,
+          "link": "/pgr/How2Money-x-Doctor-Housing/6BUUFAEO.html",
+          "artists": [
+            {
+              "id": "IW7B7AEI",
+              "name": "Zing News",
+              "link": "/zingnews",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+            }
+          ],
+          "description": "Những vấn đề tài chính được bạn trẻ quan tâm như làm thế nào để mua nhà chung cư khi bạn không có tiền, cách vay ngân hàng để không nắm đằng lưỡi, những hiểm họa khi dính nợ xấu… được Doctor Housing - Nguyễn Duy Chuyền giải thích dễ hiểu và hài hước.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z6OZ9WEZ",
+        "rawId": 1138508389,
+        "title": "Đầu tư chứng khoán với 17 triệu đồng | How2Money x Doctor Housing. Ep15",
+        "description": "Trong số How2Money tuần này, Doctor Housing giải thích cho host Kim Tuyến và độc giả các khái niệm cơ bản về chứng khoán và các sàn giao dịch. Theo anh Chuyền, các sàn chứng khoán giống như chợ, cổ phiếu là sản phẩm bán trong chợ, còn các công ty niêm yết giống như tiểu thương.\n\nĐặc biệt, khái niệm \"cá mập\" cùng các chiêu thức thao túng thị trường chứng khoán cũng được chuyên gia điểm mặt chỉ tên để nhà đầu tư tránh cạm bẫy trong tương lai.\n\nDoctor Housing cảnh báo độc giả trước lời chào mời về các lớp học chứng khoán miễn phí. Theo vị chuyên gia, những lớp học này dạy kiến thức là phụ, \"lùa gà\" là chính. Anh Chuyền khuyên nhà đầu tư tương lai tìm đến chuyên gia uy tín hoặc tự học trên mạng.\n\nNhấn mạnh về tầm quan trọng của kiến thức trong lĩnh vực cổ phiếu, Doctor Housing nhận xét 80% nhà đầu tư hiện nay không có kiến thức cơ bản, chỉ xuống tiền theo cảm tính hoặc lời đồn đại. Anh khuyên độc giả hãy trang bị hiểu biết nhất định về ngành để tránh cháy tài khoản ngay từ những giao dịch đầu tiên.\n\n_\n\nShow: How2Money\n\nHost: Doctor Housing - Kim Tuyến\n\n_\n",
+        "duration": 2057,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/d/3/9/1/d3913c3ca8b4de9d0fdb6c95366e7bd1.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/d/3/9/1/d3913c3ca8b4de9d0fdb6c95366e7bd1.jpg",
+        "artists": [
+          {
+            "id": "IW7B7AEI",
+            "name": "Zing News",
+            "link": "/zingnews",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+          }
+        ],
+        "link": "/eps/Dau-tu-chung-khoan-voi-17-trieu-dong-How2Money-x-Doctor-Housing-Ep15/Z6OZ9WEZ.html",
+        "releaseDate": 1667874116,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6BUUFAEO",
+        "album": {
+          "encodeId": "6BUUFAEO",
+          "title": "How2Money x Doctor Housing",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "isoffical": true,
+          "link": "/pgr/How2Money-x-Doctor-Housing/6BUUFAEO.html",
+          "artists": [
+            {
+              "id": "IW7B7AEI",
+              "name": "Zing News",
+              "link": "/zingnews",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+            }
+          ],
+          "description": "Những vấn đề tài chính được bạn trẻ quan tâm như làm thế nào để mua nhà chung cư khi bạn không có tiền, cách vay ngân hàng để không nắm đằng lưỡi, những hiểm họa khi dính nợ xấu… được Doctor Housing - Nguyễn Duy Chuyền giải thích dễ hiểu và hài hước.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z6O0CC07",
+        "rawId": 1138195335,
+        "title": "Cách xây 15 phòng trọ với 500 triệu đồng | How2Money x Doctor Housing. Ep14",
+        "description": "Xây phòng trọ hoặc căn hộ dịch vụ cho thuê là phương án đầu tư được nhiều người trẻ ưa thích, bởi về lâu về dài vừa có nhà cao cửa rộng vừa sinh lời ổn định hàng tháng. \n\nVới kinh nghiệm chuyên sâu về đất đai và vật liệu xây dựng, trong số How2money tuần này, Doctor Housing tư vấn cho bạn đọc một số trường hợp điển hình khi đầu tư xây hoặc sửa nhà để cho thuê. \n\nVị chuyên gia nhấn mạnh, dù là xây dãy phòng trọ cho công nhân khu chế xuất hay homestay hào nhoáng cho khách du lịch, nhà đầu tư cần cân nhắc nhiều yếu tố. Không chỉ là vấn đề tiền bạc, chuyện quản lý một BĐS cho thuê với người ra kẻ vào liên tục chưa bao giờ đơn giản, nảy sinh nhiều vấn đề mà chỉ khi bắt tay vào làm bạn mới thấu hiểu.\n\n_______\n\nShow: How2Money\n\nHost: Doctor Housing - Kim Tuyến\n\n_______\n",
+        "duration": 2110,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/5/c/8/a/5c8a8fdd4ad781d474f62f3ba5495306.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/5/c/8/a/5c8a8fdd4ad781d474f62f3ba5495306.jpg",
+        "artists": [
+          {
+            "id": "IW7B7AEI",
+            "name": "Zing News",
+            "link": "/zingnews",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+          }
+        ],
+        "link": "/eps/Cach-xay-15-phong-tro-voi-500-trieu-dong-How2Money-x-Doctor-Housing-Ep14/Z6O0CC07.html",
+        "releaseDate": 1667265009,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6BUUFAEO",
+        "album": {
+          "encodeId": "6BUUFAEO",
+          "title": "How2Money x Doctor Housing",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "isoffical": true,
+          "link": "/pgr/How2Money-x-Doctor-Housing/6BUUFAEO.html",
+          "artists": [
+            {
+              "id": "IW7B7AEI",
+              "name": "Zing News",
+              "link": "/zingnews",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+            }
+          ],
+          "description": "Những vấn đề tài chính được bạn trẻ quan tâm như làm thế nào để mua nhà chung cư khi bạn không có tiền, cách vay ngân hàng để không nắm đằng lưỡi, những hiểm họa khi dính nợ xấu… được Doctor Housing - Nguyễn Duy Chuyền giải thích dễ hiểu và hài hước.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z6WCA8IE",
+        "rawId": 1137923998,
+        "title": "Đầu tư đất nền với 500 triệu đồng | How2Money x Doctor Housing. Ep13",
+        "description": "Với khu vực ven biển, Doctor Housing khuyến cáo bạn đọc tìm hiểu thật kỹ trước khi xuống tiền. Đa số đất nền ven biển là đất hoang, lại ở vị trí xa xôi, hoàn toàn không có giá trị sử dụng trong khi chờ đợi tăng giá. Điều này khiến bạn lãng phí thời gian và nguồn lực. Chưa kể vị trí quá xa, mỗi lần đến thăm đất sẽ rất vất vả cho nhà đầu tư.\n\nVị chuyên gia khuyên độc giả thay vì đầu tư đất nền ở xa hãy tìm các miếng đất ở quê nhà. Bạn sẽ có lợi thế quen thuộc với địa phương, chưa kể có người nhà giúp sức quản lý BĐS.\n\nKhu vực gần TP.HCM như Long An, Thủ Đức, Đồng Nai... bạn cần tìm hiểu kỹ mảnh đất đó thuộc loại đất nông nghiệp hay để ở.\n\nNgoài ra, Doctor Housing cũng tư vấn trường hợp nhiều người hùn vốn mua chung một mảnh đất thì chia lợi nhuận về sau thế nào, đồng thời xử lý ra sao khi một người muốn thoái vốn.\n\n_______\n\nShow: How2Money\n\nHost: Doctor Housing - Kim Tuyến\n\n_______\n",
+        "duration": 1645,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/b/8/b/7/b8b7441b80d98f65dbb60b4cf4a789b6.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/b/8/b/7/b8b7441b80d98f65dbb60b4cf4a789b6.jpg",
+        "artists": [
+          {
+            "id": "IW7B7AEI",
+            "name": "Zing News",
+            "link": "/zingnews",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+          }
+        ],
+        "link": "/eps/Dau-tu-dat-nen-voi-500-trieu-dong-How2Money-x-Doctor-Housing-Ep13/Z6WCA8IE.html",
+        "releaseDate": 1666664948,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6BUUFAEO",
+        "album": {
+          "encodeId": "6BUUFAEO",
+          "title": "How2Money x Doctor Housing",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "isoffical": true,
+          "link": "/pgr/How2Money-x-Doctor-Housing/6BUUFAEO.html",
+          "artists": [
+            {
+              "id": "IW7B7AEI",
+              "name": "Zing News",
+              "link": "/zingnews",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+            }
+          ],
+          "description": "Những vấn đề tài chính được bạn trẻ quan tâm như làm thế nào để mua nhà chung cư khi bạn không có tiền, cách vay ngân hàng để không nắm đằng lưỡi, những hiểm họa khi dính nợ xấu… được Doctor Housing - Nguyễn Duy Chuyền giải thích dễ hiểu và hài hước.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z6W8EAA8",
+        "rawId": 1137678888,
+        "title": "Mua nhà trả góp với mức lương 28 triệu | How2Money x Doctor Housing. Ep12",
+        "description": "Trong số How2Money tuần này, Doctor Housing tư vấn giải pháp mua nhà chung cư trả góp cho độc giả. Đây là vấn đề được rất nhiều người quan tâm, bởi ai cũng muốn sở hữu một không gian sống ổn định và riêng tư.\n\nVị chuyên gia cho rằng mua nhà trả góp sẽ giúp người trẻ hình thành thói quen tiết kiệm, bớt tiêu xài hoang phí. Tuy nhiên bạn cần tính toán về những rủi ro tài chính có thể xảy ra trong tương lai trước khi đặt bút ký với ngân hàng. Nhiều người đột ngột mất việc, nghỉ việc giữa chừng khiến mất thu nhập. Chưa kể bạn cần đảm bảo thu nhập của mình phải có sự tăng tiến trong tương lai.\n\nDoctor Housing đưa ra 4 câu hỏi mà bạn trẻ cần ngân hàng giải đáp trước khi mua nhà trả góp: lãi suất ưu đãi, lãi suất thả nổi, lãi phạt trả trước hạn là bao nhiêu, đồng thời có phải mua bảo hiểm không? Anh Chuyền khẳng định chủ đầu tư luôn là người nắm quyền kiểm soát, họ cho bạn 1 đồng tức là họ sẽ lấy lại 10 đồng từ bạn.\n\nĐặc biệt, Doctor Housing tư vấn lộ trình cho một bạn trẻ có mức lương 28 triệu đồng/tháng, tích góp được 100 triệu đồng cách để bắt đầu mua nhà trả góp trong 3 năm tới. Theo chuyên gia, bạn có thể đầu tư đất nền và chờ tăng giá bán lại, sau đó dùng tiền để mua chung cư. Phương pháp này được gọi là \"đầu tư BĐS đi đường vòng\".\n\n_______\n\nShow: How2Money\n\nHost: Doctor Housing - Kim Tuyến\n\n_______\n",
+        "duration": 1581,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/1/d/1/b/1d1b8e17f193f06b1ad323fcd5177a60.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/1/d/1/b/1d1b8e17f193f06b1ad323fcd5177a60.jpg",
+        "artists": [
+          {
+            "id": "IW7B7AEI",
+            "name": "Zing News",
+            "link": "/zingnews",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+          }
+        ],
+        "link": "/eps/Mua-nha-tra-gop-voi-muc-luong-28-trieu-How2Money-x-Doctor-Housing-Ep12/Z6W8EAA8.html",
+        "releaseDate": 1666061603,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6BUUFAEO",
+        "album": {
+          "encodeId": "6BUUFAEO",
+          "title": "How2Money x Doctor Housing",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "isoffical": true,
+          "link": "/pgr/How2Money-x-Doctor-Housing/6BUUFAEO.html",
+          "artists": [
+            {
+              "id": "IW7B7AEI",
+              "name": "Zing News",
+              "link": "/zingnews",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+            }
+          ],
+          "description": "Những vấn đề tài chính được bạn trẻ quan tâm như làm thế nào để mua nhà chung cư khi bạn không có tiền, cách vay ngân hàng để không nắm đằng lưỡi, những hiểm họa khi dính nợ xấu… được Doctor Housing - Nguyễn Duy Chuyền giải thích dễ hiểu và hài hước.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "Z6WOD90B",
+        "rawId": 1137346699,
+        "title": "Tránh rủi ro khi vay trả góp mua ôtô | How2Money x Doctor Housing. Ep11",
+        "description": "How2Money mùa thứ 2 chính thức bắt đầu với hình thức hoàn toàn mới. Thay vì chia sẻ các vấn đề chung của ngành tài chính - bất động sản, host Doctor Housing (Nguyễn Duy Chuyền) sẽ trực tiếp giải đáp những thắc mắc thực tế của bạn đọc xoay quanh chuyện mua nhà, xe trả góp, đầu tư chứng khoán, đất đai... với sự giúp đỡ của host Kim Tuyến.\n\nTrong số đầu tiên, Doctor Housing tư vấn 4 độc giả đang có nhu cầu mua xe ôtô trả góp. Không chỉ vạch ra lộ trình trả nợ ngân hàng theo đúng tình hình tài chính thực tế của từng người, vị chuyên gia còn đưa ra những lời khuyên để \"nuôi\" xe tốt nhất.\n\nVới câu hỏi làm cách nào để vay được ngân hàng mua xe với lãi suất tốt khi không thể chứng minh thu nhập, Doctor Housing tư vấn bạn đọc 3 phương án. Một - bạn cần có mối quan hệ thân quen với ngân hàng; hai - chứng minh bản thân có nhiều tài sản và địa vị xã hội; ba - thế chấp một tài sản khác để ngân hàng cho vay.\n\nNgoài ra, xử lý sao khi bị ngân hàng và nơi bán xe ép mua bảo hiểm, hay xe đang trả góp mà muốn bán đi lên đời cao hơn thì có được không... cũng được Doctor Housing giải đáp cụ thể với phương pháp độc đáo, ít người biết.\n\nMột chủ đề nóng hổi gần đây là \"Có nên mua xe điện?\" cũng được vị chuyên gia tư vấn cho độc giả. Theo anh Chuyền, xe điện có nhiều cái tiện lợi, là xu hướng tất yếu của tương lai. Tuy nhiên với cơ sở hạ tầng của Việt Nam hiện nay, tốt nhất bạn nên xây biệt thự trước khi mua xe điện.\n\nCuối cùng, Doctor Housing nhắc nhở độc giả nếu chưa thực sự cần thiết phải có xe ôtô, bạn nên dùng tiền đầu tư vào các lĩnh vực khác. Sau vài ba năm, bạn sẽ dư dả tiền và có thể tự mua xe mà không cần vay trả góp.\n\n\"Đừng để chiếc xe trở thành tiêu sản khiến bạn phải đau đầu\", vị chuyên gia nhấn mạnh.\n\n_______\n\nShow: How2Money\n\nHost: Doctor Housing - Kim Tuyến\n\n_______\n",
+        "duration": 1822,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/c/a/9/a/ca9a99bb729511a4c37b0b4f148afb3c.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/c/a/9/a/ca9a99bb729511a4c37b0b4f148afb3c.jpg",
+        "artists": [
+          {
+            "id": "IW7B7AEI",
+            "name": "Zing News",
+            "link": "/zingnews",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+          }
+        ],
+        "link": "/eps/Tranh-rui-ro-khi-vay-tra-gop-mua-oto-How2Money-x-Doctor-Housing-Ep11/Z6WOD90B.html",
+        "releaseDate": 1665456036,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6BUUFAEO",
+        "album": {
+          "encodeId": "6BUUFAEO",
+          "title": "How2Money x Doctor Housing",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "isoffical": true,
+          "link": "/pgr/How2Money-x-Doctor-Housing/6BUUFAEO.html",
+          "artists": [
+            {
+              "id": "IW7B7AEI",
+              "name": "Zing News",
+              "link": "/zingnews",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+            }
+          ],
+          "description": "Những vấn đề tài chính được bạn trẻ quan tâm như làm thế nào để mua nhà chung cư khi bạn không có tiền, cách vay ngân hàng để không nắm đằng lưỡi, những hiểm họa khi dính nợ xấu… được Doctor Housing - Nguyễn Duy Chuyền giải thích dễ hiểu và hài hước.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "ZZFA9UD6",
+        "rawId": 1134642262,
+        "title": "Cú lừa khi mua nhà mặt đất | How2Money x Doctor Housing. Ep10",
+        "description": "Hợp đồng mua bán nhà là điều quan trọng nhất mà cả 2 phía cần thống nhất rõ ràng. Trong số tuần này, Doctor Housing chỉ ra cho bạn đọc những điều cần lưu ý khi soạn hợp đồng mua bán nhà mặt đất.  Các loại thuế phí có khá nhiều. Nếu chịu khó tìm hiểu, bạn sẽ biết được những loại nào mình phải đóng, loại nào bên kia phải chịu. Từ đó chúng ta tránh được việc mất quyền lợi theo quy định hiện hành của nhà nước. Cũng theo chuyên gia, người mua nhà nên giữ lại 50-100 triệu đồng để bù đắp trong trường hợp phát sinh thuế thu nhập cá nhân.\n\n_______\n\nShow: How2Money\n\nHost: Doctor Housing\n\n______\n\nZing.Podcast - kênh video, podcast từ Zing.\n",
+        "duration": 775,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/7/6/0/d/760de13f5f8591b9c76d7a35734d1e4e.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/7/6/0/d/760de13f5f8591b9c76d7a35734d1e4e.jpg",
+        "artists": [
+          {
+            "id": "IW7B7AEI",
+            "name": "Zing News",
+            "link": "/zingnews",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+          }
+        ],
+        "link": "/eps/Cu-lua-khi-mua-nha-mat-dat-How2Money-x-Doctor-Housing-Ep10/ZZFA9UD6.html",
+        "releaseDate": 1660203355,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6BUUFAEO",
+        "album": {
+          "encodeId": "6BUUFAEO",
+          "title": "How2Money x Doctor Housing",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "isoffical": true,
+          "link": "/pgr/How2Money-x-Doctor-Housing/6BUUFAEO.html",
+          "artists": [
+            {
+              "id": "IW7B7AEI",
+              "name": "Zing News",
+              "link": "/zingnews",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+            }
+          ],
+          "description": "Những vấn đề tài chính được bạn trẻ quan tâm như làm thế nào để mua nhà chung cư khi bạn không có tiền, cách vay ngân hàng để không nắm đằng lưỡi, những hiểm họa khi dính nợ xấu… được Doctor Housing - Nguyễn Duy Chuyền giải thích dễ hiểu và hài hước.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "ZZFA9UD8",
+        "rawId": 1134642264,
+        "title": "Những cái bẫy khi mua chung cư dự án | How2Money x Doctor Housing. Ep9",
+        "description": "Trong số How2Money tuần này, Doctor Housing chỉ ra 7 điều bạn trẻ cần lưu ý trước khi đặt cọc bất kỳ căn hộ chung cư nào vẫn đang nằm trên giấy. Trong đó, vị chuyên gia nhấn mạnh tầm quan trọng của việc so sánh giá được nhà đầu tư đưa ra so với giá các căn chung cư đã xây xong ở khu vực xung quanh.\n\nNgoài ra, việc thanh toán theo từng giai đoạn cũng cần có sự thống nhất rõ ràng giữa bên bán và bên mua. Một số luật mua bán liên quan đến loại hình bất động sản này được Doctor Housing tư vấn chi tiết để bạn trẻ không bị hớ khi giao dịch.\n\n_______\n\nShow: How2Money\n\nHost: Doctor Housing\n\n______\n\nZing.Podcast - kênh video, podcast từ Zing.\n",
+        "duration": 828,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/e/d/d/8/edd8503c0b7c690f3abc5ca4fd7fd28b.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/e/d/d/8/edd8503c0b7c690f3abc5ca4fd7fd28b.jpg",
+        "artists": [
+          {
+            "id": "IW7B7AEI",
+            "name": "Zing News",
+            "link": "/zingnews",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+          }
+        ],
+        "link": "/eps/Nhung-cai-bay-khi-mua-chung-cu-du-an-How2Money-x-Doctor-Housing-Ep9/ZZFA9UD8.html",
+        "releaseDate": 1660190024,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6BUUFAEO",
+        "album": {
+          "encodeId": "6BUUFAEO",
+          "title": "How2Money x Doctor Housing",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "isoffical": true,
+          "link": "/pgr/How2Money-x-Doctor-Housing/6BUUFAEO.html",
+          "artists": [
+            {
+              "id": "IW7B7AEI",
+              "name": "Zing News",
+              "link": "/zingnews",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+            }
+          ],
+          "description": "Những vấn đề tài chính được bạn trẻ quan tâm như làm thế nào để mua nhà chung cư khi bạn không có tiền, cách vay ngân hàng để không nắm đằng lưỡi, những hiểm họa khi dính nợ xấu… được Doctor Housing - Nguyễn Duy Chuyền giải thích dễ hiểu và hài hước.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "ZZFA9UDA",
+        "rawId": 1134642266,
+        "title": "Nên tìm mua nhà được chào bán trước 2022 | How2Money x Doctor Housing. Ep8",
+        "description": "Những chính sách mới về bất động sản mà nhà nước ban hành gần đây được đánh giá có tác động lớn đến thị trường nhà ở. Theo Doctor Housing, việc này sẽ mang lại nhiều lợi ích cho người có nhu cầu mua nhà ở thực nói riêng cũng như xã hội nói chung.\n\nTuy vậy, vị chuyên gia khuyến cáo người trẻ đừng vội vàng mua nhà, mà vẫn cần có sự nghiên cứu tìm hiểu. Bởi đi kèm với chính sách mới là nhiều vấn đề phát sinh trước đây chưa từng có.\n\n_______\n\nShow: How2Money\n\nHost: Doctor Housing\n\n______\n\nZing.Podcast - kênh video, podcast từ Zing.\n",
+        "duration": 1006,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/f/7/5/5/f75559cff37342197d7d3946ce1ec917.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/f/7/5/5/f75559cff37342197d7d3946ce1ec917.jpg",
+        "artists": [
+          {
+            "id": "IW7B7AEI",
+            "name": "Zing News",
+            "link": "/zingnews",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+          }
+        ],
+        "link": "/eps/Nen-tim-mua-nha-duoc-chao-ban-truoc-2022-How2Money-x-Doctor-Housing-Ep8/ZZFA9UDA.html",
+        "releaseDate": 1660189560,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6BUUFAEO",
+        "album": {
+          "encodeId": "6BUUFAEO",
+          "title": "How2Money x Doctor Housing",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "isoffical": true,
+          "link": "/pgr/How2Money-x-Doctor-Housing/6BUUFAEO.html",
+          "artists": [
+            {
+              "id": "IW7B7AEI",
+              "name": "Zing News",
+              "link": "/zingnews",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+            }
+          ],
+          "description": "Những vấn đề tài chính được bạn trẻ quan tâm như làm thế nào để mua nhà chung cư khi bạn không có tiền, cách vay ngân hàng để không nắm đằng lưỡi, những hiểm họa khi dính nợ xấu… được Doctor Housing - Nguyễn Duy Chuyền giải thích dễ hiểu và hài hước.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "ZZFA9Z0Z",
+        "rawId": 1134642309,
+        "title": "Các hình thức đầu tư ít vốn dễ sinh lời | How2Money x Doctor Housing. Ep7",
+        "description": "\"Nếu chỉ làm công ăn lương, bạn sẽ không bao giờ giàu\", chuyên gia tài chính Nguyễn Duy Chuyền - Doctor Housing khẳng định trong số Podcast của How 2 Money tuần này.\n\nLà một chuyên gia đầu tư, anh Chuyền luôn khuyến khích bạn trẻ tìm kiếm các kênh đầu tư hiệu quả và lành mạnh để nâng cao đời sống vật chất cũng như giá trị tinh thần cho bản thân.\n\nTuy nhiên, việc đầu tư vào bất kỳ loại hình nào cũng cần sự nghiên cứu kỹ càng. Trong số Podcast này, Doctor Housing giúp bạn đọc phân biệt 3 loại hình đang được người Việt trẻ ưa chuộng là cổ phiếu, trái phiếu và chứng chỉ quỹ, với ưu điểm có thể tham gia mà không cần nhiều vốn.\n\n_______\n\nShow: How2Money\n\nHost: Doctor Housing\n\n______\n\nZing.Podcast - kênh video, podcast từ Zing.\n",
+        "duration": 1133,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/a/c/b/5/acb59657b5629e68781ddc1e8fef2981.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/a/c/b/5/acb59657b5629e68781ddc1e8fef2981.jpg",
+        "artists": [
+          {
+            "id": "IW7B7AEI",
+            "name": "Zing News",
+            "link": "/zingnews",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+          }
+        ],
+        "link": "/eps/Cac-hinh-thuc-dau-tu-it-von-de-sinh-loi-How2Money-x-Doctor-Housing-Ep7/ZZFA9Z0Z.html",
+        "releaseDate": 1660189346,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6BUUFAEO",
+        "album": {
+          "encodeId": "6BUUFAEO",
+          "title": "How2Money x Doctor Housing",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "isoffical": true,
+          "link": "/pgr/How2Money-x-Doctor-Housing/6BUUFAEO.html",
+          "artists": [
+            {
+              "id": "IW7B7AEI",
+              "name": "Zing News",
+              "link": "/zingnews",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+            }
+          ],
+          "description": "Những vấn đề tài chính được bạn trẻ quan tâm như làm thế nào để mua nhà chung cư khi bạn không có tiền, cách vay ngân hàng để không nắm đằng lưỡi, những hiểm họa khi dính nợ xấu… được Doctor Housing - Nguyễn Duy Chuyền giải thích dễ hiểu và hài hước.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      },
+      {
+        "encodeId": "ZZFA9Z06",
+        "rawId": 1134642310,
+        "title": "Những cạm bẫy khi người trẻ thuê nhà | How2Money x Doctor Housing. Ep6",
+        "description": "Đứng trước ý định thuê nhà trọ để sống tự lập của người trẻ hay gia đình mới cưới là vô vàn thắc mắc: Nên lựa chọn thuê phòng trọ, nhà nguyên căn, chung cư hay căn hộ dịch vụ? Làm thế nào để tìm được căn nhà ưng ý? Cách xác định chủ nhà có \"phốt\" với người thuê trước hay không?\n\nTrong số tuần này, Doctor Housing sẽ giải đáp cặn kẽ các thắc mắc của người trẻ tìm thuê nhà. Theo vị chuyên gia tài chính và bất động sản, lý do nhiều bạn trẻ, nhất là Gen Z bị thiệt thòi khi thuê nhà là bởi chữ \"ngại\". Các bạn ngại hỏi tường tận về ngôi nhà mình sắp thuê, không dám thương thuyết với chủ nhà các điều khoản hợp đồng hay tiền cọc.\n\nĐặc biệt, Doctor Housing sẽ tư vấn lộ trình để một người trẻ mới đi làm có thể lên kế hoạch tài chính và mua được căn nhà đầu tiên của mình sau 5-10 năm, chấm dứt cảnh đi thuê trọ.\n\n_______\n\nShow: How2Money\n\nHost: Doctor Housing \n\nKhách mời: Safoi\n\n______\n\nZing.Podcast - kênh video, podcast từ Zing.\n",
+        "duration": 2389,
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w128_r1x1_jpeg/images/e/5/e/1/e5e15ea329aeda0a8ada506d91896099.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/images/e/5/e/1/e5e15ea329aeda0a8ada506d91896099.jpg",
+        "artists": [
+          {
+            "id": "IW7B7AEI",
+            "name": "Zing News",
+            "link": "/zingnews",
+            "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+          }
+        ],
+        "link": "/eps/Nhung-cam-bay-khi-nguoi-tre-thue-nha-How2Money-x-Doctor-Housing-Ep6/ZZFA9Z06.html",
+        "releaseDate": 1660187917,
+        "contentType": "episode",
+        "episode": true,
+        "podcastId": "6BUUFAEO",
+        "album": {
+          "encodeId": "6BUUFAEO",
+          "title": "How2Money x Doctor Housing",
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/avatars/b/0/d/d/b0dd70786bab81645d73e3b20002117d.jpg",
+          "isoffical": true,
+          "link": "/pgr/How2Money-x-Doctor-Housing/6BUUFAEO.html",
+          "artists": [
+            {
+              "id": "IW7B7AEI",
+              "name": "Zing News",
+              "link": "/zingnews",
+              "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/7/0/c/f/70cff94d821711abcf09c5c23ea87dbf.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/5/0/d/c50d4d1a7b1feddf7c7421d5f059c3fa.jpg"
+            }
+          ],
+          "description": "Những vấn đề tài chính được bạn trẻ quan tâm như làm thế nào để mua nhà chung cư khi bạn không có tiền, cách vay ngân hàng để không nắm đằng lưỡi, những hiểm họa khi dính nợ xấu… được Doctor Housing - Nguyễn Duy Chuyền giải thích dễ hiểu và hài hước.",
+          "contentType": "podcast",
+          "type": "podcast"
+        }
+      }
+    ],
+    "total": 25,
+    "hasMore": true
+  },
+  "timestamp": 1685551561599
+}

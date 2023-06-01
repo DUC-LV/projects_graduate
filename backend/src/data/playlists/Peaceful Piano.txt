@@ -1,0 +1,4672 @@
+{
+  "err": 0,
+  "msg": "Success",
+  "data": {
+    "encodeId": "ZECEWU9O",
+    "title": "Peaceful Piano",
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/4/e/f/0/4ef0ab0af9a4b2866bb3f006db5386db.jpg",
+    "isoffical": true,
+    "link": "/album/Peaceful-Piano-Libor-Kolman-Calan-McIntyre-Emanuel-Fremont-Jonas-Hoffmann/ZECEWU9O.html",
+    "isIndie": false,
+    "releaseDate": "",
+    "sortDescription": "Cảm nhận sự yên bình cùng tiếng đàn Piano",
+    "releasedAt": 0,
+    "genreIds": [
+      "IWZ9Z086",
+      "IWZ9Z0B0"
+    ],
+    "PR": false,
+    "artists": [
+      {
+        "id": "IW7D6CBA",
+        "name": "Libor Kolman",
+        "link": "/nghe-si/Libor-Kolman-IW7D6CBA",
+        "spotlight": false,
+        "alias": "Libor-Kolman-IW7D6CBA",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/c/2/d/fc2d576a61debfbfefa82d9ee60a49a9.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/c/2/d/fc2d576a61debfbfefa82d9ee60a49a9.jpg",
+        "isOA": false,
+        "isOABrand": false,
+        "totalFollow": 18
+      },
+      {
+        "id": "IW7D7W9E",
+        "name": "Calan McIntyre",
+        "link": "/nghe-si/Calan-McIntyre-IW7D7W9E",
+        "spotlight": false,
+        "alias": "Calan-McIntyre-IW7D7W9E",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/e/8/a/fe8ac062937074c88d2c621afe933860.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/e/8/a/fe8ac062937074c88d2c621afe933860.jpg",
+        "isOA": false,
+        "isOABrand": false,
+        "totalFollow": 8
+      },
+      {
+        "id": "IW7D6D0A",
+        "name": "Emanuel Fremont",
+        "link": "/nghe-si/Emanuel-Fremont-IW7D6D0A",
+        "spotlight": false,
+        "alias": "Emanuel-Fremont-IW7D6D0A",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/3/a/2/c/3a2c9de4495a3c887d79c6ba6ded6e0a.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/3/a/2/c/3a2c9de4495a3c887d79c6ba6ded6e0a.jpg",
+        "isOA": false,
+        "isOABrand": false,
+        "totalFollow": 12
+      },
+      {
+        "id": "IW697EUI",
+        "name": "Jonas Hoffmann",
+        "link": "/nghe-si/Jonas-Hoffmann.IW697EUI",
+        "spotlight": false,
+        "alias": "Jonas-Hoffmann.IW697EUI",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+        "isOA": false,
+        "isOABrand": false,
+        "totalFollow": 14
+      }
+    ],
+    "artistsNames": "Libor Kolman, Calan McIntyre, Emanuel Fremont, Jonas Hoffmann",
+    "playItemMode": 0,
+    "subType": 1,
+    "uid": 309,
+    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/4/e/f/0/4ef0ab0af9a4b2866bb3f006db5386db.jpg",
+    "isShuffle": true,
+    "isPrivate": false,
+    "userName": "Zing MP3",
+    "isAlbum": false,
+    "textType": "Playlist",
+    "isSingle": false,
+    "distributor": "Libor Kolman",
+    "description": "Cảm nhận sự yên bình cùng tiếng đàn Piano",
+    "aliasTitle": "Peaceful-Piano-Libor-Kolman-Calan-McIntyre-Emanuel-Fremont-Jonas-Hoffmann",
+    "sectionId": "album",
+    "contentLastUpdate": 1683865706,
+    "artist": {
+      "id": "IW7D6CBA",
+      "name": "Libor Kolman",
+      "link": "/nghe-si/Libor-Kolman-IW7D6CBA",
+      "spotlight": false,
+      "alias": "Libor-Kolman-IW7D6CBA",
+      "cover": "https://zmp3-static.zmdcdn.me/skins/zmp3-v5.2/images/default_cover.png",
+      "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/c/2/d/fc2d576a61debfbfefa82d9ee60a49a9.jpg"
+    },
+    "genres": [
+      {
+        "id": "IWZ9Z086",
+        "name": "Hòa Tấu",
+        "title": "Hòa Tấu",
+        "alias": "hoa-tau",
+        "link": "/the-loai-album/Hoa-Tau/IWZ9Z086.html"
+      },
+      {
+        "id": "IWZ9Z0B0",
+        "name": "Piano",
+        "title": "Piano",
+        "alias": "piano",
+        "link": "/the-loai-album/Piano/IWZ9Z0B0.html"
+      }
+    ],
+    "song": {
+      "items": [
+        {
+          "encodeId": "ZU067FFW",
+          "title": "Einaudi: Bella Notte",
+          "alias": "Einaudi-Bella-Notte-Ludovico-Einaudi",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Ludovico Einaudi",
+          "artists": [
+            {
+              "id": "IWZ96BO8",
+              "name": "Ludovico Einaudi",
+              "link": "/nghe-si/Ludovico-Einaudi",
+              "spotlight": false,
+              "alias": "Ludovico-Einaudi",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/e/be2d71b807ab08ff4ff7fd56e1ea0c8b_1291803831.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/e/be2d71b807ab08ff4ff7fd56e1ea0c8b_1291803831.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UAE6UE0"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/2/2/a/a/22aa20ba6ca8ef6197d433dfe4d1e90a.jpg",
+          "link": "/bai-hat/Einaudi-Bella-Notte-Ludovico-Einaudi/ZU067FFW.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/2/2/a/a/22aa20ba6ca8ef6197d433dfe4d1e90a.jpg",
+          "duration": 312,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1597251600,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ980O7"
+          ],
+          "album": {
+            "encodeId": "ZWZACE7B",
+            "title": "I Giorni",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/a/0/f/b/a0fb099140edf51af09afdb2620b4762.jpg",
+            "isoffical": true,
+            "link": "/album/I-Giorni-Ludovico-Einaudi/ZWZACE7B.html",
+            "isIndie": false,
+            "releaseDate": "09/11/2001",
+            "sortDescription": "",
+            "releasedAt": 1005238800000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ980O7"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ96BO8",
+                "name": "Ludovico Einaudi",
+                "link": "/nghe-si/Ludovico-Einaudi",
+                "spotlight": false,
+                "alias": "Ludovico-Einaudi",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/e/be2d71b807ab08ff4ff7fd56e1ea0c8b_1291803831.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/e/be2d71b807ab08ff4ff7fd56e1ea0c8b_1291803831.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UAE6UE0",
+                "totalFollow": 3450
+              }
+            ],
+            "artistsNames": "Ludovico Einaudi"
+          },
+          "distributor": "Universal Music Group",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "Z6IZAODU",
+          "title": "Mon désir",
+          "alias": "Mon-desir-Libor-Kolman",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Libor Kolman",
+          "artists": [
+            {
+              "id": "IW7D6CBA",
+              "name": "Libor Kolman",
+              "link": "/nghe-si/Libor-Kolman-IW7D6CBA",
+              "spotlight": false,
+              "alias": "Libor-Kolman-IW7D6CBA",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/c/2/d/fc2d576a61debfbfefa82d9ee60a49a9.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/c/2/d/fc2d576a61debfbfefa82d9ee60a49a9.jpg",
+              "isOA": false,
+              "isOABrand": false
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/c/8/f/8c8f0b2c9a3a339016c4b688afccc54a.jpg",
+          "link": "/bai-hat/Mon-desir-Libor-Kolman/Z6IZAODU.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/8/c/8/f/8c8f0b2c9a3a339016c4b688afccc54a.jpg",
+          "duration": 116,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1632441600,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ980O7"
+          ],
+          "album": {
+            "encodeId": "6BZFUB9C",
+            "title": "Mon désir (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/8/c/8/f/8c8f0b2c9a3a339016c4b688afccc54a.jpg",
+            "isoffical": true,
+            "link": "/album/Mon-desir-Single-Libor-Kolman/6BZFUB9C.html",
+            "isIndie": false,
+            "releaseDate": "24/09/2021",
+            "sortDescription": "",
+            "releasedAt": 1632416400000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ980O7"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW7D6CBA",
+                "name": "Libor Kolman",
+                "link": "/nghe-si/Libor-Kolman-IW7D6CBA",
+                "spotlight": false,
+                "alias": "Libor-Kolman-IW7D6CBA",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/c/2/d/fc2d576a61debfbfefa82d9ee60a49a9.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/c/2/d/fc2d576a61debfbfefa82d9ee60a49a9.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "totalFollow": 18
+              }
+            ],
+            "artistsNames": "Libor Kolman"
+          },
+          "distributor": "FUGA",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZWAEDBZ0",
+          "title": "Peaceful Piano",
+          "alias": "Peaceful-Piano-RPM-Relaxing-Piano-Music",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "RPM (Relaxing Piano Music)",
+          "artists": [
+            {
+              "id": "IW6ZWDA6",
+              "name": "RPM (Relaxing Piano Music)",
+              "link": "/nghe-si/RPM-Relaxing-Piano-Music",
+              "spotlight": false,
+              "alias": "RPM-Relaxing-Piano-Music",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/a/a/b/0aab0c155b3f909a28089431277c8685.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/a/a/b/0aab0c155b3f909a28089431277c8685.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6B7W9F80"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/2/0/5/92055bfb12b2d241043194591fb273d7.jpg",
+          "link": "/bai-hat/Peaceful-Piano-RPM-Relaxing-Piano-Music/ZWAEDBZ0.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/9/2/0/5/92055bfb12b2d241043194591fb273d7.jpg",
+          "duration": 99,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "Z8FUIFID",
+            "title": "Soothing Piano Music",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/9/2/0/5/92055bfb12b2d241043194591fb273d7.jpg",
+            "isoffical": true,
+            "link": "/album/Soothing-Piano-Music-RPM-Relaxing-Piano-Music/Z8FUIFID.html",
+            "isIndie": false,
+            "releaseDate": "25/09/2019",
+            "sortDescription": "",
+            "releasedAt": 1569344400000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6ZWDA6",
+                "name": "RPM (Relaxing Piano Music)",
+                "link": "/nghe-si/RPM-Relaxing-Piano-Music",
+                "spotlight": false,
+                "alias": "RPM-Relaxing-Piano-Music",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/a/a/b/0aab0c155b3f909a28089431277c8685.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/a/a/b/0aab0c155b3f909a28089431277c8685.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6B7W9F80",
+                "totalFollow": 363
+              }
+            ],
+            "artistsNames": "RPM (Relaxing Piano Music)"
+          },
+          "distributor": "Sony Music Entertainment",
+          "indicators": [],
+          "radioId": 1286788748,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true
+        },
+        {
+          "encodeId": "Z6WOFOFW",
+          "title": "Mullaghmore",
+          "alias": "Mullaghmore-Calan-McIntyre",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Calan McIntyre",
+          "artists": [
+            {
+              "id": "IW7D7W9E",
+              "name": "Calan McIntyre",
+              "link": "/nghe-si/Calan-McIntyre-IW7D7W9E",
+              "spotlight": false,
+              "alias": "Calan-McIntyre-IW7D7W9E",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/e/8/a/fe8ac062937074c88d2c621afe933860.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/e/8/a/fe8ac062937074c88d2c621afe933860.jpg",
+              "isOA": false,
+              "isOABrand": false
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/5/2/d/4/52d4993b81c24a61725b876e8bd730b1.jpg",
+          "link": "/bai-hat/Mullaghmore-Calan-McIntyre/Z6WOFOFW.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/5/2/d/4/52d4993b81c24a61725b876e8bd730b1.jpg",
+          "duration": 123,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1663261200,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ980O7"
+          ],
+          "album": {
+            "encodeId": "SB660CE6",
+            "title": "Mullaghmore (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/5/2/d/4/52d4993b81c24a61725b876e8bd730b1.jpg",
+            "isoffical": true,
+            "link": "/album/Mullaghmore-Single-Calan-McIntyre/SB660CE6.html",
+            "isIndie": false,
+            "releaseDate": "16/09/2022",
+            "sortDescription": "",
+            "releasedAt": 1663261200000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ980O7"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW7D7W9E",
+                "name": "Calan McIntyre",
+                "link": "/nghe-si/Calan-McIntyre-IW7D7W9E",
+                "spotlight": false,
+                "alias": "Calan-McIntyre-IW7D7W9E",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/e/8/a/fe8ac062937074c88d2c621afe933860.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/e/8/a/fe8ac062937074c88d2c621afe933860.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "totalFollow": 8
+              }
+            ],
+            "artistsNames": "Calan McIntyre"
+          },
+          "distributor": "FUGA",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "Z6IA6IEZ",
+          "title": "Saying Things",
+          "alias": "Saying-Things-Emanuel-Fremont",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Emanuel Fremont",
+          "artists": [
+            {
+              "id": "IW7D6D0A",
+              "name": "Emanuel Fremont",
+              "link": "/nghe-si/Emanuel-Fremont-IW7D6D0A",
+              "spotlight": false,
+              "alias": "Emanuel-Fremont-IW7D6D0A",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/3/a/2/c/3a2c9de4495a3c887d79c6ba6ded6e0a.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/3/a/2/c/3a2c9de4495a3c887d79c6ba6ded6e0a.jpg",
+              "isOA": false,
+              "isOABrand": false
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/b/5/d/a/b5da28c9d59043d152aa16ca45b29058.jpg",
+          "link": "/bai-hat/Saying-Things-Emanuel-Fremont/Z6IA6IEZ.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/b/5/d/a/b5da28c9d59043d152aa16ca45b29058.jpg",
+          "duration": 124,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1648771200,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ980O7"
+          ],
+          "album": {
+            "encodeId": "6B6I8EF8",
+            "title": "Saying Things (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/b/5/d/a/b5da28c9d59043d152aa16ca45b29058.jpg",
+            "isoffical": true,
+            "link": "/album/Saying-Things-Single-Emanuel-Fremont/6B6I8EF8.html",
+            "isIndie": false,
+            "releaseDate": "01/04/2022",
+            "sortDescription": "",
+            "releasedAt": 1648746000000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ980O7"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW7D6D0A",
+                "name": "Emanuel Fremont",
+                "link": "/nghe-si/Emanuel-Fremont-IW7D6D0A",
+                "spotlight": false,
+                "alias": "Emanuel-Fremont-IW7D6D0A",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/3/a/2/c/3a2c9de4495a3c887d79c6ba6ded6e0a.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/3/a/2/c/3a2c9de4495a3c887d79c6ba6ded6e0a.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "totalFollow": 12
+              }
+            ],
+            "artistsNames": "Emanuel Fremont"
+          },
+          "distributor": "FUGA",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZUAIBO77",
+          "title": "All Good",
+          "alias": "All-Good-The-Piano-Guys",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "The Piano Guys",
+          "artists": [
+            {
+              "id": "IWZ988UO",
+              "name": "The Piano Guys",
+              "link": "/nghe-si/The-Piano-Guys",
+              "spotlight": false,
+              "alias": "The-Piano-Guys",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1369386238.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1369386238.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UB6ZAC8"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/c/1/5/0c15727ee601d8efd3a8b56c28f7eb2c.jpg",
+          "link": "/bai-hat/All-Good-The-Piano-Guys/ZUAIBO77.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/c/1/5/0c15727ee601d8efd3a8b56c28f7eb2c.jpg",
+          "duration": 143,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1635440400,
+          "genreIds": [
+            "IWZ9Z086"
+          ],
+          "album": {
+            "encodeId": "S97A979E",
+            "title": "Lullaby",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/0/c/1/5/0c15727ee601d8efd3a8b56c28f7eb2c.jpg",
+            "isoffical": true,
+            "link": "/album/Lullaby-The-Piano-Guys/S97A979E.html",
+            "isIndie": false,
+            "releaseDate": "29/10/2021",
+            "sortDescription": "",
+            "releasedAt": 1635440400000,
+            "genreIds": [
+              "IWZ9Z086"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ988UO",
+                "name": "The Piano Guys",
+                "link": "/nghe-si/The-Piano-Guys",
+                "spotlight": false,
+                "alias": "The-Piano-Guys",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1369386238.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1369386238.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UB6ZAC8",
+                "totalFollow": 26766
+              }
+            ],
+            "artistsNames": "The Piano Guys"
+          },
+          "distributor": "Universal Music Group",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "Z6O0OAAE",
+          "title": "comforts of my home",
+          "alias": "comforts-of-my-home-Jonas-Hoffmann",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Jonas Hoffmann",
+          "artists": [
+            {
+              "id": "IW697EUI",
+              "name": "Jonas Hoffmann",
+              "link": "/nghe-si/Jonas-Hoffmann.IW697EUI",
+              "spotlight": false,
+              "alias": "Jonas-Hoffmann.IW697EUI",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "isOA": false,
+              "isOABrand": false
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/3/7/3/c/373c4157ce4912bf8ab077556fec0b1d.jpg",
+          "link": "/bai-hat/comforts-of-my-home-Jonas-Hoffmann/Z6O0OAAE.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/3/7/3/c/373c4157ce4912bf8ab077556fec0b1d.jpg",
+          "duration": 163,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1676221200,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z09E"
+          ],
+          "album": {
+            "encodeId": "6B6C99I9",
+            "title": "comforts of my home (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/3/7/3/c/373c4157ce4912bf8ab077556fec0b1d.jpg",
+            "isoffical": true,
+            "link": "/album/comforts-of-my-home-Single-Jonas-Hoffmann/6B6C99I9.html",
+            "isIndie": false,
+            "releaseDate": "13/02/2023",
+            "sortDescription": "",
+            "releasedAt": 1676221200000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z09E"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW697EUI",
+                "name": "Jonas Hoffmann",
+                "link": "/nghe-si/Jonas-Hoffmann.IW697EUI",
+                "spotlight": false,
+                "alias": "Jonas-Hoffmann.IW697EUI",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "totalFollow": 14
+              }
+            ],
+            "artistsNames": "Jonas Hoffmann"
+          },
+          "distributor": "FUGA",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZW7WC6FA",
+          "title": "A Rainy Morning (Epilogue)",
+          "alias": "A-Rainy-Morning-Epilogue-Kashiwa-Daisuke",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Kashiwa Daisuke",
+          "artists": [
+            {
+              "id": "IWZ97EOB",
+              "name": "Kashiwa Daisuke",
+              "link": "/nghe-si/Kashiwa-Daisuke",
+              "spotlight": false,
+              "alias": "Kashiwa-Daisuke",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/3/f3357888e3b79f7b200b9d1d42316597_1442474223.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/3/f3357888e3b79f7b200b9d1d42316597_1442474223.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UAE8WCE"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/6/4/645401fd5722979a4c76bcebb7a9ef4a_1442473710.jpg",
+          "link": "/bai-hat/A-Rainy-Morning-Epilogue-Kashiwa-Daisuke/ZW7WC6FA.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/6/4/645401fd5722979a4c76bcebb7a9ef4a_1442473710.jpg",
+          "duration": 45,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z086",
+            "IWZ9Z0B0"
+          ],
+          "album": {
+            "encodeId": "ZWZC0FWF",
+            "title": "The Garden Of Words OST",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/6/4/645401fd5722979a4c76bcebb7a9ef4a_1442473710.jpg",
+            "isoffical": true,
+            "link": "/album/The-Garden-Of-Words-OST-Kashiwa-Daisuke/ZWZC0FWF.html",
+            "isIndie": false,
+            "releaseDate": "2013",
+            "sortDescription": "THE GARDEN OF WORDS có tên tiếng Nhật là Kotonoha no Niwa là phim hoạt hình anime được thực hiện bởi đạo diễn nổi tiếng Shinkai Makoto cùng với nhà sản xuất CoMix. Phần nhạc phim do nghệ sĩ Piano Kashiwa Daisuke đảm nhiệm.",
+            "releasedAt": 1388422800000,
+            "genreIds": [
+              "IWZ9Z086",
+              "IWZ9Z0B0"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ97EOB",
+                "name": "Kashiwa Daisuke",
+                "link": "/nghe-si/Kashiwa-Daisuke",
+                "spotlight": false,
+                "alias": "Kashiwa-Daisuke",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/3/f3357888e3b79f7b200b9d1d42316597_1442474223.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/3/f3357888e3b79f7b200b9d1d42316597_1442474223.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UAE8WCE",
+                "totalFollow": 247
+              }
+            ],
+            "artistsNames": "Kashiwa Daisuke"
+          },
+          "distributor": "",
+          "indicators": [],
+          "radioId": 1285076331,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZODOEOOW",
+          "title": "Moux: avenue des reves",
+          "alias": "Moux-avenue-des-reves-Moux",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Moux",
+          "artists": [
+            {
+              "id": "IW6A09DO",
+              "name": "Moux",
+              "link": "/nghe-si/Moux.IW6A09DO",
+              "spotlight": false,
+              "alias": "Moux.IW6A09DO",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "isOA": false,
+              "isOABrand": false
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/f/b/e/0fbebc57bf3e591eca6e41804446a922.jpg",
+          "link": "/bai-hat/Moux-avenue-des-reves-Moux/ZODOEOOW.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/f/b/e/0fbebc57bf3e591eca6e41804446a922.jpg",
+          "duration": 132,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1618531200,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ980O7"
+          ],
+          "album": {
+            "encodeId": "67EAOEDE",
+            "title": "avenue des reves (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/0/f/b/e/0fbebc57bf3e591eca6e41804446a922.jpg",
+            "isoffical": true,
+            "link": "/album/avenue-des-reves-Single-Moux/67EAOEDE.html",
+            "isIndie": false,
+            "releaseDate": "16/04/2021",
+            "sortDescription": "",
+            "releasedAt": 1618506000000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ980O7"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6A09DO",
+                "name": "Moux",
+                "link": "/nghe-si/Moux.IW6A09DO",
+                "spotlight": false,
+                "alias": "Moux.IW6A09DO",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "totalFollow": 1
+              }
+            ],
+            "artistsNames": "Moux"
+          },
+          "distributor": "Universal Music Group",
+          "indicators": [],
+          "radioId": 1444477446,
+          "isIndie": false,
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZZA8IZOA",
+          "title": "Making A Way",
+          "alias": "Making-A-Way-George-Winston",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "George Winston",
+          "artists": [
+            {
+              "id": "IWZ96AEB",
+              "name": "George Winston",
+              "link": "/nghe-si/George-Winston",
+              "spotlight": false,
+              "alias": "George-Winston",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/6/0667ace4acf26942308bd2e9131473ae_1291538062.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/6/0667ace4acf26942308bd2e9131473ae_1291538062.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UAE6OE7"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/e/6/5/f/e65f6d5ceafa24aff787284d0540468e.jpg",
+          "link": "/bai-hat/Making-A-Way-George-Winston/ZZA8IZOA.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/e/6/5/f/e65f6d5ceafa24aff787284d0540468e.jpg",
+          "duration": 108,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1651770000,
+          "genreIds": [
+            "IWZ9Z08O"
+          ],
+          "album": {
+            "encodeId": "6BWA7AAU",
+            "title": "Night",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/e/6/5/f/e65f6d5ceafa24aff787284d0540468e.jpg",
+            "isoffical": true,
+            "link": "/album/Night-George-Winston/6BWA7AAU.html",
+            "isIndie": false,
+            "releaseDate": "06/05/2022",
+            "sortDescription": "",
+            "releasedAt": 1651770000000,
+            "genreIds": [
+              "IWZ9Z08O"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ96AEB",
+                "name": "George Winston",
+                "link": "/nghe-si/George-Winston",
+                "spotlight": false,
+                "alias": "George-Winston",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/6/0667ace4acf26942308bd2e9131473ae_1291538062.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/6/0667ace4acf26942308bd2e9131473ae_1291538062.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UAE6OE7",
+                "totalFollow": 9991
+              }
+            ],
+            "artistsNames": "George Winston"
+          },
+          "distributor": "Sony Music Entertainment",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZU8F6BIF",
+          "title": "As The Years Pass",
+          "alias": "As-The-Years-Pass-Danny-Wright",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Danny Wright",
+          "artists": [
+            {
+              "id": "IWZ9B8F6",
+              "name": "Danny Wright",
+              "link": "/nghe-si/Danny-Wright",
+              "spotlight": false,
+              "alias": "Danny-Wright",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1369585024.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1369585024.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UB66D7E"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/e/c/c/3/ecc3506a7fabf0d9ffe164cf30e10245.jpg",
+          "link": "/bai-hat/As-The-Years-Pass-Danny-Wright/ZU8F6BIF.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/e/c/c/3/ecc3506a7fabf0d9ffe164cf30e10245.jpg",
+          "duration": 221,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1634230800,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z098"
+          ],
+          "album": {
+            "encodeId": "69U0AFC0",
+            "title": "Unwind: Peaceful Piano Relaxation",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/e/c/c/3/ecc3506a7fabf0d9ffe164cf30e10245.jpg",
+            "isoffical": true,
+            "link": "/album/Unwind-Peaceful-Piano-Relaxation-Danny-Wright/69U0AFC0.html",
+            "isIndie": false,
+            "releaseDate": "03/04/2020",
+            "sortDescription": "",
+            "releasedAt": 1585846800000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z098"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9B8F6",
+                "name": "Danny Wright",
+                "link": "/nghe-si/Danny-Wright",
+                "spotlight": false,
+                "alias": "Danny-Wright",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1369585024.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1369585024.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UB66D7E",
+                "totalFollow": 293
+              }
+            ],
+            "artistsNames": "Danny Wright"
+          },
+          "distributor": "Universal Music Group",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZZIBFED7",
+          "title": "Guiding Light",
+          "alias": "Guiding-Light-Alexis-Ffrench",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Alexis Ffrench",
+          "artists": [
+            {
+              "id": "IW6OOE0Z",
+              "name": "Alexis Ffrench",
+              "link": "/nghe-si/Alexis-Ffrench",
+              "spotlight": false,
+              "alias": "Alexis-Ffrench",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/e/d/b/9edb64ec4519f3b4dac3dfa38f1b985f.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/e/d/b/9edb64ec4519f3b4dac3dfa38f1b985f.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6B7W9BCO"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/f/5/d/f/f5dfede06021d22bef797d097f89d3a8.jpg",
+          "link": "/bai-hat/Guiding-Light-Alexis-Ffrench/ZZIBFED7.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/f/5/d/f/f5dfede06021d22bef797d097f89d3a8.jpg",
+          "duration": 198,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1642698000,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ980O7"
+          ],
+          "distributor": "Sony Music Entertainment",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZW9DUWF0",
+          "title": "The Warmth Of The Sun",
+          "alias": "The-Warmth-Of-The-Sun-Brian-Wilson",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Brian Wilson",
+          "artists": [
+            {
+              "id": "IWZ9ZUEA",
+              "name": "Brian Wilson",
+              "link": "/nghe-si/Brian-Wilson",
+              "spotlight": false,
+              "alias": "Brian-Wilson",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/a/2a9f44c47f01a7b0c6161d8f7c2f2c88_1335183332.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/a/2a9f44c47f01a7b0c6161d8f7c2f2c88_1335183332.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UAEOIII"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/5/3/c/953c9480a9a05b98a0fd393e84a3979e.jpg",
+          "link": "/bai-hat/The-Warmth-Of-The-Sun-Brian-Wilson/ZW9DUWF0.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/9/5/3/c/953c9480a9a05b98a0fd393e84a3979e.jpg",
+          "duration": 207,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 808963200,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ980O7"
+          ],
+          "album": {
+            "encodeId": "ZODDOI9D",
+            "title": "I Just Wasn't Made For These Times",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/c/5/9/e/c59ec4ce57f163144c9ab14dbbb47913.jpg",
+            "isoffical": true,
+            "link": "/album/I-Just-Wasn-t-Made-For-These-Times-Brian-Wilson/ZODDOI9D.html",
+            "isIndie": false,
+            "releaseDate": "01/01/1995",
+            "sortDescription": "",
+            "releasedAt": 788893200000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZUEA",
+                "name": "Brian Wilson",
+                "link": "/nghe-si/Brian-Wilson",
+                "spotlight": false,
+                "alias": "Brian-Wilson",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/a/2a9f44c47f01a7b0c6161d8f7c2f2c88_1335183332.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/a/2a9f44c47f01a7b0c6161d8f7c2f2c88_1335183332.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UAEOIII",
+                "totalFollow": 17
+              }
+            ],
+            "artistsNames": "Brian Wilson"
+          },
+          "distributor": "Universal Music Group",
+          "indicators": [],
+          "radioId": 1285929796,
+          "isIndie": false,
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "Z60WA6IU",
+          "title": "2. Allemande (Piano Version)",
+          "alias": "2-Allemande-Piano-Version-Peter-Gregson-Kindt",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Peter Gregson, Kindt",
+          "artists": [
+            {
+              "id": "IWZAZBOF",
+              "name": "Peter Gregson",
+              "link": "/nghe-si/Peter-Gregson",
+              "spotlight": false,
+              "alias": "Peter-Gregson",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/6/a/a/f6aaf618cdb1e251a63405e01770a422.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/6/a/a/f6aaf618cdb1e251a63405e01770a422.jpg",
+              "isOA": false,
+              "isOABrand": false
+            },
+            {
+              "id": "IW7A60DU",
+              "name": "Kindt",
+              "link": "/nghe-si/Kindt.IW7A60DU",
+              "spotlight": false,
+              "alias": "Kindt.IW7A60DU",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "isOA": false,
+              "isOABrand": false
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/7/9/2/b/792b13d9e541b715c6d5c45c19675ce3.jpg",
+          "link": "/bai-hat/2-Allemande-Piano-Version-Peter-Gregson-Kindt/Z60WA6IU.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/7/9/2/b/792b13d9e541b715c6d5c45c19675ce3.jpg",
+          "duration": 180,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1661446800,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ980O7"
+          ],
+          "album": {
+            "encodeId": "6BZ69BEC",
+            "title": "Piano Book (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/7/9/2/b/792b13d9e541b715c6d5c45c19675ce3.jpg",
+            "isoffical": true,
+            "link": "/album/Piano-Book-Single-Peter-Gregson-Kindt/6BZ69BEC.html",
+            "isIndie": false,
+            "releaseDate": "26/08/2022",
+            "sortDescription": "",
+            "releasedAt": 1661446800000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ980O7"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZAZBOF",
+                "name": "Peter Gregson",
+                "link": "/nghe-si/Peter-Gregson",
+                "spotlight": false,
+                "alias": "Peter-Gregson",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/6/a/a/f6aaf618cdb1e251a63405e01770a422.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/6/a/a/f6aaf618cdb1e251a63405e01770a422.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "totalFollow": 7
+              },
+              {
+                "id": "IW7A60DU",
+                "name": "Kindt",
+                "link": "/nghe-si/Kindt.IW7A60DU",
+                "spotlight": false,
+                "alias": "Kindt.IW7A60DU",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "totalFollow": 3
+              }
+            ],
+            "artistsNames": "Peter Gregson, Kindt"
+          },
+          "distributor": "Universal Music Group",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZW68IFEE",
+          "title": "Little Comfort",
+          "alias": "Little-Comfort-The-Daydream",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "The Daydream",
+          "artists": [
+            {
+              "id": "IWZ9B66W",
+              "name": "The Daydream",
+              "link": "/nghe-si/The-Daydream",
+              "spotlight": false,
+              "alias": "The-Daydream",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6B7W7DUA"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/e/b/ebeb3aefdd11c0e8ac2a753881ad5c98_1378221615.jpg",
+          "link": "/bai-hat/Little-Comfort-The-Daydream/ZW68IFEE.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/e/b/ebeb3aefdd11c0e8ac2a753881ad5c98_1378221615.jpg",
+          "duration": 257,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z0B0",
+            "IWZ9Z086",
+            "IWZ9Z0BO"
+          ],
+          "album": {
+            "encodeId": "ZWZAEZAI",
+            "title": "Little Comfort",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/e/b/ebeb3aefdd11c0e8ac2a753881ad5c98_1378221615.jpg",
+            "isoffical": true,
+            "link": "/album/Little-Comfort-The-Daydream/ZWZAEZAI.html",
+            "isIndie": false,
+            "releaseDate": "",
+            "sortDescription": "",
+            "releasedAt": 0,
+            "genreIds": [
+              "IWZ9Z086",
+              "IWZ9Z0B0",
+              "IWZ9Z0BO"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9B66W",
+                "name": "The Daydream",
+                "link": "/nghe-si/The-Daydream",
+                "spotlight": false,
+                "alias": "The-Daydream",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6B7W7DUA",
+                "totalFollow": 181
+              }
+            ],
+            "artistsNames": "The Daydream"
+          },
+          "distributor": "",
+          "indicators": [],
+          "radioId": 1283654301,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "Z60WA6IZ",
+          "title": "Adam Leaves (From \"Adolescence\" Soundtrack / Piano Version)",
+          "alias": "Adam-Leaves-From-Adolescence-Soundtrack-Piano-Version-Peter-Gregson-Kindt",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Peter Gregson, Kindt",
+          "artists": [
+            {
+              "id": "IWZAZBOF",
+              "name": "Peter Gregson",
+              "link": "/nghe-si/Peter-Gregson",
+              "spotlight": false,
+              "alias": "Peter-Gregson",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/6/a/a/f6aaf618cdb1e251a63405e01770a422.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/6/a/a/f6aaf618cdb1e251a63405e01770a422.jpg",
+              "isOA": false,
+              "isOABrand": false
+            },
+            {
+              "id": "IW7A60DU",
+              "name": "Kindt",
+              "link": "/nghe-si/Kindt.IW7A60DU",
+              "spotlight": false,
+              "alias": "Kindt.IW7A60DU",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "isOA": false,
+              "isOABrand": false
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/7/9/2/b/792b13d9e541b715c6d5c45c19675ce3.jpg",
+          "link": "/bai-hat/Adam-Leaves-From-Adolescence-Soundtrack-Piano-Version-Peter-Gregson-Kindt/Z60WA6IZ.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/7/9/2/b/792b13d9e541b715c6d5c45c19675ce3.jpg",
+          "duration": 184,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1661446800,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z0EC"
+          ],
+          "album": {
+            "encodeId": "6BZ69BEC",
+            "title": "Piano Book (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/7/9/2/b/792b13d9e541b715c6d5c45c19675ce3.jpg",
+            "isoffical": true,
+            "link": "/album/Piano-Book-Single-Peter-Gregson-Kindt/6BZ69BEC.html",
+            "isIndie": false,
+            "releaseDate": "26/08/2022",
+            "sortDescription": "",
+            "releasedAt": 1661446800000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ980O7"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZAZBOF",
+                "name": "Peter Gregson",
+                "link": "/nghe-si/Peter-Gregson",
+                "spotlight": false,
+                "alias": "Peter-Gregson",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/6/a/a/f6aaf618cdb1e251a63405e01770a422.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/6/a/a/f6aaf618cdb1e251a63405e01770a422.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "totalFollow": 7
+              },
+              {
+                "id": "IW7A60DU",
+                "name": "Kindt",
+                "link": "/nghe-si/Kindt.IW7A60DU",
+                "spotlight": false,
+                "alias": "Kindt.IW7A60DU",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "totalFollow": 3
+              }
+            ],
+            "artistsNames": "Peter Gregson, Kindt"
+          },
+          "distributor": "Universal Music Group",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZWAW7WA8",
+          "title": "Einaudi: Nuvole Bianche",
+          "alias": "Einaudi-Nuvole-Bianche-Ludovico-Einaudi",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Ludovico Einaudi",
+          "artists": [
+            {
+              "id": "IWZ96BO8",
+              "name": "Ludovico Einaudi",
+              "link": "/nghe-si/Ludovico-Einaudi",
+              "spotlight": false,
+              "alias": "Ludovico-Einaudi",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/e/be2d71b807ab08ff4ff7fd56e1ea0c8b_1291803831.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/e/be2d71b807ab08ff4ff7fd56e1ea0c8b_1291803831.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UAE6UE0"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/5/9/b/9/59b95832b23a2c4861744121406f9ef8.jpg",
+          "link": "/bai-hat/Einaudi-Nuvole-Bianche-Ludovico-Einaudi/ZWAW7WA8.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/5/9/b/9/59b95832b23a2c4861744121406f9ef8.jpg",
+          "duration": 360,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1493942400,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ980O7"
+          ],
+          "distributor": "Universal Music Group",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZWZF90ZD",
+          "title": "Morning Coffee",
+          "alias": "Morning-Coffee-Kim-Yoon",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Kim Yoon",
+          "artists": [
+            {
+              "id": "IWZ98909",
+              "name": "Kim Yoon",
+              "link": "/nghe-si/Kim-Yoon",
+              "spotlight": false,
+              "alias": "Kim-Yoon",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/d/dd217be7dedba55b87a15143cd4788db_1331695242.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/d/d/dd217be7dedba55b87a15143cd4788db_1331695242.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UB6ZBEO"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/4/2/a/d/42adfdab051634a0971db2702daa577d.jpg",
+          "link": "/bai-hat/Morning-Coffee-Kim-Yoon/ZWZF90ZD.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/4/2/a/d/42adfdab051634a0971db2702daa577d.jpg",
+          "duration": 141,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1328806800,
+          "genreIds": [
+            "IWZ9Z08W"
+          ],
+          "album": {
+            "encodeId": "ZWZ9F6Z6",
+            "title": "Love Love Love (EP)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/4/2/a/d/42adfdab051634a0971db2702daa577d.jpg",
+            "isoffical": true,
+            "link": "/album/Love-Love-Love-EP-Kim-Yoon/ZWZ9F6Z6.html",
+            "isIndie": false,
+            "releaseDate": "10/02/2012",
+            "sortDescription": "Album gồm 4 giai điệu Piano nhẹ nhàng, rất thích hợp cho buổi sáng vừa thưởng thức vừa nhâm nhi cùng tách cafe.",
+            "releasedAt": 1328806800000,
+            "genreIds": [
+              "IWZ9Z08W"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ98909",
+                "name": "Kim Yoon",
+                "link": "/nghe-si/Kim-Yoon",
+                "spotlight": false,
+                "alias": "Kim-Yoon",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/d/dd217be7dedba55b87a15143cd4788db_1331695242.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/d/d/dd217be7dedba55b87a15143cd4788db_1331695242.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UB6ZBEO",
+                "totalFollow": 24847
+              }
+            ],
+            "artistsNames": "Kim Yoon"
+          },
+          "distributor": "FLUXUS INC.",
+          "indicators": [],
+          "radioId": 1282896445,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZU00U0WC",
+          "title": "100 Years",
+          "alias": "100-Years-Robin-Spielberg",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Robin Spielberg",
+          "artists": [
+            {
+              "id": "IWZ997UD",
+              "name": "Robin Spielberg",
+              "link": "/nghe-si/Robin-Spielberg",
+              "spotlight": false,
+              "alias": "Robin-Spielberg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/7/2760735506a5bc187a35f6c829fae70d_1341644706.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/7/2760735506a5bc187a35f6c829fae70d_1341644706.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UB66OFD"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/7/a/2/3/7a2348ef43a8ae911ec5d1c9b8ba872f.jpg",
+          "link": "/bai-hat/100-Years-Robin-Spielberg/ZU00U0WC.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/7/a/2/3/7a2348ef43a8ae911ec5d1c9b8ba872f.jpg",
+          "duration": 261,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1581008400,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "68OIU88B",
+            "title": "Love Story",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/f/8/0/3/f8034a535962ac7247f976dcb85420e1.jpg",
+            "isoffical": true,
+            "link": "/album/Love-Story-Robin-Spielberg/68OIU88B.html",
+            "isIndie": false,
+            "releaseDate": "07/02/2020",
+            "sortDescription": "",
+            "releasedAt": 1581008400000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z098"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ997UD",
+                "name": "Robin Spielberg",
+                "link": "/nghe-si/Robin-Spielberg",
+                "spotlight": false,
+                "alias": "Robin-Spielberg",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/7/2760735506a5bc187a35f6c829fae70d_1341644706.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/7/2760735506a5bc187a35f6c829fae70d_1341644706.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UB66OFD",
+                "totalFollow": 3762
+              }
+            ],
+            "artistsNames": "Robin Spielberg"
+          },
+          "distributor": "The Orchard",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZOAE8B8B",
+          "title": "Drifting",
+          "alias": "Drifting-Phillip-Keveren",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Phillip Keveren",
+          "artists": [
+            {
+              "id": "IW6UA6F7",
+              "name": "Phillip Keveren",
+              "link": "/nghe-si/Phillip-Keveren",
+              "spotlight": false,
+              "alias": "Phillip-Keveren",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "isOA": false,
+              "isOABrand": false
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/6/c/0/96c0f5bdf6610713c969d83fae82b3e2.jpg",
+          "link": "/bai-hat/Drifting-Phillip-Keveren/ZOAE8B8B.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/9/6/c/0/96c0f5bdf6610713c969d83fae82b3e2.jpg",
+          "duration": 180,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1617321600,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z098"
+          ],
+          "album": {
+            "encodeId": "ZWZABE9A",
+            "title": "Relaxing Piano",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/9/6/c/0/96c0f5bdf6610713c969d83fae82b3e2.jpg",
+            "isoffical": true,
+            "link": "/album/Relaxing-Piano-Various-Artists/ZWZABE9A.html",
+            "isIndie": false,
+            "releaseDate": "02/04/2021",
+            "sortDescription": "",
+            "releasedAt": 1617296400000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z098"
+            ],
+            "PR": false
+          },
+          "distributor": "Universal Music Group",
+          "indicators": [],
+          "radioId": 1444520822,
+          "isIndie": false,
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZUFEUFEC",
+          "title": "December and the Fifth Step",
+          "alias": "December-and-the-Fifth-Step-Piano-Diary",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Piano Diary",
+          "artists": [
+            {
+              "id": "IWZ9A66B",
+              "name": "Piano Diary",
+              "link": "/nghe-si/Piano-Diary",
+              "spotlight": false,
+              "alias": "Piano-Diary",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6B7W7C7U"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/c/f/8/a/cf8a420e7d08a6bd39a7337bd08bae9f.jpg",
+          "link": "/bai-hat/December-and-the-Fifth-Step-Piano-Diary/ZUFEUFEC.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/c/f/8/a/cf8a420e7d08a6bd39a7337bd08bae9f.jpg",
+          "duration": 159,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1639674000,
+          "genreIds": [
+            "IWZ9Z08W",
+            "IWZ9Z09W"
+          ],
+          "album": {
+            "encodeId": "69FW0E7Z",
+            "title": "December and the Fifth Step (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/c/f/8/a/cf8a420e7d08a6bd39a7337bd08bae9f.jpg",
+            "isoffical": true,
+            "link": "/album/December-and-the-Fifth-Step-Single-Piano-Diary/69FW0E7Z.html",
+            "isIndie": false,
+            "releaseDate": "05/12/2021",
+            "sortDescription": "",
+            "releasedAt": 1638637200000,
+            "genreIds": [
+              "IWZ9Z08W"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9A66B",
+                "name": "Piano Diary",
+                "link": "/nghe-si/Piano-Diary",
+                "spotlight": false,
+                "alias": "Piano-Diary",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6B7W7C7U",
+                "totalFollow": 391
+              }
+            ],
+            "artistsNames": "Piano Diary"
+          },
+          "distributor": "The Orchard",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZW6EO0ZB",
+          "title": "Sundial Dreams",
+          "alias": "Sundial-Dreams-Kevin-Kern",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Kevin Kern",
+          "artists": [
+            {
+              "id": "IWZ96I8W",
+              "name": "Kevin Kern",
+              "link": "/nghe-si/Kevin-Kern",
+              "spotlight": false,
+              "alias": "Kevin-Kern",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/8/4/5/9845fc205125795decfdb2b74126ff11.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/8/4/5/9845fc205125795decfdb2b74126ff11.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UAEUBD8"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/7/0/7014824a73ba9e48258e1fdd40c56fdc_1414085645.jpg",
+          "link": "/bai-hat/Sundial-Dreams-Kevin-Kern/ZW6EO0ZB.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/7/0/7014824a73ba9e48258e1fdd40c56fdc_1414085645.jpg",
+          "duration": 286,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z086",
+            "IWZ9Z0B0",
+            "IWZ9Z0BO"
+          ],
+          "album": {
+            "encodeId": "ZWZB9ZIC",
+            "title": "Always Near - A Romantic Collection",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/7/0/7014824a73ba9e48258e1fdd40c56fdc_1414085645.jpg",
+            "isoffical": true,
+            "link": "/album/Always-Near-A-Romantic-Collection-Kevin-Kern/ZWZB9ZIC.html",
+            "isIndie": false,
+            "releaseDate": "2014",
+            "sortDescription": "",
+            "releasedAt": 1419958800000,
+            "genreIds": [
+              "IWZ9Z086",
+              "IWZ9Z0B0",
+              "IWZ9Z0BO"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ96I8W",
+                "name": "Kevin Kern",
+                "link": "/nghe-si/Kevin-Kern",
+                "spotlight": false,
+                "alias": "Kevin-Kern",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/8/4/5/9845fc205125795decfdb2b74126ff11.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/8/4/5/9845fc205125795decfdb2b74126ff11.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UAEUBD8",
+                "totalFollow": 6784
+              }
+            ],
+            "artistsNames": "Kevin Kern"
+          },
+          "distributor": "",
+          "indicators": [],
+          "radioId": 1284271275,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZOF6EOUZ",
+          "title": "Serenada",
+          "alias": "Serenada-David-Lanz-Gary-Stroutsos",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "David Lanz, Gary Stroutsos",
+          "artists": [
+            {
+              "id": "IWZ97U0B",
+              "name": "David Lanz",
+              "link": "/nghe-si/David-Lanz",
+              "spotlight": false,
+              "alias": "David-Lanz",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/8/c8a4d4d1d6b1d60d8ebf7d8d382fb272_1301993773.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/8/c8a4d4d1d6b1d60d8ebf7d8d382fb272_1301993773.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UAE7Z9D"
+            },
+            {
+              "id": "IWZEDBC6",
+              "name": "Gary Stroutsos",
+              "link": "/nghe-si/Gary-Stroutsos",
+              "spotlight": false,
+              "alias": "Gary-Stroutsos",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6B7W8ED0"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/4/f/f/b/4ffb4ac3c3d72f77b79bbdc85cc905a8.jpg",
+          "link": "/bai-hat/Serenada-David-Lanz-Gary-Stroutsos/ZOF6EOUZ.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/4/f/f/b/4ffb4ac3c3d72f77b79bbdc85cc905a8.jpg",
+          "duration": 340,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1123866000,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z098"
+          ],
+          "album": {
+            "encodeId": "67FAWFZ7",
+            "title": "Spirit Romance",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/4/f/f/b/4ffb4ac3c3d72f77b79bbdc85cc905a8.jpg",
+            "isoffical": true,
+            "link": "/album/Spirit-Romance-David-Lanz-Gary-Stroutsos/67FAWFZ7.html",
+            "isIndie": false,
+            "releaseDate": "01/01/2005",
+            "sortDescription": "",
+            "releasedAt": 1104512400000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z098"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ97U0B",
+                "name": "David Lanz",
+                "link": "/nghe-si/David-Lanz",
+                "spotlight": false,
+                "alias": "David-Lanz",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/8/c8a4d4d1d6b1d60d8ebf7d8d382fb272_1301993773.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/8/c8a4d4d1d6b1d60d8ebf7d8d382fb272_1301993773.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UAE7Z9D",
+                "totalFollow": 2849
+              },
+              {
+                "id": "IWZEDBC6",
+                "name": "Gary Stroutsos",
+                "link": "/nghe-si/Gary-Stroutsos",
+                "spotlight": false,
+                "alias": "Gary-Stroutsos",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6B7W8ED0",
+                "totalFollow": 4
+              }
+            ],
+            "artistsNames": "David Lanz, Gary Stroutsos"
+          },
+          "distributor": "Universal Music Group",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZZA8IZUW",
+          "title": "Dawn",
+          "alias": "Dawn-George-Winston",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "George Winston",
+          "artists": [
+            {
+              "id": "IWZ96AEB",
+              "name": "George Winston",
+              "link": "/nghe-si/George-Winston",
+              "spotlight": false,
+              "alias": "George-Winston",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/6/0667ace4acf26942308bd2e9131473ae_1291538062.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/6/0667ace4acf26942308bd2e9131473ae_1291538062.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UAE6OE7"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/e/6/5/f/e65f6d5ceafa24aff787284d0540468e.jpg",
+          "link": "/bai-hat/Dawn-George-Winston/ZZA8IZUW.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/e/6/5/f/e65f6d5ceafa24aff787284d0540468e.jpg",
+          "duration": 184,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1651770000,
+          "genreIds": [
+            "IWZ9Z08O"
+          ],
+          "album": {
+            "encodeId": "6BWA7AAU",
+            "title": "Night",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/e/6/5/f/e65f6d5ceafa24aff787284d0540468e.jpg",
+            "isoffical": true,
+            "link": "/album/Night-George-Winston/6BWA7AAU.html",
+            "isIndie": false,
+            "releaseDate": "06/05/2022",
+            "sortDescription": "",
+            "releasedAt": 1651770000000,
+            "genreIds": [
+              "IWZ9Z08O"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ96AEB",
+                "name": "George Winston",
+                "link": "/nghe-si/George-Winston",
+                "spotlight": false,
+                "alias": "George-Winston",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/6/0667ace4acf26942308bd2e9131473ae_1291538062.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/6/0667ace4acf26942308bd2e9131473ae_1291538062.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UAE6OE7",
+                "totalFollow": 9991
+              }
+            ],
+            "artistsNames": "George Winston"
+          },
+          "distributor": "Sony Music Entertainment",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZUAIBZIC",
+          "title": "Natural Light",
+          "alias": "Natural-Light-Ludovico-Einaudi",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Ludovico Einaudi",
+          "artists": [
+            {
+              "id": "IWZ96BO8",
+              "name": "Ludovico Einaudi",
+              "link": "/nghe-si/Ludovico-Einaudi",
+              "spotlight": false,
+              "alias": "Ludovico-Einaudi",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/e/be2d71b807ab08ff4ff7fd56e1ea0c8b_1291803831.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/e/be2d71b807ab08ff4ff7fd56e1ea0c8b_1291803831.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UAE6UE0"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/7/e/4/3/7e437501b4ba8bc6adbd92a98a28ccd7.jpg",
+          "link": "/bai-hat/Natural-Light-Ludovico-Einaudi/ZUAIBZIC.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/7/e/4/3/7e437501b4ba8bc6adbd92a98a28ccd7.jpg",
+          "duration": 336,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1635440400,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ980O7"
+          ],
+          "album": {
+            "encodeId": "S97A97FB",
+            "title": "Natural Light (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/6/a/3/d/6a3dc370b929dec222a3c46f8b41b1e5.jpg",
+            "isoffical": true,
+            "link": "/album/Natural-Light-Single-Ludovico-Einaudi/S97A97FB.html",
+            "isIndie": false,
+            "releaseDate": "29/10/2021",
+            "sortDescription": "",
+            "releasedAt": 1635440400000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ980O7"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ96BO8",
+                "name": "Ludovico Einaudi",
+                "link": "/nghe-si/Ludovico-Einaudi",
+                "spotlight": false,
+                "alias": "Ludovico-Einaudi",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/e/be2d71b807ab08ff4ff7fd56e1ea0c8b_1291803831.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/e/be2d71b807ab08ff4ff7fd56e1ea0c8b_1291803831.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UAE6UE0",
+                "totalFollow": 3450
+              }
+            ],
+            "artistsNames": "Ludovico Einaudi"
+          },
+          "distributor": "Universal Music Group",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZWBW7DCW",
+          "title": "Dreamland (Solo Piano Version)",
+          "alias": "Dreamland-Solo-Piano-Version-Alexis-Ffrench",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Alexis Ffrench",
+          "artists": [
+            {
+              "id": "IW6OOE0Z",
+              "name": "Alexis Ffrench",
+              "link": "/nghe-si/Alexis-Ffrench",
+              "spotlight": false,
+              "alias": "Alexis-Ffrench",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/e/d/b/9edb64ec4519f3b4dac3dfa38f1b985f.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/e/d/b/9edb64ec4519f3b4dac3dfa38f1b985f.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6B7W9BCO"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/0/0/a/900a1f06a35dda9f478f346fb8487104.jpg",
+          "link": "/bai-hat/Dreamland-Solo-Piano-Version-Alexis-Ffrench/ZWBW7DCW.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/9/0/0/a/900a1f06a35dda9f478f346fb8487104.jpg",
+          "duration": 161,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1586451600,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ980O7"
+          ],
+          "album": {
+            "encodeId": "60WFC89D",
+            "title": "Dreamland (Solo Piano Version) (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/9/0/0/a/900a1f06a35dda9f478f346fb8487104.jpg",
+            "isoffical": true,
+            "link": "/album/Dreamland-Solo-Piano-Version-Single-Alexis-Ffrench/60WFC89D.html",
+            "isIndie": false,
+            "releaseDate": "10/04/2020",
+            "sortDescription": "",
+            "releasedAt": 1586451600000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ980O7"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6OOE0Z",
+                "name": "Alexis Ffrench",
+                "link": "/nghe-si/Alexis-Ffrench",
+                "spotlight": false,
+                "alias": "Alexis-Ffrench",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/e/d/b/9edb64ec4519f3b4dac3dfa38f1b985f.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/e/d/b/9edb64ec4519f3b4dac3dfa38f1b985f.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6B7W9BCO",
+                "totalFollow": 101
+              }
+            ],
+            "artistsNames": "Alexis Ffrench"
+          },
+          "distributor": "Sony Music Entertainment",
+          "indicators": [],
+          "radioId": 1307930997,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZWZB66DO",
+          "title": "I Giorni",
+          "alias": "I-Giorni-Ludovico-Einaudi",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Ludovico Einaudi",
+          "artists": [
+            {
+              "id": "IWZ96BO8",
+              "name": "Ludovico Einaudi",
+              "link": "/nghe-si/Ludovico-Einaudi",
+              "spotlight": false,
+              "alias": "Ludovico-Einaudi",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/e/be2d71b807ab08ff4ff7fd56e1ea0c8b_1291803831.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/e/be2d71b807ab08ff4ff7fd56e1ea0c8b_1291803831.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UAE6UE0"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/5/c/5c642ec854a6a92a56d7ebf0b9648eea_1302181016.jpg",
+          "link": "/bai-hat/I-Giorni-Ludovico-Einaudi/ZWZB66DO.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/5/c/5c642ec854a6a92a56d7ebf0b9648eea_1302181016.jpg",
+          "duration": 383,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z0BO",
+            "IWZ9Z086"
+          ],
+          "distributor": "Sony Music Entertainment",
+          "indicators": [],
+          "radioId": 1282413358,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZW67ZUAD",
+          "title": "If You Believe",
+          "alias": "If-You-Believe-Jim-Brickman",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Jim Brickman",
+          "artists": [
+            {
+              "id": "IWZ988ZW",
+              "name": "Jim Brickman",
+              "link": "/nghe-si/Jim-Brickman",
+              "spotlight": false,
+              "alias": "Jim-Brickman",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/d/cd1856ff63efa9583f6fc227fc5334da_1480319647.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/d/cd1856ff63efa9583f6fc227fc5334da_1480319647.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UB6ZACD"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/2/e/e/a/2eea822b5a895d37cee81708dfce6f05.jpg",
+          "link": "/bai-hat/If-You-Believe-Jim-Brickman/ZW67ZUAD.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/2/e/e/a/2eea822b5a895d37cee81708dfce6f05.jpg",
+          "duration": 178,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1435017600,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z098"
+          ],
+          "album": {
+            "encodeId": "ZWZACD8B",
+            "title": "Greatest Hits",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/9/f/4/0/9f40deb7f2dcf73eeb9aff32651efdce.jpg",
+            "isoffical": true,
+            "link": "/album/Greatest-Hits-Jim-Brickman/ZWZACD8B.html",
+            "isIndie": false,
+            "releaseDate": "30/04/2004",
+            "sortDescription": "",
+            "releasedAt": 1083258000000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z098"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ988ZW",
+                "name": "Jim Brickman",
+                "link": "/nghe-si/Jim-Brickman",
+                "spotlight": false,
+                "alias": "Jim-Brickman",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/d/cd1856ff63efa9583f6fc227fc5334da_1480319647.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/d/cd1856ff63efa9583f6fc227fc5334da_1480319647.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UB6ZACD",
+                "totalFollow": 554
+              }
+            ],
+            "artistsNames": "Jim Brickman"
+          },
+          "distributor": "Sony Music Entertainment",
+          "indicators": [],
+          "radioId": 1296964161,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZOD7FABO",
+          "title": "Sailing Into Serenity",
+          "alias": "Sailing-Into-Serenity-Phillip-Keveren",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Phillip Keveren",
+          "artists": [
+            {
+              "id": "IW6UA6F7",
+              "name": "Phillip Keveren",
+              "link": "/nghe-si/Phillip-Keveren",
+              "spotlight": false,
+              "alias": "Phillip-Keveren",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "isOA": false,
+              "isOABrand": false
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/5/7/c/857c00e86eb9cc1919853f34557d8dcb.jpg",
+          "link": "/bai-hat/Sailing-Into-Serenity-Phillip-Keveren/ZOD7FABO.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/8/5/7/c/857c00e86eb9cc1919853f34557d8dcb.jpg",
+          "duration": 194,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1609718400,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z098"
+          ],
+          "album": {
+            "encodeId": "67EBWB87",
+            "title": "Piano Therapy Sleep: Soothing Piano Music For Conscious Living",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/8/5/7/c/857c00e86eb9cc1919853f34557d8dcb.jpg",
+            "isoffical": true,
+            "link": "/album/Piano-Therapy-Sleep-Soothing-Piano-Music-For-Conscious-Living-Phillip-Keveren/67EBWB87.html",
+            "isIndie": false,
+            "releaseDate": "26/06/2020",
+            "sortDescription": "",
+            "releasedAt": 1593104400000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z098"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6UA6F7",
+                "name": "Phillip Keveren",
+                "link": "/nghe-si/Phillip-Keveren",
+                "spotlight": false,
+                "alias": "Phillip-Keveren",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "totalFollow": 14
+              }
+            ],
+            "artistsNames": "Phillip Keveren"
+          },
+          "distributor": "Universal Music Group",
+          "indicators": [],
+          "radioId": 1444453982,
+          "isIndie": false,
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZW67E8ZA",
+          "title": "Annie On The Dock",
+          "alias": "Annie-On-The-Dock-Elizabeth-Naccarato",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Elizabeth Naccarato",
+          "artists": [
+            {
+              "id": "IWZ9EIDF",
+              "name": "Elizabeth Naccarato",
+              "link": "/nghe-si/Elizabeth-Naccarato",
+              "spotlight": false,
+              "alias": "Elizabeth-Naccarato",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/9/d/a/b9da10f8b17848fb382735e952323906.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/9/d/a/b9da10f8b17848fb382735e952323906.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6B7W7FAZ"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/e/b/ebeb3aefdd11c0e8ac2a753881ad5c98_1373515116.jpg",
+          "link": "/bai-hat/Annie-On-The-Dock-Elizabeth-Naccarato/ZW67E8ZA.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/e/b/ebeb3aefdd11c0e8ac2a753881ad5c98_1373515116.jpg",
+          "duration": 231,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z0B0",
+            "IWZ9Z086",
+            "IWZ9Z0BO"
+          ],
+          "album": {
+            "encodeId": "ZWZACFW6",
+            "title": "Jarrell's Cove",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/e/b/ebeb3aefdd11c0e8ac2a753881ad5c98_1373515116.jpg",
+            "isoffical": true,
+            "link": "/album/Jarrell-s-Cove-Elizabeth-Naccarato/ZWZACFW6.html",
+            "isIndie": false,
+            "releaseDate": "",
+            "sortDescription": "",
+            "releasedAt": 0,
+            "genreIds": [
+              "IWZ9Z086",
+              "IWZ9Z0B0",
+              "IWZ9Z0BO"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9EIDF",
+                "name": "Elizabeth Naccarato",
+                "link": "/nghe-si/Elizabeth-Naccarato",
+                "spotlight": false,
+                "alias": "Elizabeth-Naccarato",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/9/d/a/b9da10f8b17848fb382735e952323906.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/9/d/a/b9da10f8b17848fb382735e952323906.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6B7W7FAZ",
+                "totalFollow": 7275
+              }
+            ],
+            "artistsNames": "Elizabeth Naccarato"
+          },
+          "distributor": "",
+          "indicators": [],
+          "radioId": 1283639546,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZW6ZZCCA",
+          "title": "Flower (Piano Ver)",
+          "alias": "Flower-Piano-Ver-Dennis-Kuo",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Dennis Kuo",
+          "artists": [
+            {
+              "id": "IWZ9C9IC",
+              "name": "Dennis Kuo",
+              "link": "/nghe-si/Dennis-Kuo",
+              "spotlight": false,
+              "alias": "Dennis-Kuo",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/8/1/0/6810f9215b35d9076186a776c98473d9.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/6/8/1/0/6810f9215b35d9076186a776c98473d9.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6B7W7EU6"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/6/e/6e2ce9c8f4785eb31f88e727b06ab120_1363611407.jpg",
+          "link": "/bai-hat/Flower-Piano-Ver-Dennis-Kuo/ZW6ZZCCA.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/6/e/6e2ce9c8f4785eb31f88e727b06ab120_1363611407.jpg",
+          "duration": 182,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z0B0",
+            "IWZ9Z086"
+          ],
+          "album": {
+            "encodeId": "ZWZA906I",
+            "title": "Dennis Kuo's Collection - Study Music Project: Music For The Mind",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/6/e/6e2ce9c8f4785eb31f88e727b06ab120_1363611407.jpg",
+            "isoffical": true,
+            "link": "/album/Dennis-Kuo-s-Collection-Study-Music-Project-Music-For-The-Mind-Dennis-Kuo/ZWZA906I.html",
+            "isIndie": false,
+            "releaseDate": "2010",
+            "sortDescription": "Nếu bạn đang tìm kiếm một loại âm nhạc có thể giúp bạn học tốt thì Dự án âm nhạc dành cho học tập của Dennis Kuo sẽ là một lựa chọn hữu ích. Những bản nhạc không lời được sáng tác với sự tính toán cẩn thận số nhịp mỗi phách, sử dụng loại nhạc cụ, âm thanh và thiết kế giai điệu giúp cho bạn tăng sự tập trung.\r\n\r\nDự án âm nhạc này sử dụng nhiều thể loại nhạc như classical (cổ điển), piano, jazz, electronic (nhạc điện tử), hip hop, và yếu tố nhạc dân tộc để tạo ra dòng nhạc dành cho học tập mới mẻ này.\r\n\r\nDennis Kuo (người Đài Loan hiện ở Mỹ), là 1 sinh viên đại học y đồng thời là 1 nhạc sĩ. Bởi vậy nếu ai hay đánh giá cao loại nhạc có chất lượng thực sự tốt hãy tin tưởng hoàn toàn ở Dennis. Đó là lí do Dennis tạo nên dự án này vì anh biết những sinh viên cảm thấy nản chí thất vọng khi họ không thể tập trung được bình thường. Sứ mệnh của anh là kết hợp kĩ năng âm nhạc vốn có với tư duy học thuật để giúp sinh viên ở tất cả các trình độ, độ tuổi vượt qua những sự xao lãng về tinh thần, tăng sự tập trung và có kết quả học tập tốt hơn.\r\n\r\nAnh đã có những ý tưởng về nhạc dành cho học tập từ rất lâu từ khi còn ở trường trung học, nhưng nguồn cảm hứng chính thức đến từ cái chết của nhạc sĩ tài năng Nujabes (Seba Jun). Trong suốt thời gian học đại học, nhạc của ông đã giúp anh rất nhiều để học tốt các môn hóa hữu cơ, khoa học đời sống và vật lý. Sau khi nghe về sự mất mát của ông, anh chợt có 1 suy nghĩ rằng nguồn âm nhạc anh có này sẽ giảm đi và chôn vùi theo ông. Nhưng rồi anh nhận ra rằng",
+            "releasedAt": 1293728400000,
+            "genreIds": [
+              "IWZ9Z086",
+              "IWZ9Z0B0"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9C9IC",
+                "name": "Dennis Kuo",
+                "link": "/nghe-si/Dennis-Kuo",
+                "spotlight": false,
+                "alias": "Dennis-Kuo",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/8/1/0/6810f9215b35d9076186a776c98473d9.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/6/8/1/0/6810f9215b35d9076186a776c98473d9.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6B7W7EU6",
+                "totalFollow": 1153
+              }
+            ],
+            "artistsNames": "Dennis Kuo"
+          },
+          "distributor": "",
+          "indicators": [],
+          "radioId": 1283484295,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZOEWAWOI",
+          "title": "We've Only Just Begun",
+          "alias": "We-ve-Only-Just-Begun-Richard-Carpenter",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Richard Carpenter",
+          "artists": [
+            {
+              "id": "IWZ9F8UU",
+              "name": "Richard Carpenter",
+              "link": "/nghe-si/Richard-Carpenter",
+              "spotlight": false,
+              "alias": "Richard-Carpenter",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/e/b/ebeb3aefdd11c0e8ac2a753881ad5c98_1381833068.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/e/b/ebeb3aefdd11c0e8ac2a753881ad5c98_1381833068.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UB69FZ7"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/e/5/a/6e5a073f7062e4abf0e7e43ac5915a32.jpg",
+          "link": "/bai-hat/We-ve-Only-Just-Begun-Richard-Carpenter/ZOEWAWOI.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/6/e/5/a/6e5a073f7062e4abf0e7e43ac5915a32.jpg",
+          "duration": 144,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1614038400,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "ZWZAF8OA",
+            "title": "Richard Carpenter: Pianist, Arranger, Composer, Conductor",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/6/e/5/a/6e5a073f7062e4abf0e7e43ac5915a32.jpg",
+            "isoffical": true,
+            "link": "/album/Richard-Carpenter-Pianist-Arranger-Composer-Conductor-Richard-Carpenter/ZWZAF8OA.html",
+            "isIndie": false,
+            "releaseDate": "01/01/1997",
+            "sortDescription": "",
+            "releasedAt": 852051600000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9F8UU",
+                "name": "Richard Carpenter",
+                "link": "/nghe-si/Richard-Carpenter",
+                "spotlight": false,
+                "alias": "Richard-Carpenter",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/e/b/ebeb3aefdd11c0e8ac2a753881ad5c98_1381833068.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/e/b/ebeb3aefdd11c0e8ac2a753881ad5c98_1381833068.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UB69FZ7",
+                "totalFollow": 9
+              }
+            ],
+            "artistsNames": "Richard Carpenter"
+          },
+          "distributor": "Universal Music Group",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZW6I0DZU",
+          "title": "Under The Willow",
+          "alias": "Under-The-Willow-Brian-Crain",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Brian Crain",
+          "artists": [
+            {
+              "id": "IWZ9970C",
+              "name": "Brian Crain",
+              "link": "/nghe-si/Brian-Crain",
+              "spotlight": false,
+              "alias": "Brian-Crain",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/2/72acded3acd45e4c8b6ed680854b8ab1_1410793527.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/2/72acded3acd45e4c8b6ed680854b8ab1_1410793527.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UB66OEI"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/7/a/7ac29dce94c1444370fb9e139f29da58_1341479635.jpg",
+          "link": "/bai-hat/Under-The-Willow-Brian-Crain/ZW6I0DZU.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/7/a/7ac29dce94c1444370fb9e139f29da58_1341479635.jpg",
+          "duration": 266,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z086",
+            "IWZ9Z0B0"
+          ],
+          "album": {
+            "encodeId": "ZWZAWIEZ",
+            "title": "Piano And Light",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/7/a/7ac29dce94c1444370fb9e139f29da58_1341479635.jpg",
+            "isoffical": true,
+            "link": "/album/Piano-And-Light-Brian-Crain/ZWZAWIEZ.html",
+            "isIndie": false,
+            "releaseDate": "2011",
+            "sortDescription": "Những giai điệu tuyệt vời cho sự khởi động của ngày mới nhiều năng lượng. Album thứ 15 của Brian Crian thiên về những cung bậc cảm xúc của ngày mới đang đến. \r\n\r\nNếu bạn đang nhâm nhi tách cafe sáng cùng với thưởng thức phần điểm tâm nóng hổi thì hãy đừng quên bật album này lên và thưởng thức. Một khởi đầu cho ngày mới với nhiều năng lượng nhất.\r\n\r\nNếu bạn cũng yêu thích album này, đừng quên chia sẻ nó đến cho bạn bè cùng thưởng thức nhé",
+            "releasedAt": 1325264400000,
+            "genreIds": [
+              "IWZ9Z086",
+              "IWZ9Z0B0"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9970C",
+                "name": "Brian Crain",
+                "link": "/nghe-si/Brian-Crain",
+                "spotlight": false,
+                "alias": "Brian-Crain",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/2/72acded3acd45e4c8b6ed680854b8ab1_1410793527.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/2/72acded3acd45e4c8b6ed680854b8ab1_1410793527.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UB66OEI",
+                "totalFollow": 3169
+              }
+            ],
+            "artistsNames": "Brian Crain"
+          },
+          "distributor": "",
+          "indicators": [],
+          "radioId": 1282991799,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZWD9A78Z",
+          "title": "My Time",
+          "alias": "My-Time-Alexis-Ffrench",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Alexis Ffrench",
+          "artists": [
+            {
+              "id": "IW6OOE0Z",
+              "name": "Alexis Ffrench",
+              "link": "/nghe-si/Alexis-Ffrench",
+              "spotlight": false,
+              "alias": "Alexis-Ffrench",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/e/d/b/9edb64ec4519f3b4dac3dfa38f1b985f.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/e/d/b/9edb64ec4519f3b4dac3dfa38f1b985f.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6B7W9BCO"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/5/2/b/0/52b0324c17c205abe1eb82f56b8e4c6d.jpg",
+          "link": "/bai-hat/My-Time-Alexis-Ffrench/ZWD9A78Z.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/5/2/b/0/52b0324c17c205abe1eb82f56b8e4c6d.jpg",
+          "duration": 228,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1602176400,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ980O7"
+          ],
+          "album": {
+            "encodeId": "ZCCWB9FF",
+            "title": "Dreamland",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/0/0/4/e/004e85cf839804af4026c55be4e33c06.jpg",
+            "isoffical": true,
+            "link": "/album/Dreamland-Alexis-Ffrench/ZCCWB9FF.html",
+            "isIndie": false,
+            "releaseDate": "20/03/2020",
+            "sortDescription": "",
+            "releasedAt": 1584637200000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ980O7"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6OOE0Z",
+                "name": "Alexis Ffrench",
+                "link": "/nghe-si/Alexis-Ffrench",
+                "spotlight": false,
+                "alias": "Alexis-Ffrench",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/e/d/b/9edb64ec4519f3b4dac3dfa38f1b985f.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/e/d/b/9edb64ec4519f3b4dac3dfa38f1b985f.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6B7W9BCO",
+                "totalFollow": 101
+              }
+            ],
+            "artistsNames": "Alexis Ffrench"
+          },
+          "distributor": "Sony Music Entertainment",
+          "indicators": [],
+          "radioId": 1389289670,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZWC90B0I",
+          "title": "cardigan (Piano Version)",
+          "alias": "cardigan-Piano-Version-Flying-Fingers",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Flying Fingers",
+          "artists": [
+            {
+              "id": "IW6ZA6IB",
+              "name": "Flying Fingers",
+              "link": "/nghe-si/Flying-Fingers",
+              "spotlight": false,
+              "alias": "Flying-Fingers",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6B7WAIBD"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/1/5/3/b/153b2aef0051246e52304b3b7608dbf2.jpg",
+          "link": "/bai-hat/cardigan-Piano-Version-Flying-Fingers/ZWC90B0I.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/5/3/b/153b2aef0051246e52304b3b7608dbf2.jpg",
+          "duration": 190,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1599152400,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ98II7"
+          ],
+          "album": {
+            "encodeId": "6WD09ZWE",
+            "title": "cardigan (Piano Version)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/0/1/0/e/010ee2869a51183d6ea753325e18a2e0.jpg",
+            "isoffical": true,
+            "link": "/album/cardigan-Piano-Version-Flying-Fingers/6WD09ZWE.html",
+            "isIndie": false,
+            "releaseDate": "04/09/2020",
+            "sortDescription": "",
+            "releasedAt": 1599152400000,
+            "genreIds": [
+              "IWZ9Z08O"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6ZA6IB",
+                "name": "Flying Fingers",
+                "link": "/nghe-si/Flying-Fingers",
+                "spotlight": false,
+                "alias": "Flying-Fingers",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6B7WAIBD",
+                "totalFollow": 71
+              }
+            ],
+            "artistsNames": "Flying Fingers"
+          },
+          "distributor": "Sony Music Entertainment",
+          "indicators": [],
+          "radioId": 1382486361,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZW67U08B",
+          "title": "My Memory",
+          "alias": "My-Memory-Isao-Sasaki",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Isao Sasaki",
+          "artists": [
+            {
+              "id": "IWZ9CC0C",
+              "name": "Isao Sasaki",
+              "link": "/nghe-si/Isao-Sasaki",
+              "spotlight": false,
+              "alias": "Isao-Sasaki",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6B7W7E9F"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/6/e/6e2ce9c8f4785eb31f88e727b06ab120_1363728565.jpg",
+          "link": "/bai-hat/My-Memory-Isao-Sasaki/ZW67U08B.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/6/e/6e2ce9c8f4785eb31f88e727b06ab120_1363728565.jpg",
+          "duration": 283,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z0B0",
+            "IWZ9Z086",
+            "IWZ9Z0BO"
+          ],
+          "distributor": "",
+          "indicators": [],
+          "radioId": 1283601506,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZW7WZ9WO",
+          "title": "Kiss The Rain",
+          "alias": "Kiss-The-Rain-Yiruma",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Yiruma",
+          "artists": [
+            {
+              "id": "IWZ9Z7F8",
+              "name": "Yiruma",
+              "link": "/nghe-si/Yiruma",
+              "spotlight": false,
+              "alias": "Yiruma",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/2/4/a/a24a27e454c743d251c39987b7e85875.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/a/2/4/a/a24a27e454c743d251c39987b7e85875.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZWZAFO9C"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/7/a/7/5/7a753c1b229169aa886822a87f886272.jpg",
+          "link": "/bai-hat/Kiss-The-Rain-Yiruma/ZW7WZ9WO.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/7/a/7/5/7a753c1b229169aa886822a87f886272.jpg",
+          "duration": 245,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1627578000,
+          "genreIds": [
+            "IWZ9Z08W"
+          ],
+          "distributor": "Universal Music Group",
+          "indicators": [],
+          "radioId": 1285047325,
+          "isIndie": false,
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZW66Z9AU",
+          "title": "Nefeli",
+          "alias": "Nefeli-Ludovico-Einaudi",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Ludovico Einaudi",
+          "artists": [
+            {
+              "id": "IWZ96BO8",
+              "name": "Ludovico Einaudi",
+              "link": "/nghe-si/Ludovico-Einaudi",
+              "spotlight": false,
+              "alias": "Ludovico-Einaudi",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/e/be2d71b807ab08ff4ff7fd56e1ea0c8b_1291803831.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/e/be2d71b807ab08ff4ff7fd56e1ea0c8b_1291803831.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UAE6UE0"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1368330290.jpg",
+          "link": "/bai-hat/Nefeli-Ludovico-Einaudi/ZW66Z9AU.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/f/3/f3ccdd27d2000e3f9255a7e3e2c48800_1368330290.jpg",
+          "duration": 272,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z086"
+          ],
+          "distributor": "Sony Music Entertainment",
+          "indicators": [],
+          "radioId": 1283544545,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZW6ZZDBA",
+          "title": "Peace",
+          "alias": "Peace-George-Winston",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "George Winston",
+          "artists": [
+            {
+              "id": "IWZ96AEB",
+              "name": "George Winston",
+              "link": "/nghe-si/George-Winston",
+              "spotlight": false,
+              "alias": "George-Winston",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/6/0667ace4acf26942308bd2e9131473ae_1291538062.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/6/0667ace4acf26942308bd2e9131473ae_1291538062.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UAE6OE7"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/5/3/b/3/53b32e8aa8e9366276ea5533f595b1ac.jpg",
+          "link": "/bai-hat/Peace-George-Winston/ZW6ZZDBA.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/5/3/b/3/53b32e8aa8e9366276ea5533f595b1ac.jpg",
+          "duration": 245,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 378666000,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z09E"
+          ],
+          "album": {
+            "encodeId": "ZWZA907A",
+            "title": "December",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/5/3/b/3/53b32e8aa8e9366276ea5533f595b1ac.jpg",
+            "isoffical": true,
+            "link": "/album/December-George-Winston/ZWZA907A.html",
+            "isIndie": false,
+            "releaseDate": "01/01/1982",
+            "sortDescription": "December - Là khi ta có cảm giác sắp bước qua một điều gì đó. Là kết thúc. Là khởi đầu. Là lời tạ ơn cho những cái đã hiện diện trong cuộc đời ta...",
+            "releasedAt": 378666000000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z09E"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ96AEB",
+                "name": "George Winston",
+                "link": "/nghe-si/George-Winston",
+                "spotlight": false,
+                "alias": "George-Winston",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/6/0667ace4acf26942308bd2e9131473ae_1291538062.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/6/0667ace4acf26942308bd2e9131473ae_1291538062.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UAE6OE7",
+                "totalFollow": 9991
+              }
+            ],
+            "artistsNames": "George Winston"
+          },
+          "distributor": "Ingrooves Music Group",
+          "indicators": [],
+          "radioId": 1283484556,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZW6ZZCD9",
+          "title": "Winter Story",
+          "alias": "Winter-Story-Dennis-Kuo",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Dennis Kuo",
+          "artists": [
+            {
+              "id": "IWZ9C9IC",
+              "name": "Dennis Kuo",
+              "link": "/nghe-si/Dennis-Kuo",
+              "spotlight": false,
+              "alias": "Dennis-Kuo",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/8/1/0/6810f9215b35d9076186a776c98473d9.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/6/8/1/0/6810f9215b35d9076186a776c98473d9.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6B7W7EU6"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/6/e/6e2ce9c8f4785eb31f88e727b06ab120_1363611407.jpg",
+          "link": "/bai-hat/Winter-Story-Dennis-Kuo/ZW6ZZCD9.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/6/e/6e2ce9c8f4785eb31f88e727b06ab120_1363611407.jpg",
+          "duration": 302,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z0B0",
+            "IWZ9Z086"
+          ],
+          "album": {
+            "encodeId": "ZWZA906I",
+            "title": "Dennis Kuo's Collection - Study Music Project: Music For The Mind",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/6/e/6e2ce9c8f4785eb31f88e727b06ab120_1363611407.jpg",
+            "isoffical": true,
+            "link": "/album/Dennis-Kuo-s-Collection-Study-Music-Project-Music-For-The-Mind-Dennis-Kuo/ZWZA906I.html",
+            "isIndie": false,
+            "releaseDate": "2010",
+            "sortDescription": "Nếu bạn đang tìm kiếm một loại âm nhạc có thể giúp bạn học tốt thì Dự án âm nhạc dành cho học tập của Dennis Kuo sẽ là một lựa chọn hữu ích. Những bản nhạc không lời được sáng tác với sự tính toán cẩn thận số nhịp mỗi phách, sử dụng loại nhạc cụ, âm thanh và thiết kế giai điệu giúp cho bạn tăng sự tập trung.\r\n\r\nDự án âm nhạc này sử dụng nhiều thể loại nhạc như classical (cổ điển), piano, jazz, electronic (nhạc điện tử), hip hop, và yếu tố nhạc dân tộc để tạo ra dòng nhạc dành cho học tập mới mẻ này.\r\n\r\nDennis Kuo (người Đài Loan hiện ở Mỹ), là 1 sinh viên đại học y đồng thời là 1 nhạc sĩ. Bởi vậy nếu ai hay đánh giá cao loại nhạc có chất lượng thực sự tốt hãy tin tưởng hoàn toàn ở Dennis. Đó là lí do Dennis tạo nên dự án này vì anh biết những sinh viên cảm thấy nản chí thất vọng khi họ không thể tập trung được bình thường. Sứ mệnh của anh là kết hợp kĩ năng âm nhạc vốn có với tư duy học thuật để giúp sinh viên ở tất cả các trình độ, độ tuổi vượt qua những sự xao lãng về tinh thần, tăng sự tập trung và có kết quả học tập tốt hơn.\r\n\r\nAnh đã có những ý tưởng về nhạc dành cho học tập từ rất lâu từ khi còn ở trường trung học, nhưng nguồn cảm hứng chính thức đến từ cái chết của nhạc sĩ tài năng Nujabes (Seba Jun). Trong suốt thời gian học đại học, nhạc của ông đã giúp anh rất nhiều để học tốt các môn hóa hữu cơ, khoa học đời sống và vật lý. Sau khi nghe về sự mất mát của ông, anh chợt có 1 suy nghĩ rằng nguồn âm nhạc anh có này sẽ giảm đi và chôn vùi theo ông. Nhưng rồi anh nhận ra rằng",
+            "releasedAt": 1293728400000,
+            "genreIds": [
+              "IWZ9Z086",
+              "IWZ9Z0B0"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9C9IC",
+                "name": "Dennis Kuo",
+                "link": "/nghe-si/Dennis-Kuo",
+                "spotlight": false,
+                "alias": "Dennis-Kuo",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/8/1/0/6810f9215b35d9076186a776c98473d9.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/6/8/1/0/6810f9215b35d9076186a776c98473d9.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6B7W7EU6",
+                "totalFollow": 1153
+              }
+            ],
+            "artistsNames": "Dennis Kuo"
+          },
+          "distributor": "",
+          "indicators": [],
+          "radioId": 1283484322,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZW6I0FCZ",
+          "title": "Remembering The Light",
+          "alias": "Remembering-The-Light-Kevin-Kern",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Kevin Kern",
+          "artists": [
+            {
+              "id": "IWZ96I8W",
+              "name": "Kevin Kern",
+              "link": "/nghe-si/Kevin-Kern",
+              "spotlight": false,
+              "alias": "Kevin-Kern",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/8/4/5/9845fc205125795decfdb2b74126ff11.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/8/4/5/9845fc205125795decfdb2b74126ff11.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UAEUBD8"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/7/f/7fdc1a630c238af0815181f9faa190f5_1341627059.jpg",
+          "link": "/bai-hat/Remembering-The-Light-Kevin-Kern/ZW6I0FCZ.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/7/f/7fdc1a630c238af0815181f9faa190f5_1341627059.jpg",
+          "duration": 243,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z086",
+            "IWZ9Z0B0"
+          ],
+          "album": {
+            "encodeId": "ZWZAWWAC",
+            "title": "Enchanted Piano",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/7/f/7fdc1a630c238af0815181f9faa190f5_1341627059.jpg",
+            "isoffical": true,
+            "link": "/album/Enchanted-Piano-Kevin-Kern/ZWZAWWAC.html",
+            "isIndie": false,
+            "releaseDate": "2011",
+            "sortDescription": "Hãy cùng nhau lắng nghe những âm thanh dương cầm thật tuyệt vời của \"Enchanted Piano\" do Kevin Kern thể hiện. Bằng khả năng cảm nhận âm nhạc và trình diễn điêu luyện, album là một trong những tác phẩm thành công nhất của Kevin Kern.",
+            "releasedAt": 1325264400000,
+            "genreIds": [
+              "IWZ9Z0B0",
+              "IWZ9Z086"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ96I8W",
+                "name": "Kevin Kern",
+                "link": "/nghe-si/Kevin-Kern",
+                "spotlight": false,
+                "alias": "Kevin-Kern",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/8/4/5/9845fc205125795decfdb2b74126ff11.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/8/4/5/9845fc205125795decfdb2b74126ff11.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UAEUBD8",
+                "totalFollow": 6784
+              }
+            ],
+            "artistsNames": "Kevin Kern"
+          },
+          "distributor": "",
+          "indicators": [],
+          "radioId": 1282992349,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZW6W900D",
+          "title": "Let Me Sleep",
+          "alias": "Let-Me-Sleep-Isaac-Shepard",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Isaac Shepard",
+          "artists": [
+            {
+              "id": "IWZ9A967",
+              "name": "Isaac Shepard",
+              "link": "/nghe-si/Isaac-Shepard",
+              "spotlight": false,
+              "alias": "Isaac-Shepard",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/4/14a2fb273d4dd7642dbbf91b4d1e82f7_1373800301.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/4/14a2fb273d4dd7642dbbf91b4d1e82f7_1373800301.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UB66B86"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/6/6/66a47f87221c5befcb7bad19fd1ca2ac_1350034231.jpg",
+          "link": "/bai-hat/Let-Me-Sleep-Isaac-Shepard/ZW6W900D.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/6/6/66a47f87221c5befcb7bad19fd1ca2ac_1350034231.jpg",
+          "duration": 171,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z086",
+            "IWZ9Z0B0"
+          ],
+          "album": {
+            "encodeId": "ZWZAUDOE",
+            "title": "The Renewing",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/6/6/66a47f87221c5befcb7bad19fd1ca2ac_1350034231.jpg",
+            "isoffical": true,
+            "link": "/album/The-Renewing-Isaac-Shepard/ZWZAUDOE.html",
+            "isIndie": false,
+            "releaseDate": "2009",
+            "sortDescription": "The Renewing là album của nhạc sĩ  Isaac\r\nShepard được phát hành vào năm 2009.",
+            "releasedAt": 1262192400000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z098",
+              "IWZ9Z086"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9A967",
+                "name": "Isaac Shepard",
+                "link": "/nghe-si/Isaac-Shepard",
+                "spotlight": false,
+                "alias": "Isaac-Shepard",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/4/14a2fb273d4dd7642dbbf91b4d1e82f7_1373800301.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/4/14a2fb273d4dd7642dbbf91b4d1e82f7_1373800301.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UB66B86",
+                "totalFollow": 754
+              }
+            ],
+            "artistsNames": "Isaac Shepard"
+          },
+          "distributor": "",
+          "indicators": [],
+          "radioId": 1283090975,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZODAOB79",
+          "title": "Strata",
+          "alias": "Strata-Poppy-Ackroyd",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Poppy Ackroyd",
+          "artists": [
+            {
+              "id": "IW6AA7O6",
+              "name": "Poppy Ackroyd",
+              "link": "/nghe-si/Poppy-Ackroyd.IW6AA7O6",
+              "spotlight": false,
+              "alias": "Poppy-Ackroyd.IW6AA7O6",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "isOA": false,
+              "isOABrand": false
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/e/f/4/8/ef48f52bb2389110cbad17457bf6dca3.jpg",
+          "link": "/bai-hat/Strata-Poppy-Ackroyd/ZODAOB79.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/e/f/4/8/ef48f52bb2389110cbad17457bf6dca3.jpg",
+          "duration": 273,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1558026000,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ980O7"
+          ],
+          "album": {
+            "encodeId": "67EBEIE7",
+            "title": "Feathers",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/6/8/8/5/6885d149778d320dd65fe54687713010.jpg",
+            "isoffical": true,
+            "link": "/album/Feathers-Poppy-Ackroyd/67EBEIE7.html",
+            "isIndie": false,
+            "releaseDate": "14/11/2014",
+            "sortDescription": "",
+            "releasedAt": 1415898000000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ980O7"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6AA7O6",
+                "name": "Poppy Ackroyd",
+                "link": "/nghe-si/Poppy-Ackroyd.IW6AA7O6",
+                "spotlight": false,
+                "alias": "Poppy-Ackroyd.IW6AA7O6",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "totalFollow": 7
+              }
+            ],
+            "artistsNames": "Poppy Ackroyd"
+          },
+          "distributor": "Universal Music Group",
+          "indicators": [],
+          "radioId": 1444447529,
+          "isIndie": false,
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "Z6I0OUW6",
+          "title": "Colours (Solo Piano Version)",
+          "alias": "Colours-Solo-Piano-Version-Alexis-Ffrench",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Alexis Ffrench",
+          "artists": [
+            {
+              "id": "IW6OOE0Z",
+              "name": "Alexis Ffrench",
+              "link": "/nghe-si/Alexis-Ffrench",
+              "spotlight": false,
+              "alias": "Alexis-Ffrench",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/e/d/b/9edb64ec4519f3b4dac3dfa38f1b985f.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/e/d/b/9edb64ec4519f3b4dac3dfa38f1b985f.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6B7W9BCO"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/4/9/c/949c89ff2489af292456578f30f330c1.jpg",
+          "link": "/bai-hat/Colours-Solo-Piano-Version-Alexis-Ffrench/Z6I0OUW6.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/9/4/9/c/949c89ff2489af292456578f30f330c1.jpg",
+          "duration": 189,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1665075600,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ980O7"
+          ],
+          "distributor": "Sony Music Entertainment",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZZEOUW0Z",
+          "title": "amour (piano)",
+          "alias": "amour-piano-Jean-Michel-Blais",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Jean-Michel Blais",
+          "artists": [
+            {
+              "id": "IW6W9IEZ",
+              "name": "Jean-Michel Blais",
+              "link": "/nghe-si/Jean-Michel-Blais",
+              "spotlight": false,
+              "alias": "Jean-Michel-Blais",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/0/c/0/80c05ba5383a458f7986e7a7bd45ffc9.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/8/0/c/0/80c05ba5383a458f7986e7a7bd45ffc9.jpg",
+              "isOA": false,
+              "isOABrand": false
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/f/9/1/7/f917ce0ab8ca524690dd8c801bc95028.jpg",
+          "link": "/bai-hat/amour-piano-Jean-Michel-Blais/ZZEOUW0Z.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/f/9/1/7/f917ce0ab8ca524690dd8c801bc95028.jpg",
+          "duration": 302,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1657213200,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ980O7"
+          ],
+          "album": {
+            "encodeId": "6BU7IIFC",
+            "title": "amour (piano) (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/f/9/1/7/f917ce0ab8ca524690dd8c801bc95028.jpg",
+            "isoffical": true,
+            "link": "/album/amour-piano-Single-Jean-Michel-Blais/6BU7IIFC.html",
+            "isIndie": false,
+            "releaseDate": "08/07/2022",
+            "sortDescription": "",
+            "releasedAt": 1657213200000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ980O7"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6W9IEZ",
+                "name": "Jean-Michel Blais",
+                "link": "/nghe-si/Jean-Michel-Blais",
+                "spotlight": false,
+                "alias": "Jean-Michel-Blais",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/0/c/0/80c05ba5383a458f7986e7a7bd45ffc9.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/8/0/c/0/80c05ba5383a458f7986e7a7bd45ffc9.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "totalFollow": 7
+              }
+            ],
+            "artistsNames": "Jean-Michel Blais"
+          },
+          "distributor": "Universal Music Group",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZZB97W80",
+          "title": "Moux: honey",
+          "alias": "Moux-honey-Moux",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Moux",
+          "artists": [
+            {
+              "id": "IW6A09DO",
+              "name": "Moux",
+              "link": "/nghe-si/Moux.IW6A09DO",
+              "spotlight": false,
+              "alias": "Moux.IW6A09DO",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "isOA": false,
+              "isOABrand": false
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/d/e/e/9/dee9e92ac740008a85f1051ad4e64d08.jpg",
+          "link": "/bai-hat/Moux-honey-Moux/ZZB97W80.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/e/e/9/dee9e92ac740008a85f1051ad4e64d08.jpg",
+          "duration": 141,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1652979600,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ980O7"
+          ],
+          "album": {
+            "encodeId": "6BOOD9U9",
+            "title": "honey (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/d/e/e/9/dee9e92ac740008a85f1051ad4e64d08.jpg",
+            "isoffical": true,
+            "link": "/album/honey-Single-Moux/6BOOD9U9.html",
+            "isIndie": false,
+            "releaseDate": "20/05/2022",
+            "sortDescription": "",
+            "releasedAt": 1652979600000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ980O7"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6A09DO",
+                "name": "Moux",
+                "link": "/nghe-si/Moux.IW6A09DO",
+                "spotlight": false,
+                "alias": "Moux.IW6A09DO",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "totalFollow": 1
+              }
+            ],
+            "artistsNames": "Moux"
+          },
+          "distributor": "Universal Music Group",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZZ9IFDUW",
+          "title": "Vangelis: Main Theme (From \"Missing\")",
+          "alias": "Vangelis-Main-Theme-From-Missing-Van-Anh-Nguyen",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Van-Anh Nguyen",
+          "artists": [
+            {
+              "id": "IW6WAABI",
+              "name": "Van-Anh Nguyen",
+              "link": "/nghe-si/Van-Anh-Nguyen",
+              "spotlight": false,
+              "alias": "Van-Anh-Nguyen",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/7/9/7/87972a5d2c76f0a093c84383350bfb1d.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/8/7/9/7/87972a5d2c76f0a093c84383350bfb1d.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UB70EOZ"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/a/1/8/b/a18ba00a2fa5d61feb8b9b00f64a2e44.jpg",
+          "link": "/bai-hat/Vangelis-Main-Theme-From-Missing-Van-Anh-Nguyen/ZZ9IFDUW.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/a/1/8/b/a18ba00a2fa5d61feb8b9b00f64a2e44.jpg",
+          "duration": 256,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1648141200,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ980O7"
+          ],
+          "album": {
+            "encodeId": "6BW0090E",
+            "title": "Peaceful Piano Moods",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/5/d/2/f/5d2f9b04c435757600d6d015e8c202c8.jpg",
+            "isoffical": true,
+            "link": "/album/Peaceful-Piano-Moods-Various-Artists/6BW0090E.html",
+            "isIndie": false,
+            "releaseDate": "25/03/2022",
+            "sortDescription": "",
+            "releasedAt": 1648141200000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ980O7"
+            ],
+            "PR": false
+          },
+          "distributor": "Universal Music Group",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZUIWUC0U",
+          "title": "Wouldn't It Be Loverly",
+          "alias": "Wouldn-t-It-Be-Loverly-Fred-Hersch",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Fred Hersch",
+          "artists": [
+            {
+              "id": "IWZAWAEC",
+              "name": "Fred Hersch",
+              "link": "/nghe-si/Fred-Hersch",
+              "spotlight": false,
+              "alias": "Fred-Hersch",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/3/1/a/1/31a155fcdba44150a5143195bf4c2542.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/3/1/a/1/31a155fcdba44150a5143195bf4c2542.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6B7W8O8U"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/5/c/d/5/5cd5eddcd64aeeb0411c16e4f66c5792.jpg",
+          "link": "/bai-hat/Wouldn-t-It-Be-Loverly-Fred-Hersch/ZUIWUC0U.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/5/c/d/5/5cd5eddcd64aeeb0411c16e4f66c5792.jpg",
+          "duration": 369,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1604595600,
+          "genreIds": [
+            "IWZ9Z086",
+            "IWZ9Z0B0"
+          ],
+          "album": {
+            "encodeId": "687A0ZZD",
+            "title": "Songs from Home",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/b/8/4/2/b8424ab41757f385de02e05b93ff94d2.jpg",
+            "isoffical": true,
+            "link": "/album/Songs-from-Home-Fred-Hersch/687A0ZZD.html",
+            "isIndie": false,
+            "releaseDate": "06/11/2020",
+            "sortDescription": "",
+            "releasedAt": 1604595600000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z09C"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZAWAEC",
+                "name": "Fred Hersch",
+                "link": "/nghe-si/Fred-Hersch",
+                "spotlight": false,
+                "alias": "Fred-Hersch",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/3/1/a/1/31a155fcdba44150a5143195bf4c2542.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/3/1/a/1/31a155fcdba44150a5143195bf4c2542.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6B7W8O8U",
+                "totalFollow": 13
+              }
+            ],
+            "artistsNames": "Fred Hersch"
+          },
+          "distributor": "The Orchard",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZZ60UIE6",
+          "title": "Still Life",
+          "alias": "Still-Life-Alexis-Ffrench",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Alexis Ffrench",
+          "artists": [
+            {
+              "id": "IW6OOE0Z",
+              "name": "Alexis Ffrench",
+              "link": "/nghe-si/Alexis-Ffrench",
+              "spotlight": false,
+              "alias": "Alexis-Ffrench",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/e/d/b/9edb64ec4519f3b4dac3dfa38f1b985f.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/e/d/b/9edb64ec4519f3b4dac3dfa38f1b985f.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6B7W9BCO"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/f/5/d/f/f5dfede06021d22bef797d097f89d3a8.jpg",
+          "link": "/bai-hat/Still-Life-Alexis-Ffrench/ZZ60UIE6.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/f/5/d/f/f5dfede06021d22bef797d097f89d3a8.jpg",
+          "duration": 203,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1649350800,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ980O7"
+          ],
+          "album": {
+            "encodeId": "6AFOIZWF",
+            "title": "Truth",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/f/5/d/f/f5dfede06021d22bef797d097f89d3a8.jpg",
+            "isoffical": true,
+            "link": "/album/Truth-Alexis-Ffrench/6AFOIZWF.html",
+            "isIndie": false,
+            "releaseDate": "06/05/2022",
+            "sortDescription": "",
+            "releasedAt": 1651770000000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ980O7"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6OOE0Z",
+                "name": "Alexis Ffrench",
+                "link": "/nghe-si/Alexis-Ffrench",
+                "spotlight": false,
+                "alias": "Alexis-Ffrench",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/e/d/b/9edb64ec4519f3b4dac3dfa38f1b985f.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/e/d/b/9edb64ec4519f3b4dac3dfa38f1b985f.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6B7W9BCO",
+                "totalFollow": 101
+              }
+            ],
+            "artistsNames": "Alexis Ffrench"
+          },
+          "distributor": "Sony Music Entertainment",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZU8C6706",
+          "title": "Stillness",
+          "alias": "Stillness-Poppy-Ackroyd",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Poppy Ackroyd",
+          "artists": [
+            {
+              "id": "IW6AA7O6",
+              "name": "Poppy Ackroyd",
+              "link": "/nghe-si/Poppy-Ackroyd.IW6AA7O6",
+              "spotlight": false,
+              "alias": "Poppy-Ackroyd.IW6AA7O6",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "isOA": false,
+              "isOABrand": false
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/a/9/5/0a950b038204f674f6bb403030964e98.jpg",
+          "link": "/bai-hat/Stillness-Poppy-Ackroyd/ZU8C6706.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/a/9/5/0a950b038204f674f6bb403030964e98.jpg",
+          "duration": 278,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1634058000,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ980O7"
+          ],
+          "album": {
+            "encodeId": "69W9F676",
+            "title": "Stillness (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/0/a/9/5/0a950b038204f674f6bb403030964e98.jpg",
+            "isoffical": true,
+            "link": "/album/Stillness-Single-Poppy-Ackroyd/69W9F676.html",
+            "isIndie": false,
+            "releaseDate": "13/10/2021",
+            "sortDescription": "",
+            "releasedAt": 1634058000000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ980O7"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6AA7O6",
+                "name": "Poppy Ackroyd",
+                "link": "/nghe-si/Poppy-Ackroyd.IW6AA7O6",
+                "spotlight": false,
+                "alias": "Poppy-Ackroyd.IW6AA7O6",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "totalFollow": 7
+              }
+            ],
+            "artistsNames": "Poppy Ackroyd"
+          },
+          "distributor": "Universal Music Group",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZZA8IZU0",
+          "title": "Pua Sadinia (Not To Be Forgotten)",
+          "alias": "Pua-Sadinia-Not-To-Be-Forgotten-George-Winston",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "George Winston",
+          "artists": [
+            {
+              "id": "IWZ96AEB",
+              "name": "George Winston",
+              "link": "/nghe-si/George-Winston",
+              "spotlight": false,
+              "alias": "George-Winston",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/6/0667ace4acf26942308bd2e9131473ae_1291538062.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/6/0667ace4acf26942308bd2e9131473ae_1291538062.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UAE6OE7"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/e/6/5/f/e65f6d5ceafa24aff787284d0540468e.jpg",
+          "link": "/bai-hat/Pua-Sadinia-Not-To-Be-Forgotten-George-Winston/ZZA8IZU0.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/e/6/5/f/e65f6d5ceafa24aff787284d0540468e.jpg",
+          "duration": 351,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1651770000,
+          "genreIds": [
+            "IWZ9Z08O"
+          ],
+          "album": {
+            "encodeId": "6BWA7AAU",
+            "title": "Night",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/e/6/5/f/e65f6d5ceafa24aff787284d0540468e.jpg",
+            "isoffical": true,
+            "link": "/album/Night-George-Winston/6BWA7AAU.html",
+            "isIndie": false,
+            "releaseDate": "06/05/2022",
+            "sortDescription": "",
+            "releasedAt": 1651770000000,
+            "genreIds": [
+              "IWZ9Z08O"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ96AEB",
+                "name": "George Winston",
+                "link": "/nghe-si/George-Winston",
+                "spotlight": false,
+                "alias": "George-Winston",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/6/0667ace4acf26942308bd2e9131473ae_1291538062.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/6/0667ace4acf26942308bd2e9131473ae_1291538062.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UAE6OE7",
+                "totalFollow": 9991
+              }
+            ],
+            "artistsNames": "George Winston"
+          },
+          "distributor": "Sony Music Entertainment",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZZ9887OB",
+          "title": "Nakamura: Spring",
+          "alias": "Nakamura-Spring-Ryuichi-Nakamura",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Ryuichi Nakamura",
+          "artists": [
+            {
+              "id": "IW77U7ZW",
+              "name": "Ryuichi Nakamura",
+              "link": "/nghe-si/Ryuichi-Nakamura.IW77U7ZW",
+              "spotlight": false,
+              "alias": "Ryuichi-Nakamura.IW77U7ZW",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "isOA": false,
+              "isOABrand": false
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/e/8/4/9e84cfef6c720e63626b60c9d96147e1.jpg",
+          "link": "/bai-hat/Nakamura-Spring-Ryuichi-Nakamura/ZZ9887OB.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/9/e/8/4/9e84cfef6c720e63626b60c9d96147e1.jpg",
+          "duration": 132,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1648746000,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ980O7"
+          ],
+          "album": {
+            "encodeId": "6BWO0B9I",
+            "title": "Spring (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/9/e/8/4/9e84cfef6c720e63626b60c9d96147e1.jpg",
+            "isoffical": true,
+            "link": "/album/Spring-Single-Ryuichi-Nakamura/6BWO0B9I.html",
+            "isIndie": false,
+            "releaseDate": "01/04/2022",
+            "sortDescription": "",
+            "releasedAt": 1648746000000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ980O7"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW77U7ZW",
+                "name": "Ryuichi Nakamura",
+                "link": "/nghe-si/Ryuichi-Nakamura.IW77U7ZW",
+                "spotlight": false,
+                "alias": "Ryuichi-Nakamura.IW77U7ZW",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "totalFollow": 1
+              }
+            ],
+            "artistsNames": "Ryuichi Nakamura"
+          },
+          "distributor": "Universal Music Group",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZO9E9A06",
+          "title": "I See The Light (From \"TANGLED\")",
+          "alias": "I-See-The-Light-From-TANGLED-Phillip-Keveren",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Phillip Keveren",
+          "artists": [
+            {
+              "id": "IW6UA6F7",
+              "name": "Phillip Keveren",
+              "link": "/nghe-si/Phillip-Keveren",
+              "spotlight": false,
+              "alias": "Phillip-Keveren",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "isOA": false,
+              "isOABrand": false
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/a/d/5/6/ad566f7acf8c3fe64700bd4622ad2a21.jpg",
+          "link": "/bai-hat/I-See-The-Light-From-TANGLED-Phillip-Keveren/ZO9E9A06.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/a/d/5/6/ad566f7acf8c3fe64700bd4622ad2a21.jpg",
+          "duration": 263,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1615507200,
+          "genreIds": [
+            "IWZ9Z086"
+          ],
+          "album": {
+            "encodeId": "S769E98B",
+            "title": "Peaceful Spring Mornings",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/b/1/e/e/b1ee4c95e67c41135a51388336777acb.jpg",
+            "isoffical": true,
+            "link": "/album/Peaceful-Spring-Mornings-Various-Artists/S769E98B.html",
+            "isIndie": false,
+            "releaseDate": "12/03/2021",
+            "sortDescription": "",
+            "releasedAt": 1615482000000,
+            "genreIds": [
+              "IWZ9Z08O"
+            ],
+            "PR": false
+          },
+          "distributor": "Universal Music Group",
+          "indicators": [],
+          "radioId": 1430091333,
+          "isIndie": false,
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "Z60WACDF",
+          "title": "Lawson: the color of the sky (solo piano)",
+          "alias": "Lawson-the-color-of-the-sky-solo-piano-Chad-Lawson",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Chad Lawson",
+          "artists": [
+            {
+              "id": "IWZ9FUAZ",
+              "name": "Chad Lawson",
+              "link": "/nghe-si/Chad-Lawson",
+              "spotlight": false,
+              "alias": "Chad-Lawson",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/5/b/1/85b1b751b11a600b4194f001993cd624.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/8/5/b/1/85b1b751b11a600b4194f001993cd624.jpg",
+              "isOA": false,
+              "isOABrand": false
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/d/1/e/0/d1e03e3ee7dad6d2f63554eeee95c456.jpg",
+          "link": "/bai-hat/Lawson-the-color-of-the-sky-solo-piano-Chad-Lawson/Z60WACDF.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/1/e/0/d1e03e3ee7dad6d2f63554eeee95c456.jpg",
+          "duration": 224,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1661446800,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ980O7"
+          ],
+          "album": {
+            "encodeId": "6BZ69E6F",
+            "title": "the color of the sky (solo piano) (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/3/4/a/d/34ad7628da93cfbbb1eff73a305724c4.jpg",
+            "isoffical": true,
+            "link": "/album/the-color-of-the-sky-solo-piano-Single-Chad-Lawson/6BZ69E6F.html",
+            "isIndie": false,
+            "releaseDate": "26/08/2022",
+            "sortDescription": "",
+            "releasedAt": 1661446800000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ980O7"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9FUAZ",
+                "name": "Chad Lawson",
+                "link": "/nghe-si/Chad-Lawson",
+                "spotlight": false,
+                "alias": "Chad-Lawson",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/5/b/1/85b1b751b11a600b4194f001993cd624.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/8/5/b/1/85b1b751b11a600b4194f001993cd624.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "totalFollow": 103
+              }
+            ],
+            "artistsNames": "Chad Lawson"
+          },
+          "distributor": "Universal Music Group",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZOAWUE6Z",
+          "title": "Letter (Winter Version)",
+          "alias": "Letter-Winter-Version-Yiruma",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Yiruma",
+          "artists": [
+            {
+              "id": "IWZ9Z7F8",
+              "name": "Yiruma",
+              "link": "/nghe-si/Yiruma",
+              "spotlight": false,
+              "alias": "Yiruma",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/2/4/a/a24a27e454c743d251c39987b7e85875.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/a/2/4/a/a24a27e454c743d251c39987b7e85875.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZWZAFO9C"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/a/e/9/0ae9579acc621d4b8d8f907d97fedef4.jpg",
+          "link": "/bai-hat/Letter-Winter-Version-Yiruma/ZOAWUE6Z.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/a/e/9/0ae9579acc621d4b8d8f907d97fedef4.jpg",
+          "duration": 233,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1609459200,
+          "genreIds": [
+            "IWZ9Z08W",
+            "IWZ9Z09W"
+          ],
+          "album": {
+            "encodeId": "677IIWDA",
+            "title": "f r a m e",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/0/a/e/9/0ae9579acc621d4b8d8f907d97fedef4.jpg",
+            "isoffical": true,
+            "link": "/album/f-r-a-m-e-Yiruma/677IIWDA.html",
+            "isIndie": false,
+            "releaseDate": "17/07/2020",
+            "sortDescription": "",
+            "releasedAt": 1594918800000,
+            "genreIds": [
+              "IWZ9Z08W"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9Z7F8",
+                "name": "Yiruma",
+                "link": "/nghe-si/Yiruma",
+                "spotlight": false,
+                "alias": "Yiruma",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/2/4/a/a24a27e454c743d251c39987b7e85875.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/a/2/4/a/a24a27e454c743d251c39987b7e85875.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "ZWZAFO9C",
+                "totalFollow": 147015
+              }
+            ],
+            "artistsNames": "Yiruma"
+          },
+          "distributor": "Universal Music Group",
+          "indicators": [],
+          "radioId": 1427845686,
+          "isIndie": false,
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZZEUWCZC",
+          "title": "Bring Us Peace",
+          "alias": "Bring-Us-Peace-Daniel-Bror-Palm",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Daniel Bror Palm",
+          "artists": [
+            {
+              "id": "IW6COW0W",
+              "name": "Daniel Bror Palm",
+              "link": "/nghe-si/Daniel-Bror-Palm.IW6COW0W",
+              "spotlight": false,
+              "alias": "Daniel-Bror-Palm.IW6COW0W",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "isOA": false,
+              "isOABrand": false
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/e/b/b/b/ebbb51b4ea6e65348cf953bdda76d3df.jpg",
+          "link": "/bai-hat/Bring-Us-Peace-Daniel-Bror-Palm/ZZEUWCZC.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/e/b/b/b/ebbb51b4ea6e65348cf953bdda76d3df.jpg",
+          "duration": 156,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1659027600,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ980O7"
+          ],
+          "album": {
+            "encodeId": "6BU796C0",
+            "title": "Bring Us Peace (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/e/b/b/b/ebbb51b4ea6e65348cf953bdda76d3df.jpg",
+            "isoffical": true,
+            "link": "/album/Bring-Us-Peace-Single-Daniel-Bror-Palm/6BU796C0.html",
+            "isIndie": false,
+            "releaseDate": "29/07/2022",
+            "sortDescription": "",
+            "releasedAt": 1659027600000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ980O7"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6COW0W",
+                "name": "Daniel Bror Palm",
+                "link": "/nghe-si/Daniel-Bror-Palm.IW6COW0W",
+                "spotlight": false,
+                "alias": "Daniel-Bror-Palm.IW6COW0W",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "totalFollow": 1
+              }
+            ],
+            "artistsNames": "Daniel Bror Palm"
+          },
+          "distributor": "The Orchard",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZZEB0DF9",
+          "title": "Reflections",
+          "alias": "Reflections-Ali-Toygar",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Ali Toygar",
+          "artists": [
+            {
+              "id": "IW69CO9B",
+              "name": "Ali Toygar",
+              "link": "/nghe-si/Ali-Toygar.IW69CO9B",
+              "spotlight": false,
+              "alias": "Ali-Toygar.IW69CO9B",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "isOA": false,
+              "isOABrand": false
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/d/2/6/9/d26949f29c4bdbb09ea8210957788629.jpg",
+          "link": "/bai-hat/Reflections-Ali-Toygar/ZZEB0DF9.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/2/6/9/d26949f29c4bdbb09ea8210957788629.jpg",
+          "duration": 170,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1658422800,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ980O7"
+          ],
+          "album": {
+            "encodeId": "6BUBUZ6C",
+            "title": "Recollected (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/d/2/6/9/d26949f29c4bdbb09ea8210957788629.jpg",
+            "isoffical": true,
+            "link": "/album/Recollected-Single-Ali-Toygar/6BUBUZ6C.html",
+            "isIndie": false,
+            "releaseDate": "22/07/2022",
+            "sortDescription": "",
+            "releasedAt": 1658422800000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ980O7"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW69CO9B",
+                "name": "Ali Toygar",
+                "link": "/nghe-si/Ali-Toygar.IW69CO9B",
+                "spotlight": false,
+                "alias": "Ali-Toygar.IW69CO9B",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "totalFollow": 1
+              }
+            ],
+            "artistsNames": "Ali Toygar"
+          },
+          "distributor": "Universal Music Group",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZWADFZ86",
+          "title": "On The Nature Of Daylight (Piano Version)",
+          "alias": "On-The-Nature-Of-Daylight-Piano-Version-Michael-Forster",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Michael Forster",
+          "artists": [
+            {
+              "id": "IW6UC8IU",
+              "name": "Michael Forster",
+              "link": "/nghe-si/Michael-Forster",
+              "spotlight": false,
+              "alias": "Michael-Forster",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/1/bfd12e64f8c9796a4197ea5762ff9b65.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/1/bfd12e64f8c9796a4197ea5762ff9b65.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6B7W9EOA"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/5/b/2/9/5b292734da6316703eed9f8214882f41.jpg",
+          "link": "/bai-hat/On-The-Nature-Of-Daylight-Piano-Version-Michael-Forster/ZWADFZ86.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/5/b/2/9/5b292734da6316703eed9f8214882f41.jpg",
+          "duration": 199,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1574960400,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ980O7"
+          ],
+          "album": {
+            "encodeId": "ZZZD8WDC",
+            "title": "On The Nature Of Daylight (Piano Version) (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/f/f/f/a/fffa665f8a15b7c4581dc3011c970109.jpg",
+            "isoffical": true,
+            "link": "/album/On-The-Nature-Of-Daylight-Piano-Version-Single-Michael-Forster/ZZZD8WDC.html",
+            "isIndie": false,
+            "releaseDate": "19/07/2019",
+            "sortDescription": "",
+            "releasedAt": 1563469200000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ980O7"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6UC8IU",
+                "name": "Michael Forster",
+                "link": "/nghe-si/Michael-Forster",
+                "spotlight": false,
+                "alias": "Michael-Forster",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/1/bfd12e64f8c9796a4197ea5762ff9b65.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/1/bfd12e64f8c9796a4197ea5762ff9b65.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6B7W9EOA",
+                "totalFollow": 138
+              }
+            ],
+            "artistsNames": "Michael Forster"
+          },
+          "distributor": "Sony Music Entertainment",
+          "indicators": [],
+          "radioId": 1286771357,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZWA8CCC8",
+          "title": "Embrace of Silence",
+          "alias": "Embrace-of-Silence-Yiruma",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Yiruma",
+          "artists": [
+            {
+              "id": "IWZ9Z7F8",
+              "name": "Yiruma",
+              "link": "/nghe-si/Yiruma",
+              "spotlight": false,
+              "alias": "Yiruma",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/2/4/a/a24a27e454c743d251c39987b7e85875.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/a/2/4/a/a24a27e454c743d251c39987b7e85875.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZWZAFO9C"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/a/f/b/b/afbbf906d972e9129bb6693fc44d30b8.jpg",
+          "link": "/bai-hat/Embrace-of-Silence-Yiruma/ZWA8CCC8.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/a/f/b/b/afbbf906d972e9129bb6693fc44d30b8.jpg",
+          "duration": 173,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1444323600,
+          "genreIds": [
+            "IWZ9Z08W",
+            "IWZ9Z09W"
+          ],
+          "album": {
+            "encodeId": "ZU867009",
+            "title": "Piano",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/a/f/b/b/afbbf906d972e9129bb6693fc44d30b8.jpg",
+            "isoffical": true,
+            "link": "/album/Piano-Yiruma/ZU867009.html",
+            "isIndie": false,
+            "releaseDate": "09/10/2015",
+            "sortDescription": "",
+            "releasedAt": 1444323600000,
+            "genreIds": [
+              "IWZ9Z08W"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9Z7F8",
+                "name": "Yiruma",
+                "link": "/nghe-si/Yiruma",
+                "spotlight": false,
+                "alias": "Yiruma",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/2/4/a/a24a27e454c743d251c39987b7e85875.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/a/2/4/a/a24a27e454c743d251c39987b7e85875.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "ZWZAFO9C",
+                "totalFollow": 147015
+              }
+            ],
+            "artistsNames": "Yiruma"
+          },
+          "distributor": "Sony Music Entertainment",
+          "indicators": [],
+          "radioId": 1286546104,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZWAF9W6I",
+          "title": "Dreamland",
+          "alias": "Dreamland-Alexis-Ffrench",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Alexis Ffrench",
+          "artists": [
+            {
+              "id": "IW6OOE0Z",
+              "name": "Alexis Ffrench",
+              "link": "/nghe-si/Alexis-Ffrench",
+              "spotlight": false,
+              "alias": "Alexis-Ffrench",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/e/d/b/9edb64ec4519f3b4dac3dfa38f1b985f.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/e/d/b/9edb64ec4519f3b4dac3dfa38f1b985f.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6B7W9BCO"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/5/2/b/0/52b0324c17c205abe1eb82f56b8e4c6d.jpg",
+          "link": "/bai-hat/Dreamland-Alexis-Ffrench/ZWAF9W6I.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/5/2/b/0/52b0324c17c205abe1eb82f56b8e4c6d.jpg",
+          "duration": 163,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1587056400,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ980O7"
+          ],
+          "album": {
+            "encodeId": "ZCCWB9FF",
+            "title": "Dreamland",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/0/0/4/e/004e85cf839804af4026c55be4e33c06.jpg",
+            "isoffical": true,
+            "link": "/album/Dreamland-Alexis-Ffrench/ZCCWB9FF.html",
+            "isIndie": false,
+            "releaseDate": "20/03/2020",
+            "sortDescription": "",
+            "releasedAt": 1584637200000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ980O7"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6OOE0Z",
+                "name": "Alexis Ffrench",
+                "link": "/nghe-si/Alexis-Ffrench",
+                "spotlight": false,
+                "alias": "Alexis-Ffrench",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/e/d/b/9edb64ec4519f3b4dac3dfa38f1b985f.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/e/d/b/9edb64ec4519f3b4dac3dfa38f1b985f.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6B7W9BCO",
+                "totalFollow": 101
+              }
+            ],
+            "artistsNames": "Alexis Ffrench"
+          },
+          "distributor": "Sony Music Entertainment",
+          "indicators": [],
+          "radioId": 1286800331,
+          "isIndie": false,
+          "mvlink": "/video-clip/Dreamland-Alexis-Ffrench/ZWAF9W6I.html",
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZZF879EI",
+          "title": "Vogeltrek",
+          "alias": "Vogeltrek-Doeke",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Doeke",
+          "artists": [
+            {
+              "id": "IW7970FU",
+              "name": "Doeke",
+              "link": "/nghe-si/Doeke.IW7970FU",
+              "spotlight": false,
+              "alias": "Doeke.IW7970FU",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "isOA": false,
+              "isOABrand": false
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/f/d/3/6/fd3621588dd5432fbeb6cda5186672b4.jpg",
+          "link": "/bai-hat/Vogeltrek-Doeke/ZZF879EI.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/f/d/3/6/fd3621588dd5432fbeb6cda5186672b4.jpg",
+          "duration": 135,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1639440000,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ980O7"
+          ],
+          "album": {
+            "encodeId": "6BZIC7UW",
+            "title": "Naar Huis",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/f/d/3/6/fd3621588dd5432fbeb6cda5186672b4.jpg",
+            "isoffical": true,
+            "link": "/album/Naar-Huis-Doeke/6BZIC7UW.html",
+            "isIndie": false,
+            "releaseDate": "24/07/2020",
+            "sortDescription": "",
+            "releasedAt": 1595523600000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ980O7"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW7970FU",
+                "name": "Doeke",
+                "link": "/nghe-si/Doeke.IW7970FU",
+                "spotlight": false,
+                "alias": "Doeke.IW7970FU",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "totalFollow": 3
+              }
+            ],
+            "artistsNames": "Doeke"
+          },
+          "distributor": "FUGA",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZZDOO99O",
+          "title": "Daydreaming",
+          "alias": "Daydreaming-Ali-Toygar",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Ali Toygar",
+          "artists": [
+            {
+              "id": "IW69CO9B",
+              "name": "Ali Toygar",
+              "link": "/nghe-si/Ali-Toygar.IW69CO9B",
+              "spotlight": false,
+              "alias": "Ali-Toygar.IW69CO9B",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "isOA": false,
+              "isOABrand": false
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/3/b/3/3/3b3319fa3cd196e3238f4b460149db7e.jpg",
+          "link": "/bai-hat/Daydreaming-Ali-Toygar/ZZDOO99O.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/3/b/3/3/3b3319fa3cd196e3238f4b460149db7e.jpg",
+          "duration": 156,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1655398800,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ980O7"
+          ],
+          "album": {
+            "encodeId": "6BOFZ7IE",
+            "title": "Daydreaming (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/a/0/e/1/a0e154f002ee951b1e59d0da761f852b.jpg",
+            "isoffical": true,
+            "link": "/album/Daydreaming-Single-Ali-Toygar/6BOFZ7IE.html",
+            "isIndie": false,
+            "releaseDate": "17/06/2022",
+            "sortDescription": "",
+            "releasedAt": 1655398800000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ980O7"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW69CO9B",
+                "name": "Ali Toygar",
+                "link": "/nghe-si/Ali-Toygar.IW69CO9B",
+                "spotlight": false,
+                "alias": "Ali-Toygar.IW69CO9B",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "totalFollow": 1
+              }
+            ],
+            "artistsNames": "Ali Toygar"
+          },
+          "distributor": "Universal Music Group",
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        },
+        {
+          "encodeId": "ZZAUOF0Z",
+          "title": "How Do You Keep The Music Playing? (From Best Friends / Des Meilleurs amis)",
+          "alias": "How-Do-You-Keep-The-Music-Playing-From-Best-Friends-Des-Meilleurs-amis-Moux",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Moux",
+          "artists": [
+            {
+              "id": "IW6A09DO",
+              "name": "Moux",
+              "link": "/nghe-si/Moux.IW6A09DO",
+              "spotlight": false,
+              "alias": "Moux.IW6A09DO",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "isOA": false,
+              "isOABrand": false
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/e/f/6/8/ef6811d7b50340c086fd8b94d6f22ccc.jpg",
+          "link": "/bai-hat/How-Do-You-Keep-The-Music-Playing-From-Best-Friends-Des-Meilleurs-amis-Moux/ZZAUOF0Z.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/e/f/6/8/ef6811d7b50340c086fd8b94d6f22ccc.jpg",
+          "duration": 213,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1649955600,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ980O7"
+          ],
+          "album": {
+            "encodeId": "6BW8AIWC",
+            "title": "How Do You Keep The Music Playing? (from Best Friends) (MV) (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/5/b/8/9/5b8988ff92023985fcfcfacc87152d67.jpg",
+            "isoffical": true,
+            "link": "/album/How-Do-You-Keep-The-Music-Playing-from-Best-Friends-MV-Single-Moux/6BW8AIWC.html",
+            "isIndie": false,
+            "releaseDate": "15/04/2022",
+            "sortDescription": "",
+            "releasedAt": 1649955600000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ980O7"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6A09DO",
+                "name": "Moux",
+                "link": "/nghe-si/Moux.IW6A09DO",
+                "spotlight": false,
+                "alias": "Moux.IW6A09DO",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "totalFollow": 1
+              }
+            ],
+            "artistsNames": "Moux"
+          },
+          "distributor": "Universal Music Group",
+          "indicators": [],
+          "isIndie": false,
+          "mvlink": "/video-clip/How-Do-You-Keep-The-Music-Playing-From-Best-Friends-Des-Meilleurs-amis-Moux/ZZAUOF0Z.html",
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false
+        }
+      ],
+      "total": 82,
+      "totalDuration": 16776
+    },
+    "like": 16551,
+    "listen": 612574,
+    "liked": false
+  },
+  "timestamp": 1685548248161
+}
