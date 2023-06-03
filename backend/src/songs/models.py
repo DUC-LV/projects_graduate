@@ -54,3 +54,15 @@ class SongOfAlbum(BaseModel):
 
     def __str__(self):
         return f"{self.album.title}_{self.song.title}"
+
+
+class StreamingUrlSong(BaseModel):
+    class Meta:
+        ordering = ['created_at']
+
+    quality_128 = models.TextField(default=None, blank=True)
+    quality_320 = models.TextField(default=None, blank=True)
+    song = models.ForeignKey(Songs, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return self.song.title
