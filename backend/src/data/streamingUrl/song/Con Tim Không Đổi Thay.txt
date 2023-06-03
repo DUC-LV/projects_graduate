@@ -1,0 +1,9 @@
+{
+  "err": 0,
+  "msg": "Success",
+  "data": {
+    "128": "https://mp3-s1-zmp3.zmdcdn.me/e52f8e0a954a7c14255b/8754884329565953675?authen=exp=1685953240~acl=/e52f8e0a954a7c14255b/*~hmac=67478e327ef626f11dd71e06f33ce876&fs=MTY4NTmUsIC4MDQ0MDkzNXx3ZWJWNnwxMDM2NDUyOTA1fDE0LjE2MS4xOS4yNTQ",
+    "320": "https://mp3-320s1-zmp3.zmdcdn.me/45f350d64b96a2c8fb87/3754878633100653762?authen=exp=1685953240~acl=/45f350d64b96a2c8fb87/*~hmac=b0f2a325b37c205d687caaa4aa1ac829&fs=MTY4NTmUsIC4MDQ0MDkzNXx3ZWJWNnwxMDM2NDUyOTA1fDE0LjE2MS4xOS4yNTQ"
+  },
+  "timestamp": 1685780710669
+}
