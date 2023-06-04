@@ -139,7 +139,7 @@ const SearchBar = ({ currentUser } : { currentUser: CurrentUserData | null }) =>
 									localStorage.removeItem("refresh_token");
 									Cookies.remove("access_token");
 									setTimeout(() => {
-										router.push('/')
+										router.push('/login')
 									}, 500)
 									setIsShow(false);
 								}}

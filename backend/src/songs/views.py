@@ -2,9 +2,9 @@ from django.shortcuts import render
 from rest_framework.views import APIView
 from django.http import HttpResponse
 from rest_framework.response import Response
-from .models import Songs
+from .models import Songs, StreamingUrlSong
 from .serializers import SongSerializers
-from rest_framework.permissions import AllowAny
+from rest_framework.permissions import AllowAny, IsAuthenticated
 
 
 # Create your views here.
@@ -45,3 +45,24 @@ class SongAPIView(APIView):
         serializer = SongSerializers(song).data
 
         return Response(serializer)
+
+
+class GetSongDetailAPIView(APIView):
+    permission_classes = [IsAuthenticated]
+
+    def get(self, request, id):
+        user = request.user
+        song = Songs.objects.filter(id=id)
+
+        res_song = SongSerializers(song[0]).data
+
+        streaming_song = StreamingUrlSong.objects.filter(song=song[0])
+
+        res_streaming = {
+            "128": streaming_song[0].quality_128,
+            "320": "VIP" if user.validate == False else streaming_song[0].quality_320
+        }
+
+        res = dict(res_song, **{"streaming": res_streaming})
+
+        return Response(res)

@@ -7,11 +7,11 @@ from .models import AuthUser
 class UserAdminConfig(UserAdmin):
     model = AuthUser
     search_fields = ('email', 'user_name', 'first_name',)
-    list_filter = ('email', 'user_name', 'first_name', 'is_active', 'is_staff')
+    list_filter = ('email', 'user_name', 'first_name', 'is_active', 'is_staff', 'validate')
     ordering = ('email',)
     list_display = ('email', 'id', 'user_name', 'is_upgrade')
     fieldsets = (
-        (None, {'fields': ('email', 'user_name', 'first_name', 'last_name', 'is_upgrade')}),
+        (None, {'fields': ('email', 'user_name', 'first_name', 'last_name', 'is_upgrade', 'validate')}),
         ('Permissions', {'fields': ('is_staff', 'is_active')}),
     )
 
