@@ -11,7 +11,9 @@ const Layout = ({ children, currentUser }: React.PropsWithChildren<{ currentUser
 	useEffect(() => {
 		if(router.pathname === '/login' || router.pathname === '/register'){
 			setOverflow('hidden');
-		};
+		} else {
+			setOverflow('auto');
+		}
 	}, [router.pathname])
 	return(
 		<Grid container spacing={0} sx={{ backgroundColor: '#1d1d1d', width: '100vw', height: '100vh'}}>

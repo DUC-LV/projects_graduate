@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Songs, SongOfPlaylist, SongOfAlbum
+from .models import Songs, SongOfPlaylist, SongOfAlbum, StreamingUrlSong
 
 
 # Register your models here.
@@ -27,4 +27,12 @@ class SongOfAlbum(admin.ModelAdmin):
 
 
 admin.register(SongOfAlbum)
+
+
+@admin.register(StreamingUrlSong)
+class StreamingUrlSong(admin.ModelAdmin):
+    list_display = ["quality_128", "quality_320", "song"]
+
+
+admin.register(StreamingUrlSong)
 
