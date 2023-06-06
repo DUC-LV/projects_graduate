@@ -92,3 +92,17 @@ export interface DataVideo {
 	}
 }
 
+export interface DataSong {
+	id?: number,
+	title?: string,
+	alias?: string,
+	duration?: number,
+	thumbnail_m?: string,
+	artist_names?: string,
+	follow?: Array<any>;
+	streaming?: {
+		128?: string,
+		320?: string
+	}
+}
+

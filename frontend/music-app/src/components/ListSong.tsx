@@ -43,8 +43,16 @@ export const SongItem = ({ item }: props) => {
 	const handleShowPopup = useCallback(() => {
 		if(item?.streaming_status === 2){
 			setIsShow(true)
+		} else {
+			router.push({
+				pathname: '/song/[slugSong]',
+				query: {
+					slugSong: item?.alias,
+					id: item?.id
+				}
+			})
 		}
-	}, [item?.streaming_status])
+	}, [item?.alias, item?.id, item?.streaming_status, router])
 
 	return(
 		<Grid item container alignItems={'center'}
