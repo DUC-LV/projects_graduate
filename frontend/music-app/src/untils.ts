@@ -17,3 +17,5 @@ export const getFullTimeFromDatetime = (dt: number) => {
     const datetime = new Date(dt * 1000);
     return `${datetime.getDate()}/${datetime.getMonth() + 1}/${datetime.getFullYear()}`
 }
+
+export const urlStreamingSongDefault = "https://mp3-320s1-zmp3.zmdcdn.me/08ddfa665927b079e936/2658987883638204786?authen=exp=1686325005~acl=/08ddfa665927b079e936/*~hmac=7a3062f767d530b57594f94238c298be&fs=MTY4NjE1MjIwNTExM3x3ZWJWNnwxMDE0NzEzMjExfDEdUngNTMdUngMjIzLjgw"
