@@ -35,6 +35,10 @@ export const PocastEpisideItem = ({ item }: props) => {
 		})
 	}, [item.id, like])
 
+	// const togglePlay = useCallback(() => {
+	// 	localStorage.setItem("dataPlayMusic", JSON.stringify({"type": "podcast", "id": item?.id}))
+	// }, [item?.id])
+
 	return (
 		<Grid item container sx={{ marginBottom: '24px', alignItems: 'center' }}>
 			<Grid item sx={{ marginRight: '24px'}}>
@@ -49,7 +53,10 @@ export const PocastEpisideItem = ({ item }: props) => {
 					sx={{ fontSize: '14px', fontWeight: '500', color: 'hsla(0,0%,100%,0.5)', marginY: '8px'}}
 				>{item?.description}</TextLineClamp>
 				<Box sx={{ display: 'flex', justifyContent: 'space-between', width: '20%', alignItems: 'center'}}>
-					<PlayCircleIcon style={{ color: 'white', height: '30px', width: '30px', cursor: 'pointer' }}/>
+					<PlayCircleIcon
+						style={{ color: 'white', height: '30px', width: '30px', cursor: 'pointer' }}
+						// onClick={togglePlay}
+					/>
 					<Typography
 						sx={{ fontSize: '13px', fontWeight: 500, color: 'hsla(0,0%,100%,0.5)'}}>
 						{getFullTimeFromDatetime(Number(item?.release_date))}

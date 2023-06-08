@@ -1,5 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
-import React, { useCallback, useEffect, useState } from "react";
+import React, { useCallback, useContext, useEffect, useState } from "react";
 import { Box, Grid } from "@mui/material";
 import { useRouter } from "next/router";
 import { TextLineClamp, TextOnline } from "./Text";
@@ -9,6 +9,7 @@ import axiosInstances from "@/services/axiosInstances";
 import { toast } from "react-toastify";
 import QueueMusicIcon from '@mui/icons-material/QueueMusic';
 import Popup from "./Popup";
+import { WrapperContext } from "@/containers/Layout";
 
 type Props = {
 	data: Array<object>
@@ -19,9 +20,10 @@ type props = {
 	item: any;
 }
 export const SongItem = ({ item }: props) => {
+	const { setShowPlayMusic, setId } = useContext(WrapperContext);
 	const router = useRouter();
-
 	const [like, setLike] = useState(false);
+	const [isShow, setIsShow] = useState(false);
 
 	useEffect(() => {
 		if (item?.follow?.length === 0) {
@@ -34,25 +36,19 @@ export const SongItem = ({ item }: props) => {
 	const toggleLike = useCallback(() => {
 		setLike(!like);
 		axiosInstances.post('update-follow', { song_id: item.id ?? '' }).then(res => {
-			toast.success(res?.data?.msg)
+			toast.success(res?.data?.msg);
 		})
 	}, [item.id, like])
-
-	const [isShow, setIsShow] = useState(false);
 
 	const handleShowPopup = useCallback(() => {
 		if(item?.streaming_status === 2){
 			setIsShow(true)
 		} else {
-			router.push({
-				pathname: '/song/[slugSong]',
-				query: {
-					slugSong: item?.alias,
-					id: item?.id
-				}
-			})
+			setShowPlayMusic(true);
+			setId(item?.id);
+			localStorage.setItem("dataPlayMusic", JSON.stringify({"type": "song", "id": item?.id}))
 		}
-	}, [item?.alias, item?.id, item?.streaming_status, router])
+	}, [item?.id, item?.streaming_status, setId, setShowPlayMusic])
 
 	return(
 		<Grid item container alignItems={'center'}
@@ -72,14 +68,16 @@ export const SongItem = ({ item }: props) => {
 						onClick={handleShowPopup}
 					/>
 				</Grid>
-				<Grid item sx={{ marginLeft: '10px', flexDirection: 'column' }}>
-					<TextOnline
-						sx={{
-							fontSize: '14px',
-							fontWeight: '600',
-							color: item.streaming_status === 2 ? '#ffffff80' : '#FFF',
-						}}>{item.title}
-					</TextOnline>
+				<Grid xs item container sx={{ marginLeft: '10px', flexDirection: 'column', width: 'fit-content' }}>
+					<Grid item>
+						<TextOnline
+							sx={{
+								fontSize: '13px',
+								fontWeight: '600',
+								color: item.streaming_status === 2 ? '#ffffff80' : '#FFF',
+							}}>{item.title}
+						</TextOnline>
+					</Grid>
 					<Grid item container sx={{ marginY: '3px' }}>
 						{item?.artists.map((items: any, index: number) => {
 							return(

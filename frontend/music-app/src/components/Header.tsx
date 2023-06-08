@@ -76,7 +76,7 @@ const Header = () => {
 		{
 			id: 1,
 			type: '',
-			name: 'Chủ Đề & Thể Loại',
+			name: 'Thể Loại',
 			link: '/hub',
 			isActive: (pathName: string) => /^\/hub/.test(pathName),
 			icon: <TopicIcon />

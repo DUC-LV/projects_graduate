@@ -40,7 +40,7 @@ const AudioControlBar = ({ urlStremingSong }: { urlStremingSong?: string }) => {
 				<PrevButton />
 			</Grid>
 			<Grid>
-				<audio src={urlStremingSong} autoPlay ref={(element) => setAdudioDom(element)}></audio>
+				<audio src={''} autoPlay ref={(element) => setAdudioDom(element)}></audio>
 			</Grid>
 			<Grid item>
 				<PlayButton isPlay={isPlay} onClickMusic={onClickMusic}/>

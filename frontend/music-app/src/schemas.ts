@@ -99,7 +99,8 @@ export interface DataSong {
 	duration?: number,
 	thumbnail_m?: string,
 	artist_names?: string,
-	follow?: Array<any>;
+	follow?: Array<any>,
+	thumbnail?: string,
 	streaming?: {
 		128?: string,
 		320?: string
