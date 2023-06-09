@@ -66,3 +66,14 @@ class StreamingUrlSong(BaseModel):
 
     def __str__(self):
         return self.song.title
+
+
+class SongRecommendList(BaseModel):
+    class Meta:
+        ordering = ['created_at']
+
+    song = models.ForeignKey(Songs, on_delete=models.CASCADE, related_name="song")
+    song_recommend = models.ForeignKey(Songs, on_delete=models.CASCADE, related_name="song_recommend")
+
+    def __str__(self):
+        return f"{self.song.title}_{self.song_recommend.title}"

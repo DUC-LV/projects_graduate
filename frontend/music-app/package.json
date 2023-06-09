@@ -28,6 +28,7 @@
 		"react-toastify": "^9.1.2",
 		"swiper": "^9.2.4",
 		"typescript": "5.0.4",
+		"typewriter-effect": "^2.20.1",
 		"use-click-outside": "^2.0.0"
 	},
 	"devDependencies": {

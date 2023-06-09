@@ -2,9 +2,12 @@ from django.shortcuts import render
 from rest_framework.views import APIView
 from django.http import HttpResponse
 from rest_framework.response import Response
-from .models import Songs, StreamingUrlSong
+from .models import Songs, StreamingUrlSong, SongRecommendList, SongOfAlbum
 from .serializers import SongSerializers
 from rest_framework.permissions import AllowAny, IsAuthenticated
+from artists.models import ArtistOfSong, ArtistOfAlbum
+from artists.serializers import ArtistSerializers
+from albums.serializers import AlbumSerializers
 
 
 # Create your views here.
@@ -64,5 +67,51 @@ class GetSongDetailAPIView(APIView):
         }
 
         res = dict(res_song, **{"streaming": res_streaming})
+
+        return Response(res)
+
+
+class GetRecommendSongAPIView(APIView):
+    permission_classes = [AllowAny]
+
+    def get(self, request, id):
+        song = Songs.objects.filter(id=id)
+        song_recommend = SongRecommendList.objects.filter(song=song[0])
+
+        items = []
+        for s in song_recommend:
+            list_song_recommend = s.song_recommend
+
+            # artist
+            artist_song = ArtistOfSong.objects.filter(song_id=list_song_recommend)
+            artist_song_data = []
+
+            for artist_song in artist_song:
+                artist_song_data.append(ArtistSerializers(artist_song.artist).data)
+
+            # album
+            album_song = SongOfAlbum.objects.filter(song_id=list_song_recommend)
+            album_song_data = {}
+
+            for album_song in album_song:
+
+                artist_album = ArtistOfAlbum.objects.filter(album_id=album_song.album)
+                artist_album_data = []
+
+                # artist_album
+                for artist_album in artist_album:
+                    artist_album_data.append(ArtistSerializers(artist_album.artist).data)
+                album_song_data = dict(AlbumSerializers(album_song.album).data, **{"artist": artist_album_data})
+
+            # data_song
+            song_json = dict(SongSerializers(list_song_recommend).data, **{"artists": artist_song_data},
+                             **{"album": album_song_data})
+            items.append(song_json)
+
+        res = {
+            "err": 0,
+            "msg": "Success",
+            "data": items
+        }
 
         return Response(res)

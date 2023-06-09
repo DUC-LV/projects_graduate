@@ -1,11 +1,12 @@
 import { Box, Button, Grid, Input, Typography } from "@mui/material";
-import React, { useRef, useState } from "react";
+import React, { useContext, useRef, useState } from "react";
 import SearchIcon from '@mui/icons-material/Search';
 import { useRouter } from "next/router";
 import AccountCircleIcon from '@mui/icons-material/AccountCircle';
 import { CurrentUserData } from "@/schemas";
 import useClickOutside from "use-click-outside";
 import Cookies from "js-cookie";
+import { WrapperContext } from "./Layout";
 
 const InputSearch = () => {
 	const router = useRouter();
@@ -73,6 +74,7 @@ const SearchBar = ({ currentUser } : { currentUser: CurrentUserData | null }) =>
 	const router = useRouter();
 	const [isShow, setIsShow] = useState(false);
 	const checkLogin = typeof window !== 'undefined' ? localStorage.getItem('access_token') : undefined;
+	const { setShowPlayMusic } = useContext(WrapperContext);
 
 	const ref = useRef<HTMLDivElement>(null);
 	useClickOutside(ref, () => {
@@ -142,6 +144,7 @@ const SearchBar = ({ currentUser } : { currentUser: CurrentUserData | null }) =>
 										router.push('/login')
 									}, 500)
 									setIsShow(false);
+									localStorage.removeItem("dataPlayMusic");
 								}}
 								sx={{
 									padding: '15px',
