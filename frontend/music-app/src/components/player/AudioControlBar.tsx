@@ -1,4 +1,4 @@
-import { Grid, CardMedia } from "@mui/material";
+import { Grid } from "@mui/material";
 import React, { useCallback, useEffect, useState } from "react";
 import { NextButton, PlayButton, PrevButton, RandomPlayMusic, RepeatMusic } from "./ControlBarBase";
 import { urlStreamingSongDefault } from "@/untils";
@@ -15,7 +15,7 @@ const AudioControlBar = ({ urlStremingSong }: { urlStremingSong?: string }) => {
 
 	useEffect(() => {
         if (audioDom && isPlay === true) {
-            audioDom.play();
+			audioDom.play;
         }
         if (audioDom && isPlay === false) {
             audioDom.pause();
@@ -39,8 +39,8 @@ const AudioControlBar = ({ urlStremingSong }: { urlStremingSong?: string }) => {
 			<Grid item>
 				<PrevButton />
 			</Grid>
-			<Grid>
-				<audio src={''} autoPlay ref={(element) => setAdudioDom(element)}></audio>
+			<Grid item>
+				<audio src={urlStremingSong} autoPlay ref={(element) => setAdudioDom(element)}></audio>
 			</Grid>
 			<Grid item>
 				<PlayButton isPlay={isPlay} onClickMusic={onClickMusic}/>

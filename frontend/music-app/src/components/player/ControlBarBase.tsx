@@ -6,6 +6,7 @@ import PauseCircleOutlineOutlinedIcon from '@mui/icons-material/PauseCircleOutli
 import SkipNextIcon from '@mui/icons-material/SkipNext';
 import ShuffleOutlinedIcon from '@mui/icons-material/ShuffleOutlined';
 import RepeatOutlinedIcon from '@mui/icons-material/RepeatOutlined';
+import VolumeUpIcon from '@mui/icons-material/VolumeUp';
 
 
 export const PrevButton  = () => {
@@ -157,6 +158,63 @@ export const VolumeButton = ({
 
     const doesShowVolumeSlider = isHover || isMouseDown;
 	return(
-		<Grid></Grid>
+		<Grid container
+			onMouseEnter={() => setIsHover(true)}
+			onMouseLeave={() => setIsHover(false)}
+		>
+			<Grid item>
+				<VolumeUpIcon />
+			</Grid>
+			<Grid item container
+				sx={{
+					position: 'relative',
+					marginRight: doesShowVolumeSlider ? '0px' : '80px',
+					width: doesShowVolumeSlider ? `${VOLUME_PROGRESS_LENGTH + 30}px` : 0,
+				}}>
+				<Box
+					ref={volumeBarRef}
+					onMouseDown={onMouseDown}
+					sx={{
+						position: 'absolute',
+						top: 0,
+						left: '8px',
+						width: `${VOLUME_PROGRESS_LENGTH}px`,
+						cursor: 'pointer',
+					}}>
+					<Box
+						sx={{
+							position: 'absolute',
+							top: '10px',
+							width: `${VOLUME_PROGRESS_LENGTH}px`,
+							height: '3px',
+							background: 'white',
+						}}>
+						<Box
+							style={{ width: `${volume * 100}%` }}
+							sx={{
+								position: 'absolute',
+								height: '100%',
+								background: 'white',
+							}}
+						/>
+						<Box
+							style={{ left: `${volume * 100}%` }}
+							sx={{ position: 'absolute', top: 0, pointerEvents: 'none' }}>
+							<Box
+								sx={{
+									position: 'absolute',
+									top: `-${(VOLUME_PROGRESS_CUE_SIZE - 3) / 2}px`,
+									left: `-${VOLUME_PROGRESS_CUE_SIZE / 2}px`,
+									borderRadius: '50%',
+									width: `${VOLUME_PROGRESS_CUE_SIZE}px`,
+									height: `${VOLUME_PROGRESS_CUE_SIZE}px`,
+									background: 'white',
+								}}
+							/>
+						</Box>
+					</Box>
+				</Box>
+			</Grid>
+		</Grid>
 	);
 }
