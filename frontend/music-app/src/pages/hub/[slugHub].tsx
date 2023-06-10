@@ -20,7 +20,12 @@ export async function getServerSideProps({ query }: any) {
 		}
 
 	} catch (error) {
-		console.log(error)
+		return {
+			redirect: {
+				destination: '/',
+				statusCode: 307
+			}
+		}
 	}
 }
 
