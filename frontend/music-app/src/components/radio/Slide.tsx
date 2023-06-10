@@ -1,15 +1,22 @@
 /* eslint-disable @next/next/no-img-element */
 import { DataPodCast, DataPodCastCategory, DataStreaming } from '@/schemas';
 import { Box, Grid, Typography } from '@mui/material';
-import React from 'react';
+import React, { useCallback, useContext } from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { TextLineClamp, TextOnline } from '../Text';
 import { useRouter } from 'next/router';
 import { convertSlug } from '@/untils';
+import { WrapperContext } from '@/containers/Layout';
 
 
 export const StreamingSlider = (props: { data: Array<DataStreaming> }) => {
 	const { data } = props;
+	const { setShowStreaming } = useContext(WrapperContext);
+
+	const toggleStreaming = useCallback(() => {
+		setShowStreaming(true);
+	}, [setShowStreaming])
+
 	return(
 		<Box>
 			<Swiper loop slidesPerView={5}>
@@ -17,6 +24,7 @@ export const StreamingSlider = (props: { data: Array<DataStreaming> }) => {
 					return(
 						<SwiperSlide key={index} style={{  cursor: "pointer" }}>
 							<Grid container
+								onClick={toggleStreaming}
 								sx={{
 									position: 'relative',
 									flexDirection: 'column',

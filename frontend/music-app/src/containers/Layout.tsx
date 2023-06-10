@@ -6,6 +6,7 @@ import { CurrentUserData } from "@/schemas";
 import { useRouter } from "next/router";
 import PlayMusic from "@/components/PlayMusic";
 import ListSongRecommend from "@/components/ListSongRecommend";
+import PlayStreaming from "@/components/PlayStreaming";
 
 export const WrapperContext = createContext<any>({});
 
@@ -18,6 +19,7 @@ const Layout = ({ children, currentUser }: React.PropsWithChildren<{ currentUser
 	const [showListSong, setShowListSong] = useState(false);
 	const type = dataSong?.type;
 	const playerRef = useRef<HTMLVideoElement>(null);
+	const [showStreaming, setShowStreaming] = useState(false);
 
 	useEffect(() => {
 		if(!dataSong){
@@ -45,6 +47,8 @@ const Layout = ({ children, currentUser }: React.PropsWithChildren<{ currentUser
 				type,
 				showListSong,
 				setShowListSong,
+				showStreaming,
+				setShowStreaming
 			}}>
 			<Grid container spacing={0} sx={{ backgroundColor: '#1d1d1d', width: '100vw', height: '100vh'}} >
 				<Grid item sx={{ maxWidth: '240px' }}>
@@ -63,6 +67,7 @@ const Layout = ({ children, currentUser }: React.PropsWithChildren<{ currentUser
 			</Grid>
 			{ showPlayMusic && <PlayMusic playerEl={playerRef.current}/> }
 			{ showListSong && <ListSongRecommend /> }
+			{ showStreaming && <PlayStreaming /> }
 		</WrapperContext.Provider>
 	);
 }
