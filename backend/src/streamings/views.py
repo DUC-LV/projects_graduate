@@ -42,3 +42,41 @@ class StreamingAPIView(APIView):
 
         serializer = StreamingSerializers(streaming, many=True)
         return Response(serializer.data)
+
+
+class GetStreamingDetailAPIView(APIView):
+    permission_classes = [AllowAny]
+
+    def get(self, request, id):
+        streaming = Streamings.objects.filter(id=id)
+
+        res_streaming = StreamingSerializers(streaming[0]).data
+        res = {
+            "err": 0,
+            "msg": "Success",
+            "data": res_streaming
+        }
+
+        return Response(res)
+
+
+class GetListRecommendStreamingAPIViews(APIView):
+    permission_classes = [AllowAny]
+
+    def get(self, request):
+        streaming = Streamings.objects.all()
+        items = []
+
+        if not streaming.exists():
+            return HttpResponse(status=404)
+
+        for st in streaming:
+            items.append(StreamingSerializers(st).data)
+
+        res = {
+            "err": 0,
+            "msg": "Success",
+            "data": items
+        }
+
+        return Response(res)
