@@ -64,7 +64,7 @@ const MyMusicPage = ({ data }: Props) => {
 				case SectionType?.song:
 					return(
 						<Box sx={{ overflow: 'hidden' }} key={index}>
-							<Typography sx={{ fontSize: '1.5rem', fontWeight: '700', color: 'white', marginY: '15px' }}>Bài Hát</Typography>
+							<Typography component={'div'} sx={{ fontSize: '1.5rem', fontWeight: '700', color: 'white', marginY: '15px' }}>Bài Hát</Typography>
 							<ListSong data={section?.items} description=""/>
 						</Box>
 					)
@@ -84,7 +84,7 @@ const MyMusicPage = ({ data }: Props) => {
 
 	return(
 		<Box>
-			<Typography sx={{ fontSize: '40px', fontWeight: 700, color: 'white', marginBottom: '20px' }}>Thư Viện</Typography>
+			<Typography component={'div'} sx={{ fontSize: '40px', fontWeight: 700, color: 'white', marginBottom: '20px' }}>Thư Viện</Typography>
 			{generateContent()}
 		</Box>
 	);

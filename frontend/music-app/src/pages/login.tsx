@@ -41,7 +41,7 @@ const LoginPage = () => {
 		<Grid container direction={'column'} sx={{ justifyContent: 'center', alignItems: 'center'}}>
 			<Grid container item direction={'column'} sx={{ justifyContent: 'center', alignItems: 'center', marginY: '10px'}}>
 				<AccountCircleIcon sx={{ height: '50px', width: '50px', color: 'white'}}/>
-				<Typography
+				<Typography component={'div'}
 					sx={{ fontSize: '20px', fontWeight: '700', color: 'white', marginY: '10px'}}>
 					Đăng nhập
 				</Typography>
@@ -71,7 +71,7 @@ const LoginPage = () => {
 				</Grid>
 			</Grid>
 			{ show && <Grid>
-				<Typography sx={{ fontSize: '12px', fontWeight: '600', color: 'red'}}>
+				<Typography component={'div'} sx={{ fontSize: '12px', fontWeight: '600', color: 'red'}}>
 					Thông tin email hoặc mật khẩu không chính xác, vui lòng nhập lại!
 				</Typography>
 			</Grid> }
@@ -92,7 +92,7 @@ const LoginPage = () => {
 				}}
 			>Đăng nhập</Button>
 			<Box sx={{ width: '450px', height: '1px', background: 'grey', marginY: '30px'}}></Box>
-			<Typography sx={{ fontSize: '16px', fontWeight: '600', color: 'white'}}>Bạn chưa có tài khoản?</Typography>
+			<Typography component={'div'} sx={{ fontSize: '16px', fontWeight: '600', color: 'white'}}>Bạn chưa có tài khoản?</Typography>
 			<Button variant="contained" size="medium"
 				onClick={() => {
 					router.push('/register')

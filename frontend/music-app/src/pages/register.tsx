@@ -35,7 +35,7 @@ const RegisterPage = () => {
 		<Grid container direction={'column'} sx={{ justifyContent: 'center', alignItems: 'center'}}>
 			<Grid container item direction={'column'} sx={{ justifyContent: 'center', alignItems: 'center', marginY: '10px'}}>
 				<AccountCircleIcon sx={{ height: '50px', width: '50px', color: 'white'}}/>
-				<Typography
+				<Typography component={'div'}
 					sx={{ fontSize: '20px', fontWeight: '700', color: 'white', marginY: '10px'}}>
 					Đăng ký miễn phí để bắt đầu nghe.
 				</Typography>
@@ -86,7 +86,7 @@ const RegisterPage = () => {
 				<Typography sx={{ fontWeight: '500', color: 'white', fontSize: '14px', marginY: '5px' }}>
 					Bạn có tài khoản?
 				</Typography>&nbsp;
-				<Typography
+				<Typography component={'div'}
 					onClick={() => {
 						router.push('/login')
 					}}
