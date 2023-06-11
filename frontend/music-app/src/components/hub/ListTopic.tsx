@@ -11,7 +11,7 @@ const ListTopic = (props: { data: Array<DataTopicHub>, title: string }) => {
 	const router = useRouter();
 	return(
 		<Grid container sx={{ marginTop: '30px' }}>
-			<Typography sx={{ fontSize: '1.5rem', fontWeight: '700', color: 'white', marginBottom: '20px' }}>{title}</Typography>
+			<Typography component={'div'} sx={{ fontSize: '1.5rem', fontWeight: '700', color: 'white', marginBottom: '20px' }}>{title}</Typography>
 			<Grid item container spacing={{ xs: 2, md: 3 }}>
 				{data?.map((item, index) => {
 					return(

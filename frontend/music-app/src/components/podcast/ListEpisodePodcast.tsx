@@ -45,7 +45,7 @@ export const PocastEpisideItem = ({ item }: props) => {
 				<img alt="" src={item?.thumbnail} style={{ borderRadius: '6px', height: '106px', width: '106px' }}/>
 			</Grid>
 			<Grid item xs>
-				<Typography
+				<Typography component={'div'}
 					sx={{ fontSize: '15px', fontWeight: '600', color: 'white' }}
 				>{item?.title}</Typography>
 				<TextLineClamp
@@ -57,11 +57,11 @@ export const PocastEpisideItem = ({ item }: props) => {
 						style={{ color: 'white', height: '30px', width: '30px', cursor: 'pointer' }}
 						// onClick={togglePlay}
 					/>
-					<Typography
+					<Typography component={'div'}
 						sx={{ fontSize: '13px', fontWeight: 500, color: 'hsla(0,0%,100%,0.5)'}}>
 						{getFullTimeFromDatetime(Number(item?.release_date))}
 					</Typography>
-					<Typography
+					<Typography component={'div'}
 						sx={{ fontSize: '13px', fontWeight: 500, color: 'hsla(0,0%,100%,0.5)'}}>
 						{convertDuration(Number(item?.duration))}
 					</Typography>

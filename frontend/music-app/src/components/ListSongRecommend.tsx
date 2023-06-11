@@ -103,7 +103,7 @@ const ListSongRecommend = () => {
 			}}>
 				<Grid item container justifyContent="space-between" alignItems="center">
 					<Grid item>
-						<Typography sx={{ fontSize: '18px', fontWeight: 'bold', color: 'white'}}>Danh sách phát</Typography>
+						<Typography component={'div'} sx={{ fontSize: '18px', fontWeight: 'bold', color: 'white'}}>Danh sách phát</Typography>
 					</Grid>
 					<Grid item sx={{ cursor: 'pointer' }} onClick={toggleCloseListMusic}>
 						<CloseOutlinedIcon />

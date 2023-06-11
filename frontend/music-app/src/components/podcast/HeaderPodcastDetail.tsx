@@ -23,7 +23,7 @@ const HeaderPodcastDetail = ({ dataPodcast }: Props) => {
 				<TextLineClamp line={2}
 					sx={{ fontSize: '15px', color: 'white', marginY: '10px', fontFamily: 'Inter,sans-serif', fontWeight: 700 }}
 				>{dataPodcast?.description}</TextLineClamp>
-				<Typography
+				<Typography component={'div'}
 					sx={{ fontSize: '14px', color: 'white', fontFamily: 'Inter,sans-serif' }}>
 					Thể loại: {dataPodcast?.type}
 				</Typography>

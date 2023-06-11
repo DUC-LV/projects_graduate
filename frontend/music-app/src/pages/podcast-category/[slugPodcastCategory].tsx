@@ -30,7 +30,7 @@ const PodcastCategory = ({ data }: Props) => {
 	return(
 		<Box>
 			<Box sx={{ margin: '20px auto' }}>
-				<Typography sx={{ fontSize: '48px', fontWeight: 700, color: 'white', textAlign: 'center' }}>
+				<Typography component={'div'} sx={{ fontSize: '48px', fontWeight: 700, color: 'white', textAlign: 'center' }}>
 					{data?.title}
 				</Typography>
 			</Box>

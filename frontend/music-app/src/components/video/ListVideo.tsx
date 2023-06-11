@@ -1,6 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 import { DataVideo } from "@/schemas";
-import { Grid, Typography } from "@mui/material";
+import { Grid } from "@mui/material";
 import React from "react";
 import { TextLineClamp, TextOnline } from "../Text";
 import { convertDuration } from "@/untils";

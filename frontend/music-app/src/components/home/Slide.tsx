@@ -17,7 +17,7 @@ export const PlaylistSlider = (props: { data: Array<DataPlaylists>, title: strin
 	return (
 		<Box sx={{ marginBottom: '30px' }}>
 			<Grid container>
-				<Typography sx={{ fontSize: '1.5rem', fontWeight: '700', color: 'white', marginX: '8px', }}>{title}</Typography>
+				<Typography component={'div'} sx={{ fontSize: '1.5rem', fontWeight: '700', color: 'white', marginX: '8px', }}>{title}</Typography>
 			</Grid>
 			<Swiper
 				loop
@@ -96,7 +96,7 @@ export const AlbumSlider = (props: { data: Array<DataPlaylists>; title: string }
 	return(
 		<Box sx={{ marginBottom: '30px' }}>
 			<Grid container>
-				<Typography sx={{ fontSize: '1.5rem', fontWeight: '700', color: 'white', marginX: '8px', }}>{title}</Typography>
+				<Typography component={'div'} sx={{ fontSize: '1.5rem', fontWeight: '700', color: 'white', marginX: '8px', }}>{title}</Typography>
 			</Grid>
 			<Swiper
 				loop

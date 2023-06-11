@@ -11,7 +11,7 @@ const ListPlaylist = (props: { data: Array<DataPlaylists>, title: string }) => {
 	const router = useRouter();
 	return(
 		<>
-			<Typography sx={{ fontSize: '1.5rem', fontWeight: '700', color: 'white', marginY: '15px' }}>{title}</Typography>
+			<Typography component={'div'} sx={{ fontSize: '1.5rem', fontWeight: '700', color: 'white', marginY: '15px' }}>{title}</Typography>
 			<Grid container spacing={2} columns={{ xs: 4, sm: 8, md: 12 }}>
 				{data?.map((item, index) => {
 					return(

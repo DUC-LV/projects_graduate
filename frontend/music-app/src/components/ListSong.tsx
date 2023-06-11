@@ -20,7 +20,7 @@ type props = {
 	item: any;
 }
 export const SongItem = ({ item }: props) => {
-	const { setShowPlayMusic, setId } = useContext(WrapperContext);
+	const { setShowPlayMusic, setId, id } = useContext(WrapperContext);
 	const router = useRouter();
 	const [like, setLike] = useState(false);
 	const [isShow, setIsShow] = useState(false);
@@ -58,7 +58,8 @@ export const SongItem = ({ item }: props) => {
 				":hover": {
 					background: '#ffffff1a',
 					borderRadius: '4px'
-				}
+				},
+				background: id === item?.id ? '#ffffff1a' : ''
 			}}>
 			<Grid xs={6} item container alignItems={'center'}>
 				<Grid item>
@@ -70,13 +71,13 @@ export const SongItem = ({ item }: props) => {
 				</Grid>
 				<Grid xs item container sx={{ marginLeft: '10px', flexDirection: 'column', width: 'fit-content' }}>
 					<Grid item>
-						<TextOnline
+						<TextLineClamp line={2}
 							sx={{
 								fontSize: '13px',
 								fontWeight: '600',
 								color: item.streaming_status === 2 ? '#ffffff80' : '#FFF',
 							}}>{item.title}
-						</TextOnline>
+						</TextLineClamp>
 					</Grid>
 					<Grid item container sx={{ marginY: '3px' }}>
 						{item?.artists.map((items: any, index: number) => {

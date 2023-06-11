@@ -141,7 +141,7 @@ const PlayMusic = ({ playerEl }: { playerEl : HTMLVideoElement | null }) => {
 			</Grid>
 			<Grid xs item container justifyContent="center" flexDirection="column">
 				<Grid item>
-					<Typography sx={{ textAlign: 'center', fontSize: '14px', fontWeight: 500, color: 'white' }}>
+					<Typography component={'div'} sx={{ textAlign: 'center', fontSize: '14px', fontWeight: 500, color: 'white' }}>
 						<Typewriter
 							options={{
 								strings: data?.title,

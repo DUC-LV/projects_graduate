@@ -11,7 +11,7 @@ type Props = {
 const InputItems = ({ title, value, type, placeholder }: Props) => {
 	return(
 		<Box>
-			<Typography sx={{ fontWeight: '500', color: 'gray', fontSize: '14px', marginY: '5px' }}>{title}</Typography>
+			<Typography component={'div'} sx={{ fontWeight: '500', color: 'gray', fontSize: '14px', marginY: '5px' }}>{title}</Typography>
 			<TextField
 				size="medium"
 				InputProps={{

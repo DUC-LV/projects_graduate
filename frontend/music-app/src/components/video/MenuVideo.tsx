@@ -11,7 +11,7 @@ const MenuVideo = (props: { data: Array<MenuVideo> }) => {
 	return(
 		<><Grid container>
 			<Grid item>
-				<Typography variant="h2"
+				<Typography variant="h2" component={'div'}
 					sx={{
 						paddingRight: '15px',
 						borderRight: '1px solid #ffffff1a',

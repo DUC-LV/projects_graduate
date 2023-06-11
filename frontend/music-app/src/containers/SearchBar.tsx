@@ -126,7 +126,7 @@ const SearchBar = ({ currentUser } : { currentUser: CurrentUserData | null }) =>
 								zIndex: 2
 							}}
 						>
-							<Typography textTransform="capitalize"
+							<Typography textTransform="capitalize" component={'div'}
 								sx={{
 									fontSize: '16px',
 									fontWeight: '600',
@@ -155,7 +155,7 @@ const SearchBar = ({ currentUser } : { currentUser: CurrentUserData | null }) =>
 									cursor: 'pointer',
 								}}
 							>
-								<Typography textTransform="initial" sx={{ color: 'white', fontWeight: '600', fontSize: '16px'}}
+								<Typography component={'div'} textTransform="initial" sx={{ color: 'white', fontWeight: '600', fontSize: '16px'}}
 								>Đăng xuất</Typography>
 							</Grid>
 						</Grid>
@@ -179,7 +179,7 @@ const SearchBar = ({ currentUser } : { currentUser: CurrentUserData | null }) =>
 								zIndex: 2,
 							}}
 						>
-							<Typography textTransform="initial" sx={{ color: 'white', fontWeight: '600', fontSize: '16px'}}
+							<Typography component={'div'} textTransform="initial" sx={{ color: 'white', fontWeight: '600', fontSize: '16px'}}
 							>Đăng nhập</Typography>
 						</Box>
 					)
