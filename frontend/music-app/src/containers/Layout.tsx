@@ -20,6 +20,7 @@ const Layout = ({ children, currentUser }: React.PropsWithChildren<{ currentUser
 	const type = dataSong?.type;
 	const playerRef = useRef<HTMLVideoElement>(null);
 	const [showStreaming, setShowStreaming] = useState(false);
+	const [idStreaming, setIdStreaming] = useState(typeof window !== 'undefined' && localStorage.getItem("idStreaming") ? localStorage.getItem("idStreaming") : '');
 
 	useEffect(() => {
 		if(!dataSong){
@@ -48,7 +49,9 @@ const Layout = ({ children, currentUser }: React.PropsWithChildren<{ currentUser
 				showListSong,
 				setShowListSong,
 				showStreaming,
-				setShowStreaming
+				setShowStreaming,
+				idStreaming,
+				setIdStreaming,
 			}}>
 			<Grid container spacing={0} sx={{ backgroundColor: '#1d1d1d', width: '100vw', height: '100vh'}} >
 				<Grid item sx={{ maxWidth: '240px' }}>

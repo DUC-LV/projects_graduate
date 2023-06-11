@@ -20,6 +20,7 @@ export interface DataStreaming {
 	id?: string | number;
 	thumbnail_h?: string;
 	thumbnail_v?: string;
+	streaming?: string;
 }
 
 export interface DataPodCastCategory {

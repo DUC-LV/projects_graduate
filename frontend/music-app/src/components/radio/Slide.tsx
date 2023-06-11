@@ -8,43 +8,52 @@ import { useRouter } from 'next/router';
 import { convertSlug } from '@/untils';
 import { WrapperContext } from '@/containers/Layout';
 
-
-export const StreamingSlider = (props: { data: Array<DataStreaming> }) => {
-	const { data } = props;
-	const { setShowStreaming } = useContext(WrapperContext);
+const IteamStreaming = (props: { item: any }) => {
+	const { item } = props;
+	const { setShowStreaming, setIdStreaming } = useContext(WrapperContext);
 
 	const toggleStreaming = useCallback(() => {
 		setShowStreaming(true);
-	}, [setShowStreaming])
+		localStorage.setItem("idStreaming", item.id)
+		setIdStreaming(item?.id)
+	}, [item.id, setIdStreaming, setShowStreaming])
 
 	return(
+		<Grid container
+			onClick={toggleStreaming}
+			sx={{
+				position: 'relative',
+				flexDirection: 'column',
+				justifyContent: 'Center',
+				alignItems: 'center',
+				maxWidth: 'fit-content',
+			}}>
+			<Grid container item>
+				<img
+					alt=''
+					src={item?.thumbnail_m}
+					style={{ borderRadius: '99%', border: '3px solid red' }}
+				/>
+			</Grid>
+			<Grid container item>
+				<TextOnline sx={{ fontSize: '16px', fontWeight: 600, color: 'white', margin: '10px auto'}}>
+					{item?.title}
+				</TextOnline>
+			</Grid>
+		</Grid>
+	);
+}
+
+
+export const StreamingSlider = (props: { data: Array<DataStreaming> }) => {
+	const { data } = props;
+	return(
 		<Box>
-			<Swiper loop slidesPerView={5}>
+			<Swiper loop slidesPerView={4}>
 				{data?.map((item, index) => {
 					return(
 						<SwiperSlide key={index} style={{  cursor: "pointer" }}>
-							<Grid container
-								onClick={toggleStreaming}
-								sx={{
-									position: 'relative',
-									flexDirection: 'column',
-									justifyContent: 'Center',
-									alignItems: 'center',
-									maxWidth: 'fit-content',
-								}}>
-								<Grid container item>
-									<img
-										alt=''
-										src={item?.thumbnail_m}
-										style={{ borderRadius: '99%', border: '3px solid red' }}
-									/>
-								</Grid>
-								<Grid container item>
-									<TextOnline sx={{ fontSize: '16px', fontWeight: 600, color: 'white', margin: '10px auto'}}>
-										{item?.title}
-									</TextOnline>
-								</Grid>
-							</Grid>
+							<IteamStreaming item={item}/>
 						</SwiperSlide>
 					);
 				})}
