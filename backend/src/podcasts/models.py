@@ -92,3 +92,16 @@ class PodcastEpisodeOfPodCast(BaseModel):
 
     def __str__(self):
         return f"{self.podcast.title}_{self.podcast_episode.title}"
+
+
+class PodcastStreamingUrl(BaseModel):
+    class Meta:
+        ordering = ['created_at']
+
+    quality_64 = models.CharField(max_length=400, default=None, blank=True)
+    quality_128 = models.CharField(max_length=400, default=None, blank=True)
+    quality_320 = models.CharField(max_length=400, default=None, blank=True)
+    podcast_episode = models.ForeignKey(PodcastEpisode, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return self.podcastEpisode.title
