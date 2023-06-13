@@ -1,6 +1,6 @@
 from django.contrib import admin
 from .models import PodCastCategory, TopicPodCast, PodCast, PodCastOfTopic, PodCastOfPodCastCategory, PodcastEpisode, \
-    PodcastEpisodeOfPodCast
+    PodcastEpisodeOfPodCast, PodcastStreamingUrl
 
 
 # Register your models here.
@@ -57,3 +57,11 @@ admin.register(PodcastEpisode)
 @admin.register(PodcastEpisodeOfPodCast)
 class PodcastEpisodeOfPodCast(admin.ModelAdmin):
     list_display = ["podcast", "podcast_episode", "created_at"]
+
+
+@admin.register(PodcastStreamingUrl)
+class PodcastStreamingUrl(admin.ModelAdmin):
+    list_display = ["quality_64", "quality_128", "quality_320", "podcast_episode", "created_at"]
+
+
+admin.register(PodcastStreamingUrl)

@@ -2,7 +2,6 @@
 /* eslint-disable react-hooks/rules-of-hooks */
 /* eslint-disable react/jsx-no-undef */
 import { WrapperContext } from "@/containers/Layout";
-import QueueMusicIcon from '@mui/icons-material/QueueMusic';
 import getRecommendSong from "@/services/getRecommendSong";
 import { Grid, Typography } from "@mui/material";
 import React, { useCallback, useContext, useEffect, useState } from "react";
@@ -106,7 +105,7 @@ const ListSongRecommend = () => {
 						<Typography component={'div'} sx={{ fontSize: '18px', fontWeight: 'bold', color: 'white'}}>Danh sách phát</Typography>
 					</Grid>
 					<Grid item sx={{ cursor: 'pointer' }} onClick={toggleCloseListMusic}>
-						<CloseOutlinedIcon />
+						<CloseOutlinedIcon style={{ color: 'white' }}/>
 					</Grid>
 				</Grid>
 				<Grid item sx={{ marginTop: '25px' }}>

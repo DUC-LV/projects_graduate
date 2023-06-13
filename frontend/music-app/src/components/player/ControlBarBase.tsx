@@ -9,29 +9,39 @@ import RepeatOutlinedIcon from '@mui/icons-material/RepeatOutlined';
 import VolumeUpIcon from '@mui/icons-material/VolumeUp';
 
 
-export const PrevButton  = () => {
+export const PrevButton  = ({ onPrevButtom }:{ onPrevButtom: () => void }) => {
 	return(
 		<Box>
 			<SkipPreviousIcon
+				onClick={onPrevButtom}
 				sx={{ marginX: '7px', cursor: 'pointer', color: 'white' }}
 			/>
 		</Box>
 	);
 }
 
-export const PlayButton = ({ isPlay, onClickMusic } : {isPlay: boolean, onClickMusic: () => void}) => {
+export const PlayButton = (
+	{
+		isPlay,
+		onPlayMusic,
+		onPauseMusic
+	} : {
+		isPlay: boolean,
+		onPlayMusic: () => void,
+		onPauseMusic: () => void
+	}) => {
 	return(
 		<Box>
 			{
 				isPlay ? (
 					<PauseCircleOutlineOutlinedIcon
-						sx={{ marginX: '7px', cursor: 'pointer', color: 'white', height: '35px', width: '35px' }}
-						onClick={onClickMusic}
+						sx={{ marginX: '7px', cursor: 'pointer', color: 'white', height: '35px', width: '35px', opacity: 0.8 }}
+						onClick={onPauseMusic}
 					/>
 				):(
 					<PlayCircleOutlineOutlinedIcon
-						sx={{ marginX: '7px', cursor: 'pointer', color: 'white', height: '35px', width: '35px' }}
-						onClick={onClickMusic}
+						sx={{ marginX: '7px', cursor: 'pointer', color: 'white', height: '35px', width: '35px', opacity: 0.8 }}
+						onClick={onPlayMusic}
 					/>
 				)
 			}
@@ -39,10 +49,11 @@ export const PlayButton = ({ isPlay, onClickMusic } : {isPlay: boolean, onClickM
 	);
 }
 
-export const NextButton = () => {
+export const NextButton = ({ onNextButtom } : { onNextButtom: () => void }) => {
 	return(
 		<Box>
 			<SkipNextIcon
+				onClick={onNextButtom}
 				sx={{ marginX: '7px', cursor: 'pointer', color: 'white' }}
 			/>
 		</Box>

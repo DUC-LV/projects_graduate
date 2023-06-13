@@ -1,0 +1,10 @@
+{
+  "err": 0,
+  "msg": "Success",
+  "data": {
+    "64": "https://mplatform-mcloud-bf-s8.zadn.vn/LNIAWOOvA9U/d894072b8c35636b3a24/3b4f9c4ee2650d3b5474/64/source_1487195834_1146036354.m4a?authen=exp=1686745397~acl=/LNIAWOOvA9U/*~hmac=3c0e2e092cae45410d1302dcbb053151",
+    "128": "https://mplatform-mcloud-bf-s8.zadn.vn/8F0jXL63x04/925deafc61e28ebcd7f3/44c744d83af3d5ad8ce2/96/source_1487195834_1146036354.m4a?authen=exp=1686745397~acl=/8F0jXL63x04/*~hmac=d89b68fadafb1806ff25c1f964dc5366",
+    "320": "https://mplatform-mcloud-bf-s8.zadn.vn/8CntENmfv8Y/6c564af5c1eb2eb577fa/913fcf22b1095e570718/256/source_1487195834_1146036354.m4a?authen=exp=1686745397~acl=/8CntENmfv8Y/*~hmac=a707efb90eb59705cd158ecdd0f2becc"
+  },
+  "timestamp": 1686573538551
+}

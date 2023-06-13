@@ -1,13 +1,14 @@
 /* eslint-disable @next/next/no-img-element */
 import { DataPodcastEpisode } from "@/schemas";
 import { Box, Grid, Typography } from "@mui/material";
-import React, { useCallback, useEffect, useState } from "react";
+import React, { useCallback, useContext, useEffect, useState } from "react";
 import { TextLineClamp } from "../Text";
 import PlayCircleIcon from '@mui/icons-material/PlayCircle';
 import FavoriteIcon from '@mui/icons-material/Favorite';
 import { convertDuration, getFullTimeFromDatetime } from "@/untils";
 import axiosInstances from "@/services/axiosInstances";
 import { toast } from "react-toastify";
+import { WrapperContext } from "@/containers/Layout";
 
 type Props = {
 	dataPocastEpisode?: Array<DataPodcastEpisode>| any;
@@ -18,6 +19,7 @@ type props = {
 }
 
 export const PocastEpisideItem = ({ item }: props) => {
+	const { setShowPlayMusic, setId, id } = useContext(WrapperContext);
 	const [like, setLike] = useState(false);
 
 	useEffect(() => {
@@ -35,13 +37,16 @@ export const PocastEpisideItem = ({ item }: props) => {
 		})
 	}, [item.id, like])
 
-	// const togglePlay = useCallback(() => {
-	// 	localStorage.setItem("dataPlayMusic", JSON.stringify({"type": "podcast", "id": item?.id}))
-	// }, [item?.id])
+	const togglePlay = useCallback(() => {
+		setShowPlayMusic(true);
+		localStorage.setItem("dataPlayMusic", JSON.stringify({"type": "podcast", "id": item?.id}))
+		setId(item?.id);
+	}, [item?.id, setId, setShowPlayMusic])
 
 	return (
-		<Grid item container sx={{ marginBottom: '24px', alignItems: 'center' }}>
-			<Grid item sx={{ marginRight: '24px'}}>
+		<Grid item container
+		sx={{ marginBottom: '24px', alignItems: 'center', background: id === item?.id ? '#ffffff1a' : '', borderRadius: '6px' }}>
+			<Grid item sx={{ marginRight: '24px' }}>
 				<img alt="" src={item?.thumbnail} style={{ borderRadius: '6px', height: '106px', width: '106px' }}/>
 			</Grid>
 			<Grid item xs>
@@ -55,7 +60,7 @@ export const PocastEpisideItem = ({ item }: props) => {
 				<Box sx={{ display: 'flex', justifyContent: 'space-between', width: '20%', alignItems: 'center'}}>
 					<PlayCircleIcon
 						style={{ color: 'white', height: '30px', width: '30px', cursor: 'pointer' }}
-						// onClick={togglePlay}
+						onClick={togglePlay}
 					/>
 					<Typography component={'div'}
 						sx={{ fontSize: '13px', fontWeight: 500, color: 'hsla(0,0%,100%,0.5)'}}>
