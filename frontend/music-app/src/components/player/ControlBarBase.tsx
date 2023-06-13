@@ -9,10 +9,11 @@ import RepeatOutlinedIcon from '@mui/icons-material/RepeatOutlined';
 import VolumeUpIcon from '@mui/icons-material/VolumeUp';
 
 
-export const PrevButton  = () => {
+export const PrevButton  = ({ onPrevButtom }:{ onPrevButtom: () => void }) => {
 	return(
 		<Box>
 			<SkipPreviousIcon
+				onClick={onPrevButtom}
 				sx={{ marginX: '7px', cursor: 'pointer', color: 'white' }}
 			/>
 		</Box>
@@ -48,10 +49,11 @@ export const PlayButton = (
 	);
 }
 
-export const NextButton = () => {
+export const NextButton = ({ onNextButtom } : { onNextButtom: () => void }) => {
 	return(
 		<Box>
 			<SkipNextIcon
+				onClick={onNextButtom}
 				sx={{ marginX: '7px', cursor: 'pointer', color: 'white' }}
 			/>
 		</Box>
