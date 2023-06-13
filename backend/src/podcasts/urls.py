@@ -9,4 +9,5 @@ urlpatterns = [
     path('podcast/<str:id>', views.GetPodCastDetailAPIView.as_view()),
     path('update/podcast-episode', views.PodcastEpisodeAPIView.as_view()),
     path('list-podcast-episode/<str:id>', views.GetListPodcastEpisodeAPIView.as_view()),
+    path('podcast-episode/<str:id>', views.GetPodcastEpisodeDetailAPIView.as_view()),
 ]

@@ -2,11 +2,11 @@ from django.shortcuts import render
 from rest_framework.response import Response
 from django.http import HttpResponse
 from .models import PodCastCategory, TopicPodCast, PodCast, PodCastOfPodCastCategory, PodcastEpisode,\
-    PodcastEpisodeOfPodCast
+    PodcastEpisodeOfPodCast, PodcastStreamingUrl
 from .serializers import PodCastCategorySerializers, TopicPodCastSerializers, PodCastSerializers, \
     PodcastEpisodeSerializers
 from rest_framework.views import APIView
-from rest_framework.permissions import AllowAny
+from rest_framework.permissions import AllowAny, IsAuthenticated
 
 
 # Create your views here.
@@ -185,3 +185,21 @@ class GetListPodcastEpisodeAPIView(APIView):
 
         return Response(res)
 
+
+class GetPodcastEpisodeDetailAPIView(APIView):
+    permission_classes = [IsAuthenticated]
+
+    def get(self, request, id):
+        user = request.user
+        podcast_episode = PodcastEpisode.objects.filter(id=id)
+        streaming_podcast_episode = PodcastStreamingUrl.objects.filter(podcast_episode=podcast_episode[0])
+
+        res_podcast_episode = PodcastEpisodeSerializers(podcast_episode[0]).data
+
+        res_streaming = {
+            "64": streaming_podcast_episode[0].quality_64,
+            "128": "VIP" if user.validate == False else streaming_podcast_episode[0].quality_128,
+            "320": "VIP" if user.validate == False else streaming_podcast_episode[0].quality_320,
+        }
+
+        return Response(res_streaming)

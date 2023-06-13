@@ -104,4 +104,4 @@ class PodcastStreamingUrl(BaseModel):
     podcast_episode = models.ForeignKey(PodcastEpisode, on_delete=models.CASCADE)
 
     def __str__(self):
-        return self.podcastEpisode.title
+        return self.podcast_episode.title
