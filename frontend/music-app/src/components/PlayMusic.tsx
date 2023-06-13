@@ -12,6 +12,7 @@ import axiosInstances from "@/services/axiosInstances";
 import { toast } from "react-toastify";
 import { VolumeButton } from "./player/ControlBarBase";
 import QueueMusicOutlinedIcon from '@mui/icons-material/QueueMusicOutlined';
+import getPodcastEpisodeDetail from "@/services/getPodcastEpisodeDetail";
 
 const MUTED_KEY = 'v-volume-muted';
 const VOLUME_KEY = 'v-volume';
@@ -26,11 +27,17 @@ const PlayMusic = ({ playerEl }: { playerEl : HTMLVideoElement | null }) => {
 
 	useEffect(() => {
 		if(id){
-			getSongDetail.getAll(id).then(res => {
-				setData(res?.data);
-			})
+			if (type === 'song'){
+				getSongDetail.getAll(id).then(res => {
+					setData(res?.data);
+				})
+			}else if (type === 'podcast'){
+				getPodcastEpisodeDetail.getAll(id).then(res => {
+					setData(res?.data);
+				})
+			}
 		}
-	}, [id])
+	}, [id, type])
 
 	useEffect(() => {
 		if (data?.follow?.length === 0) {

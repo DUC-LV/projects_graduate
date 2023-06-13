@@ -9,19 +9,19 @@ const AudioControlBar = ({ urlStremingSong }: { urlStremingSong?: string }) => {
 	const [isClickRepeat, setIsClickRepeat] = useState(true);
 	const [audioDom, setAdudioDom] = useState<HTMLAudioElement | null>(null);
 
-	const onClickMusic = useCallback(() => {
-		setIsPlay(!isPlay)
-	}, [isPlay]);
+	const onPlayMusic = useCallback(() => {
+		if(audioDom && isPlay === false){
+			setIsPlay(true);
+			audioDom.play();
+		}
+	}, [audioDom, isPlay])
 
-	useEffect(() => {
-        if (audioDom && isPlay === true) {
-			audioDom.play;
-        }
-        if (audioDom && isPlay === false) {
-            audioDom.pause();
-        }
-
-    }, [audioDom, isPlay]);
+	const onPauseMusic = useCallback(() => {
+		if(audioDom && isPlay === true){
+			setIsPlay(false);
+			audioDom.pause();
+		}
+	}, [audioDom, isPlay])
 
 	const onClickRadom = useCallback(() => {
 		setIsClickRandom(!isClickRandom)
@@ -43,7 +43,7 @@ const AudioControlBar = ({ urlStremingSong }: { urlStremingSong?: string }) => {
 				<audio src={urlStremingSong} autoPlay ref={(element) => setAdudioDom(element)}></audio>
 			</Grid>
 			<Grid item>
-				<PlayButton isPlay={isPlay} onClickMusic={onClickMusic}/>
+				<PlayButton isPlay={isPlay} onPauseMusic={onPauseMusic} onPlayMusic={onPlayMusic}/>
 			</Grid>
 			<Grid item>
 				<NextButton />

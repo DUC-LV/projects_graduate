@@ -19,19 +19,28 @@ export const PrevButton  = () => {
 	);
 }
 
-export const PlayButton = ({ isPlay, onClickMusic } : {isPlay: boolean, onClickMusic: () => void}) => {
+export const PlayButton = (
+	{
+		isPlay,
+		onPlayMusic,
+		onPauseMusic
+	} : {
+		isPlay: boolean,
+		onPlayMusic: () => void,
+		onPauseMusic: () => void
+	}) => {
 	return(
 		<Box>
 			{
 				isPlay ? (
 					<PauseCircleOutlineOutlinedIcon
-						sx={{ marginX: '7px', cursor: 'pointer', color: 'white', height: '35px', width: '35px' }}
-						onClick={onClickMusic}
+						sx={{ marginX: '7px', cursor: 'pointer', color: 'white', height: '35px', width: '35px', opacity: 0.8 }}
+						onClick={onPauseMusic}
 					/>
 				):(
 					<PlayCircleOutlineOutlinedIcon
-						sx={{ marginX: '7px', cursor: 'pointer', color: 'white', height: '35px', width: '35px' }}
-						onClick={onClickMusic}
+						sx={{ marginX: '7px', cursor: 'pointer', color: 'white', height: '35px', width: '35px', opacity: 0.8 }}
+						onClick={onPlayMusic}
 					/>
 				)
 			}

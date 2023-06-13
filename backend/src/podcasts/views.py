@@ -198,8 +198,10 @@ class GetPodcastEpisodeDetailAPIView(APIView):
 
         res_streaming = {
             "64": streaming_podcast_episode[0].quality_64,
-            "128": "VIP" if user.validate == False else streaming_podcast_episode[0].quality_128,
+            "128": streaming_podcast_episode[0].quality_128,
             "320": "VIP" if user.validate == False else streaming_podcast_episode[0].quality_320,
         }
 
-        return Response(res_streaming)
+        res = dict(res_podcast_episode, **{"streaming": res_streaming})
+
+        return Response(res)
