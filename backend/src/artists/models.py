@@ -57,7 +57,7 @@ class ArtistOfSong(BaseModel):
         return f"{self.song.title}_{self.artist.name}"
 
 
-class ArtistOfVideo(BaseModel):
+class ArtistOfVideos(BaseModel):
     class Meta:
         ordering = ['created_at']
 
