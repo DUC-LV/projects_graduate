@@ -1,0 +1,1073 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "key": "pqPBWM52vrLu9",
+      "title": "Remind Me",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/07/23/3/5/f/0/1658563314684_640.jpg",
+      "duration": "03:03",
+      "artists": [
+        {
+          "artistId": 119841,
+          "name": "Bastille",
+          "shortLink": "bastille",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/12/22/5/a/d/7/1482395082937_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "Uuzo9S2h4rwN8",
+      "title": "I Like That",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/08/10/b/d/1/e/1628611477199_640.jpg",
+      "duration": "02:38",
+      "artists": [
+        {
+          "artistId": 253579,
+          "name": "Bazzi",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/05/02/a/0/c/b/1525251992706_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [
+        {
+          "refKey": "RFqhvYiuUBbQ",
+          "refType": "SONG"
+        }
+      ],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "UJ6gC1tH7OJTA",
+      "title": "Wake Me Up (When This Nightmare's Over)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/07/03/c/e/6/2/1656840108036_640.jpg",
+      "duration": "03:50",
+      "artists": [
+        {
+          "artistId": 7324,
+          "name": "Simple Plan",
+          "shortLink": "simple-plan",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/12/22/5/a/d/7/1482394338868_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "KXR6iojeHFDGm",
+      "title": "@ My Worst",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/08/10/b/d/1/e/1628611460459_640.jpg",
+      "duration": "03:21",
+      "artists": [
+        {
+          "artistId": 69942,
+          "name": "BlackBear",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/02/23/5/c/a/2/1487836416353_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "y0FsoabhmSAlo",
+      "title": "Breakaway (Lyric Video)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/07/11/d/2/b/a/1657509569519_640.jpg",
+      "duration": "03:44",
+      "artists": [
+        {
+          "artistId": 5487,
+          "name": "Avril Lavigne",
+          "shortLink": "avril-lavigne",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/02/24/d/a/8/1/1645686079602_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "RAuZv2QhCFbCm",
+      "title": "Love Is Wonderful",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/08/10/b/d/1/e/1628611471146_640.jpg",
+      "duration": "03:29",
+      "artists": [
+        {
+          "artistId": 8027,
+          "name": "Sean Kingston",
+          "shortLink": "sean-kingston",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453717749827_300.jpg"
+        },
+        {
+          "artistId": 75375,
+          "name": "Travis Barker",
+          "shortLink": "",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/02/23/5/c/a/2/1487836426790_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "poOYt3hVNhFgw",
+      "title": "One In A Million",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/07/11/d/2/b/a/1657509734139_640.jpg",
+      "duration": "03:14",
+      "artists": [
+        {
+          "artistId": 250868,
+          "name": "Rex Orange County",
+          "shortLink": "Rex-Orange-County",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/16/2/e/3/c/1663339725465_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "fXIUC7ewjkH7A",
+      "title": "Rihanna’s Full Apple Music Super Bowl Lvii Halftime Show",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2023/02/14/2/7/5/0/1676362120597_640.jpg",
+      "duration": "13:50",
+      "artists": [
+        {
+          "artistId": 7241,
+          "name": "Rihanna",
+          "shortLink": "rihanna",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/12/22/5/a/d/7/1482395694635_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "4Oa5bs1teTOmO",
+      "title": "I Get A Kick Out Of You",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/08/10/b/d/1/e/1628611465935_640.jpg",
+      "duration": "03:43",
+      "artists": [
+        {
+          "artistId": 16126,
+          "name": "Tony Bennett",
+          "shortLink": "Tony-Bennett",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453716296983_300.jpg"
+        },
+        {
+          "artistId": 18328,
+          "name": "Lady Gaga",
+          "shortLink": "lady-gaga",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/05/19/e/0/c/d/1589869337679_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [
+        {
+          "refKey": "pni2dDQfLiV7",
+          "refType": "SONG"
+        }
+      ],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "3fsK6dnQJnV4c",
+      "title": "Unholy (Cover Live @ Siriusxm)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/11/13/7/2/1/e/1668345231097_640.jpg",
+      "duration": "02:35",
+      "artists": [
+        {
+          "artistId": 123806,
+          "name": "Sam Smith",
+          "shortLink": "sam-smith",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2023/01/30/f/e/7/8/1675073594938_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "vL2RQsXTOTb44",
+      "title": "So Good",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/07/11/d/2/b/a/1657509687893_640.jpg",
+      "duration": "03:48",
+      "artists": [
+        {
+          "artistId": 160708,
+          "name": "Halsey",
+          "shortLink": "halsey",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/04/05/6/c/a/1/1491357370894_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "cHgjadK95bw62",
+      "title": "First Class",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/07/03/c/e/6/2/1656839217465_640.jpg",
+      "duration": "02:34",
+      "artists": [
+        {
+          "artistId": 298007,
+          "name": "Jack Harlow",
+          "shortLink": "jack-harlow",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/05/09/d/a/2/7/1652083082900_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "aCyOScImCrlhS",
+      "title": "Dancing In The Dark (Bruce Springsteen Cover)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/08/10/b/d/1/e/1628609903684_640.jpg",
+      "duration": "03:34",
+      "artists": [
+        {
+          "artistId": 183359,
+          "name": "Cannons",
+          "shortLink": "cannons",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/04/15/b/3/2/e/1650009780957_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "L21PlIQJHgUuK",
+      "title": "You For Me",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/08/10/b/d/1/e/1628609909837_640.jpg",
+      "duration": "03:05",
+      "artists": [
+        {
+          "artistId": 193854,
+          "name": "Sigala",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/11/29/b/f/4/2/1543456105702_300.jpg"
+        },
+        {
+          "artistId": 105561,
+          "name": "Rita Ora",
+          "shortLink": "rita-ora",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/03/07/3/b/c/0/1551925415305_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [
+        {
+          "refKey": "mtXOY808yCdR",
+          "refType": "SONG"
+        }
+      ],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "ORSmZ22OGXiNp",
+      "title": "Will It Ever Feel The Same?",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/07/11/d/2/b/a/1657509784505_640.jpg",
+      "duration": "03:02",
+      "artists": [
+        {
+          "artistId": 253579,
+          "name": "Bazzi",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/05/02/a/0/c/b/1525251992706_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "Dw5ypQb48OcNc",
+      "title": "Movin'",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/08/10/b/d/1/e/1628609869824_640.jpg",
+      "duration": "02:56",
+      "artists": [
+        {
+          "artistId": 13033,
+          "name": "David Archuleta",
+          "shortLink": "david-archuleta",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/04/21/1/1/5/9/1492739013708_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "yLcB1j2WBhCw2",
+      "title": "Life Support (Immersive Reality Concert Experience)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/08/10/b/d/1/e/1628609894351_640.jpg",
+      "duration": "09:47",
+      "artists": [
+        {
+          "artistId": 140209,
+          "name": "Madison Beer",
+          "shortLink": "madison-beer",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/06/27/5/9/5/2/1561650422503_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "017gyOAbZsjvK",
+      "title": "Need To Know (Live Performance)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/08/10/b/d/1/e/1628609951383_640.jpg",
+      "duration": "03:39",
+      "artists": [
+        {
+          "artistId": 152641,
+          "name": "Doja Cat",
+          "shortLink": "dojacat",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/04/13/6/f/9/6/1618284101930_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "tlsJJcfbHnbtM",
+      "title": "No One Dies From Love",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/07/11/d/2/b/a/1657510078657_640.jpg",
+      "duration": "04:47",
+      "artists": [
+        {
+          "artistId": 139114,
+          "name": "Tove Lo",
+          "shortLink": "tove-lo",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453716120661_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "Nka850h87kG1j",
+      "title": "In Too Deep (Friends & Family Edition - Live From Alex's Kitchen)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/07/11/d/2/b/a/1657510057399_640.jpg",
+      "duration": "03:27",
+      "artists": [
+        {
+          "artistId": 126631,
+          "name": "The Chainsmokers",
+          "shortLink": "the-chainsmokers",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/01/06/f/e/3/f/1578292217455_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "HneFlJb5XTVXl",
+      "title": "These Are The Ways",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/07/11/d/2/b/a/1657510039524_640.jpg",
+      "duration": "04:01",
+      "artists": [
+        {
+          "artistId": 18303,
+          "name": "Red Hot Chili Peppers",
+          "shortLink": "red-hot-chili-peppers",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/04/28/9/a/5/b/1461817676098_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "0leHiZ6Vf8Qm6",
+      "title": "Ain't Shit (Live Performance)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/08/10/b/d/1/e/1628609942869_640.jpg",
+      "duration": "02:58",
+      "artists": [
+        {
+          "artistId": 152641,
+          "name": "Doja Cat",
+          "shortLink": "dojacat",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/04/13/6/f/9/6/1618284101930_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "Oo59aDS9cATtg",
+      "title": "Blue Banisters",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/10/24/7/9/d/e/1635082721952_640.jpg",
+      "duration": "04:51",
+      "artists": [
+        {
+          "artistId": 100710,
+          "name": "Lana Del Rey",
+          "shortLink": "lana-del-rey",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2023/03/27/0/6/1/3/1679894570586_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "MelLBjAshUYtO",
+      "title": "Mammamia ",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/10/24/7/9/d/e/1635082780949_640.jpg",
+      "duration": "03:17",
+      "artists": [
+        {
+          "artistId": 256788,
+          "name": "Maneskin",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/06/12/2/8/c/0/1654967244206_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "pn7XMOKkKg3EO",
+      "title": "Giving In To The Love",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/10/24/7/9/d/e/1635082746254_640.jpg",
+      "duration": "03:00",
+      "artists": [
+        {
+          "artistId": 33685,
+          "name": "AURORA",
+          "shortLink": "aurora",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/01/10/d/8/9/8/1641798089918_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "qG8IVNHpQLDKQ",
+      "title": "G R O W",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/10/24/7/9/d/e/1635082738811_640.jpg",
+      "duration": "02:10",
+      "artists": [
+        {
+          "artistId": 118180,
+          "name": "Willow",
+          "shortLink": "",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/0"
+        },
+        {
+          "artistId": 5487,
+          "name": "Avril Lavigne",
+          "shortLink": "avril-lavigne",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/02/24/d/a/8/1/1645686079602_300.jpg"
+        },
+        {
+          "artistId": 75375,
+          "name": "Travis Barker",
+          "shortLink": "",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/02/23/5/c/a/2/1487836426790_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "w7BviIlgS5Qrg",
+      "title": "Traitor",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/10/24/7/9/d/e/1635082810237_640.jpg",
+      "duration": "03:57",
+      "artists": [
+        {
+          "artistId": 220054,
+          "name": "Olivia Rodrigo",
+          "shortLink": "oliviarodrigo",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/01/14/7/d/d/9/1610591540226_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "k97ngQ3X40twY",
+      "title": "Remember (Acoustic)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/10/24/7/9/d/e/1635082817196_640.jpg",
+      "duration": "02:39",
+      "artists": [
+        {
+          "artistId": 65204,
+          "name": "The Wanted",
+          "shortLink": "the-wanted",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453717284822_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "0UoFBzEWTyDtn",
+      "title": "Pa Mis Muchachas",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/10/24/7/9/d/e/1635082795633_640.jpg",
+      "duration": "04:05",
+      "artists": [
+        {
+          "artistId": 5694,
+          "name": "Christina Aguilera",
+          "shortLink": "christina-aguilera",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/01/25/3/1/c/e/1643089672018_300.jpg"
+        },
+        {
+          "artistId": 116067,
+          "name": "Becky G",
+          "shortLink": "Becky-G",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/12/22/5/a/d/7/1482393344977_300.jpg"
+        },
+        {
+          "artistId": 317999,
+          "name": "Nicki Nicole",
+          "shortLink": null,
+          "imageUrl": null
+        },
+        {
+          "artistId": 299647,
+          "name": "Nathy Peluso",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "3ZLAEJm0jQF2m",
+      "title": "SG",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/10/25/a/7/4/0/1635126786893_640.jpg",
+      "duration": "04:01",
+      "artists": [
+        {
+          "artistId": 90423,
+          "name": "DJ Snake",
+          "shortLink": "dj-snake",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/07/29/0/1/b/b/1469777940620_300.jpg"
+        },
+        {
+          "artistId": 176872,
+          "name": "Ozuna",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/02/23/5/c/a/2/1487836226281_300.jpg"
+        },
+        {
+          "artistId": 287498,
+          "name": "Megan Thee Stallion",
+          "shortLink": "meganthestallion",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/08/12/3/a/7/f/1660284034920_300.jpg"
+        },
+        {
+          "artistId": 215684,
+          "name": "LISA",
+          "shortLink": "lisa-blackpink",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/16/2/e/3/c/1663304211915_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [
+        {
+          "refKey": "Vh63Fq8xFLTV",
+          "refType": "SONG"
+        }
+      ],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "A8ZlgXWKYwl2n",
+      "title": "Moth To A Flame",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/10/24/7/9/d/e/1635082788347_640.jpg",
+      "duration": "04:13",
+      "artists": [
+        {
+          "artistId": 74129,
+          "name": "Swedish House Mafia",
+          "shortLink": "swedish-house-mafia",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453717555470_300.jpg"
+        },
+        {
+          "artistId": 93853,
+          "name": "The Weeknd",
+          "shortLink": "the-weeknd",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/02/22/4/1/9/2/1645520128616_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "4xh3MelutRXq8",
+      "title": "You Against Yourself",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/11/13/7/2/1/e/1668345012433_640.jpg",
+      "duration": "02:52",
+      "artists": [
+        {
+          "artistId": 174896,
+          "name": "Ruel",
+          "shortLink": "ruel",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2023/03/17/b/f/4/6/1679025758938_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "3RLfbK4UHDel0",
+      "title": "Someone Else's Problem (Lyric Video)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/11/13/7/2/1/e/1668344995662_640.jpg",
+      "duration": "03:03",
+      "artists": [
+        {
+          "artistId": 174896,
+          "name": "Ruel",
+          "shortLink": "ruel",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2023/03/17/b/f/4/6/1679025758938_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "DFjbLu2Ewv23B",
+      "title": "In The Morning (English Ver.) (Lyric Video)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/05/14/7/3/6/6/1620966084024_640.jpg",
+      "duration": "02:54",
+      "artists": [
+        {
+          "artistId": 119533,
+          "name": "ITZY",
+          "shortLink": "itzy",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/07/30/6/0/5/f/1564471326786_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1620964800000,
+      "dateCreate": 1620965891689,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "kdYptH5i8jJkV",
+      "title": "Never Gonna Not Dance Again",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/11/13/7/2/1/e/1668344950967_640.jpg",
+      "duration": "04:01",
+      "artists": [
+        {
+          "artistId": 7129,
+          "name": "P!nk",
+          "shortLink": "pink",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/10/08/c/7/9/4/1507454870431_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "LraEKPc1UFUtl",
+      "title": "Forever & Always (Piano Version Taylor's Version Lyric Video)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/04/10/8/2/c/4/1618047155350_640.jpg",
+      "duration": "04:31",
+      "artists": [
+        {
+          "artistId": 10114,
+          "name": "Taylor Swift",
+          "shortLink": "taylor-swift",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/10/31/1/c/7/2/1667214346412_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    }
+  ],
+  "total": 1000,
+  "type": "mv",
+  "clientIp": "10.97.0.0",
+  "time": 1686744092818
+}

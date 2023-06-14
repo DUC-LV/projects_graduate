@@ -35,6 +35,5 @@ urlpatterns = [
     path('', include('topic_category.urls')),
     path('', include('top100.urls')),
     path('', include('follow.urls')),
-    path('', include('videos.urls')),
     path('', include('songs.urls')),
 ]
