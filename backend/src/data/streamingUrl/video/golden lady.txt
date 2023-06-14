@@ -1,0 +1,40 @@
+{
+  "status": "success",
+  "video": {
+    "key": "cgGlv9OFG6qrx",
+    "title": "Golden Lady",
+    "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/03/10/c/a/f/0/1615381592062_640.jpg",
+    "duration": "03:45",
+    "artists": [
+      {
+        "artistId": 75784,
+        "name": "Lim Jeong Hee",
+        "shortLink": "",
+        "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/01/24/2/f/7/5/1485225085660_300.jpg"
+      }
+    ],
+    "type": "VIDEO",
+    "dateRelease": 0,
+    "dateCreate": 0,
+    "uploadBy": null,
+    "provider": null,
+    "isMyPlaylist": false,
+    "statusViewValue": 1,
+    "statusPlayValue": 1,
+    "statusDownloadValue": 2,
+    "statusAddPlaylistValue": 0,
+    "refMapping": [],
+    "genreKey": "",
+    "streamUrls": [
+      {
+        "quality": "480",
+        "streamUrl": "https://vredir.nixcdn.com/PreNCT19/GoldenLady-LimJeongHee-6954259.mp4?st=t03_IsgN49oJvWwDOtjMtw&e=1686842864"
+      },
+      {
+        "quality": "720",
+        "streamUrl": ""
+      }
+    ]
+  },
+  "time": 1686756464435
+}
