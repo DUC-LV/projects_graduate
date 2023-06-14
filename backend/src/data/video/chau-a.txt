@@ -1,0 +1,1087 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "key": "cgGlv9OFG6qrx",
+      "title": "Golden Lady",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/03/10/c/a/f/0/1615381592062_640.jpg",
+      "duration": "03:45",
+      "artists": [
+        {
+          "artistId": 75784,
+          "name": "Lim Jeong Hee",
+          "shortLink": "",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/01/24/2/f/7/5/1485225085660_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1603645200000,
+      "dateCreate": 1615004912562,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [
+        {
+          "refKey": "Rqn0usscDA",
+          "refType": "SONG"
+        }
+      ],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "GAfrJEynqkN5v",
+      "title": "Party Shots",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/03/10/a/b/e/7/1615385224049_640.jpg",
+      "duration": "03:05",
+      "artists": [
+        {
+          "artistId": 85763,
+          "name": "Wooyoung",
+          "shortLink": "",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/01/13/f/7/8/9/1610530251311_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1515949200000,
+      "dateCreate": 1615385138882,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [
+        {
+          "refKey": "K5Qu2axpdU0U",
+          "refType": "SONG"
+        }
+      ],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "K7hAzMQr6CuRM",
+      "title": "Regret",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/03/06/0/a/b/0/1615009170813_640.jpg",
+      "duration": "04:22",
+      "artists": [
+        {
+          "artistId": 32708,
+          "name": "2AM",
+          "shortLink": "2am",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453716661209_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1414602000000,
+      "dateCreate": 1615009090339,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [
+        {
+          "refKey": "dH4Dt7AJBPoE",
+          "refType": "SONG"
+        }
+      ],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "SnBZIhUVilGFE",
+      "title": "Still Here",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/03/10/a/b/e/7/1615385198871_640.jpg",
+      "duration": "04:11",
+      "artists": [
+        {
+          "artistId": 85763,
+          "name": "Wooyoung",
+          "shortLink": "",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/01/13/f/7/8/9/1610530251311_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1507654800000,
+      "dateCreate": 1615384916303,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [
+        {
+          "refKey": "lwx2xaohOxXa",
+          "refType": "SONG"
+        }
+      ],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "ixqnIVxtWIDHJ",
+      "title": "Lovely",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2020/05/27/7/1/2/6/1590548299990_640.jpg",
+      "duration": "04:00",
+      "artists": [
+        {
+          "artistId": 82903,
+          "name": "Minzy",
+          "shortLink": "minzy",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/04/14/7/7/7/6/1492142933816_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [
+        {
+          "refKey": "RddomG6Phr60",
+          "refType": "SONG"
+        }
+      ],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "mEFrMl103SvVP",
+      "title": "Criminal",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2020/09/23/7/8/8/7/1600834164443_640.jpg",
+      "duration": "03:41",
+      "artists": [
+        {
+          "artistId": 81816,
+          "name": "Tae Min (SHINee)",
+          "shortLink": "tae-min-shinee",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/10/16/5/6/0/7/1508145310290_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [
+        {
+          "refKey": "O3uNeFvgUDtW",
+          "refType": "SONG"
+        }
+      ],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "zx7Q7iwPEKg84",
+      "title": "Feel",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/03/10/a/b/e/7/1615385142962_640.jpg",
+      "duration": "03:45",
+      "artists": [
+        {
+          "artistId": 113728,
+          "name": "Junho",
+          "shortLink": "junho-2pm",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/01/13/f/7/8/9/1610530847897_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1407949200000,
+      "dateCreate": 1615384925853,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "3uK8dkVIxLbOs",
+      "title": "People Pt.2",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2023/04/07/0/e/c/d/1680847654715_640.jpg",
+      "duration": "04:29",
+      "artists": [
+        {
+          "artistId": 216248,
+          "name": "Agust D",
+          "shortLink": null,
+          "imageUrl": null
+        },
+        {
+          "artistId": 38803,
+          "name": "IU",
+          "shortLink": "iu",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/09/18/d/f/3/9/1505694583855_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "bVYNeSQCDn744",
+      "title": "Never Let You Go",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/03/10/c/a/f/0/1615381804611_640.jpg",
+      "duration": "03:30",
+      "artists": [
+        {
+          "artistId": 32708,
+          "name": "2AM",
+          "shortLink": "2am",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453716661209_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1268672400000,
+      "dateCreate": 1615007234903,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [
+        {
+          "refKey": "1W7r2dC6-Z",
+          "refType": "SONG"
+        }
+      ],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "ByjzO21sQUKRP",
+      "title": "Fire",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/03/10/a/b/e/7/1615384912033_640.jpg",
+      "duration": "01:36",
+      "artists": [
+        {
+          "artistId": 113728,
+          "name": "Junho",
+          "shortLink": "junho-2pm",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/01/13/f/7/8/9/1610530847897_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1442163600000,
+      "dateCreate": 1615384740140,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [
+        {
+          "refKey": "tsFqPs5XGkDB",
+          "refType": "SONG"
+        }
+      ],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "1YIEYTSkyUuWQ",
+      "title": "Beautiful Night",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/05/09/2/a/c/a/1620575388320_640.jpg",
+      "duration": "03:49",
+      "artists": [
+        {
+          "artistId": 46123,
+          "name": "Ye Sung (Super Junior)",
+          "shortLink": "ye-sung-super-junior",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/10/31/c/2/2/9/1509419044930_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [
+        {
+          "refKey": "32dLdiRr5tsY",
+          "refType": "SONG"
+        }
+      ],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "deL9PF5AYpEVJ",
+      "title": "So Good",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/03/10/a/b/e/7/1615384918626_640.jpg",
+      "duration": "03:33",
+      "artists": [
+        {
+          "artistId": 113728,
+          "name": "Junho",
+          "shortLink": "junho-2pm",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/01/13/f/7/8/9/1610530847897_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1442163600000,
+      "dateCreate": 1615384627473,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "PhUZVfjjXvYdi",
+      "title": "In The Morning (Dance Practice Day & Night Ver.)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/05/09/2/a/c/a/1620575339794_640.jpg",
+      "duration": "03:09",
+      "artists": [
+        {
+          "artistId": 119533,
+          "name": "ITZY",
+          "shortLink": "itzy",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/07/30/6/0/5/f/1564471326786_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "AhwbuWJZsQ0EQ",
+      "title": "Winter Sleep",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/03/10/a/b/e/7/1615385003396_640.jpg",
+      "duration": "03:29",
+      "artists": [
+        {
+          "artistId": 113728,
+          "name": "Junho",
+          "shortLink": "junho-2pm",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/01/13/f/7/8/9/1610530847897_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1516813200000,
+      "dateCreate": 1615384757838,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "UqzMOYwPDYCr2",
+      "title": "Think About You",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/03/10/a/b/e/7/1615384539032_640.jpg",
+      "duration": "04:05",
+      "artists": [
+        {
+          "artistId": 147890,
+          "name": "Jun. K",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/01/13/f/7/8/9/1610532079593_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1470762000000,
+      "dateCreate": 1615384461667,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "2VLPWOzqqfNcU",
+      "title": "Your Wedding",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/03/10/a/b/e/7/1615384730104_640.jpg",
+      "duration": "04:45",
+      "artists": [
+        {
+          "artistId": 147890,
+          "name": "Jun. K",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/01/13/f/7/8/9/1610532079593_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1483462800000,
+      "dateCreate": 1615384464671,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [
+        {
+          "refKey": "d8aDOQfjnl5t",
+          "refType": "SONG"
+        }
+      ],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "Qnd5lp76Bi5Dm",
+      "title": "No Shadow",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/03/10/a/b/e/7/1615384782331_640.jpg",
+      "duration": "03:35",
+      "artists": [
+        {
+          "artistId": 147890,
+          "name": "Jun. K",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/01/13/f/7/8/9/1610532079593_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1484154000000,
+      "dateCreate": 1615384573826,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [
+        {
+          "refKey": "3oSnw24X526h",
+          "refType": "SONG"
+        }
+      ],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "HkL97Hg1O7ftr",
+      "title": "Love Letter",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/03/10/a/b/e/7/1615384560939_640.jpg",
+      "duration": "04:17",
+      "artists": [
+        {
+          "artistId": 147890,
+          "name": "Jun. K",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/01/13/f/7/8/9/1610532079593_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1451408400000,
+      "dateCreate": 1615384350272,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "7VKgIqPz0v9oa",
+      "title": "Alive",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/03/10/a/b/e/7/1615384364906_640.jpg",
+      "duration": "03:43",
+      "artists": [
+        {
+          "artistId": 147890,
+          "name": "Jun. K",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2021/01/13/f/7/8/9/1610532079593_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1317920400000,
+      "dateCreate": 1615384192994,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [
+        {
+          "refKey": "EdgEs4Uyp3",
+          "refType": "SONG"
+        }
+      ],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "idqrx9r0N1d2u",
+      "title": "Madly In Love",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/03/06/0/a/b/0/1615004034336_640.jpg",
+      "duration": "05:01",
+      "artists": [
+        {
+          "artistId": 75784,
+          "name": "Lim Jeong Hee",
+          "shortLink": "",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/01/24/2/f/7/5/1485225085660_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 1285779600000,
+      "dateCreate": 1615003849541,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "fmhyh7TE2qo6K",
+      "title": "BOY",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2020/08/07/7/6/4/f/1596792611369_640.jpg",
+      "duration": "03:16",
+      "artists": [
+        {
+          "artistId": 314802,
+          "name": "TREASURE",
+          "shortLink": "treasure",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/10/05/7/0/6/2/1664967663125_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [
+        {
+          "refKey": "KjNcoJQuroCx",
+          "refType": "SONG"
+        }
+      ],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "fMaFSqofP42Pj",
+      "title": "Shooting Star",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2023/01/11/d/0/a/e/1673410185227_640.jpg",
+      "duration": "04:06",
+      "artists": [
+        {
+          "artistId": 267991,
+          "name": "SHAUN",
+          "shortLink": "shaun",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/07/18/3/b/7/f/1531879450741_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "JOCYIxwfWxEXA",
+      "title": "Black Eye",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2023/01/06/e/a/5/6/1673007141430_640.jpg",
+      "duration": "02:58",
+      "artists": [
+        {
+          "artistId": 469656,
+          "name": "Vernon",
+          "shortLink": null,
+          "imageUrl": null
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "xUZTTK7ExPcRh",
+      "title": "I'm The One",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/03/06/0/a/b/0/1615013144977_640.jpg",
+      "duration": "03:54",
+      "artists": [
+        {
+          "artistId": 276451,
+          "name": "ATEEZ",
+          "shortLink": "ateez",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/06/10/1/0/9/0/1560162179593_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "fLa7855IaoDuR",
+      "title": "Why Don’t We (One Take Performance Ver.)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/03/06/0/a/b/0/1615013184502_640.jpg",
+      "duration": "03:03",
+      "artists": [
+        {
+          "artistId": 113656,
+          "name": "Rain",
+          "shortLink": "",
+          "imageUrl": null
+        },
+        {
+          "artistId": 226538,
+          "name": "Chung Ha",
+          "shortLink": "kim-chung-ha",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/07/18/3/b/7/f/1531907030847_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "FjmUYol2ArKx8",
+      "title": "Don't Call Me (Be Original)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/03/06/0/a/b/0/1615013064055_640.jpg",
+      "duration": "03:48",
+      "artists": [
+        {
+          "artistId": 16888,
+          "name": "SHINee",
+          "shortLink": "shinee",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/05/28/d/b/2/b/1527501752668_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "GaJVt1b7WvQrO",
+      "title": "Next Level (Grand Open Special Mv)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/07/29/8/e/8/8/1627538500311_640.jpg",
+      "duration": "04:32",
+      "artists": [
+        {
+          "artistId": 340610,
+          "name": "aespa",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/11/17/e/9/4/5/1605606031249_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "Cm91ARTHuTyit",
+      "title": "Rose",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/07/29/8/e/8/8/1627538508281_640.jpg",
+      "duration": "02:55",
+      "artists": [
+        {
+          "artistId": 137516,
+          "name": "D.O.",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/09/05/f/e/0/e/1504573713926_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [
+        {
+          "refKey": "vOauIBhhv9Eh",
+          "refType": "SONG"
+        }
+      ],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "YF9Ce7sNwHuGM",
+      "title": "Let It Shine",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/10/03/f/c/d/9/1664799757751_640.jpg",
+      "duration": "02:44",
+      "artists": [
+        {
+          "artistId": 80258,
+          "name": "CNBLUE",
+          "shortLink": "cnblue",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/03/19/9/2/e/c/1489893422558_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "KjfZojVjbCG53",
+      "title": "Into The New World (Storage M Stage | Mnet 210225)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/03/06/0/a/b/0/1615013445117_640.jpg",
+      "duration": "04:12",
+      "artists": [
+        {
+          "artistId": 263792,
+          "name": "(G)I-DLE",
+          "shortLink": "g-i-dle",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/07/05/5/8/b/f/1562319556980_300.jpg"
+        },
+        {
+          "artistId": 276190,
+          "name": "IZ*ONE",
+          "shortLink": "iz-one",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/10/30/f/5/b/1/1540833104278_300.jpg"
+        },
+        {
+          "artistId": 246172,
+          "name": "WeKi MeKi",
+          "shortLink": "weki-meki",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/08/06/e/b/3/9/1502038369954_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "v2dRNWfcc4Giv",
+      "title": "We Rock Them Song Stage (Thanh Xuân Có Bạn 3)",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/04/15/6/6/8/4/1618484967482_640.jpg",
+      "duration": "04:47",
+      "artists": [
+        {
+          "artistId": 8248,
+          "name": "V.A",
+          "shortLink": "va",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "1JrXjv4kmgHel",
+      "title": "More",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/07/11/d/2/b/a/1657509940385_640.jpg",
+      "duration": "03:27",
+      "artists": [
+        {
+          "artistId": 187940,
+          "name": "J-Hope (BTS)",
+          "shortLink": "j-hope",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/03/03/3/0/f/e/1520078969864_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "OXwoE9De59zpY",
+      "title": "Love Me Like That",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2021/07/29/8/e/8/8/1627538548248_640.jpg",
+      "duration": "03:31",
+      "artists": [
+        {
+          "artistId": 148859,
+          "name": "Sam Kim",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2023/03/08/6/5/5/a/1678268291492_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "x9KGRkZ56XFdE",
+      "title": "Waka Boom",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/07/11/d/2/b/a/1657509999895_640.jpg",
+      "duration": "04:29",
+      "artists": [
+        {
+          "artistId": 160049,
+          "name": "Hyolyn",
+          "shortLink": "hyolyn",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/06/29/0/e/a/a/1498731591887_300.jpg"
+        },
+        {
+          "artistId": 329084,
+          "name": "Lee Young Ji",
+          "shortLink": null,
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/10/06/6/4/6/0/1601955554377_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "Y8MyemjSnrQzl",
+      "title": "Nabillera",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/07/22/6/7/3/c/1658460000940_640.jpg",
+      "duration": "03:01",
+      "artists": [
+        {
+          "artistId": 112734,
+          "name": "HyunA",
+          "shortLink": "hyuna-4minute",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/06/19/8/e/5/e/1497857597632_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    },
+    {
+      "key": "rfNupFADVCfrL",
+      "title": "When I Get Old",
+      "thumbnail": "https://avatar-ex-swe.nixcdn.com/mv/2022/12/09/0/c/a/a/1670567351867_640.jpg",
+      "duration": "03:15",
+      "artists": [
+        {
+          "artistId": 40848,
+          "name": "Christopher",
+          "shortLink": "christopher",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/12/21/5/3/c/0/1482285385953_300.jpg"
+        },
+        {
+          "artistId": 226538,
+          "name": "Chung Ha",
+          "shortLink": "kim-chung-ha",
+          "imageUrl": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/07/18/3/b/7/f/1531907030847_300.jpg"
+        }
+      ],
+      "type": "VIDEO",
+      "dateRelease": 0,
+      "dateCreate": 0,
+      "uploadBy": null,
+      "provider": null,
+      "isMyPlaylist": false,
+      "statusViewValue": 1,
+      "statusPlayValue": 1,
+      "statusDownloadValue": 2,
+      "statusAddPlaylistValue": 0,
+      "refMapping": [],
+      "genreKey": "",
+      "streamUrls": []
+    }
+  ],
+  "total": 1000,
+  "type": "mv",
+  "clientIp": "10.97.0.0",
+  "time": 1686744118324
+}

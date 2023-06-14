@@ -3,7 +3,7 @@ from commons.models import BaseModel
 from playlists.models import Playlists
 from albums.models import Albums
 from songs.models import Songs
-from videos.models import Videos
+from video.models import Videos
 
 
 # Create your models here.
@@ -57,7 +57,7 @@ class ArtistOfSong(BaseModel):
         return f"{self.song.title}_{self.artist.name}"
 
 
-class ArtistOfVideo(BaseModel):
+class ArtistOfVideos(BaseModel):
     class Meta:
         ordering = ['created_at']
 

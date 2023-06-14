@@ -13,8 +13,7 @@ admin.register(TopicVideo)
 
 @admin.register(Videos)
 class Videos(admin.ModelAdmin):
-    list_display = ["title", "alias", "is_offical", "username", "artist_names", "is_world_wide", "thumbnail_m",
-                    "thumbnail", "duration", "streaming_status", "created_at"]
+    list_display = ["title", "thumbnail", "duration", "type", "date_release", "date_create", "created_at"]
 
 
 admin.register(Videos)
@@ -26,3 +25,4 @@ class VideoOfTopic(admin.ModelAdmin):
 
 
 admin.register(VideoOfTopic)
+

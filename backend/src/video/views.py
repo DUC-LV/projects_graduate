@@ -3,13 +3,13 @@ from rest_framework.views import APIView
 from django.http import HttpResponse
 from .models import TopicVideo, Videos, VideoOfTopic
 from .serializers import TopicVideoSerializers, VideoSerializers
-from artists.models import ArtistOfVideo
+from artists.models import ArtistOfVideos
 from artists.serializers import ArtistSerializers
 from rest_framework.permissions import AllowAny
 from rest_framework.response import Response
+
+
 # Create your views here.
-
-
 class TopicVideoAPIView(APIView):
     permission_classes = [AllowAny]
 
@@ -53,15 +53,11 @@ class VideoAPIView(APIView):
 
         video = Videos.objects.create(
             title=data["title"],
-            alias=data["alias"],
-            is_offical=data["isOffical"],
-            username=data["username"],
-            artist_names=data["artistsNames"],
-            is_world_wide=data["isWorldWide"],
-            thumbnail_m=data["thumbnailM"],
             thumbnail=data["thumbnail"],
             duration=data["duration"],
-            streaming_status=data["streamingStatus"]
+            type=data["type"],
+            date_release=data["dateRelease"],
+            date_create=data["dateCreate"]
         )
 
         video.save()
@@ -110,7 +106,7 @@ class GetCategoryVideoAPIView(APIView):
         video_res = []
 
         for vd_tp in video_topic:
-            video_artist = ArtistOfVideo.objects.filter(video_id=vd_tp.video)
+            video_artist = ArtistOfVideos.objects.filter(video_id=vd_tp.video)
 
             artist_data = []
             artist = {}

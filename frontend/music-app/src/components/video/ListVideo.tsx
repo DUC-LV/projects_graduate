@@ -3,7 +3,6 @@ import { DataVideo } from "@/schemas";
 import { Grid } from "@mui/material";
 import React from "react";
 import { TextLineClamp, TextOnline } from "../Text";
-import { convertDuration } from "@/untils";
 import { useRouter } from "next/router";
 
 
@@ -16,13 +15,10 @@ const ListVideo = (props: { data: Array<DataVideo> }) => {
 				return(
 					<Grid key={index} item container md={3} flexDirection="column" sx={{ position: 'relative' }}>
 						<Grid item xs sx={{ cursor: 'pointer' }}>
-							<img alt="" src={item?.thumbnail_m} style={{ height: '100%', width: '100%', borderRadius: '6px' }}/>
+							<img alt="" src={item?.thumbnail} style={{ height: '100%', width: '100%', borderRadius: '6px' }}/>
 						</Grid>
 						<Grid item container sx={{ marginY: '10px' }}>
-							<Grid item>
-								<img alt="" src={item.artist?.thumbnail} style={{ height: '35px', width: '35px', borderRadius: '999px' }}/>
-							</Grid>
-							<Grid item flexDirection="column" sx={{ marginLeft: '10px', width: '80%' }}>
+							<Grid item flexDirection="column" sx={{  width: '80%' }}>
 								<TextLineClamp
 									line={1}
 									sx={{
@@ -32,7 +28,8 @@ const ListVideo = (props: { data: Array<DataVideo> }) => {
 										cursor: 'pointer',
 										":hover": {
 											color: '#c273ed',
-										}
+										},
+										marginBottom: '5px'
 									}}>{item.title}
 								</TextLineClamp>
 								<TextOnline
@@ -64,7 +61,7 @@ const ListVideo = (props: { data: Array<DataVideo> }) => {
 							}}>
 							<TextOnline
 								sx={{ color: 'white', fontSize: '12px', textAlign: 'center', margin: 'auto 0' }}>
-								{convertDuration(item.duration ? item.duration : 0)}
+								{item?.duration}
 							</TextOnline>
 						</Grid>
 					</Grid>

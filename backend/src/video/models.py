@@ -20,15 +20,11 @@ class Videos(BaseModel):
         ordering = ['created_at']
 
     title = models.CharField(max_length=200, default=None, blank=True)
-    alias = models.CharField(max_length=200, default=None, blank=True)
-    is_offical = models.BooleanField(default=True, blank=True)
-    username = models.CharField(max_length=200, default=None, blank=True)
-    artist_names = models.CharField(max_length=100, default=None, blank=True)
-    is_world_wide = models.BooleanField(default=True, blank=True)
-    thumbnail_m = models.CharField(max_length=400, default=None, blank=True)
     thumbnail = models.CharField(max_length=400, default=None, blank=True)
-    duration = models.IntegerField(default=None, blank=True)
-    streaming_status = models.IntegerField(default=1, blank=True)
+    duration = models.CharField(max_length=100, default=None, blank=True)
+    type = models.CharField(max_length=100, default="VIDEO", blank=True)
+    date_release = models.IntegerField(default=None, blank=True)
+    date_create = models.IntegerField(default=None, blank=True)
 
     def __str__(self):
         return self.title
