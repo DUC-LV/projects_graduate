@@ -3,7 +3,7 @@ from commons.models import BaseModel
 from playlists.models import Playlists
 from albums.models import Albums
 from songs.models import Songs
-# from videos.models import Videos
+from video.models import Videos
 
 
 # Create your models here.
@@ -57,12 +57,12 @@ class ArtistOfSong(BaseModel):
         return f"{self.song.title}_{self.artist.name}"
 
 
-# class ArtistOfVideo(BaseModel):
-#     class Meta:
-#         ordering = ['created_at']
-#
-#     video = models.ForeignKey(Videos, on_delete=models.CASCADE)
-#     artist = models.ForeignKey(Artists, on_delete=models.CASCADE)
-#
-#     def __str__(self):
-#         return f"{self.video.title}_{self.artist.name}"
+class ArtistOfVideo(BaseModel):
+    class Meta:
+        ordering = ['created_at']
+
+    video = models.ForeignKey(Videos, on_delete=models.CASCADE)
+    artist = models.ForeignKey(Artists, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return f"{self.video.title}_{self.artist.name}"

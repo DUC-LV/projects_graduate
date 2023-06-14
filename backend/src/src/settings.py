@@ -49,6 +49,7 @@ INSTALLED_APPS = [
     'podcasts',
     'topic_category',
     'songs',
+    'video',
 ]
 
 MIDDLEWARE = [
