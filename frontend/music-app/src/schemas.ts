@@ -86,7 +86,7 @@ export interface DataVideo {
 	alias?: string,
 	duration?: number,
 	streaming_status?: number,
-	thumbnail_m?: string,
+	thumbnail?: string,
 	artist?: {
 		thumbnail?: string,
 		name?: string,
