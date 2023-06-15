@@ -154,8 +154,6 @@ class GetVideoDetailAPIView(APIView):
 
         artist_video_data.append(ArtistSerializers(artist).data)
 
-        print(artist)
-
         res_video = VideoSerializers(video[0]).data
 
         streaming_video = VideoStreamingUrl.objects.filter(video=video[0])
@@ -166,7 +164,7 @@ class GetVideoDetailAPIView(APIView):
             "1080": "VIP" if user.validate == False else streaming_video[0].quality_1080,
         }
 
-        res = dict(res_video, **{"artist": artist_video_data}, **{"streaming": res_streaming})
+        res = dict(res_video, **{"artist": ArtistSerializers(artist).data}, **{"streaming": res_streaming})
 
         return Response(res)
 
