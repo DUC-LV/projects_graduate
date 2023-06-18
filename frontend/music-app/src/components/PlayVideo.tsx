@@ -8,6 +8,7 @@ import { DataVideo } from "@/schemas";
 import { TextLineClamp, TextOnline } from "./Text";
 import HighlightOffOutlinedIcon from '@mui/icons-material/HighlightOffOutlined';
 import ReactPlayer from "react-player";
+import ListVideoRecommend from "./ListVideoRecommend";
 
 const HeaderVideoDetail = ({ dataVideo, onClick } : { dataVideo?: DataVideo, onClick: () => void }) => {
 	return(
@@ -54,7 +55,7 @@ const PlayVideo = () => {
 
 	return(
 		<Grid container height="100vh" width="100vw" flexDirection="column"
-			sx={{ position: 'fixed', top: 0, left: 0, zIndex: 2, background: 'black', padding: '20px' }}>
+			sx={{ position: 'fixed', top: 0, left: 0, zIndex: 2, background: '#0f0f0f', padding: '20px' }}>
 			<Grid item container alignItems="center" height="60px" sx={{ marginBottom: '10px' }}>
 				<HeaderVideoDetail
 					dataVideo={dataVideo ?? dataVideo}
@@ -62,16 +63,17 @@ const PlayVideo = () => {
 				/>
 			</Grid>
 			<Grid item container xs>
-				<Grid item xs sx={{ width: '100%', height: '546px' }}>
+				<Grid item xs className='player-wrapper' sx={{ position: 'relative' }}>
 					<ReactPlayer
 						controls
 						url={dataVideo?.streaming?.[480]}
-						autoplay
-						width="100%"
-						height="100%"
+						autoplay={true}
+						style={{ position: 'absolute', top: 0, left: 0}}
 					/>
 				</Grid>
-				<Grid item width="320px"></Grid>
+				<Grid item width="320px">
+					<ListVideoRecommend data={dataRecommend ? dataRecommend : []}/>
+				</Grid>
 			</Grid>
 		</Grid>
 	);
