@@ -183,11 +183,14 @@ class GetRecommendVideoAPIView(APIView):
             # artist
             artist_video = ArtistOfVideos.objects.filter(video_id=list_video_recommend)
             artist_video_data = []
+            artist_dict = {}
 
             for artist_video in artist_video:
                 artist_video_data.append(ArtistSerializers(artist_video.artist).data)
+                artist_dict = ArtistSerializers(artist_video.artist).data
 
-            video_json = dict(VideoSerializers(list_video_recommend).data, **{"artist": artist_video_data})
+            video_json = dict(VideoSerializers(list_video_recommend).data, **{"artist": artist_video_data},
+                              **{"artists": artist_dict})
 
             items.append(video_json)
 

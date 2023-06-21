@@ -12,9 +12,9 @@ import ListVideoRecommend from "./ListVideoRecommend";
 
 const HeaderVideoDetail = ({ dataVideo, onClick } : { dataVideo?: DataVideo, onClick: () => void }) => {
 	return(
-		<Grid container>
+		<Grid container sx={{ display: 'content' }}>
 			<Grid item container xs>
-				<Grid item width="40px" sx={{ marginRight: '10px' }}>
+				<Grid item sx={{ marginRight: '10px' }}>
 					<img src={dataVideo?.thumbnail} alt="" style={{ height: '40px', width: '40px', borderRadius: '999px'}}/>
 				</Grid>
 				<Grid item container flexDirection="column" xs>
@@ -54,25 +54,38 @@ const PlayVideo = () => {
 	}, [setShowPlayVideo])
 
 	return(
-		<Grid container height="100vh" width="100vw" flexDirection="column"
-			sx={{ position: 'fixed', top: 0, left: 0, zIndex: 2, background: '#0f0f0f', padding: '20px' }}>
-			<Grid item container alignItems="center" height="60px" sx={{ marginBottom: '10px' }}>
-				<HeaderVideoDetail
-					dataVideo={dataVideo ?? dataVideo}
-					onClick={toggleClosePlayVideo}
-				/>
-			</Grid>
-			<Grid item container xs>
-				<Grid item xs className='player-wrapper' sx={{ position: 'relative' }}>
-					<ReactPlayer
-						controls
-						url={dataVideo?.streaming?.[480]}
-						autoplay={true}
-						style={{ position: 'absolute', top: 0, left: 0}}
+		<Grid container
+			sx={{
+				position: 'fixed',
+				top: 0,
+				left: 0,
+				zIndex: 2,
+				background: '#0f0f0f',
+				padding: '20px',
+				width: '100%',
+				height: '100%'
+			}}>
+			<Grid item container flexDirection="column">
+				<Grid item container alignItems="center" height="60px" sx={{ marginBottom: '10px' }}>
+					<HeaderVideoDetail
+						dataVideo={dataVideo ?? dataVideo}
+						onClick={toggleClosePlayVideo}
 					/>
 				</Grid>
-				<Grid item width="320px">
-					<ListVideoRecommend data={dataRecommend ? dataRecommend : []}/>
+				<Grid item container xs>
+					<Grid item container xs>
+						<ReactPlayer
+							controls
+							url={dataVideo?.streaming?.[480]}
+							autoplay={true}
+							light={dataVideo?.thumbnail}
+							height="78%"
+							width="96%"
+						/>
+					</Grid>
+					<Grid item container width="360px">
+						<ListVideoRecommend data={dataRecommend ? dataRecommend : []}/>
+					</Grid>
 				</Grid>
 			</Grid>
 		</Grid>

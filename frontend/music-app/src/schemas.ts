@@ -91,6 +91,10 @@ export interface DataVideo {
 		thumbnail?: string,
 		name?: string,
 	},
+	artists?: {
+		thumbnail?: string,
+		name?: string,
+	},
 	streaming?: {
 		480?: string,
 	}
