@@ -1,11 +1,11 @@
 from django.shortcuts import render
 from rest_framework.views import APIView
 from django.http import HttpResponse
-from .models import TopicVideo, Videos, VideoOfTopic
+from .models import TopicVideo, Videos, VideoOfTopic, VideoStreamingUrl, VideoRecommendList
 from .serializers import TopicVideoSerializers, VideoSerializers
 from artists.models import ArtistOfVideos
 from artists.serializers import ArtistSerializers
-from rest_framework.permissions import AllowAny
+from rest_framework.permissions import AllowAny, IsAuthenticated
 from rest_framework.response import Response
 
 
@@ -134,6 +134,69 @@ class GetCategoryVideoAPIView(APIView):
             "err": 0,
             "msg": "Success",
             "parent": TopicVideoSerializers(topic_video[0]).data,
+            "data": items
+        }
+
+        return Response(res)
+
+
+class GetVideoDetailAPIView(APIView):
+    permission_classes = [IsAuthenticated]
+
+    def get(self, request, id):
+        user = request.user
+        video = Videos.objects.filter(id=id).all()
+
+        # artist
+        artist_video = ArtistOfVideos.objects.filter(video_id=video[0])
+        artist_video_data = []
+        artist = artist_video[0].artist
+
+        artist_video_data.append(ArtistSerializers(artist).data)
+
+        res_video = VideoSerializers(video[0]).data
+
+        streaming_video = VideoStreamingUrl.objects.filter(video=video[0])
+
+        res_streaming = {
+            "480": streaming_video[0].quality_480,
+            "720": "VIP" if user.validate == False else streaming_video[0].quality_720,
+            "1080": "VIP" if user.validate == False else streaming_video[0].quality_1080,
+        }
+
+        res = dict(res_video, **{"artist": ArtistSerializers(artist).data}, **{"streaming": res_streaming})
+
+        return Response(res)
+
+
+class GetRecommendVideoAPIView(APIView):
+    permission_classes = [AllowAny]
+
+    def get(self, request, id):
+        video = Videos.objects.filter(id=id)
+        video_recommend = VideoRecommendList.objects.filter(video=video[0])
+
+        items = []
+        for v in video_recommend:
+            list_video_recommend = v.video_recommend
+
+            # artist
+            artist_video = ArtistOfVideos.objects.filter(video_id=list_video_recommend)
+            artist_video_data = []
+            artist_dict = {}
+
+            for artist_video in artist_video:
+                artist_video_data.append(ArtistSerializers(artist_video.artist).data)
+                artist_dict = ArtistSerializers(artist_video.artist).data
+
+            video_json = dict(VideoSerializers(list_video_recommend).data, **{"artist": artist_video_data},
+                              **{"artists": artist_dict})
+
+            items.append(video_json)
+
+        res = {
+            "err": 0,
+            "msg": "Success",
             "data": items
         }
 

@@ -39,3 +39,28 @@ class VideoOfTopic(BaseModel):
 
     def __str__(self):
         return f"{self.topic.title}_{self.video.title}"
+
+
+class VideoStreamingUrl(BaseModel):
+    class Meta:
+        ordering = ['created_at']
+
+    quality_480 = models.CharField(max_length=400, default=None, blank=True)
+    quality_720 = models.CharField(max_length=400, default=None, blank=True)
+    quality_1080 = models.CharField(max_length=400, default=None, blank=True)
+
+    video = models.ForeignKey(Videos, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return self.video.title
+
+
+class VideoRecommendList(BaseModel):
+    class Meta:
+        ordering = ['created_at']
+
+    video = models.ForeignKey(Videos, on_delete=models.CASCADE, related_name="video")
+    video_recommend = models.ForeignKey(Videos, on_delete=models.CASCADE, related_name="video_recommend")
+
+    def __str__(self):
+        return f"{self.video.title}_{self.video_recommend.title}"

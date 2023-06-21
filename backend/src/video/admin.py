@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import TopicVideo, Videos, VideoOfTopic
+from .models import TopicVideo, Videos, VideoOfTopic, VideoStreamingUrl, VideoRecommendList
 
 
 # Register your models here.
@@ -26,3 +26,18 @@ class VideoOfTopic(admin.ModelAdmin):
 
 admin.register(VideoOfTopic)
 
+
+@admin.register(VideoStreamingUrl)
+class VideoStreamingUrl(admin.ModelAdmin):
+    list_display = ["quality_480", "quality_720", "quality_1080", "video", "created_at"]
+
+
+admin.register(VideoStreamingUrl)
+
+
+@admin.register(VideoRecommendList)
+class VideoRecommendList(admin.ModelAdmin):
+    list_display = ["video", "video_recommend", "created_at"]
+
+
+admin.register(VideoRecommendList)
