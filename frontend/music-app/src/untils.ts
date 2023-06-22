@@ -19,3 +19,7 @@ export const getFullTimeFromDatetime = (dt: number) => {
 }
 
 export const urlStreamingSongDefault = "https://mp3-320s1-zmp3.zmdcdn.me/08ddfa665927b079e936/2658987883638204786?authen=exp=1686325005~acl=/08ddfa665927b079e936/*~hmac=7a3062f767d530b57594f94238c298be&fs=MTY4NjE1MjIwNTExM3x3ZWJWNnwxMDE0NzEzMjExfDEdUngNTMdUngMjIzLjgw"
+
+export const textNamePackage = "Âm nhạc không giới hạn"
+
+export const textIntroduce = "Dịch vụ nghe nhạc Online chất lượng cao, kết hợp cùng các tiện ích dành riêng cho thành viên Premium"

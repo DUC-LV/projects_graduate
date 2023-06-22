@@ -77,7 +77,7 @@ const PlayVideo = () => {
 						<ReactPlayer
 							controls
 							url={dataVideo?.streaming?.[480]}
-							autoplay={true}
+							autoPlay={true}
 							light={dataVideo?.thumbnail}
 							height="78%"
 							width="96%"
