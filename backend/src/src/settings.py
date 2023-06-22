@@ -50,6 +50,7 @@ INSTALLED_APPS = [
     'topic_category',
     'songs',
     'video',
+    'payments',
 ]
 
 MIDDLEWARE = [

@@ -88,6 +88,9 @@ const SearchBar = ({ currentUser } : { currentUser: CurrentUserData | null }) =>
 			</Grid>
 			<Grid item container sx={{ alignItems: 'center', justifyContent: 'flex-end'}} xs={6} md={5}>
 				<Button
+					onClick={() => {
+						router.push('/packages')
+					}}
 					variant="outlined"
 					sx={{
 						marginX: '20px',

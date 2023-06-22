@@ -115,3 +115,11 @@ export interface DataSong {
 	}
 }
 
+export interface DataPackages {
+	id?: number | string,
+	package_name?: string,
+	price?: string,
+	promotion?: string,
+	thumbnail?: string,
+}
+

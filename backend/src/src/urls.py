@@ -37,4 +37,5 @@ urlpatterns = [
     path('', include('follow.urls')),
     path('', include('songs.urls')),
     path('', include('video.urls')),
+    path('', include('payments.urls')),
 ]
