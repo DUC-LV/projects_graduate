@@ -20,7 +20,7 @@ class Playlists(BaseModel):
         ordering = ['created_at']
 
     title = models.CharField(max_length=200, default=None, blank=True)
-    thumbnail = models.CharField(max_length=400, default=None, blank=True)
+    thumbnail = models.CharField(max_length=400, default=None, blank=True, null=True)
     isoffical = models.BooleanField(default=True)
     is_indie = models.BooleanField(default=False)
     release_date = models.CharField(max_length=100, default=None, blank=True, null=True)
@@ -40,6 +40,7 @@ class Playlists(BaseModel):
     is_single = models.BooleanField(default=False)
     type = models.CharField(max_length=100, default='playlist', blank=True)
     follow = models.ManyToManyField(settings.AUTH_USER_MODEL, related_name='follow_playlist')
+    create_by_user = models.ManyToManyField(settings.AUTH_USER_MODEL, related_name='create_by_user')
 
     def __str__(self):
         return self.title

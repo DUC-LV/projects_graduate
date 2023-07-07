@@ -9,7 +9,7 @@ from artists.serializers import ArtistSerializers
 from songs.models import SongOfPlaylist, SongOfAlbum
 from songs.serializers import SongSerializers
 from albums.serializers import AlbumSerializers
-from rest_framework.permissions import AllowAny
+from rest_framework.permissions import AllowAny, IsAuthenticated
 
 
 # Create your views here.
@@ -156,3 +156,31 @@ class GetPlaylistDetailAPIView(APIView):
         }
 
         return Response(res)
+
+
+class PostCreatePlaylistByUser(APIView):
+    permission_classes = [IsAuthenticated]
+
+    def post(self, request):
+
+        data = request.data
+        user = request.user
+
+        playlist = Playlists.objects.create(
+            thumbnail_m=data["thumbnailM"],
+            title=data["title"],
+            sort_description=data["sortDescription"],
+            artist_names=data["artistsNames"],
+        )
+
+        playlist.save()
+        user.create_by_user.add(playlist)
+
+        if playlist:
+            return Response({
+                "err": 0,
+                "msg": "Success",
+                "data": None
+            })
+        else:
+            return HttpResponse(status=404)
