@@ -81,6 +81,20 @@ class GetFavouriteAPIView(APIView):
         if not user:
             return JsonResponse({'code': 200, "msg": "Success", "data": {}})
 
+        # create-playlist
+        create_playlist = user.create_by_user.all()
+        data_create_playlist = []
+
+        for playlist in create_playlist:
+            data_create_playlist.append(PlaylistSerializers(playlist).data)
+
+        res_create_playlist = {
+            "sectionType": "createPlaylist",
+            "viewType": "slider",
+            "title": "PLAYLIST Của Bạn",
+            "items": data_create_playlist
+        }
+
         # playlist
         playlist_list = user.follow_playlist.all()
         data_playlist = []
@@ -156,7 +170,7 @@ class GetFavouriteAPIView(APIView):
             "err": 0,
             "msg": "Success",
             "data": {
-                "items": [res_playlist, res_song, res_podcast_episode]
+                "items": [res_create_playlist, res_playlist, res_song, res_podcast_episode]
             }
         }
         return Response(res)
