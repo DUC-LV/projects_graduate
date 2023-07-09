@@ -43,9 +43,10 @@ export async function getServerSideProps(context: GetServerSidePropsContext) {
 const MyMusicPage = ({ data }: Props) => {
 
 	const SectionType = {
+		createPlaylist: "createPlaylist",
 		playlist: "playlist",
 		song: "song",
-		PodcastEpisode: "PodcastEpisode"
+		PodcastEpisode: "PodcastEpisode",
 	};
 
 	const generateContent = useCallback(() => {
@@ -56,6 +57,11 @@ const MyMusicPage = ({ data }: Props) => {
 			}
 
 			switch(section?.sectionType){
+				case SectionType?.createPlaylist:
+					return(
+						<ListPlaylist key={index} data={section?.items} title={section.title}/>
+					);
+
 				case SectionType?.playlist:
 					return(
 						<ListPlaylist key={index} data={section?.items} title={section.title}/>
@@ -80,7 +86,7 @@ const MyMusicPage = ({ data }: Props) => {
 					return null;
 			}
 		})
-	}, [SectionType?.PodcastEpisode, SectionType?.playlist, SectionType?.song, data]);
+	}, [SectionType?.PodcastEpisode, SectionType?.createPlaylist, SectionType?.playlist, SectionType?.song, data]);
 
 	return(
 		<Box>

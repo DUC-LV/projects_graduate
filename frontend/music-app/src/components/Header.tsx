@@ -1,5 +1,5 @@
 import {Box, Grid } from "@mui/material";
-import React, {PropsWithChildren} from "react";
+import React, {PropsWithChildren, useCallback, useEffect, useState} from "react";
 import {useRouter} from "next/router";
 import LibraryMusicIcon from '@mui/icons-material/LibraryMusic';
 import RadioButtonCheckedIcon from '@mui/icons-material/RadioButtonChecked';
@@ -7,6 +7,9 @@ import HomeSharpIcon from '@mui/icons-material/HomeSharp';
 import TopicIcon from '@mui/icons-material/Topic';
 import StarIcon from '@mui/icons-material/Star';
 import MusicVideoIcon from '@mui/icons-material/MusicVideo';
+import AddCircleOutlinedIcon from '@mui/icons-material/AddCircleOutlined';
+import Popup from "./Popup";
+import PopupCreatePlaylist from "./PopupCreatePlaylist";
 
 interface ItemProps {
 	link?: string,
@@ -98,6 +101,20 @@ const Header = () => {
 			icon: <MusicVideoIcon />
 		},
 	];
+
+	const [showCreatePlaylist, setShowCreatePlaylist] = useState(false);
+	const [showLogin, setShowLogin] = useState(false);
+	const checkout = typeof window !== 'undefined' ? localStorage.getItem('access_token') : undefined;
+
+	const showPopup = useCallback(() => {
+		if(checkout === null){
+			setShowLogin(true);
+		}else {
+			setShowCreatePlaylist(true);
+		}
+	}, [checkout])
+
+
 	return(
 		<Box
 			sx={{
@@ -171,7 +188,56 @@ const Header = () => {
 						)
 					})}
 				</Grid>
+				<Grid container
+					onClick={showPopup}
+					sx={{
+						padding: '8px 25px',
+						alignItems: 'center',
+					}}
+				>
+					<Grid item>
+						<AddCircleOutlinedIcon sx={{ color: 'white' }}/>
+					</Grid>
+					<Grid item sx={{ marginLeft: '5px' }}>
+						<Box
+							sx={{
+								fontSize: '16.5px',
+								fontWeight: '700',
+								margin: '1px 10px',
+								cursor: 'pointer',
+								"@media screen and (max-width: 1133px)": {
+									display: 'none'
+								},
+								color: 'white'
+							}}
+						>Tạo playlist</Box>
+					</Grid>
+				</Grid>
 			</Grid>
+			<Popup
+				isShow={showLogin}
+				onClose={() => setShowLogin(false)}
+				title="Thông Báo"
+				message="Vui lòng đăng nhập lại để tiếp tục sử dụng dịch vụ."
+				actions={[
+					{ key: 'cancel', title: 'Đóng' },
+					{ key: 'ok', title: 'Đăng nhập' },
+				]}
+				onAction={ key => {
+					if(key === 'ok'){
+						router.push('/login');
+						setShowLogin(false);
+					} else if (key === 'cancel'){
+						setShowLogin(false);
+					}
+				}}
+			/>
+			{ showCreatePlaylist && <PopupCreatePlaylist
+				isShow={showCreatePlaylist}
+				onClose={() => {
+					setShowCreatePlaylist(false);
+				}}
+			/>}
 		</Box>
 	);
 }

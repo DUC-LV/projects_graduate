@@ -168,6 +168,7 @@ class PostCreatePlaylistByUser(APIView):
 
         playlist = Playlists.objects.create(
             thumbnail_m=data["thumbnailM"],
+            thumbnail=data["thumbnail"],
             title=data["title"],
             sort_description=data["sortDescription"],
             artist_names=data["artistsNames"],
