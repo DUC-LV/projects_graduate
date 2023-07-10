@@ -6,7 +6,7 @@ from .models import TopicPlaylist, Playlists, PlaylistOfTopic
 from .serializers import TopicPlaylistSerializers, PlaylistSerializers, PlaylistSortDataSerializers
 from artists.models import ArtistOfPlaylist, ArtistOfAlbum, ArtistOfSong
 from artists.serializers import ArtistSerializers
-from songs.models import SongOfPlaylist, SongOfAlbum
+from songs.models import SongOfPlaylist, SongOfAlbum, Songs
 from songs.serializers import SongSerializers
 from albums.serializers import AlbumSerializers
 from rest_framework.permissions import AllowAny, IsAuthenticated
@@ -185,3 +185,24 @@ class PostCreatePlaylistByUser(APIView):
             })
         else:
             return HttpResponse(status=404)
+
+
+class AddSongInPlaylistCreateByUser(APIView):
+    permission_classes = [IsAuthenticated]
+
+    def post(self, request, id):
+        song_id = request.data.get('song_id')
+
+        playlist = Playlists.objects.filter(id=id)
+        song_new = Songs.objects.filter(id=song_id)
+
+        song_playlist = SongOfPlaylist(playlist=playlist[0], song=song_new[0])
+        song_playlist.save()
+
+        return Response({
+            "err": 0,
+            "msg": "Success",
+            "data": None
+        })
+
+
