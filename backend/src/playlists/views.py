@@ -206,3 +206,46 @@ class AddSongInPlaylistCreateByUser(APIView):
         })
 
 
+class GetSongWhenAddByUser(APIView):
+    permission_classes = [IsAuthenticated]
+
+    def get(self, request, id):
+
+        playlist = Playlists.objects.filter(id=id)
+        song_data = []
+        song_playlist = SongOfPlaylist.objects.filter(playlist_id=playlist[0])
+
+        for song in song_playlist:
+
+            # artist
+            artist_song = ArtistOfSong.objects.filter(song_id=song.song)
+            artist_song_data = []
+
+            for artist_song in artist_song:
+                artist_song_data.append(ArtistSerializers(artist_song.artist).data)
+
+            # album
+            album_song = SongOfAlbum.objects.filter(song_id=song.song)
+            album_song_data = {}
+
+            for album_song in album_song:
+
+                artist_album = ArtistOfAlbum.objects.filter(album_id=album_song.album)
+                artist_album_data = []
+
+                # artist_album
+                for artist_album in artist_album:
+                    artist_album_data.append(ArtistSerializers(artist_album.artist).data)
+                album_song_data = dict(AlbumSerializers(album_song.album).data, **{"artist": artist_album_data})
+
+            # data_song
+            song_json = dict(SongSerializers(song.song).data, **{"artists": artist_song_data},
+                             **{"album": album_song_data})
+            song_data.append(song_json)
+
+        return Response({
+            "err": 0,
+            "msg": "Success",
+            "data": song_data
+        })
+

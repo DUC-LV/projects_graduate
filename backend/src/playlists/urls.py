@@ -8,4 +8,5 @@ urlpatterns = [
     path('playlist/<str:id>', views.GetPlaylistDetailAPIView.as_view()),
     path('create-playlist', views.PostCreatePlaylistByUser.as_view()),
     path('add-to-playlist/<str:id>', views.AddSongInPlaylistCreateByUser.as_view()),
+    path('update-song/<str:id>', views.GetSongWhenAddByUser.as_view()),
 ]
