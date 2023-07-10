@@ -82,6 +82,7 @@ export const PlaylistSlider = (props: { data: Array<DataPlaylists>, title: strin
 				onAction={ key => {
 					if(key === 'ok'){
 						router.push('/login');
+						setIsShow(false);
 					} else if (key === 'cancel'){
 						setIsShow(false);
 					}

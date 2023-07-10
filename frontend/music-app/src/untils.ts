@@ -23,3 +23,9 @@ export const urlStreamingSongDefault = "https://mp3-320s1-zmp3.zmdcdn.me/08ddfa6
 export const textNamePackage = "Âm nhạc không giới hạn"
 
 export const textIntroduce = "Dịch vụ nghe nhạc Online chất lượng cao, kết hợp cùng các tiện ích dành riêng cho thành viên Premium"
+
+export const imagePlaylistCreateByUser = "https://t.ctcdn.com.br/EE2NIW-3mH9dpX755eEo64cbmds=/512x288/smart/filters:format(webp)/i436354.jpeg";
+
+export const artistNameCreateByUser = "Nhiều nghệ sĩ";
+
+export const descriptionPlaylistCreateByUser = "Nghe nhạc giúp chúng ta giải tỏa mọi căng thẳng trong cuộc sống, giảm bớt những áp lực. Giúp chúng ta cảm thấy thoải mái hơn."

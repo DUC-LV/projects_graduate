@@ -19,7 +19,11 @@ class SongAPIView(APIView):
         if not song.exists():
             return HttpResponse(status=400)
         serializer = SongSerializers(song, many=True)
-        return Response(serializer.data)
+        return Response({
+            "err": 0,
+            "msg": "Success",
+            "data": serializer.data
+        })
 
     def post(self, request):
         data = request.data
