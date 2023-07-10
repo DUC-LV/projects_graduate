@@ -5,6 +5,7 @@ import { GetServerSidePropsContext } from "next";
 import ListPlaylist from "@/components/playlist/ListPlaylist";
 import ListSong from "@/components/ListSong";
 import ListEpisodePodcast from "@/components/podcast/ListEpisodePodcast";
+import PlaylistCreateByUser from "@/components/PlaylistCreateByUser";
 
 type Props = {
 	data: Array<object>
@@ -59,7 +60,7 @@ const MyMusicPage = ({ data }: Props) => {
 			switch(section?.sectionType){
 				case SectionType?.createPlaylist:
 					return(
-						<ListPlaylist key={index} data={section?.items} title={section.title}/>
+						<PlaylistCreateByUser key={index} data={section?.items} title={section.title}/>
 					);
 
 				case SectionType?.playlist:
