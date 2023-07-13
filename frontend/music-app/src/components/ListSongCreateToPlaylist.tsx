@@ -50,6 +50,14 @@ export const SongItem = ({ item }: props) => {
 		}
 	}, [item?.id, item?.streaming_status, setId, setShowPlayMusic])
 
+	const removeSong = useCallback(() => {
+		if(router?.query?.id){
+			axiosInstances.post(`remove-to-playlist/${router?.query?.id}`, { song_id: item.id ?? '' }).then(res => {
+				toast.success(res?.data?.msg);
+			})
+		}
+	}, [item.id, router?.query?.id]);
+
 	return(
 		<Grid item container alignItems={'center'}
 			sx={{
@@ -63,7 +71,7 @@ export const SongItem = ({ item }: props) => {
 			}}>
 			<Grid xs={6} item container alignItems={'center'}>
 				<Grid item>
-					<RemoveOutlinedIcon style={{ marginBottom: '8px', color: 'grey', cursor: 'pointer' }}/>
+					<RemoveOutlinedIcon style={{ marginBottom: '8px', color: 'grey', cursor: 'pointer' }} onClick={removeSong}/>
 					<img alt="" src={item?.thumbnail}
 						style={{ height: '40px', width: '40px', borderRadius: '6px', cursor: 'pointer', marginLeft: '15px' }}
 						onClick={handleShowPopup}
