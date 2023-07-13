@@ -1,5 +1,5 @@
-import ListSong from "@/components/ListSong";
 import ListSongAll from "@/components/ListSongAll";
+import ListSongCreateToPlaylist from "@/components/ListSongCreateToPlaylist";
 import HeaderPlaylist from "@/components/playlist/HeaderPlaylist";
 import getListSongAll from "@/services/getListSongAll";
 import getPlaylistDetail from "@/services/getPlaylistDetail";
@@ -55,7 +55,7 @@ const MyPlaylistDetail = ({ data, dataSong }: Props) => {
 				/>
 			</Grid>
 			<Grid item xs sx={{ overflow: 'hidden' }}>
-				<ListSong data={data?.song?.items} description={data?.sort_description}/>
+				<ListSongCreateToPlaylist data={data?.song?.items} description={data?.sort_description}/>
 			</Grid>
 		</Grid>
 		<Grid container sx={{ marginTop: '40px' }}>

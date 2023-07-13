@@ -249,3 +249,26 @@ class GetSongWhenAddByUser(APIView):
             "data": song_data
         })
 
+
+class RemoveSongToPlaylist(APIView):
+    permission_classes = [IsAuthenticated]
+
+    def post(self, request, id):
+        song_id = request.data.get('song_id')
+        songs = Songs.objects.filter(id=song_id)
+
+        playlist = Playlists.objects.filter(id=id)
+        song_of_playlist = SongOfPlaylist.objects.filter(playlist__in=playlist, song__in=songs)
+        playlist_song = SongOfPlaylist.objects.filter(playlist=playlist[0])
+
+        id = song_of_playlist.values_list('id', flat=True)
+
+        for item in playlist_song:
+            if item.id in id:
+                SongOfPlaylist.objects.filter(id=item.id).delete()
+
+        return Response({
+            "err": 0,
+            "msg": "Success",
+            "data": None
+        })
