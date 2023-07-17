@@ -38,4 +38,5 @@ urlpatterns = [
     path('', include('songs.urls')),
     path('', include('video.urls')),
     path('', include('payments.urls')),
+    path('', include('search.urls')),
 ]

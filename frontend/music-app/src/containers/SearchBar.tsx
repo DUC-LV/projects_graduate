@@ -1,5 +1,5 @@
 import { Box, Button, Grid, Input, Typography } from "@mui/material";
-import React, { useContext, useRef, useState } from "react";
+import React, { useCallback, useContext, useRef, useState } from "react";
 import SearchIcon from '@mui/icons-material/Search';
 import { useRouter } from "next/router";
 import AccountCircleIcon from '@mui/icons-material/AccountCircle';
@@ -11,6 +11,20 @@ import { WrapperContext } from "./Layout";
 const InputSearch = () => {
 	const router = useRouter();
 	const [searchTxt, setSearchTxt] = useState('');
+
+	const hanldeSearch = useCallback(() => {
+		if(!searchTxt) return;
+		else {
+			router.push({
+				pathname: '/search',
+				query: {
+					q: searchTxt
+				}
+			});
+			setSearchTxt('');
+		}
+	}, [router, searchTxt]);
+
 	return(
 		<Grid container
 			sx={{
@@ -26,6 +40,7 @@ const InputSearch = () => {
 			<Grid item xs={10.5}>
 				<Input
 					placeholder="Tìm kiếm bài hát, nghệ sĩ, lời bài hát ..."
+					value={searchTxt}
 					sx={{
 						position: 'absolute',
 						left: '20px',
@@ -41,6 +56,14 @@ const InputSearch = () => {
 							textOverflow: 'ellipsis',
 						}
 					}}
+					onChange={(e: any) => {
+						setSearchTxt(e.target.value);
+					}}
+					onKeyDown={(event) => {
+						if (event.key === 'Enter') {
+							hanldeSearch();
+						}
+					}}
 				/>
 			</Grid>
 			<Grid
@@ -52,10 +75,9 @@ const InputSearch = () => {
 					position: 'relative',
 					cursor: 'pointer',
 				}}
-				onClick={() => {
-				}}
 			>
 				<SearchIcon
+					onClick={hanldeSearch}
 					sx={{
 						height: '30px',
 						width: '30px',

@@ -40,7 +40,7 @@ class Playlists(BaseModel):
     is_single = models.BooleanField(default=False)
     type = models.CharField(max_length=100, default='playlist', blank=True)
     follow = models.ManyToManyField(settings.AUTH_USER_MODEL, related_name='follow_playlist')
-    create_by_user = models.ManyToManyField(settings.AUTH_USER_MODEL, related_name='create_by_user')
+    create_by_user = models.ManyToManyField(settings.AUTH_USER_MODEL, related_name='create_by_user', null=True)
 
     def __str__(self):
         return self.title
