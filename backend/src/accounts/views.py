@@ -43,3 +43,36 @@ class UserInfoAPIView(APIView):
         }
 
         return Response(res)
+
+
+class ChangePasswordAPIView(APIView):
+    permission_classes = [IsAuthenticated]
+
+    def post(self, request):
+        user = request.user
+
+        old_password = request.data.get('old_password')
+        new_password = request.data.get('new_password')
+        confirm_new_password = request.data.get('confirm_new_password')
+
+        if not user.check_password(old_password):
+            return Response({
+                "err": 201,
+                "msg": "Mật khẩu hiện tại không đúng!",
+                "data": None
+            })
+
+        if new_password != confirm_new_password:
+            return Response({
+                "err": 202,
+                "msg": "Xác nhận mật khẩu không khớp",
+                "data": None
+            })
+        user.set_password(new_password)
+        user.save()
+
+        return Response({
+            "err": 200,
+            "msg": "Thay đổi mật khẩu thành công!",
+            "data": None
+        })
