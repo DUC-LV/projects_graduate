@@ -143,7 +143,7 @@ const SearchBar = ({ currentUser } : { currentUser: CurrentUserData | null }) =>
 							sx={{
 								top: '70px',
 								position: 'absolute',
-								height: '110px',
+								height: '165px',
 								width: '200px',
 								backgroundColor: '#2F4F4F',
 								transition: 'opacity 2000ms ease-in-out',
@@ -159,6 +159,25 @@ const SearchBar = ({ currentUser } : { currentUser: CurrentUserData | null }) =>
 									padding: '15px',
 								}}
 							>Xin chào: {currentUser?.userName}</Typography>
+							<Box sx={{ height: '1px', width: '100%', background: 'grey' }}></Box>
+							<Grid container item
+								onClick={() => {
+									router.push('change-password');
+									setIsShow(false);
+								}}
+								sx={{
+									padding: '15px',
+									":hover": {
+										background: 'hsla(0,0%,100%,0.1)',
+									},
+									cursor: 'pointer',
+								}}>
+								<Typography
+									component={'div'}
+									textTransform="initial"
+									sx={{ color: 'white', fontWeight: '600', fontSize: '16px'}}
+								>Thay đổi mật khẩu</Typography>
+							</Grid>
 							<Box sx={{ height: '1px', width: '100%', background: 'grey' }}></Box>
 							<Grid container item
 								onClick={() => {

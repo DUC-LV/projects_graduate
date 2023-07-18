@@ -34,7 +34,12 @@ const Layout = ({ children, currentUser }: React.PropsWithChildren<{ currentUser
 	}, [dataSong])
 
 	useEffect(() => {
-		if(router.pathname === '/login' || router.pathname === '/register' || router.pathname === '/packages'){
+		if(
+			router.pathname === '/login' ||
+			router.pathname === '/register' ||
+			router.pathname === '/packages' ||
+			router.pathname === '/change-password'
+		){
 			setOverflow('hidden');
 		} else {
 			setOverflow('auto');

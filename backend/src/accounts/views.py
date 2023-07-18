@@ -62,17 +62,19 @@ class ChangePasswordAPIView(APIView):
                 "data": None
             })
 
-        if new_password != confirm_new_password:
+        elif new_password != confirm_new_password:
             return Response({
                 "err": 202,
                 "msg": "Xác nhận mật khẩu không khớp",
                 "data": None
             })
-        user.set_password(new_password)
-        user.save()
 
-        return Response({
-            "err": 200,
-            "msg": "Thay đổi mật khẩu thành công!",
-            "data": None
-        })
+        else:
+            user.set_password(new_password)
+            user.save()
+
+            return Response({
+                "err": 200,
+                "msg": "Thay đổi mật khẩu thành công!",
+                "data": None
+            })
