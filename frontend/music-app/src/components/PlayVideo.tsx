@@ -7,7 +7,7 @@ import getRecommendVideo from "@/services/getRecommendVideo";
 import { DataVideo } from "@/schemas";
 import { TextLineClamp, TextOnline } from "./Text";
 import HighlightOffOutlinedIcon from '@mui/icons-material/HighlightOffOutlined';
-import ReactPlayer from "react-player";
+import ReactPlayer from "react-player/youtube";
 import ListVideoRecommend from "./ListVideoRecommend";
 
 const HeaderVideoDetail = ({ dataVideo, onClick } : { dataVideo?: DataVideo, onClick: () => void }) => {
